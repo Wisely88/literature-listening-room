@@ -1,4 +1,3 @@
-import Link from "next/link";
 
 type LibraryEmptyStateProps = {
   kind: "category" | "filters";
@@ -23,12 +22,12 @@ export function LibraryEmptyState({ kind }: LibraryEmptyStateProps) {
           ? "V1 先把《记承天寺夜游》做成完整样本，不用未完成的内容填满页面。"
           : "试试减少一项筛选，或清除关键词后再看看。"}
       </p>
-      <Link
+      <a
         className="mt-6 inline-flex min-h-11 items-center justify-center rounded-full border border-current/25 px-5 py-2.5 text-sm font-medium"
         href="/library"
       >
         回到全部书架
-      </Link>
+      </a>
     </section>
   );
 }
