@@ -78,8 +78,8 @@ describe("ReaderTabs", () => {
     await user.click(screen.getByRole("tab", { name: "注释" }));
     expect(screen.getByRole("tabpanel", { name: "注释" })).toHaveTextContent("欣然");
 
-    await user.click(screen.getByRole("tab", { name: "白话" }));
-    expect(screen.getByRole("tabpanel", { name: "白话" })).toHaveTextContent("我欣喜地起身");
+    await user.click(screen.getByRole("tab", { name: "现代译文" }));
+    expect(screen.getByRole("tabpanel", { name: "现代译文" })).toHaveTextContent("我欣喜地起身");
 
     await user.click(screen.getByRole("tab", { name: "创作背景" }));
     expect(screen.getByRole("tabpanel", { name: "创作背景" })).toHaveTextContent("元丰二年");
@@ -139,7 +139,7 @@ describe("ReaderTabs", () => {
     await user.click(screen.getByRole("tab", { name: "注释" }));
     expect(screen.getByRole("tabpanel", { name: "注释" })).toHaveTextContent("暂未整理");
 
-    await user.click(screen.getByRole("tab", { name: "白话" }));
-    expect(screen.getByRole("tabpanel", { name: "白话" })).toHaveTextContent("暂未整理");
+    await user.click(screen.getByRole("tab", { name: "现代译文" }));
+    expect(screen.getByRole("tabpanel", { name: "现代译文" })).toHaveTextContent("暂未整理");
   });
 });

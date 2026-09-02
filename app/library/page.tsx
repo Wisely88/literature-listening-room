@@ -73,6 +73,14 @@ export default async function LibraryPage({ searchParams }: LibraryPageProps) {
             ← 回到听读馆
           </Link>
         </nav>
+        {current.category || current.genre ? (
+          <Link
+            className="ml-4 inline-flex min-h-11 items-center text-sm text-[var(--muted)] underline-offset-4 hover:underline"
+            href="/library"
+          >
+            ← 返回全部分类
+          </Link>
+        ) : null}
         <p className="mt-5 text-xs tracking-[0.22em] text-[var(--muted)]">私人文学听读馆</p>
         <h1 className="font-serif mt-3 text-4xl leading-tight sm:text-5xl">分类书架</h1>
         <p className="mt-4 max-w-2xl text-sm leading-7 text-[var(--muted)] sm:text-base">

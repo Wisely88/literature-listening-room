@@ -111,10 +111,12 @@ export function parseWorkMarkdown(
     throw new ContentValidationError("作品缺少“原文”内容。", ["sections.原文: required"]);
   }
 
-  const translations = normalizeParagraphs(sections.get("白话") ?? "");
+  const translations = normalizeParagraphs(
+    sections.get("白话译文") ?? sections.get("白话") ?? sections.get("现代译文") ?? sections.get("中文译文") ?? "",
+  );
   if (translations.length > 0 && translations.length !== original.length) {
-    throw new ContentValidationError("“白话”段落数必须与“原文”一致。", [
-      `sections.白话: expected ${original.length}, received ${translations.length}`,
+    throw new ContentValidationError("“现代译文”段落数必须与“原文”一致。", [
+      `sections.现代译文: expected ${original.length}, received ${translations.length}`,
     ]);
   }
 
@@ -138,7 +140,12 @@ export function parseWorkMarkdown(
     work: {
       ...metadata,
       background: sections.get("创作背景")?.trim() ?? "",
-      translation: sections.get("白话")?.trim() ?? "",
+      translation:
+        sections.get("白话译文")?.trim() ??
+        sections.get("白话")?.trim() ??
+        sections.get("现代译文")?.trim() ??
+        sections.get("中文译文")?.trim() ??
+        "",
       appreciation: sections.get("赏析")?.trim() ?? "",
       annotations,
       segments: original.map((displayText, index) => ({

@@ -9,7 +9,7 @@ import styles from "./reader-tabs.module.css";
 const tabs = [
   { id: "original", label: "原文" },
   { id: "annotations", label: "注释" },
-  { id: "translation", label: "白话" },
+  { id: "translation", label: "现代译文" },
   { id: "background", label: "创作背景" },
   { id: "author", label: "作者" },
   { id: "appreciation", label: "赏析" },
@@ -26,8 +26,8 @@ const annotationLabels: Record<Annotation["type"], string> = {
   grammar: "语法",
 };
 
-function EmptyPanel() {
-  return <p className={styles.empty}>暂未整理</p>;
+function EmptyPanel({ message = "暂未整理" }: { message?: string }) {
+  return <p className={styles.empty}>{message}</p>;
 }
 
 function OriginalPanel({ segments }: { segments: Segment[] }) {
@@ -56,7 +56,7 @@ function OriginalPanel({ segments }: { segments: Segment[] }) {
 }
 
 function AnnotationsPanel({ annotations }: { annotations: Annotation[] }) {
-  if (annotations.length === 0) return <EmptyPanel />;
+  if (annotations.length === 0) return <EmptyPanel message="暂未整理逐条注释" />;
 
   return (
     <ol className={styles.annotationList}>
@@ -81,7 +81,7 @@ function TranslationPanel({ segments }: { segments: Segment[] }) {
     segment.translation ? [{ id: segment.id, text: segment.translation }] : [],
   );
 
-  if (translations.length === 0) return <EmptyPanel />;
+  if (translations.length === 0) return <EmptyPanel message="暂未整理逐段现代译文" />;
 
   return (
     <div className={styles.supportingText}>
