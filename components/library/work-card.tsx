@@ -1,4 +1,3 @@
-import Link from "next/link";
 import type { Work } from "@/lib/content/types";
 
 export function WorkCard({ work }: { work: Work }) {
@@ -15,18 +14,17 @@ export function WorkCard({ work }: { work: Work }) {
       </div>
 
       <h2 className="font-serif mt-4 break-words text-2xl leading-snug">
-        <Link className="underline-offset-4 hover:underline" href={`/work/${work.slug}`}>
+        <a className="underline-offset-4 hover:underline" href={`/work/${work.slug}`}>
           {work.title}
-        </Link>
+        </a>
       </h2>
       <p className="mt-2 text-sm text-[var(--muted)]">{authorName}</p>
       <p className="mt-4 line-clamp-3 text-sm leading-7 text-[var(--muted)]">{work.summary}</p>
 
       <div aria-label="适合心情" className="mt-5 flex flex-wrap gap-2">
         {work.moods.slice(0, 4).map((mood) => (
-          <span
+          <span key={mood}
             className="rounded-full bg-current/5 px-3 py-1.5 text-xs text-[var(--muted)]"
-            key={mood}
           >
             {mood}
           </span>
@@ -34,13 +32,13 @@ export function WorkCard({ work }: { work: Work }) {
       </div>
 
       <div className="mt-auto pt-6">
-        <Link
+        <a
           className="inline-flex min-h-11 items-center justify-center rounded-full border border-current/25 px-5 py-2.5 text-sm font-medium transition-colors hover:bg-[var(--ink)] hover:text-[var(--paper)]"
           href={`/work/${work.slug}`}
         >
           开始听读
           <span aria-hidden="true" className="ml-2">→</span>
-        </Link>
+        </a>
       </div>
     </article>
   );

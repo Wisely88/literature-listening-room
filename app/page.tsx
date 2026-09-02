@@ -33,7 +33,7 @@ export default function Home() {
             />
             <button type="submit">搜索书架</button>
           </form>
-          <Link className="import-entry" href="/import">导入我的电子书 <span aria-hidden="true">→</span></Link>
+          <a className="import-entry" href="/import">导入我的电子书 <span aria-hidden="true">→</span></a>
         </div>
 
         <article className="tonight-pick" aria-labelledby="tonight-title">
@@ -54,7 +54,7 @@ export default function Home() {
               <p className="eyebrow">最近收听</p>
               <h2 id="continue-title">从上次停下的地方继续</h2>
             </div>
-            <Link href="/history">查看播放记录</Link>
+            <a href="/history">查看播放记录</a>
           </div>
           <div className="quiet-empty">
             <p>还没有播放记录。</p>
@@ -72,9 +72,9 @@ export default function Home() {
             </div>
             <div className="filter-links">
               {moods.map((mood) => (
-                <Link href={`/library?mood=${encodeURIComponent(mood)}`} key={mood}>
+                <a key={mood} href={`/library?mood=${encodeURIComponent(mood)}`}>
                   {mood}
-                </Link>
+                </a>
               ))}
             </div>
           </div>
@@ -87,9 +87,9 @@ export default function Home() {
             </div>
             <div className="filter-links">
               {durations.map((duration) => (
-                <Link href={`/library?duration=${duration.value}`} key={duration.value}>
+                <a key={duration.value} href={`/library?duration=${duration.value}`}>
                   {duration.label}
-                </Link>
+                </a>
               ))}
             </div>
           </div>
@@ -101,14 +101,14 @@ export default function Home() {
               <p className="eyebrow">分类书架</p>
               <h2 id="categories-title">从熟悉的文字开始</h2>
             </div>
-            <Link href="/library">查看全部</Link>
+            <a href="/library">查看全部</a>
           </div>
           <nav aria-label="作品分类" className="category-list">
             {LIBRARY_CATEGORIES.map((category) => (
-              <Link href={`/library?category=${encodeURIComponent(category)}`} key={category}>
+              <a key={category} href={`/library?category=${encodeURIComponent(category)}`}>
                 <span className="font-serif">{category}</span>
                 <small>{categoryCounts[category] ?? 0} 篇已整理</small>
-              </Link>
+              </a>
             ))}
           </nav>
         </section>

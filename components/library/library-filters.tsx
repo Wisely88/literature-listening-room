@@ -1,4 +1,3 @@
-import Link from "next/link";
 import {
   FOREIGN_LITERATURE_CATEGORY,
   FOREIGN_LITERATURE_GENRES,
@@ -171,19 +170,19 @@ export function LibraryFilters({
           >
             筛选书架
           </button>
-          <Link
+          <a
             className="inline-flex min-h-11 items-center justify-center rounded-full border border-current/20 px-5 py-2.5 text-sm text-[var(--muted)] hover:text-[var(--ink)]"
             href="/library"
           >
             清除条件
-          </Link>
+          </a>
         </div>
       </form>
 
       <nav aria-label="作品分类" className="mt-7">
         <p className="mb-3 text-sm font-medium">按分类浏览</p>
         <div className="flex flex-wrap gap-2">
-          <Link
+          <a
             aria-current={!current.category ? "page" : undefined}
             className={`library-category-pill inline-flex min-h-11 items-center rounded-full border px-4 py-2 text-sm ${
               !current.category
@@ -193,11 +192,11 @@ export function LibraryFilters({
             href={buildLibraryHref(current, { category: undefined, genre: undefined })}
           >
             全部 <span className="ml-1.5 opacity-70">{totalCount}</span>
-          </Link>
+          </a>
           {LIBRARY_CATEGORIES.map((category) => {
             const active = current.category === category;
             return (
-              <Link
+              <a key={category}
                 aria-current={active ? "page" : undefined}
                 className={`library-category-pill inline-flex min-h-11 items-center rounded-full border px-4 py-2 text-sm ${
                   active
@@ -208,10 +207,9 @@ export function LibraryFilters({
                   category,
                   genre: category === FOREIGN_LITERATURE_CATEGORY ? current.genre : undefined,
                 })}
-                key={category}
               >
                 {category} <span className="ml-1.5 opacity-70">{categoryCounts[category] ?? 0}</span>
-              </Link>
+              </a>
             );
           })}
         </div>
@@ -221,7 +219,7 @@ export function LibraryFilters({
         <nav aria-label="外国文学题材分类" className="mt-5 border-l-2 border-[var(--accent)] pl-4">
           <p className="mb-3 text-sm font-medium">按题材浏览外国文学</p>
           <div className="flex flex-wrap gap-2">
-            <Link
+            <a
               aria-current={!current.genre ? "page" : undefined}
               className={`library-category-pill inline-flex min-h-11 items-center rounded-full border px-4 py-2 text-sm ${
                 !current.genre
@@ -234,11 +232,11 @@ export function LibraryFilters({
               <span className="ml-1.5 opacity-70">
                 {categoryCounts[FOREIGN_LITERATURE_CATEGORY] ?? 0}
               </span>
-            </Link>
+            </a>
             {FOREIGN_LITERATURE_GENRES.map((genre) => {
               const active = current.genre === genre;
               return (
-                <Link
+                <a key={genre}
                   aria-current={active ? "page" : undefined}
                   className={`library-category-pill inline-flex min-h-11 items-center rounded-full border px-4 py-2 text-sm ${
                     active
@@ -246,11 +244,10 @@ export function LibraryFilters({
                       : "border-current/20 text-[var(--muted)] hover:text-[var(--ink)]"
                   }`}
                   href={buildLibraryHref(current, { genre })}
-                  key={genre}
                 >
                   {genre}
                   <span className="ml-1.5 opacity-70">{foreignGenreCounts[genre] ?? 0}</span>
-                </Link>
+                </a>
               );
             })}
           </div>
