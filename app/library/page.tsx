@@ -20,12 +20,8 @@ export const metadata: Metadata = {
   description: "按作者、分类、心情与朗读时长，找一篇适合今晚的文章。",
 };
 
-type LibraryPageProps = {
-  searchParams: Promise<Record<string, string | string[] | undefined>>;
-};
-
-export default async function LibraryPage({ searchParams }: LibraryPageProps) {
-  const current = parseLibrarySearchParams(await searchParams);
+export default async function LibraryPage() {
+  const current = parseLibrarySearchParams({});
   const [allWorks, works] = await Promise.all([
     getAllWorks(),
     getAllWorks(toWorkQuery(current)),

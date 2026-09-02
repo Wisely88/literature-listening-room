@@ -1,4 +1,5 @@
 import path from "node:path";
+import { getAllWorks } from "@/lib/content/repository";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { AmbienceController } from "@/components/ambience/ambience-controller";
@@ -18,6 +19,11 @@ const rightsLabels: Record<string, string> = {
   "personal-reference": "仅供个人参考",
   unknown: "版权待确认",
 };
+
+export async function generateStaticParams() {
+  const works = await getAllWorks();
+  return works.map((work) => ({ slug: work.slug }));
+}
 
 export default async function WorkPage({
   params,
