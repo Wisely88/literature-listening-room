@@ -20,6 +20,7 @@
     "db:seed": "tsx prisma/seed.ts",
     "content:validate": "tsx scripts/validate-content.ts",
     "content:import": "tsx scripts/import-content.ts",
+    "content:audit": "node scripts/audit-content-quality.mjs",
     "translation:audit": "node scripts/audit-foreign-translations.mjs",
     "translation:refine": "node scripts/refine-foreign-translations.mjs",
     "audio:generate:local": "tsx scripts/generate-local-audio.ts",
