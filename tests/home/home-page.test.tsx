@@ -21,7 +21,7 @@ describe("home category shelf", () => {
       );
     }
 
-    expect(categoryNavigation).toHaveTextContent("古文15 篇已整理");
+    expect(categoryNavigation).toHaveTextContent("古文16 篇已整理");
     expect(categoryNavigation).toHaveTextContent("外国文学51 篇已整理");
   });
 });

@@ -1,0 +1,6 @@
+[
+  {"id":"ann-lou-shi-001","workId":"lou-shi-ming-full","segmentId":"seg-001","term":"德馨","explanation":"品德高尚。馨，能远播的香气，这里比喻品德声名远播。","type":"word"},
+  {"id":"ann-lou-shi-002","workId":"lou-shi-ming-full","segmentId":"seg-002","term":"鸿儒","explanation":"博学的人。鸿，大；儒，旧指读书人。","type":"person"},
+  {"id":"ann-lou-shi-003","workId":"lou-shi-ming-full","segmentId":"seg-002","term":"案牍","explanation":"官府的公文。案，文书；牍，古代写字用的木片。","type":"word"},
+  {"id":"ann-lou-shi-004","workId":"lou-shi-ming-full","segmentId":"seg-003","term":"何陋之有","explanation":"有什么简陋的呢？宾语前置，强调陋室因主人高尚而不陋。","type":"grammar"}
+]

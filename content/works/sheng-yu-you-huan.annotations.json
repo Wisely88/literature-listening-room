@@ -1,0 +1,6 @@
+[
+  {"id":"ann-sheng-001","workId":"sheng-yu-you-huan","segmentId":"seg-001","term":"畎亩","explanation":"田间、田野。畎，田间水沟。","type":"word"},
+  {"id":"ann-sheng-002","workId":"sheng-yu-you-huan","segmentId":"seg-001","term":"版筑","explanation":"筑墙的劳作。版，筑墙用的夹板；筑，捣土。","type":"word"},
+  {"id":"ann-sheng-003","workId":"sheng-yu-you-huan","segmentId":"seg-002","term":"曾益","explanation":"增加。曾，同“增”。","type":"grammar"},
+  {"id":"ann-sheng-004","workId":"sheng-yu-you-huan","segmentId":"seg-003","term":"法家拂士","explanation":"守法度的大臣和辅佐君王的贤士。拂，同“弼”，辅佐。","type":"word"}
+]

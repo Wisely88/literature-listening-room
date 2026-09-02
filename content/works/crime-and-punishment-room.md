@@ -35,7 +35,7 @@ The heat in the street was terrible: and the airlessness, the bustle and the pla
 He was so badly dressed that even a man accustomed to shabbiness would have been ashamed to be seen in the street in such rags. In that quarter of the town, however, scarcely any shortcoming in dress would have created surprise. Owing to the proximity of the Hay Market, the number of establishments of bad character, the preponderance of the trading and working class population crowded in these streets and alleys in the heart of Petersburg, types so various were to be seen in the streets that no figure, however queer, would have caused surprise. But there was such accumulated bitterness and contempt in the young man’s heart, that, in spite of all the fastidiousness of youth, he minded his rags least of all in the street. It was a different matter when he met with acquaintances or with former fellow students, whom, indeed, he disliked meeting at any time. And yet when a drunken man who, for some unknown reason, was being taken somewhere in a huge waggon dragged by a heavy dray horse, suddenly shouted at him as he drove past: “Hey there, German hatter” bawling at the top of his voice and pointing at him--the young man stopped suddenly and clutched tremulously at his hat. It was a tall round hat from Zimmerman’s, but completely worn out, rusty with age, all torn and bespattered, brimless and bent on one side in a most unseemly fashion. Not shame, however, but quite another feeling akin to terror had overtaken him.
 
 ## 白话
-七月里的一天，天气异常炎热，一个年轻人从圣彼得堡某处的阁楼里走出来，慢慢朝克里希桥走去，仿佛在犹豫不决。
+七月里的一天，天气异常炎热，一个年轻人从圣彼得堡某处的阁楼里走出来，慢慢朝 K 桥走去，仿佛在犹豫不决。
 
 他成功地避开了楼梯上的房东。他的阁楼位于一栋五层高楼的顶层，更像是个储物柜而非房间。房东为他提供住宿、晚餐和日常照料，住在楼下。每次他出门，都必须经过她的厨房，而那扇门总是敞开的。每当他经过，年轻人就会感到一种病态的恐惧，使他皱眉并感到羞愧。他欠房东一笔债，而且害怕见到她。
 
@@ -47,7 +47,7 @@ He was so badly dressed that even a man accustomed to shabbiness would have been
 
 街道上的炎热令人难以忍受：空气沉闷，人潮涌动，四周是石膏、脚手架、砖块和灰尘，还有那种特别的圣彼得堡的臭味，对所有夏天无法离开城市的人来说都再熟悉不过了——这一切都痛苦地刺激着年轻人已经过度紧张的神经。那些酒馆散发出的令人难以忍受的气味，尤其是那一带酒馆特别多，再加上他不断遇到的醉汉，使这幅画面更加令人作呕。年轻人那张精致的脸上，闪过一丝最深的厌恶。顺便说一句，他长得格外英俊，高于平均水平，身材瘦削结实，有着漂亮深色的眼睛和深棕色的头发。不久之后，他陷入了深深的沉思，或者说更准确地说，陷入了完全的茫然；他走在街上，不注意周围的一切，也不愿去注意。偶尔，他会低声嘟囔几句，这是他刚刚承认的自言自语的习惯。在这些时刻，他会意识到自己的想法有时会混乱，而自己非常软弱；他已经两天几乎没有吃过东西了。
 
-他穿得如此破旧，甚至一个习惯于邋遢的人也会为在街上被人看到这样的衣衫而感到羞耻。然而，那一带的街区，几乎不会因为衣着不整而引起惊讶。由于靠近集市，那一带的不良场所众多，再加上从事贸易和体力劳动的阶层人口密集地聚集在圣彼得堡的街巷中，因此街上能看到各种各样的人物，任何奇怪的形貌都不会引起惊讶。但年轻人心中积聚了如此多的苦涩与蔑视，即使在年轻时最讲究的人，也最不在意自己衣衫褴褛。然而，当他遇到熟人或以前的同学时，情况就不同了，事实上，他讨厌在任何时间见到他们。然而，当一个醉汉，因某种未知的原因，正被一辆由重马拖着的大车送往某处，突然在经过他身边时大声喊叫：“嘿，德国帽匠！”他用尽全力喊着，同时指着年轻人——年轻人突然停下脚步，颤抖着抓住自己的帽子。那是一顶来自齐默曼的高大圆顶帽，但已经完全破旧，因年久而生锈，满是破洞和污渍，帽檐缺失，一侧歪斜，显得非常不体面。然而，击中他的并不是羞耻，而是一种完全不同的感觉，类似恐惧。
+他穿得如此破旧，甚至一个习惯于邋遢的人也会为在街上被人看到这样的衣衫而感到羞耻。然而，那一带的街区，几乎不会因为衣着不整而引起惊讶。由于靠近干草市场，那一带的不良场所众多，再加上从事贸易和体力劳动的阶层人口密集地聚集在圣彼得堡的街巷中，因此街上能看到各种各样的人物，任何奇怪的形貌都不会引起惊讶。但年轻人心中积聚了如此多的苦涩与蔑视，即使在年轻时最讲究的人，也最不在意自己衣衫褴褛。然而，当他遇到熟人或以前的同学时，情况就不同了，事实上，他讨厌在任何时间见到他们。然而，当一个醉汉，因某种未知的原因，正被一辆由重马拖着的大车送往某处，突然在经过他身边时大声喊叫：“嘿，德国帽匠！”他用尽全力喊着，同时指着年轻人——年轻人突然停下脚步，颤抖着抓住自己的帽子。那是一顶来自齐默曼的高大圆顶帽，但已经完全破旧，因年久而生锈，满是破洞和污渍，帽檐缺失，一侧歪斜，显得非常不体面。然而，击中他的并不是羞耻，而是一种完全不同的感觉，类似恐惧。
 
 ## 创作背景
 本条目选取《罪与罚·炎热黄昏》中适合独立听读的代表片段。原作及所依据的英文版本已进入公版领域，本馆保留原文并提供原创中文译文。
