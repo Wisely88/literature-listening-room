@@ -9,6 +9,7 @@ import {
   toWorkQuery,
 } from "@/components/library/library-options";
 import { WorkCard } from "@/components/library/work-card";
+import { StaticLibraryFilter } from "@/components/library/static-library-filter";
 import { getAllWorks } from "@/lib/content/repository";
 import {
   FOREIGN_LITERATURE_CATEGORY,
@@ -85,6 +86,7 @@ export default async function LibraryPage() {
       />
 
       <section aria-labelledby="library-results-title" className="mt-10 pb-16 sm:mt-12">
+        <StaticLibraryFilter />
         <div className="mb-5 flex flex-wrap items-end justify-between gap-2">
           <div>
             <p className="text-sm text-[var(--muted)]">{resultLabel}</p>

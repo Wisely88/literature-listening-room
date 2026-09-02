@@ -4,7 +4,7 @@ export function WorkCard({ work }: { work: Work }) {
   const authorName = work.author?.name ?? "佚名";
 
   return (
-    <article className="flex h-full min-w-0 flex-col rounded-2xl border border-current/15 p-5 sm:p-6">
+    <article className="flex h-full min-w-0 flex-col rounded-2xl border border-current/15 p-5 sm:p-6" data-category={work.category} data-genre={work.foreignGenre ?? ""} data-library-work="true" data-moods={work.moods.join("|")} data-search={`${work.title} ${authorName} ${work.aliases.join(" ")} ${work.tags.join(" ")}`.toLocaleLowerCase()}>
       <div className="flex flex-wrap items-center gap-x-3 gap-y-2 text-xs text-[var(--muted)]">
         <span>{work.category}</span>
         {work.category === "外国文学" && work.foreignGenre ? <span>{work.foreignGenre}</span> : null}
