@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "workId": "hua-ji-lie-zhuan",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-10%|pitch=-2Hz|voiceId=story-male",
+  "voiceId": "story-male",
+  "format": "mp3",
+  "generatedAt": "2026-09-02T12:36:00.138Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/hua-ji-lie-zhuan/seg-001-voice-story-male.mp3",
+      "durationMs": 7008,
+      "checksum": "c42b31f8d9386d340c39d92aa71f25789fbdce412c0e4a3544ace1ed8adbb8ec",
+      "sourceHash": "3e8b1b8e5ad70f6808230fe52adc58f4635c84e96b84162ce638a8cea249f989"
+    }
+  ]
+}

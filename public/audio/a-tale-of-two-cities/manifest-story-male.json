@@ -1,0 +1,46 @@
+{
+  "version": 1,
+  "workId": "a-tale-of-two-cities",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-10%|pitch=-2Hz|voiceId=story-male",
+  "voiceId": "story-male",
+  "format": "mp3",
+  "generatedAt": "2026-09-02T11:42:56.673Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/a-tale-of-two-cities/seg-001-voice-story-male.mp3",
+      "durationMs": 36456,
+      "checksum": "927b81cb1f8dbfa057f489e120874ca17d2752a169501be364828d4edc3773e8",
+      "sourceHash": "c42f0598b6ca72e0290e3c03d809a31e64b583cf78657bd59b6c3ad66d468455"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/a-tale-of-two-cities/seg-002-voice-story-male.mp3",
+      "durationMs": 21264,
+      "checksum": "a788c21e112260f54e98b059ad8df1c4688d4c647bb6ff7713c7ebfc02d4f6ed",
+      "sourceHash": "085ee26900b94e5e996174e5cd0ac948fc94ad1489b81d113fa41cc6e736dc4a"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/a-tale-of-two-cities/seg-003-voice-story-male.mp3",
+      "durationMs": 46464,
+      "checksum": "3dbf80ca0fca69a252a735269f733d7ab4688a9a240012342915cdf4bbcd8846",
+      "sourceHash": "05d8f6396cc2f107e9bf6dd90f3931faac7202dbb788eef02a44738b71374759"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/a-tale-of-two-cities/seg-004-voice-story-male.mp3",
+      "durationMs": 80232,
+      "checksum": "e49deeab24baa7d5604ce29f32d5afd36d552a4cb66eb5b9571994469fb8082c",
+      "sourceHash": "790e1e406611b8d098d79632cacb564a1525a3a105f8703d8d89f4d485055c0e"
+    },
+    {
+      "id": "seg-005",
+      "url": "/audio/a-tale-of-two-cities/seg-005-voice-story-male.mp3",
+      "durationMs": 6096,
+      "checksum": "ce87bd1804051a8ed536480bf8f4a046f75df115a9bf0e6f21359042e95256df",
+      "sourceHash": "d3e006091c9dc0a6ae39269a9e6fd57c16e031476c5b1905dbc76bdb25b5858c"
+    }
+  ]
+}

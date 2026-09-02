@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "workId": "cao-chuan-jie-jian",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-10%|pitch=-2Hz|voiceId=story-male",
+  "voiceId": "story-male",
+  "format": "mp3",
+  "generatedAt": "2026-09-02T11:46:04.719Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/cao-chuan-jie-jian/seg-001-voice-story-male.mp3",
+      "durationMs": 6576,
+      "checksum": "4699703426e30c6957d5034ac6c331fad43d55c45bcd45f80cda32fae4d27420",
+      "sourceHash": "10a7f7a4dd9695c4470aa8bf3544b64583d3beac95fefb61158173213b1a0c1a"
+    }
+  ]
+}

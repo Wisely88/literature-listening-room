@@ -1,0 +1,81 @@
+{
+  "version": 1,
+  "workId": "christmas-carol-marley",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-10%|pitch=-2Hz|voiceId=story-male",
+  "voiceId": "story-male",
+  "format": "mp3",
+  "generatedAt": "2026-09-02T11:48:01.050Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/christmas-carol-marley/seg-001-voice-story-male.mp3",
+      "durationMs": 20496,
+      "checksum": "c458e6b206f7150f9c4ef07c39154d02989fe2c0e058dc59d7b1e8b678f83906",
+      "sourceHash": "f289fe0824567abf31c68527ac4fbebe43429cd9c695214a50547d3b3d321cbf"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/christmas-carol-marley/seg-002-voice-story-male.mp3",
+      "durationMs": 25536,
+      "checksum": "edaf1085c184895caa36588eb5e709a0f2a323c8bdc5b4f15ed03ab95254eab1",
+      "sourceHash": "d492cc57c5267d09fb0915c392758f31e01732b334a2cdf987fa29dcbad59fe8"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/christmas-carol-marley/seg-003-voice-story-male.mp3",
+      "durationMs": 32376,
+      "checksum": "f49e4c7baaf34904fac6389c393904a7a77fd023a259aa98b6713c2a341bb997",
+      "sourceHash": "0282e25c6d10d9b60cc6b4cc715705a1864be7b22cc47dcd772e8606fc0e71bf"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/christmas-carol-marley/seg-004-voice-story-male.mp3",
+      "durationMs": 32376,
+      "checksum": "bca66960db5ebe9f5ab07b2c9babb2af0385f8950157b26b11a4a27f21db9bb5",
+      "sourceHash": "46eb13dda02d8814c956e0e08fd1e40cc9eec6fa1f4ae28b4fbe16ca1f153d48"
+    },
+    {
+      "id": "seg-005",
+      "url": "/audio/christmas-carol-marley/seg-005-voice-story-male.mp3",
+      "durationMs": 23592,
+      "checksum": "85b0c87d09e41bc32ab6119dcbd6b86c3ef44a771673fb1aaa6817e79f0c9686",
+      "sourceHash": "834ca2ff358c95622a17401eb84c0dc324fe92d88abb4f9022cd01d850bfdfac"
+    },
+    {
+      "id": "seg-006",
+      "url": "/audio/christmas-carol-marley/seg-006-voice-story-male.mp3",
+      "durationMs": 51720,
+      "checksum": "116abc2e62d23b2272f61f3d85cc1b167d23ab34180a0c5582b1c2ab400abd5d",
+      "sourceHash": "37885166a51df2c58240bd0bd73651b732458f54f4f45be7403ca39c2b78a2d2"
+    },
+    {
+      "id": "seg-007",
+      "url": "/audio/christmas-carol-marley/seg-007-voice-story-male.mp3",
+      "durationMs": 33096,
+      "checksum": "d601497efd8a8469f10623a406c2c3e4411f2644491cda7e846f2c76bb33d08d",
+      "sourceHash": "bc07ec82132f547ed47c714966a176423bb19fec4afa36167a70847dc35e7286"
+    },
+    {
+      "id": "seg-008",
+      "url": "/audio/christmas-carol-marley/seg-008-voice-story-male.mp3",
+      "durationMs": 33744,
+      "checksum": "644d480a368021a33a8b1cb276178cd0009112e961cb39cdc766447e68c8854f",
+      "sourceHash": "a4d30965d28ba3888c46bf0f20cda862ca605de735c9a2278fb263c1694f36e0"
+    },
+    {
+      "id": "seg-009",
+      "url": "/audio/christmas-carol-marley/seg-009-voice-story-male.mp3",
+      "durationMs": 13632,
+      "checksum": "6995cb34963fdd3c8ac1a04d7cc6d039a7a71a3fb68b7b113320f89195fc775a",
+      "sourceHash": "13bcff002e1fa2fd96fa576a0a2d97ae9f9a36fe4a51267fa3bf666041f4c856"
+    },
+    {
+      "id": "seg-010",
+      "url": "/audio/christmas-carol-marley/seg-010-voice-story-male.mp3",
+      "durationMs": 52296,
+      "checksum": "76ddb91e250d195133214e2b90ba25f1790df014e3ed9e05312ab990e4a9532a",
+      "sourceHash": "2272c202f3daa8ab5bf2d60b62edf3b5cd754bf609e5d54aee96147efdb03abc"
+    }
+  ]
+}

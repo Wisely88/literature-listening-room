@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "workId": "jing-ye-si",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-10%|pitch=-2Hz|voiceId=story-male",
+  "voiceId": "story-male",
+  "format": "mp3",
+  "generatedAt": "2026-09-02T12:41:15.053Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/jing-ye-si/seg-001-voice-story-male.mp3",
+      "durationMs": 4008,
+      "checksum": "e362d3801ecd8a7b47c2d0e623878b5abd4bea90a537ab463a26cd30d0c53e0e",
+      "sourceHash": "3117695c092269dac3a9ab100f90028760c48ee45d851c09eae147145586b65d"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/jing-ye-si/seg-002-voice-story-male.mp3",
+      "durationMs": 3744,
+      "checksum": "b282102c34ea04f88bd7ea0d0783ba05561d583450d6b113ac26916eb3d803ff",
+      "sourceHash": "7d6fc822d6d08f90fcd75a9e60ac2019101f2bf2663db54c94033b1891e90dd4"
+    }
+  ]
+}

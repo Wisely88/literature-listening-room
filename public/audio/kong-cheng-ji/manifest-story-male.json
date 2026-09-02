@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "workId": "kong-cheng-ji",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-10%|pitch=-2Hz|voiceId=story-male",
+  "voiceId": "story-male",
+  "format": "mp3",
+  "generatedAt": "2026-09-02T12:41:29.050Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/kong-cheng-ji/seg-001-voice-story-male.mp3",
+      "durationMs": 9960,
+      "checksum": "3eb0192cc6bdd1788b36d18ac14e394f4668b06210dc38fa4e4edfbfe2ab357d",
+      "sourceHash": "779d00b7223ff8daa20f129a6aae57c3549a4a75bdc84fdc77bdef256af9f6fb"
+    }
+  ]
+}

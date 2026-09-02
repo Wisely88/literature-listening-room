@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "workId": "chen-she-shi-jia",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-10%|pitch=-2Hz|voiceId=story-male",
+  "voiceId": "story-male",
+  "format": "mp3",
+  "generatedAt": "2026-09-02T11:46:31.430Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/chen-she-shi-jia/seg-001-voice-story-male.mp3",
+      "durationMs": 15960,
+      "checksum": "3504eda02b9c9e49c4b8e3577d7da509957a546d5533929c5a544a15b146ad2f",
+      "sourceHash": "b5c8d2b21c80edb208248015da2479019fbd870c305c54361acee8832a441e95"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/chen-she-shi-jia/seg-002-voice-story-male.mp3",
+      "durationMs": 3912,
+      "checksum": "00437079198fae96d66d4391bda2032ff120d1dd1ab54b43e21972e71bb967de",
+      "sourceHash": "a199abaff064014ebc3cdde6531f68b90c0bfef5c76d18fbc30704cad4e4bb4a"
+    }
+  ]
+}

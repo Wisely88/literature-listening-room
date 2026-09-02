@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "workId": "chao-ran-tai-ji",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-10%|pitch=-2Hz|voiceId=story-male",
+  "voiceId": "story-male",
+  "format": "mp3",
+  "generatedAt": "2026-09-02T11:46:08.489Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/chao-ran-tai-ji/seg-001-voice-story-male.mp3",
+      "durationMs": 8016,
+      "checksum": "6249c5cbfdc958afbdc35f401824e23a1f1d74d225bff34dc926de6425c6b032",
+      "sourceHash": "7e1c1ec833ea629d467f3aefe631e1011e17e11831496f8c526811585ca39388"
+    }
+  ]
+}

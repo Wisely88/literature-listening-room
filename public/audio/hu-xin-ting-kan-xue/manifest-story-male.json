@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "workId": "hu-xin-ting-kan-xue",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-10%|pitch=-2Hz|voiceId=story-male",
+  "voiceId": "story-male",
+  "format": "mp3",
+  "generatedAt": "2026-09-02T12:35:55.930Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/hu-xin-ting-kan-xue/seg-001-voice-story-male.mp3",
+      "durationMs": 26952,
+      "checksum": "2d577f45b139080fa672e4749065d8fac4170b854a5aa374e9e8b6e1a23cd02d",
+      "sourceHash": "8127dc6b24949166c92e9e0f54852b3e643dd5e2768d670ee194f596616aa857"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/hu-xin-ting-kan-xue/seg-002-voice-story-male.mp3",
+      "durationMs": 25320,
+      "checksum": "d897fc04a0631500f715011eb99214b07c2c76e7426f5494eae408719e9e8dfa",
+      "sourceHash": "6f658b80f4bdd2277de28fca2898da1916c403a3584b95f72c818ab80eaba539"
+    }
+  ]
+}

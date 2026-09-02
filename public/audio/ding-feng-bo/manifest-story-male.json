@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "workId": "ding-feng-bo",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-10%|pitch=-2Hz|voiceId=story-male",
+  "voiceId": "story-male",
+  "format": "mp3",
+  "generatedAt": "2026-09-02T12:22:51.980Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/ding-feng-bo/seg-001-voice-story-male.mp3",
+      "durationMs": 10752,
+      "checksum": "ce96d3f8dd0218c308772ed76c89e7c8836bfd8b0a2a203c371384da58728dbb",
+      "sourceHash": "2b0b3e9def81e8e062f9ba3af19166246f32722f5baeda803363bfe1de0dd213"
+    }
+  ]
+}

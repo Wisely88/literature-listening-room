@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "workId": "jiu-shan-wang",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-10%|pitch=-2Hz|voiceId=story-male",
+  "voiceId": "story-male",
+  "format": "mp3",
+  "generatedAt": "2026-09-02T12:41:24.259Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/jiu-shan-wang/seg-001-voice-story-male.mp3",
+      "durationMs": 6984,
+      "checksum": "e1a92b403419a2e05cb70df391dccdb0e29b3e4eaf92355439f6460be788eebc",
+      "sourceHash": "32d6aea889b62feaac876d3aeceecb92f920bdc5615998550960efdf2017ddec"
+    }
+  ]
+}

@@ -12,17 +12,30 @@ import {
 type BatchOptions = {
   all: boolean;
   force: boolean;
+  voiceId?: string;
+  voice?: string;
+  rate?: string;
+  pitch?: string;
 };
 
 function parseBatchArgs(argv: string[]): BatchOptions {
   let all = false;
   let force = false;
-  for (const argument of argv) {
+  let voiceId: string | undefined;
+  let voice: string | undefined;
+  let rate: string | undefined;
+  let pitch: string | undefined;
+  for (let index = 0; index < argv.length; index += 1) {
+    const argument = argv[index];
     if (argument === "--all") all = true;
     else if (argument === "--force") force = true;
+    else if (argument === "--voice-id") voiceId = argv[++index];
+    else if (argument === "--voice") voice = argv[++index];
+    else if (argument === "--rate") rate = argv[++index];
+    else if (argument === "--pitch") pitch = argv[++index];
     else throw new Error("未知参数：" + argument);
   }
-  return { all, force };
+  return { all, force, voiceId, voice, rate, pitch };
 }
 
 async function exists(filePath: string): Promise<boolean> {
@@ -33,6 +46,10 @@ async function exists(filePath: string): Promise<boolean> {
     if ((error as NodeJS.ErrnoException).code === "ENOENT") return false;
     throw error;
   }
+}
+
+async function wait(ms: number): Promise<void> {
+  await new Promise((resolve) => setTimeout(resolve, ms));
 }
 
 async function main(): Promise<void> {
@@ -69,7 +86,20 @@ async function main(): Promise<void> {
     );
     const args = ["--slug", work.slug];
     if (batch.force) args.push("--force");
-    const result = await generateEdgeAudio(parseEdgeAudioArgs(args));
+    if (batch.voiceId) args.push("--voice-id", batch.voiceId);
+    if (batch.voice) args.push("--voice", batch.voice);
+    if (batch.rate) args.push("--rate", batch.rate);
+    if (batch.pitch) args.push("--pitch", batch.pitch);
+    let result = false;
+    for (let attempt = 1; attempt <= 3; attempt += 1) {
+      try {
+        result = Boolean(await generateEdgeAudio(parseEdgeAudioArgs(args)));
+        break;
+      } catch (error) {
+        console.warn(`  第 ${attempt} 次失败：${error instanceof Error ? error.message : String(error)}`);
+        if (attempt < 3) await wait(attempt * 1500);
+      }
+    }
     if (result) generated += 1;
     else skipped += 1;
   }

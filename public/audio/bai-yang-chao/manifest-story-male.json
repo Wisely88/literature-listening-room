@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "workId": "bai-yang-chao",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-10%|pitch=-2Hz|voiceId=story-male",
+  "voiceId": "story-male",
+  "format": "mp3",
+  "generatedAt": "2026-09-02T11:45:32.805Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/bai-yang-chao/seg-001-voice-story-male.mp3",
+      "durationMs": 8232,
+      "checksum": "ec254ed290eeaf6d6179d32e75d5ef6e1b130f3b59a9c0aa7b37df95dd93bc48",
+      "sourceHash": "168bda1f53451bffa32bb5f9deebe878fa4b07b9cb0aa93b40e017bb29997704"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "workId": "gao-zu-ben-ji",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-10%|pitch=-2Hz|voiceId=story-male",
+  "voiceId": "story-male",
+  "format": "mp3",
+  "generatedAt": "2026-09-02T12:25:51.302Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/gao-zu-ben-ji/seg-001-voice-story-male.mp3",
+      "durationMs": 5664,
+      "checksum": "275ecb094fa09042ab5a2dfbb99af0426fbabf445bc11e0db6d9cb8793ca208b",
+      "sourceHash": "b4e471f095d28700ad5f94c3082543dddca911e1e4cc8e840a5018e3c228c38c"
+    }
+  ]
+}

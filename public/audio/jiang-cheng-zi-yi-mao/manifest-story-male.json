@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "workId": "jiang-cheng-zi-yi-mao",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-10%|pitch=-2Hz|voiceId=story-male",
+  "voiceId": "story-male",
+  "format": "mp3",
+  "generatedAt": "2026-09-02T12:40:36.890Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/jiang-cheng-zi-yi-mao/seg-001-voice-story-male.mp3",
+      "durationMs": 8256,
+      "checksum": "3ac37cec3740801953ee589ca75bcd01c64af1a3522d4fd79d06205d906b3e31",
+      "sourceHash": "96212e3e70a1934a492bccfecc2792906dd315bdf619c313924ae227724bf62b"
+    }
+  ]
+}

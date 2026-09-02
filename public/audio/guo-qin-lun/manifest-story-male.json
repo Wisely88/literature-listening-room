@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "workId": "guo-qin-lun",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-10%|pitch=-2Hz|voiceId=story-male",
+  "voiceId": "story-male",
+  "format": "mp3",
+  "generatedAt": "2026-09-02T12:30:44.134Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/guo-qin-lun/seg-001-voice-story-male.mp3",
+      "durationMs": 17280,
+      "checksum": "2737ac21b39881c3fc95bddd19755eda361cdc9052945e54340155b9409f6c28",
+      "sourceHash": "01085a89579f62c410bea9f591a7ef4c502b295709b91f8eecfdb479bf08e672"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/guo-qin-lun/seg-002-voice-story-male.mp3",
+      "durationMs": 11040,
+      "checksum": "9e846afbff83bc0abe551e96b3be54a2948910a7ffbe799e9741d8d2a90725b2",
+      "sourceHash": "a190919c6045189eb08c55fc232f11f691ec62a1a6a2a1a287284328ddca5ab1"
+    }
+  ]
+}

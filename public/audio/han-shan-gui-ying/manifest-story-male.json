@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "workId": "han-shan-gui-ying",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-10%|pitch=-2Hz|voiceId=story-male",
+  "voiceId": "story-male",
+  "format": "mp3",
+  "generatedAt": "2026-09-02T12:30:52.618Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/han-shan-gui-ying/seg-001-voice-story-male.mp3",
+      "durationMs": 9288,
+      "checksum": "8131388c8179aa9817bff30b9fb941c2af0494853f52a1753300975582eda61b",
+      "sourceHash": "1f50207aec2926c8551bb8837edd6cd819834b88934da0ac2e415363ec632392"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/han-shan-gui-ying/seg-002-voice-story-male.mp3",
+      "durationMs": 5832,
+      "checksum": "691749b32ad20845cb59a4f793d0bc2b37b2f7dd4a834b48a5d8a4d962284eeb",
+      "sourceHash": "83284460358f8eb609883187baa8a39db379e4577a58d2d1355d64b7dc6eccff"
+    }
+  ]
+}

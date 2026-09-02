@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "workId": "guan-yan-lie-zhuan",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-10%|pitch=-2Hz|voiceId=story-male",
+  "voiceId": "story-male",
+  "format": "mp3",
+  "generatedAt": "2026-09-02T12:30:21.571Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/guan-yan-lie-zhuan/seg-001-voice-story-male.mp3",
+      "durationMs": 7848,
+      "checksum": "adb4968f10fed23f835fecf843494521b0579a9539e9cd5af7798e1c0563e838",
+      "sourceHash": "d2cf443cb6d5a0133e95fd02108a1a864dd75a937e104b1723a159cb388efefe"
+    }
+  ]
+}

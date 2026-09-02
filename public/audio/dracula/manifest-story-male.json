@@ -1,0 +1,53 @@
+{
+  "version": 1,
+  "workId": "dracula",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-10%|pitch=-2Hz|voiceId=story-male",
+  "voiceId": "story-male",
+  "format": "mp3",
+  "generatedAt": "2026-09-02T12:23:31.199Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/dracula/seg-001-voice-story-male.mp3",
+      "durationMs": 44112,
+      "checksum": "0e02ebe1e0f64d51f49e4955129c2b04664a8f959623bbc2449795ad2f0789d4",
+      "sourceHash": "75d28275c1f1fc2dc5ead57faf9c6d6488454cbecbd8e96c205732a2687c04dd"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/dracula/seg-002-voice-story-male.mp3",
+      "durationMs": 35976,
+      "checksum": "734fa65a4ea6dc62f51c658b24f028ca39665c4d4106e9d8311427aedf38df1c",
+      "sourceHash": "cdafa794812f7c2f8faf8cdf8cba6264737e6260a5cb12d0fba6d204dff1194f"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/dracula/seg-003-voice-story-male.mp3",
+      "durationMs": 56856,
+      "checksum": "f520018606d117760816eba8ec770e9f69b2abd50346634386c3d4151faa4f82",
+      "sourceHash": "81874420632c88c5f9ada719b62137814db89e26e4748c080e3da8f358f47819"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/dracula/seg-004-voice-story-male.mp3",
+      "durationMs": 48000,
+      "checksum": "816776a5e384589bd8ba9928f361512a2a49477259972d0b34a63e89e44bdff0",
+      "sourceHash": "f0a293cae99d0ff83ba7c4ff684f15d596019ed6d80cdb97d8a8ece0e3bc57c0"
+    },
+    {
+      "id": "seg-005",
+      "url": "/audio/dracula/seg-005-voice-story-male.mp3",
+      "durationMs": 52488,
+      "checksum": "2d7053c307c215eab7821e14532048777119b125fd086255d9bb68d0dc07ac6e",
+      "sourceHash": "673955337c241f96a5ac8ed93437a9f4a1b66e3b2dbab7656c7991eaabe8e855"
+    },
+    {
+      "id": "seg-006",
+      "url": "/audio/dracula/seg-006-voice-story-male.mp3",
+      "durationMs": 29520,
+      "checksum": "26be9d30b71463223ebb51d565764ab6e1da30979d8128d10617e29554693405",
+      "sourceHash": "1c887259b23b859b543ba7873d5db815966407ec5e7cf51f1e080fe68897ec5e"
+    }
+  ]
+}

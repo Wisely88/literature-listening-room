@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "workId": "gu-jing-shui-ying",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-10%|pitch=-2Hz|voiceId=story-male",
+  "voiceId": "story-male",
+  "format": "mp3",
+  "generatedAt": "2026-09-02T12:30:06.006Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/gu-jing-shui-ying/seg-001-voice-story-male.mp3",
+      "durationMs": 9480,
+      "checksum": "7ebaa9134eeb2b7c27c2d7f384df19886d8105220d0b44fc76a68b02a5ce79ac",
+      "sourceHash": "5cbf873bd5cb263ddf66f3a0f6ff1e7197100c28cec4e78e14675f5f80f74fbb"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/gu-jing-shui-ying/seg-002-voice-story-male.mp3",
+      "durationMs": 5448,
+      "checksum": "334d73baa7a9d66ef5c239008f5cc92e9850a2a1c18f2272104c86c5fa5d7635",
+      "sourceHash": "1f8f8f9f7ce63c6025e824c1798c747e4b72755a1bc2ac1b39cb43899bf43003"
+    }
+  ]
+}

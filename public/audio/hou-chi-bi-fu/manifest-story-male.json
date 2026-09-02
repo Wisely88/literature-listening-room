@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "workId": "hou-chi-bi-fu",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-10%|pitch=-2Hz|voiceId=story-male",
+  "voiceId": "story-male",
+  "format": "mp3",
+  "generatedAt": "2026-09-02T12:35:46.457Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/hou-chi-bi-fu/seg-001-voice-story-male.mp3",
+      "durationMs": 13944,
+      "checksum": "778dffc633b4f74503765f9050b6c3426ec480ecca695ed692e4a95ba8f6f3f4",
+      "sourceHash": "8923c58118349e8ef4d21182d890a507cb62558e77799be87517cc1a23b7c6e8"
+    }
+  ]
+}

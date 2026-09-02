@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "workId": "a-fang-gong-fu",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-10%|pitch=-2Hz|voiceId=story-male",
+  "voiceId": "story-male",
+  "format": "mp3",
+  "generatedAt": "2026-09-02T11:41:10.573Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/a-fang-gong-fu/seg-001-voice-story-male.mp3",
+      "durationMs": 12576,
+      "checksum": "b1f7bff6340735f4668e290d985355b4dd64db569ed1b0acf611d4d0d66ca799",
+      "sourceHash": "4ec5abc3c3000e8641cc7a9c4dc3c20735ea6b6e63ec5b97985b0debccf3d834"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/a-fang-gong-fu/seg-002-voice-story-male.mp3",
+      "durationMs": 5232,
+      "checksum": "439a5f884ab5fe3bdf9ee318492c45b4c3376fa2965e2dadda31998a0fbbe462",
+      "sourceHash": "ffd37df67a96973895e7960c1737a9201b47aa367611b8784ebc449a2f1703fd"
+    }
+  ]
+}

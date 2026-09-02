@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "workId": "an-ling-jun-shou-di",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-10%|pitch=-2Hz|voiceId=story-male",
+  "voiceId": "story-male",
+  "format": "mp3",
+  "generatedAt": "2026-09-02T11:44:32.052Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/an-ling-jun-shou-di/seg-001-voice-story-male.mp3",
+      "durationMs": 7488,
+      "checksum": "989849362a11c77361972a7992f673931951f37cf9917ce4b4d4ab184c5f8b86",
+      "sourceHash": "c14c141ad74ea4c08d30bbb196719f98187ec8adfce64ae5cfb930c1a194811f"
+    }
+  ]
+}

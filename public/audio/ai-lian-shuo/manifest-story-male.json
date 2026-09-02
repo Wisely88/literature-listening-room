@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "workId": "ai-lian-shuo",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-10%|pitch=-2Hz|voiceId=story-male",
+  "voiceId": "story-male",
+  "format": "mp3",
+  "generatedAt": "2026-09-02T11:43:13.778Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/ai-lian-shuo/seg-001-voice-story-male.mp3",
+      "durationMs": 10008,
+      "checksum": "19b1f3ffc9475d14b8ad9fff99c461f6ce16183c317dae1b7f1bdddcce1bfc91",
+      "sourceHash": "95801de7313b9a0a789eee5a5c840d0cf274a015639e24b2754dae254efc3d19"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/ai-lian-shuo/seg-002-voice-story-male.mp3",
+      "durationMs": 12096,
+      "checksum": "cca9ab1896d8b264273b6248ade1acadc410862e9e9a406a2f2d44a307401b69",
+      "sourceHash": "1e0e184f7525120fdad0edaf392fc23cd61e65e0960562742923724e0401cafe"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/ai-lian-shuo/seg-003-voice-story-male.mp3",
+      "durationMs": 19080,
+      "checksum": "b864f36f3f1f50ab24ffd4d040c381594eff3b2926239db5a6e44932f13e8277",
+      "sourceHash": "ccaa57dbc1e939777992477d47f9bfd196e442057369975be69a28d55eb4d9a0"
+    }
+  ]
+}

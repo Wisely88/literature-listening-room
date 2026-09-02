@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "workId": "bao-yu-ai-da",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-10%|pitch=-2Hz|voiceId=story-male",
+  "voiceId": "story-male",
+  "format": "mp3",
+  "generatedAt": "2026-09-02T11:45:40.765Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/bao-yu-ai-da/seg-001-voice-story-male.mp3",
+      "durationMs": 6576,
+      "checksum": "3ae2f325bb41a763aef90c393d1b091ae2af5f59dc29cb652dde9a808087f783",
+      "sourceHash": "fa90b6d18d1c4cd1f5ba5e29b33748ff6ce92c83e1d015ebaab4e7b99bec7c9c"
+    }
+  ]
+}

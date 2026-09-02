@@ -1,0 +1,74 @@
+{
+  "version": 1,
+  "workId": "a-scandal-in-bohemia",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-10%|pitch=-2Hz|voiceId=story-male",
+  "voiceId": "story-male",
+  "format": "mp3",
+  "generatedAt": "2026-09-02T11:42:11.729Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/a-scandal-in-bohemia/seg-001-voice-story-male.mp3",
+      "durationMs": 78936,
+      "checksum": "9a07ceaf099982f93b418489890d78fbbe3e7a601421555c84890a6ab41818d3",
+      "sourceHash": "36f8cf645d9402bc6311ddd114d3ad6081ee935c4fb6ebf4b79558d31c31d596"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/a-scandal-in-bohemia/seg-002-voice-story-male.mp3",
+      "durationMs": 74160,
+      "checksum": "e6554b151f54f57cbbfb0383754cc9baf8a31492713a12fd15ad3ccb9fec6c36",
+      "sourceHash": "12af2fb61709878f44ad92b4c2ccec9f089a1ca154635246d1dfba7cced727b1"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/a-scandal-in-bohemia/seg-003-voice-story-male.mp3",
+      "durationMs": 60696,
+      "checksum": "03f1f8352e3b2b34ead103ed7cb56fd2c7b2ddba36aa59ad444ce06d201ac18e",
+      "sourceHash": "9886f119c488c141430b1e63c98c2be5e34d0d5f31a7f916c552d7b9026ab820"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/a-scandal-in-bohemia/seg-004-voice-story-male.mp3",
+      "durationMs": 24744,
+      "checksum": "690ca604c16e608e2c71c9b347518d508de0ea666f28c64ef29e2d1f9435d101",
+      "sourceHash": "b7cb93474e1aceee9d8a0cbe90a001921653ec9ba555d71f3147cff76c8c8cb4"
+    },
+    {
+      "id": "seg-005",
+      "url": "/audio/a-scandal-in-bohemia/seg-005-voice-story-male.mp3",
+      "durationMs": 10488,
+      "checksum": "dafaf34360224cc06795909277fe241bcbf419efc09164b543597d06ba50c457",
+      "sourceHash": "10a53b29dda439b7d773cf9c30ee399f408961b7bb40b9b03aaea388027bb1ef"
+    },
+    {
+      "id": "seg-006",
+      "url": "/audio/a-scandal-in-bohemia/seg-006-voice-story-male.mp3",
+      "durationMs": 3216,
+      "checksum": "ee1ff56ea729973cce656cd52974abf73990c94975818d261eb38c597da824c4",
+      "sourceHash": "ed27566722db6ef05496f45d2df30dfa19debee4c2d2f6be3c7885c25983b9bd"
+    },
+    {
+      "id": "seg-007",
+      "url": "/audio/a-scandal-in-bohemia/seg-007-voice-story-male.mp3",
+      "durationMs": 14640,
+      "checksum": "1ac5dd35ec21145dc8ba7f14775cf029801648502c8ace5f8dcede05884aac34",
+      "sourceHash": "c3c5a4cc3705a13af067ffd8b463279c7a494be3f41e179b5972b0a1a262b3ff"
+    },
+    {
+      "id": "seg-008",
+      "url": "/audio/a-scandal-in-bohemia/seg-008-voice-story-male.mp3",
+      "durationMs": 2880,
+      "checksum": "cb9dba000e7f57aae1b42596ba9de7490cc3402137d35fb683447c078134ff81",
+      "sourceHash": "57fc13c2925ed3d53a8796854762efe16f4126b6e7e589d680b0142896847445"
+    },
+    {
+      "id": "seg-009",
+      "url": "/audio/a-scandal-in-bohemia/seg-009-voice-story-male.mp3",
+      "durationMs": 12216,
+      "checksum": "7a32095e0e31164157104eef0ccc63431b57d27adef4c6f7fe97d79f35451ee9",
+      "sourceHash": "01d852b8515f95ca2dd0fcd7fb6fddbdc0ba8111225ab7e347f3704ac62d7e46"
+    }
+  ]
+}

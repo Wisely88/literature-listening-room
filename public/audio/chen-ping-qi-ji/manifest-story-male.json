@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "workId": "chen-ping-qi-ji",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-10%|pitch=-2Hz|voiceId=story-male",
+  "voiceId": "story-male",
+  "format": "mp3",
+  "generatedAt": "2026-09-02T11:46:17.259Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/chen-ping-qi-ji/seg-001-voice-story-male.mp3",
+      "durationMs": 7056,
+      "checksum": "9473d480d05f944942ec1c4f93c7ee5f30e49143928d14bb033d15f5fbf8e7ac",
+      "sourceHash": "df7984eabded6ed4fdb23b6d10019eb509fe167403d6e109e14dd68d19881e3e"
+    }
+  ]
+}

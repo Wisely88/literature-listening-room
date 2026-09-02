@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "workId": "ci-ke-lie-zhuan",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-10%|pitch=-2Hz|voiceId=story-male",
+  "voiceId": "story-male",
+  "format": "mp3",
+  "generatedAt": "2026-09-02T12:18:03.398Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/ci-ke-lie-zhuan/seg-001-voice-story-male.mp3",
+      "durationMs": 4872,
+      "checksum": "d24546e55a7e970dd20b00b2d2b0436556907fc2ab53ac2e245baff775a22e07",
+      "sourceHash": "1a391f98e5cca9c8bda16c1b414d4620cb2066253275fa29036e05d1245882d9"
+    }
+  ]
+}

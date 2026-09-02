@@ -1,0 +1,53 @@
+{
+  "version": 1,
+  "workId": "frankenstein-creation-night",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-10%|pitch=-2Hz|voiceId=story-male",
+  "voiceId": "story-male",
+  "format": "mp3",
+  "generatedAt": "2026-09-02T12:25:47.994Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/frankenstein-creation-night/seg-001-voice-story-male.mp3",
+      "durationMs": 34776,
+      "checksum": "0e9f40605da27e688753ae485971150a695adfd3ede932628ebb31e6022a2610",
+      "sourceHash": "50a3bec3b70aac918fc05c455d0cca1b26ddae4a274c600d098e8cadee282398"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/frankenstein-creation-night/seg-002-voice-story-male.mp3",
+      "durationMs": 41496,
+      "checksum": "342a8bc983a62c391f651743d765a1a3abb5d95ff337dd7167750b9a928bced6",
+      "sourceHash": "a1ff51fedaea6a016fb1bb61f37fb4b273e3d7e9628494816be3c8d068fc60f3"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/frankenstein-creation-night/seg-003-voice-story-male.mp3",
+      "durationMs": 123240,
+      "checksum": "6f74668ec257339e6cba200b985bba81588a04a3453b42b3574160fae9849893",
+      "sourceHash": "ff2d769abf39ed887d7d2bac9d8648c07c021d149d03b031b794ffb945a7a5b8"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/frankenstein-creation-night/seg-004-voice-story-male.mp3",
+      "durationMs": 21624,
+      "checksum": "80939708c426621af421c25c40d1aaf87add3127934ebc644995d460d65abdd7",
+      "sourceHash": "d530fe62383d00abba13c10e7fb8c04f4149950dc0cffa9f3e092867b222e166"
+    },
+    {
+      "id": "seg-005",
+      "url": "/audio/frankenstein-creation-night/seg-005-voice-story-male.mp3",
+      "durationMs": 27384,
+      "checksum": "10ba07207c7f52c10d53cf29870e355635ae15538d126478be4f7005fb2c257b",
+      "sourceHash": "940e048ff738e465d63a020ff6b2fe9fa238b2b565d543c2a73087a48135b0c6"
+    },
+    {
+      "id": "seg-006",
+      "url": "/audio/frankenstein-creation-night/seg-006-voice-story-male.mp3",
+      "durationMs": 33048,
+      "checksum": "cad580c9b22ab6ca3ba0040d44fafa61b07c25cbfadf799945734405a02d8a45",
+      "sourceHash": "0af5cd4e765fb09a9b4ffd8ff70d869398b125fb47ddb068456ae80a4a310bf4"
+    }
+  ]
+}

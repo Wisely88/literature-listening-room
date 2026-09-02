@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "workId": "guo-jia-si-xiang-bian-qian",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-10%|pitch=-2Hz|voiceId=story-male",
+  "voiceId": "story-male",
+  "format": "mp3",
+  "generatedAt": "2026-09-02T12:30:36.864Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/guo-jia-si-xiang-bian-qian/seg-001-voice-story-male.mp3",
+      "durationMs": 8304,
+      "checksum": "73b4c342ad99fbf86bb186e4229c3ba488ef4a383f54a4ddaa182b2e1c09badf",
+      "sourceHash": "6a67867da3c2931ed960da3ac5a31704b1df5baca6de565753c9c56295e331c9"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "workId": "gui-ku",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-10%|pitch=-2Hz|voiceId=story-male",
+  "voiceId": "story-male",
+  "format": "mp3",
+  "generatedAt": "2026-09-02T12:30:28.240Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/gui-ku/seg-001-voice-story-male.mp3",
+      "durationMs": 6936,
+      "checksum": "fc47d56db27868b322d7f82b5817efad6f0164f25c51e093a466a3e6649290c3",
+      "sourceHash": "d78a88c98b25ef1cef3779d73a56eaa9fcb0f5bca82fd004aa9ad326185714a1"
+    }
+  ]
+}

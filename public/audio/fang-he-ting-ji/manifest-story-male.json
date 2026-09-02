@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "workId": "fang-he-ting-ji",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-10%|pitch=-2Hz|voiceId=story-male",
+  "voiceId": "story-male",
+  "format": "mp3",
+  "generatedAt": "2026-09-02T12:24:35.970Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/fang-he-ting-ji/seg-001-voice-story-male.mp3",
+      "durationMs": 8040,
+      "checksum": "7fad3ac50d5d55acb6f00592303ca92902cbee59034e7c9a5c01e4219cdceb21",
+      "sourceHash": "e9ecacaa4f14eedb8bbd6f1d6f313f285a04a52a17399a794ca1187c3d35af91"
+    }
+  ]
+}

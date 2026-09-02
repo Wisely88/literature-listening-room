@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "workId": "empty-room-lamp",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-10%|pitch=-2Hz|voiceId=story-male",
+  "voiceId": "story-male",
+  "format": "mp3",
+  "generatedAt": "2026-09-02T12:23:52.110Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/empty-room-lamp/seg-001-voice-story-male.mp3",
+      "durationMs": 9720,
+      "checksum": "b2dd6cc9fe2a7f542b85c64e3003701c61ecc3fe83024c893488c595f6fade72",
+      "sourceHash": "9503ac2ff32a679d3fb053bf745c0ec19fa858afd682bde4e9adceb9b1235f0e"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/empty-room-lamp/seg-002-voice-story-male.mp3",
+      "durationMs": 5232,
+      "checksum": "787867bb1e67598a53b6b3d277b5223dd2ab52fd171b991b1c2754b4033fdfb7",
+      "sourceHash": "6fc377f427b335c6c0f6187f54e778fbc8dcbc4df8c23fa7c39dd30f6752ac8a"
+    }
+  ]
+}
