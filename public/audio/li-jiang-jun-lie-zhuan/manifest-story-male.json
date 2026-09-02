@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "workId": "li-jiang-jun-lie-zhuan",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-10%|pitch=-2Hz|voiceId=story-male",
+  "voiceId": "story-male",
+  "format": "mp3",
+  "generatedAt": "2026-09-02T13:12:08.826Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/li-jiang-jun-lie-zhuan/seg-001-voice-story-male.mp3",
+      "durationMs": 9552,
+      "checksum": "42ff899ee8ca3e5503bb5716642e5ee5b26600efffc75825ff28cd48332174ae",
+      "sourceHash": "93a937e5d9396e71055d988e159033b337e1206110798d6c00ee3a948cbe805a"
+    }
+  ]
+}

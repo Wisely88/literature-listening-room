@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "workId": "liang-qi-chao-lun-yi-li",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-10%|pitch=-2Hz|voiceId=story-male",
+  "voiceId": "story-male",
+  "format": "mp3",
+  "generatedAt": "2026-09-02T13:12:53.193Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/liang-qi-chao-lun-yi-li/seg-001-voice-story-male.mp3",
+      "durationMs": 11664,
+      "checksum": "26d0d7a2f75abef39549d22064b5f4f0de2da420194eedf68ccd7f508c4b4cb6",
+      "sourceHash": "4562f46beab4dc66c043952a9022483d3ad81fbf071b417ca9a45cdfe218559d"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/liang-qi-chao-lun-yi-li/seg-002-voice-story-male.mp3",
+      "durationMs": 7752,
+      "checksum": "a2f1b0ff538203ff9b09554d3a209fd32b2dbc72e566a4282eba2b8f97cb5bb0",
+      "sourceHash": "ca4ac0b7551cf5b5c036937fc917c9327138061bef3b9d7d1fe57fd403159aff"
+    }
+  ]
+}

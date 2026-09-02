@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "workId": "lian-xiang",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-10%|pitch=-2Hz|voiceId=story-male",
+  "voiceId": "story-male",
+  "format": "mp3",
+  "generatedAt": "2026-09-02T13:12:29.815Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/lian-xiang/seg-001-voice-story-male.mp3",
+      "durationMs": 7008,
+      "checksum": "33f6257fe8ffce0a72bd64c94cf8c1344e990229e67816424a2fe8125514281a",
+      "sourceHash": "667dc28b5b5c51fe51e89490dabe391933f338952f8cbbd94c27852a1010598b"
+    }
+  ]
+}
