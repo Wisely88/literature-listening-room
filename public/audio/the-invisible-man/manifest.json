@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "workId": "the-invisible-man",
+  "provider": "edge-neural",
+  "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
+  "format": "mp3",
+  "generatedAt": "2026-09-01T02:18:17.891Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/the-invisible-man/seg-001.mp3",
+      "durationMs": 58056,
+      "checksum": "5c764653146b6a1a2cf4e18267045d2e643b8b3f01f72a56d001bd5c28719f50",
+      "sourceHash": "8a9b35dc3ca6a8eb041cfaa4ecaa60cdd4523b257a95e3c78f98001cbd8d3a84"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/the-invisible-man/seg-002.mp3",
+      "durationMs": 64056,
+      "checksum": "4c2c1d819a1ef979aabdfe6c0282c6d098570241b365ebbbd8ea9fd8f6c2928e",
+      "sourceHash": "75bce6360b7b2b71ab66eb070546e3d2118ed02b906fa0305c75a02f38b86b8d"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/the-invisible-man/seg-003.mp3",
+      "durationMs": 2784,
+      "checksum": "f095b1a3b10234d4bc776da1fd21e1d138c8624575ce753b7af6a3cc7290345f",
+      "sourceHash": "83ce81a0aa7e3b2d8168cc95156133a92c84d172528a0f65825df76dea9ce2a7"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/the-invisible-man/seg-004.mp3",
+      "durationMs": 5184,
+      "checksum": "f00785b0e41675085c6dafbb0bc59a094528349e4a51807141a77cb1849f4dcb",
+      "sourceHash": "dfe7169ad3a0a50a57ea2d4bce0a67e5a281520edc62a8563f6a96b192b932bf"
+    },
+    {
+      "id": "seg-005",
+      "url": "/audio/the-invisible-man/seg-005.mp3",
+      "durationMs": 17928,
+      "checksum": "3b9cc6568e16e9eac93bffaa9ae886d5b5b645c3301b060326055a866c224b20",
+      "sourceHash": "ab5612eb4e19feb148c441e944cd387a7d778a2a9e447357c8b60ece0f74618e"
+    },
+    {
+      "id": "seg-006",
+      "url": "/audio/the-invisible-man/seg-006.mp3",
+      "durationMs": 7224,
+      "checksum": "9963c3112460b207113af4deba0870200a4c060b873abb5ad1c3d25614fde5cb",
+      "sourceHash": "13065261addbdb3360e9ce5d7f42e321dc470e9901f33b7e2490de7253b29cdc"
+    },
+    {
+      "id": "seg-007",
+      "url": "/audio/the-invisible-man/seg-007.mp3",
+      "durationMs": 30072,
+      "checksum": "ae824cdf4d4cfbf3bd4dc1fba61a0ebb8ebac697ed9670a7946c11fff84a77cd",
+      "sourceHash": "e41f4d6c5c960a0ed67b90ed418e32d833241e45dfa74db7a7fc8b6ca1f965a0"
+    },
+    {
+      "id": "seg-008",
+      "url": "/audio/the-invisible-man/seg-008.mp3",
+      "durationMs": 8496,
+      "checksum": "5c2ec9777c6d4044b2e0e3dc992caa11fa4ff9bbfe0a0f3f0193f8486697cedd",
+      "sourceHash": "2d3878438627ef16f1cbc3b8e5807e34ddc7c401788ae1eaeb1d623a1bdf14c5"
+    },
+    {
+      "id": "seg-009",
+      "url": "/audio/the-invisible-man/seg-009.mp3",
+      "durationMs": 45696,
+      "checksum": "c2c51f8469b341edd08b56420fd3e5d95bc148034f59b7b616793ad4866c1f91",
+      "sourceHash": "662ecee808f47a0dc6f33356bb5e7511e8bc743571873f87a4327f455b9c8efa"
+    },
+    {
+      "id": "seg-010",
+      "url": "/audio/the-invisible-man/seg-010.mp3",
+      "durationMs": 36072,
+      "checksum": "e7397e4b7f80795bb3b324a9775305d34bf0056b9457add1e7cc32d77446733e",
+      "sourceHash": "67082f8b77cbb8b37313a3b6c0e577f5f068e860af1db6603ae8601cdd64de2b"
+    }
+  ]
+}

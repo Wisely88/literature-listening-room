@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "workId": "bo-yi-lie-zhuan",
+  "provider": "edge-neural",
+  "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
+  "format": "mp3",
+  "generatedAt": "2026-09-01T01:54:11.420Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/bo-yi-lie-zhuan/seg-001.mp3",
+      "durationMs": 7944,
+      "checksum": "2fdddfbc932bdead03ce846141aa767c389c5aa92bbb11573c7d4daf3f5ddf1d",
+      "sourceHash": "90f9189fb0816a2c87de1a4ae907c9f3a0909455a9e57bdf80251e9f6cc6e8b2"
+    }
+  ]
+}

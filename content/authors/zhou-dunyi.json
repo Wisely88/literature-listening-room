@@ -1,0 +1,24 @@
+{
+  "id": "zhou-dunyi",
+  "slug": "zhou-dunyi",
+  "name": "周敦颐",
+  "aliases": ["濂溪先生"],
+  "courtesyNames": ["茂叔"],
+  "birthYear": 1017,
+  "deathYear": 1073,
+  "dynasty": "北宋",
+  "country": "中国",
+  "bio": "北宋理学家，道州营道（今湖南道县）人。理学开山人物之一，程颢、程颐曾从其问学，世称濂溪先生。",
+  "styleSummary": "文章简洁清通，寄意深远，以《爱莲说》《太极图说》最为著名。",
+  "timeline": [
+    { "year": 1017, "title": "出生", "description": "生于道州营道。" },
+    { "year": 1046, "title": "作《爱莲说》", "description": "任南康军知军期间作《爱莲说》。" },
+    { "year": 1073, "title": "去世", "description": "病逝于庐山濂溪。" }
+  ],
+  "representativeWorks": [
+    { "title": "爱莲说", "type": "散文" },
+    { "title": "太极图说", "type": "哲学论著" },
+    { "title": "通书", "type": "哲学论著" }
+  ],
+  "relatedPeople": []
+}

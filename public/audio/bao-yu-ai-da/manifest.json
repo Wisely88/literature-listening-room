@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "workId": "bao-yu-ai-da",
+  "provider": "edge-neural",
+  "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
+  "format": "mp3",
+  "generatedAt": "2026-09-01T01:54:07.624Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/bao-yu-ai-da/seg-001.mp3",
+      "durationMs": 6624,
+      "checksum": "07eff50028409d0178f5ebb226fe1b9e6e369d1eed69540018318cf5400f1ee3",
+      "sourceHash": "2f8146c24a2e684248f0c8fa74865f309fe8b881d079f175a9068a1e8dc2d6a4"
+    }
+  ]
+}

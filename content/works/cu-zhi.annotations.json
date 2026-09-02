@@ -1,0 +1,9 @@
+[
+  {"id":"ann-001","workId":"cu-zhi","segmentId":"seg-001","term":"里正","explanation":"古代基层乡官，负责催收赋税等。","pronunciation":"lǐ zhèng","type":"history"},
+  {"id":"ann-002","workId":"cu-zhi","segmentId":"seg-001","term":"游侠儿","explanation":"游手好闲、不务正业的年轻人。","pronunciation":"yóu xiá ér","type":"word"},
+  {"id":"ann-003","workId":"cu-zhi","segmentId":"seg-001","term":"科敛丁口","explanation":"按人口摊派勒索。科敛，摊派搜刮。","pronunciation":"kē liǎn dīng kǒu","type":"word"},
+  {"id":"ann-004","workId":"cu-zhi","segmentId":"seg-002","term":"追比","explanation":"官府限期催逼、逾期责罚。","pronunciation":"zhuī bǐ","type":"word"},
+  {"id":"ann-005","workId":"cu-zhi","segmentId":"seg-003","term":"爇香","explanation":"烧香。爇，点燃。","pronunciation":"ruò xiāng","type":"word"},
+  {"id":"ann-006","workId":"cu-zhi","segmentId":"seg-004","term":"掭","explanation":"拨动、挑拨。","pronunciation":"tiàn","type":"word"},
+  {"id":"ann-007","workId":"cu-zhi","segmentId":"seg-006","term":"龁","explanation":"咬。","pronunciation":"hé","type":"word"}
+]

@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "workId": "yi-shi-er-niao",
+  "provider": "edge-neural",
+  "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
+  "format": "mp3",
+  "generatedAt": "2026-09-01T02:38:20.035Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/yi-shi-er-niao/seg-001.mp3",
+      "durationMs": 9096,
+      "checksum": "e3df8338d7722bb4dfe717a48d854c2764fc32c56ea5c4bbe943e449f277b7ba",
+      "sourceHash": "9731b91d2f964dee19dcc4ffe4ddcac92db977fb3c0cfa9832920749f7a45268"
+    }
+  ]
+}

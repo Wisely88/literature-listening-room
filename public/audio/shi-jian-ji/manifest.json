@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "workId": "shi-jian-ji",
+  "provider": "edge-neural",
+  "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
+  "format": "mp3",
+  "generatedAt": "2026-09-01T02:16:30.809Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/shi-jian-ji/seg-001.mp3",
+      "durationMs": 9888,
+      "checksum": "bee92a96b971755d09800de2b7787d1df34a9d19be513a81a1ea25d81233fe02",
+      "sourceHash": "c25e30c03b87a674ec53be81c89c871af0d6cb950a65d250cac4168b1285fa70"
+    }
+  ]
+}

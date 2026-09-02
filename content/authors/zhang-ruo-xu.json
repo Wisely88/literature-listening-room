@@ -1,0 +1,19 @@
+{
+  "id": "zhang-ruo-xu",
+  "slug": "zhang-ruo-xu",
+  "name": "张若虚",
+  "aliases": [],
+  "courtesyNames": [],
+  "dynasty": "唐",
+  "country": "中国",
+  "bio": "唐代诗人，扬州人，与贺知章、张旭、包融并称“吴中四士”。生平事迹记载很少，存诗仅两首，其中《春江花月夜》被誉为“孤篇横绝，竟为大家”。",
+  "styleSummary": "诗风清丽流转，善写月夜江景与离愁，意境空明深远。",
+  "timeline": [
+    { "year": 660, "title": "约于此时出生", "description": "生卒年不详，约活动于唐高宗至玄宗年间。" },
+    { "year": 720, "title": "吴中四士", "description": "与贺知章、张旭、包融齐名，并称“吴中四士”。" }
+  ],
+  "representativeWorks": [
+    { "title": "春江花月夜", "type": "诗" }
+  ],
+  "relatedPeople": []
+}

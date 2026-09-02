@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "workId": "lun-yu-wei-zheng",
+  "provider": "edge-neural",
+  "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
+  "format": "mp3",
+  "generatedAt": "2026-09-01T02:10:12.546Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/lun-yu-wei-zheng/seg-001.mp3",
+      "durationMs": 5208,
+      "checksum": "07bfa8d6a28ade1f029180fe9c0bfab6a05d58bae0e360c0130e7db4d995d79c",
+      "sourceHash": "0925e77b2bcfb22ea7fcb8a07eac9aa0e31e64bad44eddf6fe0549dd3b7dd553"
+    }
+  ]
+}

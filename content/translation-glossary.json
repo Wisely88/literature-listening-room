@@ -1,0 +1,17 @@
+[
+  { "source": "Life Guards", "target": "近卫骑兵团", "note": "英国近卫部队，不保留英文" },
+  { "source": "Woodman, Fate", "target": "樵夫‘命运’", "note": "保留狄更斯的拟人结构" },
+  { "source": "Farmer, Death", "target": "农夫‘死亡’", "note": "保留狄更斯的拟人结构" },
+  { "source": "Provincial Mayor", "target": "地方市长", "note": "人物称谓统一" },
+  { "source": "paprika hendl", "target": "红椒烩鸡", "note": "首次可附原文菜名" },
+  { "source": "mamaliga", "target": "马马利加玉米粥", "note": "首次附原文菜名" },
+  { "source": "impletata", "target": "肉馅茄子", "note": "首次附原文菜名" },
+  { "source": "Ordnance Survey", "target": "英国陆地测量局", "note": "地图机构名称" },
+  { "source": "Wallachs", "target": "瓦拉几亚人", "note": "族名统一" },
+  { "source": "Magyars", "target": "马扎尔人", "note": "族名统一" },
+  { "source": "Szekelys", "target": "塞凯伊人", "note": "族名统一" },
+  { "source": "Bistritz", "target": "比斯特里察", "note": "地名统一" },
+  { "source": "Klausenburgh", "target": "克劳森堡", "note": "地名统一" },
+  { "source": "Transylvania", "target": "特兰西瓦尼亚", "note": "地名统一" },
+  { "source": "Carpathians", "target": "喀尔巴阡山脉", "note": "地名统一" }
+]

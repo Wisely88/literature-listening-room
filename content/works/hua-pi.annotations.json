@@ -1,0 +1,8 @@
+[
+  {"id":"ann-001","workId":"hua-pi","segmentId":"seg-001","term":"襆","explanation":"包袱。","pronunciation":"fú","type":"word"},
+  {"id":"ann-002","workId":"hua-pi","segmentId":"seg-001","term":"鬻","explanation":"卖。","pronunciation":"yù","type":"word"},
+  {"id":"ann-003","workId":"hua-pi","segmentId":"seg-001","term":"楚辱","explanation":"鞭打侮辱。楚，荆条，这里指杖打。","pronunciation":"chǔ rǔ","type":"word"},
+  {"id":"ann-004","workId":"hua-pi","segmentId":"seg-003","term":"蝇拂","explanation":"用马尾等做的拂尘，用于驱赶蚊蝇，也作道士法器。","pronunciation":"yíng fú","type":"word"},
+  {"id":"ann-005","workId":"hua-pi","segmentId":"seg-004","term":"刳","explanation":"剖开、挖。","pronunciation":"kū","type":"word"},
+  {"id":"ann-006","workId":"hua-pi","segmentId":"seg-005","term":"衾裯","explanation":"被子和床帐。","pronunciation":"qīn chóu","type":"word"}
+]

@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "workId": "tao-hua-yuan-ji",
+  "provider": "edge-neural",
+  "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
+  "format": "mp3",
+  "generatedAt": "2026-08-31T14:04:44.778Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/tao-hua-yuan-ji/seg-001.mp3",
+      "durationMs": 18000,
+      "checksum": "f8fac5f4cce05b02b3dbb2083b083417fe1753040b308f51d64a3feb522b4c33",
+      "sourceHash": "e33e7d267fd183617105bb015d3b235340cb420fa5a3d9ce078df31e6a565275"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/tao-hua-yuan-ji/seg-002.mp3",
+      "durationMs": 30840,
+      "checksum": "93715c5727e0c3bb76364bf84087e71858dbb756330c74fa3a158df79b7e6923",
+      "sourceHash": "907c45fa510106c951e1c5c6a5ab2c2e5c6c9deec216fd6e4fb4f9c6215b2df2"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/tao-hua-yuan-ji/seg-003.mp3",
+      "durationMs": 38688,
+      "checksum": "a099cc51e913698245af748bd2dabe63e54490479c43e8a4855645bf1825a9b8",
+      "sourceHash": "77fa1f0affacfcef7446378983541ab9348621cb3c4b1407184a49f47c1e73fa"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/tao-hua-yuan-ji/seg-004.mp3",
+      "durationMs": 14424,
+      "checksum": "607c08894b6b6996472dd66d3be98bf07bdafedc97c3fb41b84f32072393ebb1",
+      "sourceHash": "16d06628ccda3accee10f62812cbd306ef35f8b71abd7c410f4e92ef30d379dd"
+    },
+    {
+      "id": "seg-005",
+      "url": "/audio/tao-hua-yuan-ji/seg-005.mp3",
+      "durationMs": 9888,
+      "checksum": "9e8c2d887472076b38d436699be44120a3b244d68bb34ce257725f47de614950",
+      "sourceHash": "895fe9cee4bfa3bdde580a617c5a99802803b858153ac086aed6fa0cec1af1bb"
+    }
+  ]
+}

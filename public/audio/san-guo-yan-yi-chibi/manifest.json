@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "workId": "san-guo-yan-yi-chibi",
+  "provider": "edge-neural",
+  "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
+  "format": "mp3",
+  "generatedAt": "2026-09-01T02:15:59.953Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/san-guo-yan-yi-chibi/seg-001.mp3",
+      "durationMs": 13560,
+      "checksum": "fffa75f6ff52a4dcae514f596087a29c5c2b6d31dac60867cd3edd72b6e6499d",
+      "sourceHash": "66ceb0f449c8e765c8f97282c6265314d21b32b9ddcfda1a90d50742d8a3dff4"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/san-guo-yan-yi-chibi/seg-002.mp3",
+      "durationMs": 28056,
+      "checksum": "d02ae8f2796123f41c17983caa595a3b471ee11c3648acf94a96694c7e11d7fe",
+      "sourceHash": "e766b44e1462d617483e7a9bfc98dc4a7efff861701868b25da9a0c41d3c6213"
+    }
+  ]
+}

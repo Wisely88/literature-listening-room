@@ -1,0 +1,38 @@
+{
+  "version": 1,
+  "workId": "ivanhoe",
+  "provider": "edge-neural",
+  "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
+  "format": "mp3",
+  "generatedAt": "2026-09-01T02:04:24.552Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/ivanhoe/seg-001.mp3",
+      "durationMs": 44688,
+      "checksum": "c4ca3b0c75fcd0ff70a56d4c81c235be8a6ef35177d737363e809ea5b2b466bf",
+      "sourceHash": "ea89601db303ab5ffe924b6ec7083aa7122231ee8c7f842a64a7d7a952e8a3cb"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/ivanhoe/seg-002.mp3",
+      "durationMs": 54672,
+      "checksum": "aaab17ab13b2ee03ea6adbcf00ce5dc99a233a2eccac2c1be003e445a509231c",
+      "sourceHash": "9a0737ba3f16017ef2ae003e8fbe8fba9aa1b321e8853d814c8a9ade7e1da10d"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/ivanhoe/seg-003.mp3",
+      "durationMs": 66408,
+      "checksum": "2ef3fc0c4440f3251d3c710745526db5b8fce8dc3598b046afb4fefecb181a58",
+      "sourceHash": "7b58f71c4bf4c1d41cc380704a564b177808b7f6f98e8c9149df0748686e944c"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/ivanhoe/seg-004.mp3",
+      "durationMs": 73200,
+      "checksum": "e1e74f9d3673ada0ace721eb778f8e9688c91b24fb268be91d4fb7564e5a1509",
+      "sourceHash": "9a168cfff5dadd3f236ea7d4878ecff0db71c4f7623ba8879da7894007e5e054"
+    }
+  ]
+}

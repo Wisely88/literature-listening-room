@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "workId": "lun-jin-bu",
+  "provider": "edge-neural",
+  "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
+  "format": "mp3",
+  "generatedAt": "2026-09-01T02:10:01.824Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/lun-jin-bu/seg-001.mp3",
+      "durationMs": 7704,
+      "checksum": "2cd44d5f29fd69cbf4f626e2e5a55e3deb9e62130bef4a7bf0c56e7e18d92800",
+      "sourceHash": "403ccd555b9de683965b76b711b71d2b26e845e2876f9c2c11a48b03f5870cc9"
+    }
+  ]
+}

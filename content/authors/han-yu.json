@@ -1,0 +1,25 @@
+{
+  "id": "han-yu",
+  "slug": "han-yu",
+  "name": "韩愈",
+  "aliases": ["韩文公", "韩昌黎"],
+  "courtesyNames": ["退之"],
+  "birthYear": 768,
+  "deathYear": 824,
+  "dynasty": "唐",
+  "country": "中国",
+  "bio": "唐代文学家、思想家，河南河阳（今河南孟州）人。古文运动倡导者，唐宋八大家之首，谥文。",
+  "styleSummary": "散文气势雄健、议论透辟，反对六朝骈俪之风，主张文以载道。",
+  "timeline": [
+    { "year": 768, "title": "出生", "description": "生于河南河阳。" },
+    { "year": 792, "title": "进士及第", "description": "登进士第。" },
+    { "year": 819, "title": "谏迎佛骨", "description": "上《论佛骨表》，被贬潮州。" },
+    { "year": 824, "title": "去世", "description": "病逝。" }
+  ],
+  "representativeWorks": [
+    { "title": "师说", "type": "散文" },
+    { "title": "马说", "type": "散文" },
+    { "title": "进学解", "type": "散文" }
+  ],
+  "relatedPeople": []
+}

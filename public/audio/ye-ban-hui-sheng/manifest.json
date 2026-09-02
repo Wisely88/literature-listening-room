@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "workId": "ye-ban-hui-sheng",
+  "provider": "edge-neural",
+  "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
+  "format": "mp3",
+  "generatedAt": "2026-09-01T02:37:56.578Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/ye-ban-hui-sheng/seg-001.mp3",
+      "durationMs": 11904,
+      "checksum": "1db6227ae38de858d1379b905b734be6ab6a99cd856976322c4498a56e97068e",
+      "sourceHash": "30ef8f79a33753734d6781bb6a02ed1cc25fe52efdb63f37b38236fcb0e1620e"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/ye-ban-hui-sheng/seg-002.mp3",
+      "durationMs": 6600,
+      "checksum": "55e982674ade731d0c8d9cc96c56357eb4e0d592c932f636e9b7f4fa54f9376c",
+      "sourceHash": "a3bec5d0776f55b9944f09080f93c3318f0d715ecab1c0814c38d188bba23ea2"
+    }
+  ]
+}

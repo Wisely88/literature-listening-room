@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "workId": "zeng-zi-sha-zhi",
+  "provider": "edge-neural",
+  "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
+  "format": "mp3",
+  "generatedAt": "2026-09-01T02:38:53.070Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/zeng-zi-sha-zhi/seg-001.mp3",
+      "durationMs": 8088,
+      "checksum": "b14636fa0c9712c275982686b09a6623e2a9fa1c7c63746366d1402c6650dc7d",
+      "sourceHash": "f94df1020aa2a06f5d2da8089410b0528fd999c0e18173968e57842145b88b7d"
+    }
+  ]
+}

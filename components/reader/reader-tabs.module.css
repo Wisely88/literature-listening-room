@@ -1,0 +1,249 @@
+.reader {
+  min-width: 0;
+  width: 100%;
+}
+
+.tabList {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 4px;
+  padding: 4px;
+  border: 1px solid color-mix(in srgb, var(--ink) 14%, transparent);
+  border-radius: 14px;
+}
+
+.tab {
+  min-width: 0;
+  min-height: 44px;
+  padding: 8px 6px;
+  border: 0;
+  border-radius: 10px;
+  background: transparent;
+  color: var(--muted);
+  font: inherit;
+  font-size: 0.875rem;
+  line-height: 1.25;
+  cursor: pointer;
+}
+
+.tab:hover {
+  color: var(--ink);
+  background: color-mix(in srgb, var(--ink) 5%, transparent);
+}
+
+.tab[aria-selected="true"] {
+  color: var(--ink);
+  background: color-mix(in srgb, var(--ink) 9%, transparent);
+  font-weight: 600;
+}
+
+.panel {
+  min-width: 0;
+  padding-block: 30px 72px;
+}
+
+.panel[hidden] {
+  display: none;
+}
+
+.panelHeading {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 16px;
+  margin-bottom: 24px;
+  padding-bottom: 14px;
+  border-bottom: 1px solid color-mix(in srgb, var(--ink) 12%, transparent);
+}
+
+.panelHeading h2 {
+  margin: 0;
+  font-family: "Songti SC", STSong, "Noto Serif SC", serif;
+  font-size: 1.5rem;
+  font-weight: 600;
+}
+
+.panelHeading span {
+  flex: none;
+  color: var(--muted);
+  font-size: 0.75rem;
+}
+
+.originalText,
+.supportingText {
+  font-family: "Songti SC", STSong, "Noto Serif SC", serif;
+  overflow-wrap: anywhere;
+}
+
+.originalText {
+  font-size: 1.125rem;
+  line-height: 1.9;
+}
+
+.supportingText {
+  font-size: 1.0625rem;
+  line-height: 1.9;
+}
+
+.originalText p,
+.supportingText p {
+  margin: 0;
+}
+
+.originalText p + p,
+.supportingText p + p {
+  margin-top: 1.35em;
+}
+
+.originalText p {
+  border-radius: 8px;
+  transition: background-color 160ms ease, color 160ms ease;
+}
+
+.clickable p {
+  cursor: pointer;
+}
+
+.clickable p:hover {
+  color: var(--accent-strong);
+}
+
+.activeSegment {
+  background: color-mix(in srgb, var(--accent) 12%, transparent);
+  box-shadow: -12px 0 0 color-mix(in srgb, var(--accent) 12%, transparent);
+}
+
+.annotationList {
+  display: grid;
+  gap: 0;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.annotationItem {
+  padding: 20px 0;
+  border-bottom: 1px solid color-mix(in srgb, var(--ink) 11%, transparent);
+}
+
+.annotationItem:first-child {
+  padding-top: 0;
+}
+
+.annotationItem:last-child {
+  border-bottom: 0;
+}
+
+.annotationItem p {
+  margin: 8px 0 0;
+  font-family: "Songti SC", STSong, "Noto Serif SC", serif;
+  font-size: 1rem;
+  line-height: 1.8;
+}
+
+.annotationHeading {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 8px 10px;
+}
+
+.annotationHeading strong {
+  font-family: "Songti SC", STSong, "Noto Serif SC", serif;
+  font-size: 1.125rem;
+}
+
+.annotationHeading span {
+  padding: 2px 7px;
+  border: 1px solid color-mix(in srgb, var(--ink) 14%, transparent);
+  border-radius: 999px;
+  color: var(--muted);
+  font-size: 0.75rem;
+}
+
+.annotationItem .pronunciation {
+  color: var(--muted);
+  font-family: inherit;
+  font-size: 0.8125rem;
+  line-height: 1.5;
+}
+
+.authorPanel {
+  display: grid;
+  gap: 20px;
+  font-family: "Songti SC", STSong, "Noto Serif SC", serif;
+  font-size: 1.0625rem;
+  line-height: 1.85;
+}
+
+.authorPanel p {
+  margin: 0;
+}
+
+.authorName {
+  font-size: 1.4rem;
+  font-weight: 600;
+}
+
+.authorMeta {
+  color: var(--muted);
+  font-family: -apple-system, BlinkMacSystemFont, "PingFang SC", "Microsoft YaHei", sans-serif;
+  font-size: 0.875rem;
+}
+
+.authorSection {
+  padding-top: 18px;
+  border-top: 1px solid color-mix(in srgb, var(--ink) 11%, transparent);
+}
+
+.authorSection h3 {
+  margin: 0 0 8px;
+  font-size: 1.0625rem;
+}
+
+.authorLink {
+  display: inline-flex;
+  width: fit-content;
+  min-height: 44px;
+  align-items: center;
+  gap: 8px;
+  color: var(--ink);
+  font-family: -apple-system, BlinkMacSystemFont, "PingFang SC", "Microsoft YaHei", sans-serif;
+  font-size: 0.9375rem;
+  text-underline-offset: 5px;
+}
+
+.empty {
+  margin: 0;
+  padding: 32px 0;
+  color: var(--muted);
+  text-align: center;
+}
+
+@media (min-width: 640px) {
+  .tabList {
+    display: flex;
+  }
+
+  .tab {
+    flex: 1;
+    padding-inline: 12px;
+  }
+
+  .originalText {
+    font-size: 1.25rem;
+    line-height: 2;
+  }
+
+  .supportingText,
+  .authorPanel {
+    font-size: 1.125rem;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .tab,
+  .authorLink {
+    scroll-behavior: auto;
+  }
+}

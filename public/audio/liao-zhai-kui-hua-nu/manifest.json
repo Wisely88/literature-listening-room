@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "workId": "liao-zhai-kui-hua-nu",
+  "provider": "edge-neural",
+  "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
+  "format": "mp3",
+  "generatedAt": "2026-09-01T02:08:51.410Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/liao-zhai-kui-hua-nu/seg-001.mp3",
+      "durationMs": 10368,
+      "checksum": "66f3f94991da5907b948daacdc204509b4fad708adf9fb5f52c85c430892b4fe",
+      "sourceHash": "936259047b8929011f0580fbcde227da7a3db616f99f2e118c52320447050f88"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/liao-zhai-kui-hua-nu/seg-002.mp3",
+      "durationMs": 9480,
+      "checksum": "84faddc88a6f868d1c24a1f38c1cdecad80121ee305c8fd591517c14e6096fba",
+      "sourceHash": "84b12e7130c21c1674dbc34550f3129075b2a92cf312b44dd8aabc88c150d229"
+    }
+  ]
+}

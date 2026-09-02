@@ -1,0 +1,28 @@
+{
+  "id": "li-bai",
+  "slug": "li-bai",
+  "name": "李白",
+  "aliases": ["青莲居士", "诗仙"],
+  "courtesyNames": ["太白"],
+  "birthYear": 701,
+  "deathYear": 762,
+  "dynasty": "唐",
+  "country": "中国",
+  "bio": "唐代伟大的浪漫主义诗人，祖籍陇西成纪，生于碎叶。诗风豪放飘逸，想象奇特，与杜甫并称“李杜”，被后世尊为“诗仙”。",
+  "styleSummary": "诗作想象瑰丽、气势奔放，善于用夸张、比喻与神话，语言清新自然，情感真挚豪迈。",
+  "timeline": [
+    { "year": 701, "title": "出生", "description": "生于碎叶（一说蜀中）。" },
+    { "year": 725, "title": "出蜀远游", "description": "仗剑去国，辞亲远游，游历长江中下游。" },
+    { "year": 742, "title": "供奉翰林", "description": "受诏入京，供奉翰林。" },
+    { "year": 744, "title": "赐金放还", "description": "离开长安，开始第二次漫游，与杜甫相遇。" },
+    { "year": 755, "title": "安史之乱", "description": "安史之乱爆发，流离各地。" },
+    { "year": 762, "title": "去世", "description": "病逝于当涂。" }
+  ],
+  "representativeWorks": [
+    { "title": "静夜思", "type": "诗" },
+    { "title": "将进酒", "type": "诗" },
+    { "title": "蜀道难", "type": "诗" },
+    { "title": "望庐山瀑布", "type": "诗" }
+  ],
+  "relatedPeople": []
+}

@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "workId": "walden-economy",
+  "provider": "edge-neural",
+  "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
+  "format": "mp3",
+  "generatedAt": "2026-09-01T02:29:31.357Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/walden-economy/seg-001.mp3",
+      "durationMs": 33816,
+      "checksum": "32453e18cf45ed318ed9dcc7eb65a62b2b077ca1c310a5e71abc0c65602efa06",
+      "sourceHash": "daaf78dad5ca4b1e9c3e4dbd241678e5fa9fd6507fb525770e31a9c76d610eed"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/walden-economy/seg-002.mp3",
+      "durationMs": 150048,
+      "checksum": "edac77728bce1609cca9b614d4056dd8d4879dba3ef72794c0bbf85ed364032a",
+      "sourceHash": "d91bbf69b54b91168ff3c07928ca3499f08253e31773ab087b7c4b30207b2ce1"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/walden-economy/seg-003.mp3",
+      "durationMs": 38232,
+      "checksum": "2384e155b1c7cc8ee909b47e5c2112f04d54a838d01f1fb10d164f5cbf07fa72",
+      "sourceHash": "ede16caa7b96706a1c8e7c53fb71e813ea39eb36492a69febdeeada2adc410bc"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/walden-economy/seg-004.mp3",
+      "durationMs": 69936,
+      "checksum": "053fad1901ae0fa99c0611f4e727f1b475ba65de7bd1d23066594964daba8fe9",
+      "sourceHash": "60f1bde2932a6008ff9fb53c2abcc8fb4891511b1744193f59376e67d98f38b5"
+    },
+    {
+      "id": "seg-005",
+      "url": "/audio/walden-economy/seg-005.mp3",
+      "durationMs": 68736,
+      "checksum": "312da90301b00157cb249a030cd4be9c6090f46f62d376c4858be1881b07d2f6",
+      "sourceHash": "0152f98aef07da7dc5d424436ee28a1136fe9848ff3ffc30a584c5b68bbdc49f"
+    }
+  ]
+}

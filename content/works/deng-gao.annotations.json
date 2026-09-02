@@ -1,0 +1,7 @@
+[
+  {"id":"ann-001","workId":"deng-gao","segmentId":"seg-001","term":"渚","explanation":"水中的小洲。","pronunciation":"zhǔ","type":"word"},
+  {"id":"ann-002","workId":"deng-gao","segmentId":"seg-002","term":"落木","explanation":"落叶。","pronunciation":"luò mù","type":"word"},
+  {"id":"ann-003","workId":"deng-gao","segmentId":"seg-003","term":"百年","explanation":"这里指一生。","pronunciation":"bǎi nián","type":"word"},
+  {"id":"ann-004","workId":"deng-gao","segmentId":"seg-004","term":"苦恨","explanation":"极其遗憾、深恨。","pronunciation":"kǔ hèn","type":"word"},
+  {"id":"ann-005","workId":"deng-gao","segmentId":"seg-004","term":"潦倒","explanation":"穷困失意。","pronunciation":"liáo dǎo","type":"word"}
+]

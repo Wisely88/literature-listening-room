@@ -1,0 +1,6 @@
+[
+  {"id":"ann-walden-001","workId":"walden-solitude","segmentId":"seg-001","term":"live deliberately","explanation":"有意识、有选择地生活，而不是被惯性和琐事推着走。","pronunciation":"liv dih-LIB-er-it-lee","type":"grammar"},
+  {"id":"ann-walden-002","workId":"walden-solitude","segmentId":"seg-002","term":"the marrow of life","explanation":"字面是“生命的骨髓”，这里指生活中最充实、最核心的部分。","pronunciation":"the MAR-oh of life","type":"word"},
+  {"id":"ann-walden-003","workId":"walden-solitude","segmentId":"seg-002","term":"Simplify, simplify","explanation":"连续重复形成劝诫语气，强调主动减少不必要的负担。","pronunciation":"SIM-pluh-fy, SIM-pluh-fy","type":"grammar"},
+  {"id":"ann-walden-004","workId":"walden-solitude","segmentId":"seg-002","term":"meet it and live it","explanation":"不是回避平凡生活，而是承认它、面对它并在其中实践自己的生活。","pronunciation":"meet it and live it","type":"grammar"}
+]

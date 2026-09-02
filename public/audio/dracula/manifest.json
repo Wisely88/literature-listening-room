@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "workId": "dracula",
+  "provider": "edge-neural",
+  "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
+  "format": "mp3",
+  "generatedAt": "2026-09-01T01:57:26.384Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/dracula/seg-001.mp3",
+      "durationMs": 49200,
+      "checksum": "0ae6041343163ec53d91e6a1baad48210e29df33d376e0eda3872cd6a0d7d4e0",
+      "sourceHash": "d8d9db4dbfce2e13e624d14fda9dc4cd570998c5b53750ea73df472c97c34faa"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/dracula/seg-002.mp3",
+      "durationMs": 38232,
+      "checksum": "b0cb16f149afaba1f83669dfba64e635347557e1890e007879a27b6a44d4d2be",
+      "sourceHash": "7781972c396bbd5e8eb55b644eb14636d2414815d221fc1dd0345b5fb8c5ba2a"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/dracula/seg-003.mp3",
+      "durationMs": 65376,
+      "checksum": "a7f54e304b0dcd0e2aedf83546a8d4daa8f86077ab9bdc085704d945dc620cdc",
+      "sourceHash": "9255b8782debeb73362571223ed53ea239425c4e91907fbca8e15efab44aa702"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/dracula/seg-004.mp3",
+      "durationMs": 52632,
+      "checksum": "ab9ad3e2c22936d1f04418d1193ced31b5da4a17fe331bc01275c43869230b8a",
+      "sourceHash": "5c340bf31848c5262cf7617a31be068c16d11339fc1f3ab1ccfcdef3483f6d63"
+    },
+    {
+      "id": "seg-005",
+      "url": "/audio/dracula/seg-005.mp3",
+      "durationMs": 58872,
+      "checksum": "e90d7d3bf283dd72d772f2eb7f560d1ba7cd3acb942ae2f2286b5cfa67905230",
+      "sourceHash": "4bd466efded9ae21904576bbbe773dc08c67b69feda5f0a49d8425c762d0f3a7"
+    },
+    {
+      "id": "seg-006",
+      "url": "/audio/dracula/seg-006.mp3",
+      "durationMs": 31392,
+      "checksum": "ad2f0d3f64876e7d88ec985cc375ea435af06bc94484add0a0e29a1ced6185f8",
+      "sourceHash": "040cf3eb84633d6a4b0d2b8d86a57edd9ec2b5cc644a1ee54e05aff8c2693349"
+    }
+  ]
+}

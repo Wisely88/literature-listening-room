@@ -1,0 +1,12 @@
+services:
+  literature-room:
+    build: .
+    ports:
+      - "3000:3000"
+    env_file:
+      - .env.docker
+    volumes:
+      - literature-room-data:/app/data
+
+volumes:
+  literature-room-data:

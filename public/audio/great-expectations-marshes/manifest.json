@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "workId": "great-expectations-marshes",
+  "provider": "edge-neural",
+  "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
+  "format": "mp3",
+  "generatedAt": "2026-09-01T02:01:15.930Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/great-expectations-marshes/seg-001.mp3",
+      "durationMs": 15360,
+      "checksum": "86c3a98eeb96341375a13579af21b6a559196c19284e016db91c38351b757d78",
+      "sourceHash": "a1e0b4b2150b797adcca59c7b3a0cdeb7b0039e1e0d16cc26dca12ba1b0f5d3b"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/great-expectations-marshes/seg-002.mp3",
+      "durationMs": 75096,
+      "checksum": "bf9ca64fc5fe7eb0af82f101368ffaa6bc2eab8344668e74b44606f1d3373a5b",
+      "sourceHash": "4227e2ec1ab0900312db1e1b749b2229089bdac44cf28f90e23ec2cb2a5321a1"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/great-expectations-marshes/seg-003.mp3",
+      "durationMs": 67224,
+      "checksum": "c02fbd989b0a622baba0fc7abd1c30dd47edd9bbad2fb7b38acca5f1d3449725",
+      "sourceHash": "7166084892d453ef8a6292cf97e0ef5db69f131930530d5cc16634cdf1c0988a"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/great-expectations-marshes/seg-004.mp3",
+      "durationMs": 13224,
+      "checksum": "8fa7a94e114492b2c822da9dd9c72d1a9a641ad5dc948a47ac4b108cc2dce927",
+      "sourceHash": "6a8f7880246c98540098d9b1ef660725e7bd8d0216390019dad30860318f6e72"
+    },
+    {
+      "id": "seg-005",
+      "url": "/audio/great-expectations-marshes/seg-005.mp3",
+      "durationMs": 30696,
+      "checksum": "2ce4bbac9868cad8f3a7440dd54509c04e10629f279f63abe2d0d7ee226c7cfd",
+      "sourceHash": "5f29955e922c83c817a18b60ae4a99a95cb5a0a7b13896c1edacc2e927b41458"
+    },
+    {
+      "id": "seg-006",
+      "url": "/audio/great-expectations-marshes/seg-006.mp3",
+      "durationMs": 7800,
+      "checksum": "99eaaadbbde77a80237b1dee17e333342aa2460ef4913d1700b815998d13ac30",
+      "sourceHash": "9ba4ef70549680f887684457e99b17ff77f11f353866176e7636349b4fa63843"
+    },
+    {
+      "id": "seg-007",
+      "url": "/audio/great-expectations-marshes/seg-007.mp3",
+      "durationMs": 4656,
+      "checksum": "de6555d9ad40a7983cbe754c707576f37cf46f9fbca8ae79345b4db00d11654c",
+      "sourceHash": "d18dfc263d6ac26b87fe684dcb91bb08877f42a33b9f66041efac42c33dd8696"
+    },
+    {
+      "id": "seg-008",
+      "url": "/audio/great-expectations-marshes/seg-008.mp3",
+      "durationMs": 2304,
+      "checksum": "4046fa10a7309b64f3545b105d94bc527129fad5fa171c773f0dbfd281ac3dff",
+      "sourceHash": "5b742aeb4e4e3d77db1091885850db7138657eaeec338fc9b7e199aeda04878a"
+    },
+    {
+      "id": "seg-009",
+      "url": "/audio/great-expectations-marshes/seg-009.mp3",
+      "durationMs": 4296,
+      "checksum": "0a6b92dc8a23b0a67862f529b5bb8caa84bca659c60bc121e2e3bd5fa8e78339",
+      "sourceHash": "b7e958cea56c8b5ca23fceb4de47fc703c25386092e1030781b0986ef9791740"
+    },
+    {
+      "id": "seg-010",
+      "url": "/audio/great-expectations-marshes/seg-010.mp3",
+      "durationMs": 2304,
+      "checksum": "a6640568a47f1bc03392e5bb61392cc5aa27154c2c2a992214a34794e1e0dd48",
+      "sourceHash": "5b742aeb4e4e3d77db1091885850db7138657eaeec338fc9b7e199aeda04878a"
+    },
+    {
+      "id": "seg-011",
+      "url": "/audio/great-expectations-marshes/seg-011.mp3",
+      "durationMs": 4560,
+      "checksum": "bcecb55b86e421da5ad1c535b6e318abe9f37cc1fb9f7a11123f9f217432ed76",
+      "sourceHash": "dc3513eb165919ba561cd5b061e9894fc4b945f7bf6b96e3240b90b6f3771496"
+    },
+    {
+      "id": "seg-012",
+      "url": "/audio/great-expectations-marshes/seg-012.mp3",
+      "durationMs": 10680,
+      "checksum": "165af2b7d7f6b3708065b28d327abbe3cb67853af2605e489e4da0702aefdd43",
+      "sourceHash": "013d265d45563699eb85457383ac0756cd2a83ec72de2f5721ceacb2a021c965"
+    },
+    {
+      "id": "seg-013",
+      "url": "/audio/great-expectations-marshes/seg-013.mp3",
+      "durationMs": 29112,
+      "checksum": "e2fbbae43799e1768e92f0f25cd5a774f54d502c2d788adcb90e650e3f7496c2",
+      "sourceHash": "915eb729dfc4ab34a84ca16a0c80cde5dbfe0739d48281d40fcf7e092ef25ce3"
+    },
+    {
+      "id": "seg-014",
+      "url": "/audio/great-expectations-marshes/seg-014.mp3",
+      "durationMs": 5424,
+      "checksum": "641ce406a14c469c7275910d4fd9a80ddb7c48dbf6fe14bcb2ac31abf77d9510",
+      "sourceHash": "e7df2922b93f89cfde37717929ec0ae0c72dfc67ad7ac22d29c056d93cc0bf2e"
+    },
+    {
+      "id": "seg-015",
+      "url": "/audio/great-expectations-marshes/seg-015.mp3",
+      "durationMs": 7344,
+      "checksum": "2d2b3c5bf66be2e12bae82bd9fa07e69775ac4260b983c6d4c9e3005ec9fa37b",
+      "sourceHash": "3bd8b933f3c1e34afc2960476a33f3ea17a4cdcb5323913f4d34017aabc6e6f1"
+    },
+    {
+      "id": "seg-016",
+      "url": "/audio/great-expectations-marshes/seg-016.mp3",
+      "durationMs": 7032,
+      "checksum": "b013c025bb2a3bb79157aa5566dfbb265c69e4173224231e2dfcc376211ee14b",
+      "sourceHash": "cbb886747dd0417afe935370d48d1d09752f8faa5a50bf5cbf684a260a6f2f17"
+    },
+    {
+      "id": "seg-017",
+      "url": "/audio/great-expectations-marshes/seg-017.mp3",
+      "durationMs": 15216,
+      "checksum": "8e6036c52e9695ca8d92f358a05477799632e2410c15bd44e19ed9591b61c90a",
+      "sourceHash": "675e47b2a002d6b7d1b35a624864c624ee0eba2c05d1decb12242fa11fd96c4f"
+    },
+    {
+      "id": "seg-018",
+      "url": "/audio/great-expectations-marshes/seg-018.mp3",
+      "durationMs": 4584,
+      "checksum": "45abf08c2337b8e0f6abd6e6111522fe2ed0559d92920c7db4b4edb8663146ac",
+      "sourceHash": "242226726d3ccb13f67e452404330431a5d6f1d94b10d3cccec9d4389d236a2f"
+    }
+  ]
+}

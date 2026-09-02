@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "workId": "walden-solitude",
+  "provider": "edge-neural",
+  "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
+  "format": "mp3",
+  "generatedAt": "2026-09-01T02:31:40.917Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/walden-solitude/seg-001.mp3",
+      "durationMs": 80856,
+      "checksum": "d48d507de68a89e1019b7a6f4e9f671bd0738986524df737aa667462b3ed95e7",
+      "sourceHash": "ef7c2a54cea75e0eb380e4a6691974c2e75c440f236423ba8df59c2e70e9748f"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/walden-solitude/seg-002.mp3",
+      "durationMs": 243864,
+      "checksum": "82c0a81b3bf71c044619fbd34b14c202e47b45b2d91c598099744521e60877da",
+      "sourceHash": "6a1d5f3b8763063c81ceae9201f75076ce8baccc876f4e1c5a166c8cb2c863fd"
+    }
+  ]
+}

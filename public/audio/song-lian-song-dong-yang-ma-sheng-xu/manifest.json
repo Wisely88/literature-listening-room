@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "workId": "song-lian-song-dong-yang-ma-sheng-xu",
+  "provider": "edge-neural",
+  "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
+  "format": "mp3",
+  "generatedAt": "2026-09-01T02:17:08.771Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/song-lian-song-dong-yang-ma-sheng-xu/seg-001.mp3",
+      "durationMs": 10464,
+      "checksum": "ec6e799b46c82a3fc9183aae20704cce00b4fd54c0add0358b6d901cbc78904e",
+      "sourceHash": "b7251f967d1f49d563a76a093c3f61d4101bab8c48f0de26ada901c96f519271"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/song-lian-song-dong-yang-ma-sheng-xu/seg-002.mp3",
+      "durationMs": 8592,
+      "checksum": "b30a7fe91461674d4b0cfa77ff5a1ee3ad69d92fa1aed6c616a595b49b1e63d4",
+      "sourceHash": "4d3039e1e7a4bdca564aae63974a7af9b95156cff30e09dce84d8035a97683dc"
+    }
+  ]
+}

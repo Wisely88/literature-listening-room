@@ -1,0 +1,26 @@
+{
+  "id": "ouyang-xiu",
+  "slug": "ouyang-xiu",
+  "name": "欧阳修",
+  "aliases": ["醉翁", "六一居士"],
+  "courtesyNames": ["永叔"],
+  "birthYear": 1007,
+  "deathYear": 1072,
+  "dynasty": "北宋",
+  "country": "中国",
+  "bio": "北宋政治家、文学家、史学家，吉州永丰（今属江西）人。北宋诗文革新运动的领袖，唐宋八大家之一，谥文忠。",
+  "styleSummary": "散文纡徐委备、平易畅达，诗词亦清新婉丽，善于从日常中见情致。",
+  "timeline": [
+    { "year": 1007, "title": "出生", "description": "生于绵州。" },
+    { "year": 1030, "title": "进士及第", "description": "登进士第。" },
+    { "year": 1045, "title": "贬知滁州", "description": "谪居滁州，作《醉翁亭记》。" },
+    { "year": 1057, "title": "主考礼部", "description": "主持嘉祐二年礼部试，赏识苏轼。" },
+    { "year": 1072, "title": "去世", "description": "病逝于颍州。" }
+  ],
+  "representativeWorks": [
+    { "title": "醉翁亭记", "type": "散文" },
+    { "title": "秋声赋", "type": "赋" },
+    { "title": "生查子·元夕", "type": "词" }
+  ],
+  "relatedPeople": []
+}

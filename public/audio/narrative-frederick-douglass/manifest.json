@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "workId": "narrative-frederick-douglass",
+  "provider": "edge-neural",
+  "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
+  "format": "mp3",
+  "generatedAt": "2026-09-01T02:12:06.781Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/narrative-frederick-douglass/seg-001.mp3",
+      "durationMs": 83160,
+      "checksum": "bdabd68c698028206b053eee4637b8984b058c7ef3b5d0cceccf067bfd995ab9",
+      "sourceHash": "689f2cc1f886b72524ea49456d718643ae3de981fb48c5eaa6417da0d1a8455c"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/narrative-frederick-douglass/seg-002.mp3",
+      "durationMs": 14496,
+      "checksum": "f18175db271a169d594cfd1634c7223a27c446eb98f2406c6fab7372f2385e12",
+      "sourceHash": "05c65cd21b597b492c2a5b2c3a2747ffcada74cde992f08fca8c36671e41864d"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/narrative-frederick-douglass/seg-003.mp3",
+      "durationMs": 64752,
+      "checksum": "a2becc84470cde449daaffe46be89d154ccdd8d6b054c2ee91e80bc022d8a226",
+      "sourceHash": "567249b04b95cfe6a51cedd0cdcf378dd76ff821cee3957321b76b0ecaa646e2"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/narrative-frederick-douglass/seg-004.mp3",
+      "durationMs": 92064,
+      "checksum": "bff3a4d4ee27b6346ed19f977a2bc793dadab7df82b2d7c1d7e90bdb1e2c1e14",
+      "sourceHash": "133ef82dcb07be64ae0de0643edc650ad3a5b07d8828a70ce9517b3025892bc6"
+    },
+    {
+      "id": "seg-005",
+      "url": "/audio/narrative-frederick-douglass/seg-005.mp3",
+      "durationMs": 43824,
+      "checksum": "97da18cf5805d820db01a4e60789750ff1668afe6199da4f311feadce13c034e",
+      "sourceHash": "afa8b37aaec07102b493ccee4b28bf469ca26cbb8d7ac0feea462638f7892dc4"
+    }
+  ]
+}

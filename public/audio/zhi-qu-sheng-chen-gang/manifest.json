@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "workId": "zhi-qu-sheng-chen-gang",
+  "provider": "edge-neural",
+  "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
+  "format": "mp3",
+  "generatedAt": "2026-09-01T02:39:22.176Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/zhi-qu-sheng-chen-gang/seg-001.mp3",
+      "durationMs": 8760,
+      "checksum": "161dce078592c167646dd49c9499327c2a9823e5c6d57340628c58f8a6cfa76c",
+      "sourceHash": "1d46d3469fc77b72559d5cc44dcffbd9fd89708bff832a4786058f506fd0b40e"
+    }
+  ]
+}

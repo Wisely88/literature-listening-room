@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "workId": "xin-ling-jun-qie-fu-jiu-zhao",
+  "provider": "edge-neural",
+  "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
+  "format": "mp3",
+  "generatedAt": "2026-09-01T02:37:18.343Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/xin-ling-jun-qie-fu-jiu-zhao/seg-001.mp3",
+      "durationMs": 10512,
+      "checksum": "35e8f305669d06df68cf71f8c86033bf6182527b5ab80a510c43008df339064f",
+      "sourceHash": "29eddb753e9e8b40a7a289966f41aeec755c6f7240a464bf5a74b713ce4fcead"
+    }
+  ]
+}

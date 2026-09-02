@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "workId": "san-jie-ba-jiao-shan",
+  "provider": "edge-neural",
+  "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
+  "format": "mp3",
+  "generatedAt": "2026-09-01T02:16:03.560Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/san-jie-ba-jiao-shan/seg-001.mp3",
+      "durationMs": 8232,
+      "checksum": "55ef892fb429e39fab745682a653a268cb64a829a5319a069aeb0a19ee4f4624",
+      "sourceHash": "d3d3e80055d94dea5bc3709cdb396beebd454901e03ac9ef2bd6243c99ce4989"
+    }
+  ]
+}

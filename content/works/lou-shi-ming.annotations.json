@@ -1,0 +1,10 @@
+[
+  {"id":"ann-001","workId":"lou-shi-ming","segmentId":"seg-001","term":"名","explanation":"名词用作动词，出名、有名。","pronunciation":"míng","type":"grammar"},
+  {"id":"ann-002","workId":"lou-shi-ming","segmentId":"seg-001","term":"灵","explanation":"灵异，这里用作动词，有灵验、显灵。","pronunciation":"líng","type":"word"},
+  {"id":"ann-003","workId":"lou-shi-ming","segmentId":"seg-001","term":"德馨","explanation":"品德美好，散发的芳香。馨，能散布很远的香气。","pronunciation":"dé xīn","type":"word"},
+  {"id":"ann-004","workId":"lou-shi-ming","segmentId":"seg-002","term":"鸿儒","explanation":"博学的人。鸿，大；儒，读书人。","pronunciation":"hóng rú","type":"word"},
+  {"id":"ann-005","workId":"lou-shi-ming","segmentId":"seg-002","term":"白丁","explanation":"没有功名或学问浅薄的人。","pronunciation":"bái dīng","type":"word"},
+  {"id":"ann-006","workId":"lou-shi-ming","segmentId":"seg-002","term":"素琴","explanation":"不加装饰的琴。","pronunciation":"sù qín","type":"word"},
+  {"id":"ann-007","workId":"lou-shi-ming","segmentId":"seg-002","term":"金经","explanation":"用泥金书写的佛经，泛指珍贵的经书。","pronunciation":"jīn jīng","type":"word"},
+  {"id":"ann-008","workId":"lou-shi-ming","segmentId":"seg-003","term":"子云亭","explanation":"指西汉扬雄的宅子。扬雄字子云。","pronunciation":"zǐ yún tíng","type":"person"}
+]

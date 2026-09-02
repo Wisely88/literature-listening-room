@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "workId": "chao-ran-tai-ji",
+  "provider": "edge-neural",
+  "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
+  "format": "mp3",
+  "generatedAt": "2026-09-01T01:54:22.193Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/chao-ran-tai-ji/seg-001.mp3",
+      "durationMs": 7224,
+      "checksum": "7b195a3c405ee6b3cae9a81326b98a6296b25274987b8c2bfb3b4f2b2be01deb",
+      "sourceHash": "61c75c73bb0b1d0765b3258ef1408923a0970f9d124f6e4e8a36dd51801c8f2a"
+    }
+  ]
+}

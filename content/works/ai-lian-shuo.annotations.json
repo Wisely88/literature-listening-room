@@ -1,0 +1,10 @@
+[
+  {"id":"ann-001","workId":"ai-lian-shuo","segmentId":"seg-001","term":"蕃","explanation":"多、众多。","pronunciation":"fán","type":"word"},
+  {"id":"ann-002","workId":"ai-lian-shuo","segmentId":"seg-002","term":"淤泥","explanation":"水底沉积的污泥。","pronunciation":"yū ní","type":"word"},
+  {"id":"ann-003","workId":"ai-lian-shuo","segmentId":"seg-002","term":"濯清涟","explanation":"在清水里洗涤。濯，洗涤；清涟，清澈的水波。","pronunciation":"zhuó qīng lián","type":"word"},
+  {"id":"ann-004","workId":"ai-lian-shuo","segmentId":"seg-002","term":"不蔓不枝","explanation":"不生枝蔓，不长枝节。","pronunciation":"bù màn bù zhī","type":"word"},
+  {"id":"ann-005","workId":"ai-lian-shuo","segmentId":"seg-002","term":"亭亭净植","explanation":"笔直洁净地挺立。亭亭，耸立的样子；植，竖立。","pronunciation":"tíng tíng jìng zhí","type":"word"},
+  {"id":"ann-006","workId":"ai-lian-shuo","segmentId":"seg-002","term":"亵玩","explanation":"亲近而不庄重地玩弄。","pronunciation":"xiè wán","type":"word"},
+  {"id":"ann-007","workId":"ai-lian-shuo","segmentId":"seg-003","term":"鲜","explanation":"少。","pronunciation":"xiǎn","type":"word"},
+  {"id":"ann-008","workId":"ai-lian-shuo","segmentId":"seg-003","term":"宜乎","explanation":"当然、应当。","pronunciation":"yí hū","type":"word"}
+]

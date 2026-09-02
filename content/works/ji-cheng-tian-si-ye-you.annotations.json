@@ -1,0 +1,209 @@
+[
+  {
+    "id": "ann-001",
+    "workId": "ji-cheng-tian-si-ye-you",
+    "segmentId": "seg-001",
+    "term": "元丰六年",
+    "explanation": "宋神宗元丰年号的第六年，即公元1083年；文中的十月十二日为农历日期。",
+    "pronunciation": "yuán fēng liù nián",
+    "type": "history"
+  },
+  {
+    "id": "ann-002",
+    "workId": "ji-cheng-tian-si-ye-you",
+    "segmentId": "seg-001",
+    "term": "解衣",
+    "explanation": "解开衣带、脱下衣服。",
+    "pronunciation": "jiě yī",
+    "type": "word"
+  },
+  {
+    "id": "ann-003",
+    "workId": "ji-cheng-tian-si-ye-you",
+    "segmentId": "seg-001",
+    "term": "户",
+    "explanation": "门。本稿按古汉语常用义译作“门”；部分现代译注作“窗”。",
+    "pronunciation": "hù",
+    "type": "word"
+  },
+  {
+    "id": "ann-004",
+    "workId": "ji-cheng-tian-si-ye-you",
+    "segmentId": "seg-001",
+    "term": "欣然",
+    "explanation": "高兴、欣喜的样子。",
+    "pronunciation": "xīn rán",
+    "type": "word"
+  },
+  {
+    "id": "ann-005",
+    "workId": "ji-cheng-tian-si-ye-you",
+    "segmentId": "seg-001",
+    "term": "起行",
+    "explanation": "起身出门行走，此处指乘兴夜游。",
+    "pronunciation": "qǐ xíng",
+    "type": "word"
+  },
+  {
+    "id": "ann-006",
+    "workId": "ji-cheng-tian-si-ye-you",
+    "segmentId": "seg-002",
+    "term": "念",
+    "explanation": "想到、考虑到。",
+    "pronunciation": "niàn",
+    "type": "word"
+  },
+  {
+    "id": "ann-007",
+    "workId": "ji-cheng-tian-si-ye-you",
+    "segmentId": "seg-002",
+    "term": "无与为乐者",
+    "explanation": "没有可以同自己一起享受这番乐趣的人。",
+    "pronunciation": "wú yǔ wéi lè zhě",
+    "type": "grammar"
+  },
+  {
+    "id": "ann-008",
+    "workId": "ji-cheng-tian-si-ye-you",
+    "segmentId": "seg-002",
+    "term": "遂",
+    "explanation": "于是、便。",
+    "pronunciation": "suì",
+    "type": "word"
+  },
+  {
+    "id": "ann-009",
+    "workId": "ji-cheng-tian-si-ye-you",
+    "segmentId": "seg-002",
+    "term": "承天寺",
+    "explanation": "宋代黄州的一座寺院。通常认为故址在今湖北黄冈城区，具体古址定位仍宜以地方文保资料复核。",
+    "pronunciation": "chéng tiān sì",
+    "type": "place"
+  },
+  {
+    "id": "ann-010",
+    "workId": "ji-cheng-tian-si-ye-you",
+    "segmentId": "seg-002",
+    "term": "张怀民",
+    "explanation": "苏轼在黄州的友人，也是这次月夜同行者。其名、字及与张梦得、张偓佺的对应关系，后世资料存在歧说。",
+    "pronunciation": "zhāng huái mín",
+    "type": "person"
+  },
+  {
+    "id": "ann-011",
+    "workId": "ji-cheng-tian-si-ye-you",
+    "segmentId": "seg-003",
+    "term": "寝",
+    "explanation": "睡觉、就寝。",
+    "pronunciation": "qǐn",
+    "type": "word"
+  },
+  {
+    "id": "ann-012",
+    "workId": "ji-cheng-tian-si-ye-you",
+    "segmentId": "seg-003",
+    "term": "相与",
+    "explanation": "共同、一起。",
+    "pronunciation": "xiāng yǔ",
+    "type": "word"
+  },
+  {
+    "id": "ann-013",
+    "workId": "ji-cheng-tian-si-ye-you",
+    "segmentId": "seg-003",
+    "term": "步于中庭",
+    "explanation": "在庭院里散步。“步”在这里作动词；“于中庭”表示地点。",
+    "pronunciation": "bù yú zhōng tíng",
+    "type": "grammar"
+  },
+  {
+    "id": "ann-014",
+    "workId": "ji-cheng-tian-si-ye-you",
+    "segmentId": "seg-004",
+    "term": "积水空明",
+    "explanation": "像积水一样澄澈透明。这里写的是月光造成的视觉感受，并非庭中真的有水。",
+    "pronunciation": "jī shuǐ kōng míng",
+    "type": "word"
+  },
+  {
+    "id": "ann-015",
+    "workId": "ji-cheng-tian-si-ye-you",
+    "segmentId": "seg-004",
+    "term": "藻、荇",
+    "explanation": "两类水生植物。文中用来比拟月光下交错的竹柏影子。",
+    "pronunciation": "zǎo、xìng",
+    "type": "word"
+  },
+  {
+    "id": "ann-016",
+    "workId": "ji-cheng-tian-si-ye-you",
+    "segmentId": "seg-004",
+    "term": "交横",
+    "explanation": "交错纵横。",
+    "pronunciation": "jiāo héng",
+    "type": "word"
+  },
+  {
+    "id": "ann-017",
+    "workId": "ji-cheng-tian-si-ye-you",
+    "segmentId": "seg-004",
+    "term": "盖",
+    "explanation": "承接前面的视觉错觉作出解释，可译为“原来是”。",
+    "pronunciation": "gài",
+    "type": "grammar"
+  },
+  {
+    "id": "ann-018",
+    "workId": "ji-cheng-tian-si-ye-you",
+    "segmentId": "seg-004",
+    "term": "竹柏",
+    "explanation": "竹子和柏树。",
+    "pronunciation": "zhú bǎi",
+    "type": "word"
+  },
+  {
+    "id": "ann-019",
+    "workId": "ji-cheng-tian-si-ye-you",
+    "segmentId": "seg-005",
+    "term": "何夜无月？何处无竹柏？",
+    "explanation": "连续两个反问，意思是月与竹柏并不罕见，难得的是有人愿意停下来观看。",
+    "pronunciation": "hé yè wú yuè？hé chù wú zhú bǎi？",
+    "type": "grammar"
+  },
+  {
+    "id": "ann-020",
+    "workId": "ji-cheng-tian-si-ye-you",
+    "segmentId": "seg-005",
+    "term": "但",
+    "explanation": "只是、不过。",
+    "pronunciation": "dàn",
+    "type": "word"
+  },
+  {
+    "id": "ann-021",
+    "workId": "ji-cheng-tian-si-ye-you",
+    "segmentId": "seg-005",
+    "term": "闲人",
+    "explanation": "表层指有闲暇的人，也含被排除于政事之外的自嘲；同时写出仍能欣赏月色的闲情与从容。它不是简单的“无所事事”。",
+    "pronunciation": "xián rén",
+    "type": "word"
+  },
+  {
+    "id": "ann-022",
+    "workId": "ji-cheng-tian-si-ye-you",
+    "segmentId": "seg-005",
+    "term": "如吾两人者",
+    "explanation": "像我们两人这样的。“者”使前面的描述组成指人的短语。",
+    "pronunciation": "rú wú liǎng rén zhě",
+    "type": "grammar"
+  },
+  {
+    "id": "ann-023",
+    "workId": "ji-cheng-tian-si-ye-you",
+    "segmentId": "seg-005",
+    "term": "耳",
+    "explanation": "表示限制语气，相当于“罢了”“而已”。",
+    "pronunciation": "ěr",
+    "type": "grammar"
+  }
+]

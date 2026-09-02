@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "workId": "chun-wang",
+  "provider": "edge-neural",
+  "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
+  "format": "mp3",
+  "generatedAt": "2026-09-01T01:55:28.398Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/chun-wang/seg-001.mp3",
+      "durationMs": 7032,
+      "checksum": "0981806cc6c232ce3734ff71af1f2cbcbb2477c9913adfdce783127aba2306a5",
+      "sourceHash": "e549c319e78c2bd0673fa3b8f25702d29ec1c7c6ff5a6100f3173bd5b4faf5a9"
+    }
+  ]
+}

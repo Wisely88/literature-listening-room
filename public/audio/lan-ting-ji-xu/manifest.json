@@ -1,0 +1,38 @@
+{
+  "version": 1,
+  "workId": "lan-ting-ji-xu",
+  "provider": "edge-neural",
+  "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
+  "format": "mp3",
+  "generatedAt": "2026-08-31T14:01:08.319Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/lan-ting-ji-xu/seg-001.mp3",
+      "durationMs": 27408,
+      "checksum": "044c53560811dd62ad0ce60304d8db0fdbbb0cabc65d97003a7f8c25d6ff565c",
+      "sourceHash": "145ef5cd69f348018e5acad4b7bf007902f7eac475202b83efaad94918407b19"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/lan-ting-ji-xu/seg-002.mp3",
+      "durationMs": 12864,
+      "checksum": "e56c7f81782421d08004cacb4979d93d3c664bee6b84b3cec39079c74f9ba6ef",
+      "sourceHash": "783cca54a97519150975f5e75a0bbb8645a0f8f85c8ce34ac3f2288532f01398"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/lan-ting-ji-xu/seg-003.mp3",
+      "durationMs": 38040,
+      "checksum": "4a73ee2986327f8b53c2c29aa38077ee970048defb260dd64b3e112e9cf9aecc",
+      "sourceHash": "dca15902d71d8c86660de2e719fbbf2f5011bc9a8a9c2e89729b406a9c96b50c"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/lan-ting-ji-xu/seg-004.mp3",
+      "durationMs": 26688,
+      "checksum": "3c0910fbc377c8641d58cc378e9bfdf10c2c22a746067a1b75a367f0c21f9de0",
+      "sourceHash": "83ddae04b363ff07f9e779e0e11d2dabbaa898d4ebc684a7770d1e4fdf1082b9"
+    }
+  ]
+}

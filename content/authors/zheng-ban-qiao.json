@@ -1,0 +1,19 @@
+{
+  "id": "zheng-ban-qiao",
+  "slug": "zheng-ban-qiao",
+  "name": "郑燮",
+  "aliases": ["郑板桥"],
+  "courtesyNames": ["克柔"],
+  "birthYear": 1693,
+  "deathYear": 1765,
+  "dynasty": "清",
+  "country": "中国",
+  "bio": "郑燮，号板桥，清代书画家、文学家，以诗书画三绝著称。",
+  "styleSummary": "文字清峻有趣，书画重视真性情与独立精神。",
+  "timeline": [],
+  "representativeWorks": [
+    {"title": "板桥全集", "type": "文集"},
+    {"title": "竹石图", "type": "书画"}
+  ],
+  "relatedPeople": []
+}

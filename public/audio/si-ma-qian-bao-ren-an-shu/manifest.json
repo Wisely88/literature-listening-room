@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "workId": "si-ma-qian-bao-ren-an-shu",
+  "provider": "edge-neural",
+  "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
+  "format": "mp3",
+  "generatedAt": "2026-09-01T02:16:57.612Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/si-ma-qian-bao-ren-an-shu/seg-001.mp3",
+      "durationMs": 10560,
+      "checksum": "e4d3f3e1d764fb23fe87e85b285d893c0c3786aff30ef884625970b70f1f3af7",
+      "sourceHash": "ad57f479972fd802f321deb44827587d2b9ccd8f1b6b607fac01da1ba712d999"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/si-ma-qian-bao-ren-an-shu/seg-002.mp3",
+      "durationMs": 5592,
+      "checksum": "b5ac0db014aec95c105b356526c458489befeef5af9058ea4f25d96a2a11ee1c",
+      "sourceHash": "17f72186c9a7aa23609f7c7e5af76030b466781b955d0a21f32460f20244b1f0"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+[
+  {"id":"ann-001","workId":"lan-ting-ji-xu","segmentId":"seg-001","term":"永和九年","explanation":"东晋穆帝永和九年，即公元353年。","pronunciation":"yǒng hé jiǔ nián","type":"history"},
+  {"id":"ann-002","workId":"lan-ting-ji-xu","segmentId":"seg-001","term":"修禊","explanation":"古代于农历三月上旬到水边嬉游，以消除不祥的祭祀活动。","pronunciation":"xiū xì","type":"history"},
+  {"id":"ann-003","workId":"lan-ting-ji-xu","segmentId":"seg-001","term":"流觞曲水","explanation":"把盛酒的杯子放在弯曲的水流中，顺流而下，停在谁面前谁就取饮。","pronunciation":"liú shāng qū shuǐ","type":"word"},
+  {"id":"ann-004","workId":"lan-ting-ji-xu","segmentId":"seg-002","term":"游目骋怀","explanation":"纵目远望，舒展胸怀。","pronunciation":"yóu mù chěng huái","type":"word"},
+  {"id":"ann-005","workId":"lan-ting-ji-xu","segmentId":"seg-003","term":"俯仰一世","explanation":"抬头低头的工夫就过了一生，形容人生短暂。","pronunciation":"fǔ yǎng yī shì","type":"word"},
+  {"id":"ann-006","workId":"lan-ting-ji-xu","segmentId":"seg-003","term":"趣舍万殊","explanation":"取舍千差万别。趣，通“取”。","pronunciation":"qū shě wàn shū","type":"word"},
+  {"id":"ann-007","workId":"lan-ting-ji-xu","segmentId":"seg-003","term":"死生亦大矣","explanation":"死和生是人生的大事。语出《庄子》。","pronunciation":"sǐ shēng yì dà yǐ","type":"allusion"},
+  {"id":"ann-008","workId":"lan-ting-ji-xu","segmentId":"seg-004","term":"一死生","explanation":"把死和生看作一样。","pronunciation":"yī sǐ shēng","type":"word"},
+  {"id":"ann-009","workId":"lan-ting-ji-xu","segmentId":"seg-004","term":"齐彭殇","explanation":"把长寿和短命等同看待。彭，彭祖，传说中长寿的人；殇，未成年而死。","pronunciation":"qí péng shāng","type":"allusion"}
+]

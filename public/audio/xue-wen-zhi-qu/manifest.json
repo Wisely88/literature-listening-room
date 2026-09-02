@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "workId": "xue-wen-zhi-qu",
+  "provider": "edge-neural",
+  "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
+  "format": "mp3",
+  "generatedAt": "2026-09-01T02:37:30.349Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/xue-wen-zhi-qu/seg-001.mp3",
+      "durationMs": 6768,
+      "checksum": "ffee613f13860597a3b2c988a43c89ecf2ea3f0c2a8db133bdc34450574c5190",
+      "sourceHash": "c13302c67e8536454621e6254796931c4b857cbeb20eb8028eac7634f69152f9"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "workId": "xi-hu-qi-yue-ban",
+  "provider": "edge-neural",
+  "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
+  "format": "mp3",
+  "generatedAt": "2026-09-01T02:36:47.004Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/xi-hu-qi-yue-ban/seg-001.mp3",
+      "durationMs": 5424,
+      "checksum": "4d5f133e27b07cfca87cfe5cc1fbb77c33fa395c0ad586bda3463240aeeed803",
+      "sourceHash": "e8b8a3e00c0dff408385764a9dc64a697bb858b9c2fe65043b724d8f5cf60d39"
+    }
+  ]
+}

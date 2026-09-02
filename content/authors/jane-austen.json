@@ -1,0 +1,18 @@
+{
+  "id": "jane-austen",
+  "slug": "jane-austen",
+  "name": "简·奥斯汀",
+  "aliases": [
+    "Jane Austen"
+  ],
+  "courtesyNames": [],
+  "birthYear": 1775,
+  "deathYear": 1817,
+  "dynasty": "近代",
+  "country": "英国",
+  "bio": "英国小说家，以细致观察、反讽和对婚姻与社会阶层的描写著称。",
+  "styleSummary": "本馆采用公版原文，并提供项目原创中文译文与简明导读。",
+  "timeline": [],
+  "representativeWorks": [],
+  "relatedPeople": []
+}

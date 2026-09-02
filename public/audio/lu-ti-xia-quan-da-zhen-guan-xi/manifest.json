@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "workId": "lu-ti-xia-quan-da-zhen-guan-xi",
+  "provider": "edge-neural",
+  "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
+  "format": "mp3",
+  "generatedAt": "2026-09-01T02:09:58.153Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/lu-ti-xia-quan-da-zhen-guan-xi/seg-001.mp3",
+      "durationMs": 6648,
+      "checksum": "e1357403a10890ac98851ae1caec10a74a73562fdfb667648fe60b2a86b199a6",
+      "sourceHash": "854b5c1d79fb253053878a84a8ed17bf3c8536f835393b95ce311758e8d1db91"
+    }
+  ]
+}

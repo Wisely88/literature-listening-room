@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "workId": "jekyll-and-hyde",
+  "provider": "edge-neural",
+  "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
+  "format": "mp3",
+  "generatedAt": "2026-09-01T02:05:47.802Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/jekyll-and-hyde/seg-001.mp3",
+      "durationMs": 96816,
+      "checksum": "dfa1670a1d6d835b8d28c50af21e0ea7d95b52667e73b873f4ea3d6566e5a19f",
+      "sourceHash": "6491165dcd5147dfe9753f6df15c4e5db444bee85171a17f0cbdc8235fc13bff"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/jekyll-and-hyde/seg-002.mp3",
+      "durationMs": 82992,
+      "checksum": "05a8031b994c22cf5b8871ce0a59b7261265594f6ed839d2860d88cee35c9b3b",
+      "sourceHash": "09a960fba4b18d5626e60866a13e4c1faecb3ff3c29a6a89a008b86435ef35c9"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/jekyll-and-hyde/seg-003.mp3",
+      "durationMs": 54648,
+      "checksum": "8c06a22a685177784ad977e4a1a95c208feafa862d616b83242fa14eae3414d9",
+      "sourceHash": "f2e803438c3d0d5b26ef2518017e55a6bff2b7bf4983052a4a894a40223fd59e"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/jekyll-and-hyde/seg-004.mp3",
+      "durationMs": 51288,
+      "checksum": "66087aab343823be349e6a26f669e31bf7551fc38cd8360361e4871fd58dfec3",
+      "sourceHash": "e112b10d48c46e24e2355a876624f873975b376dde123525bf6d83a49d59382a"
+    },
+    {
+      "id": "seg-005",
+      "url": "/audio/jekyll-and-hyde/seg-005.mp3",
+      "durationMs": 11880,
+      "checksum": "071e7c1a0722dfc25abd5bc17463c3c2402d392ecb27899c655142f27711d19f",
+      "sourceHash": "1641cd49c80537d0a35e966770f90aa225b44f098cbd2a875819686872fcc3c1"
+    },
+    {
+      "id": "seg-006",
+      "url": "/audio/jekyll-and-hyde/seg-006.mp3",
+      "durationMs": 13296,
+      "checksum": "d21cecf2d02a6809e807794b4666a90be37b2f976bc65bc4f6fbfcfb10b82b5c",
+      "sourceHash": "e5ddbadc796e51f2c1d2db45de4b4b4fa867da4d8cac575623215d96d642561c"
+    }
+  ]
+}

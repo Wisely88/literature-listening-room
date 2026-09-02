@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "workId": "lou-shi-ming",
+  "provider": "edge-neural",
+  "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
+  "format": "mp3",
+  "generatedAt": "2026-08-31T14:01:51.699Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/lou-shi-ming/seg-001.mp3",
+      "durationMs": 9168,
+      "checksum": "5e4aeb3419360d3089dff3b5c6485be0b263fbd39a5e77190ff17d9d0ec92850",
+      "sourceHash": "e5cb0d29595c9a958f839e0e49a45efd7027b5e615de21f73500580a42d12053"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/lou-shi-ming/seg-002.mp3",
+      "durationMs": 13512,
+      "checksum": "61a32a238787746c38e551860be132606356f98a3694bb8d5fb341104a5ad35b",
+      "sourceHash": "5bf1b9c0b7ab81108116b941485779b50feeb3f0e462983d5e1b7e6e8c7834f7"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/lou-shi-ming/seg-003.mp3",
+      "durationMs": 6288,
+      "checksum": "0c8788f31e07be2647a4329021b5de15f6f7037b48190292f15aebb9c159edd2",
+      "sourceHash": "d4d9ece5d359d33070ee96271f118c8da9b20b13a424383efee6c9fd5ff34295"
+    }
+  ]
+}

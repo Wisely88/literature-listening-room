@@ -1,0 +1,38 @@
+{
+  "version": 1,
+  "workId": "walden-visitors",
+  "provider": "edge-neural",
+  "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
+  "format": "mp3",
+  "generatedAt": "2026-09-01T02:33:28.745Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/walden-visitors/seg-001.mp3",
+      "durationMs": 79656,
+      "checksum": "fcf052f2a8179c41e40fd400649ed02fe27408f0d34edf34d64713f0be6784bb",
+      "sourceHash": "9e97706e96643ffe86d66e03dfe74d6e363a588283ac26d4ca65813c79346a44"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/walden-visitors/seg-002.mp3",
+      "durationMs": 132024,
+      "checksum": "33339a711691f7fa845c39b433232d67307dd39973a7992a6accfcb5b4b19ee5",
+      "sourceHash": "eea0ca8efbfd3919fcefbb8cca5b6ee392acb41143286eedc4fefd8b013589d6"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/walden-visitors/seg-003.mp3",
+      "durationMs": 26040,
+      "checksum": "4372976193f68741a74cb763171941191ae93a4393b5d80bd89f9b70c0ee429e",
+      "sourceHash": "30b1ecd74492353d48e836db26be3fd8baa79ae61ecd6cd06dd4f061e34f5be0"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/walden-visitors/seg-004.mp3",
+      "durationMs": 93408,
+      "checksum": "666841836513ffe86b48cfd0b22a4ae140e7ca0f9570e712066057e743617270",
+      "sourceHash": "76ff59d917ca172f53f9241a5bca60391a046ded51dc7aee02e7d10d0fa82e74"
+    }
+  ]
+}

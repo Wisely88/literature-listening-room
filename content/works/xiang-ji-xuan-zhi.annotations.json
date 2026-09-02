@@ -1,0 +1,12 @@
+[
+  {"id":"ann-001","workId":"xiang-ji-xuan-zhi","segmentId":"seg-001","term":"渗漉","explanation":"渗漏。","pronunciation":"shèn lù","type":"word"},
+  {"id":"ann-002","workId":"xiang-ji-xuan-zhi","segmentId":"seg-001","term":"修葺","explanation":"修理、修补。葺，修整。","pronunciation":"xiū qì","type":"word"},
+  {"id":"ann-003","workId":"xiang-ji-xuan-zhi","segmentId":"seg-001","term":"栏楯","explanation":"栏杆。","pronunciation":"lán shǔn","type":"word"},
+  {"id":"ann-004","workId":"xiang-ji-xuan-zhi","segmentId":"seg-002","term":"异爨","explanation":"分家。爨，烧火做饭。","pronunciation":"yì cuàn","type":"word"},
+  {"id":"ann-005","workId":"xiang-ji-xuan-zhi","segmentId":"seg-002","term":"老妪","explanation":"老年妇女。","pronunciation":"lǎo yù","type":"word"},
+  {"id":"ann-006","workId":"xiang-ji-xuan-zhi","segmentId":"seg-002","term":"束发","explanation":"古代男子成童时束发，这里指成童读书的年龄。","pronunciation":"shù fà","type":"word"},
+  {"id":"ann-007","workId":"xiang-ji-xuan-zhi","segmentId":"seg-002","term":"象笏","explanation":"象牙做的笏板，古代大臣上朝所执。","pronunciation":"xiàng hù","type":"word"},
+  {"id":"ann-008","workId":"xiang-ji-xuan-zhi","segmentId":"seg-003","term":"扃牖","explanation":"关窗。扃，关闭；牖，窗。","pronunciation":"jiōng yǒu","type":"word"},
+  {"id":"ann-009","workId":"xiang-ji-xuan-zhi","segmentId":"seg-004","term":"归宁","explanation":"出嫁的女子回娘家省亲。","pronunciation":"guī níng","type":"word"},
+  {"id":"ann-010","workId":"xiang-ji-xuan-zhi","segmentId":"seg-005","term":"亭亭如盖","explanation":"高高挺立，枝叶像伞盖一样。","pronunciation":"tíng tíng rú gài","type":"word"}
+]

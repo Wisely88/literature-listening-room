@@ -1,0 +1,115 @@
+{
+  "version": 1,
+  "workId": "gift-of-the-magi",
+  "provider": "edge-neural",
+  "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
+  "format": "mp3",
+  "generatedAt": "2026-09-01T01:59:47.958Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/gift-of-the-magi/seg-001.mp3",
+      "durationMs": 31128,
+      "checksum": "a013349f45a4f8e8781b87030df8264b5af1edd131555c0518452081e0ee23ff",
+      "sourceHash": "20751972e8dc2eaeee03f06d26813d55f97978ad5c51baf3d2df97984e4e9b57"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/gift-of-the-magi/seg-002.mp3",
+      "durationMs": 17208,
+      "checksum": "bb4ade315b228baa0ac1cd4a8a77a2767bfaa8a21e8da6922ca181a603be6774",
+      "sourceHash": "c13d277aac2ae82b33275ea18e5101fdb8f7776361271aa77623b56c8214c1b2"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/gift-of-the-magi/seg-003.mp3",
+      "durationMs": 18816,
+      "checksum": "15301dc161b96974360d159be0f097b9e7da1072b123128d7eae6a72c6859937",
+      "sourceHash": "187249c5a32a727f40fa499bea1c06a4422103aed2dc9a47e8f32745a64ca51d"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/gift-of-the-magi/seg-004.mp3",
+      "durationMs": 15792,
+      "checksum": "ddce9b772ee94f2ecadfb99c469e1d48a80ae83147009ffc48975da063ece306",
+      "sourceHash": "ed4a055aa7b196642fdeac8bdf9bf5b9969a98fe6920617705e499c09c21bc45"
+    },
+    {
+      "id": "seg-005",
+      "url": "/audio/gift-of-the-magi/seg-005.mp3",
+      "durationMs": 34128,
+      "checksum": "5a7c51df36d221a547910b4ee2feadba614187563669b6a02973328357dfdc81",
+      "sourceHash": "17053dbbeca16ca26e2e72e9b85f14b83bf0a996349c12b0134d7996f7e1c0b6"
+    },
+    {
+      "id": "seg-006",
+      "url": "/audio/gift-of-the-magi/seg-006.mp3",
+      "durationMs": 50472,
+      "checksum": "a293a8e6ae942587dde64e59cadc303456299237d68b5d476dcc7b99233947dd",
+      "sourceHash": "188d86bfa60b89f4c4fbeb4834f9a01f756159f95d9b0d8118c4b875ec1f52d9"
+    },
+    {
+      "id": "seg-007",
+      "url": "/audio/gift-of-the-magi/seg-007.mp3",
+      "durationMs": 22536,
+      "checksum": "935a7e3e2be431eaa2447fc609ff3b9cddf94b66ad96fe854d0c674127b1d6ea",
+      "sourceHash": "50e0bcccb900f450a7db71c4c2705cb63f645a1cab68c47fffb449087bf64213"
+    },
+    {
+      "id": "seg-008",
+      "url": "/audio/gift-of-the-magi/seg-008.mp3",
+      "durationMs": 15408,
+      "checksum": "43058bd7f1951c41929d01c3399d51c654058b9c626105f794f8cfafb4247976",
+      "sourceHash": "7144337b76171c2340f2c1b57ec5ae8edc28e5b612a04e194ca1d4e24efa3367"
+    },
+    {
+      "id": "seg-009",
+      "url": "/audio/gift-of-the-magi/seg-009.mp3",
+      "durationMs": 40008,
+      "checksum": "0aa8578d4c56bf926fbc3ced25fbb5aaef517c893c648d38766e40e23f270707",
+      "sourceHash": "e09ede716bb478625287f7238557e5e7fea4cd1b588a51d6dc83992cd134a80e"
+    },
+    {
+      "id": "seg-010",
+      "url": "/audio/gift-of-the-magi/seg-010.mp3",
+      "durationMs": 24768,
+      "checksum": "bc00a1bed9c8d7f78b9de609fd512f52143c2d44154c34f2b2262877567dd1ea",
+      "sourceHash": "c8069590f6356349d53fe9a3d775f656146752dc7e72771e426e0f85ac91e1e3"
+    },
+    {
+      "id": "seg-011",
+      "url": "/audio/gift-of-the-magi/seg-011.mp3",
+      "durationMs": 12840,
+      "checksum": "9f5eb41b8328ab578f28f8e8922d9587770a7cf71a0aefc81449662060529e3e",
+      "sourceHash": "d1dd764245fd70937d06d720c360cdf4c4f3f1ddc84883d23c4e77085a2a5033"
+    },
+    {
+      "id": "seg-012",
+      "url": "/audio/gift-of-the-magi/seg-012.mp3",
+      "durationMs": 22200,
+      "checksum": "81bf596f10ce681b4e9470f79ad9ac771e90c164191de9931dc73678cbfe9c60",
+      "sourceHash": "98e12e39c6d3ee0867b4f61c2aa8d308e74a67e8d0aba41a62d46297d875a2ff"
+    },
+    {
+      "id": "seg-013",
+      "url": "/audio/gift-of-the-magi/seg-013.mp3",
+      "durationMs": 4176,
+      "checksum": "11c03aa2ae564b8c09c15ab4de8981e0af0570fd0ebc01443f5f487da75faaa7",
+      "sourceHash": "f1a40ba1f39ea3cc43b1f6045110ae12774c8ad39bdaed7c8c02ad284b267ba6"
+    },
+    {
+      "id": "seg-014",
+      "url": "/audio/gift-of-the-magi/seg-014.mp3",
+      "durationMs": 6744,
+      "checksum": "20b3b47bfc03ac22f8d5c12e34a0815bd9b3dffc7bfdf1b3254425dc842daf73",
+      "sourceHash": "cff30700759c8640843b2db15db366bc03bec55876fd83fee750183ff7081aed"
+    },
+    {
+      "id": "seg-015",
+      "url": "/audio/gift-of-the-magi/seg-015.mp3",
+      "durationMs": 3216,
+      "checksum": "28add92f5d5403fa959515a00b87b4f9854efaa71512453ed6e1c49c5a453433",
+      "sourceHash": "020f296b5db5b1e61245578dd8f4ad0452a85e46547a8b4206df22275a7dd706"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "wei-xue-yi",
+  "slug": "wei-xue-yi",
+  "name": "魏学洢",
+  "aliases": [],
+  "courtesyNames": ["子敬"],
+  "birthYear": 1596,
+  "deathYear": 1625,
+  "dynasty": "明",
+  "country": "中国",
+  "bio": "明代散文家，嘉善（今属浙江）人。其《核舟记》以精细的笔触描述核雕技艺，为古代说明性散文名篇。",
+  "styleSummary": "散文刻画细致、层次分明，善于以生动笔法状写器物与人。",
+  "timeline": [
+    { "year": 1596, "title": "出生", "description": "生于嘉善。" },
+    { "year": 1625, "title": "去世", "description": "去世。" }
+  ],
+  "representativeWorks": [
+    { "title": "核舟记", "type": "散文" }
+  ],
+  "relatedPeople": []
+}

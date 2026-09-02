@@ -1,0 +1,9 @@
+[
+  {"id":"ann-001","workId":"shui-diao-ge-tou","segmentId":"seg-001","term":"把酒","explanation":"端起酒杯。","pronunciation":"bǎ jiǔ","type":"word"},
+  {"id":"ann-002","workId":"shui-diao-ge-tou","segmentId":"seg-001","term":"宫阙","explanation":"宫殿。阙，宫门两旁的楼观。","pronunciation":"gōng què","type":"word"},
+  {"id":"ann-003","workId":"shui-diao-ge-tou","segmentId":"seg-002","term":"琼楼玉宇","explanation":"美玉砌成的楼宇，指天上宫阙。","pronunciation":"qióng lóu yù yǔ","type":"word"},
+  {"id":"ann-004","workId":"shui-diao-ge-tou","segmentId":"seg-002","term":"不胜寒","explanation":"经不起寒冷。胜，承受。","pronunciation":"bù shèng hán","type":"word"},
+  {"id":"ann-005","workId":"shui-diao-ge-tou","segmentId":"seg-003","term":"朱阁","explanation":"朱红色的楼阁。","pronunciation":"zhū gé","type":"word"},
+  {"id":"ann-006","workId":"shui-diao-ge-tou","segmentId":"seg-003","term":"绮户","explanation":"雕花的门窗。","pronunciation":"qǐ hù","type":"word"},
+  {"id":"ann-007","workId":"shui-diao-ge-tou","segmentId":"seg-004","term":"婵娟","explanation":"指月亮，也指美好的姿态。","pronunciation":"chán juān","type":"word"}
+]

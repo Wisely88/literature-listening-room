@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "workId": "ye-gou",
+  "provider": "edge-neural",
+  "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
+  "format": "mp3",
+  "generatedAt": "2026-09-01T02:38:00.342Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/ye-gou/seg-001.mp3",
+      "durationMs": 9216,
+      "checksum": "0beb15c1fbff1dcb97af78fb3acb943456ed706082a39055c44565c22da3c49c",
+      "sourceHash": "26246040c5cb5f3e1a8089339cdb17961fefbea309283592fe36ab70019d3d3d"
+    }
+  ]
+}

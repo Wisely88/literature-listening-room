@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "workId": "gao-zu-ben-ji",
+  "provider": "edge-neural",
+  "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
+  "format": "mp3",
+  "generatedAt": "2026-09-01T01:58:44.142Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/gao-zu-ben-ji/seg-001.mp3",
+      "durationMs": 5184,
+      "checksum": "32dba22092c97f054c25ec9f47384c7f0bc47b09c9b5746266a5811adc3810d3",
+      "sourceHash": "2f0259fa4c93b6aa70a038e648c91cb9d271e5be73e1ea00b2c2e84c4c55b805"
+    }
+  ]
+}

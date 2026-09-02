@@ -1,0 +1,27 @@
+.button {
+  display: inline-flex;
+  min-height: 44px;
+  align-items: center;
+  gap: 8px;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  background: transparent;
+  color: var(--ink);
+  padding: 0 18px;
+  font-size: 0.875rem;
+  cursor: pointer;
+}
+
+.button:hover:not(:disabled) {
+  background: var(--accent-soft);
+}
+
+.button[aria-pressed="true"] {
+  border-color: var(--accent);
+  color: var(--accent-strong);
+}
+
+.button:disabled {
+  cursor: wait;
+  opacity: 0.6;
+}

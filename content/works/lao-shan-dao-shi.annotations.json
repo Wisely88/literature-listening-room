@@ -1,0 +1,9 @@
+[
+  {"id":"ann-001","workId":"lao-shan-dao-shi","segmentId":"seg-001","term":"负笈","explanation":"背着书箱。笈，书箱。","pronunciation":"fù jí","type":"word"},
+  {"id":"ann-002","workId":"lao-shan-dao-shi","segmentId":"seg-002","term":"采樵","explanation":"砍柴。","pronunciation":"cǎi qiáo","type":"word"},
+  {"id":"ann-003","workId":"lao-shan-dao-shi","segmentId":"seg-003","term":"分赉","explanation":"分赏。赉，赏赐。","pronunciation":"fēn lài","type":"word"},
+  {"id":"ann-004","workId":"lao-shan-dao-shi","segmentId":"seg-003","term":"挹注","explanation":"舀取、倾倒，这里指倒酒。","pronunciation":"yì zhù","type":"word"},
+  {"id":"ann-005","workId":"lao-shan-dao-shi","segmentId":"seg-004","term":"逡巡","explanation":"迟疑、犹豫不前。","pronunciation":"qūn xún","type":"word"},
+  {"id":"ann-006","workId":"lao-shan-dao-shi","segmentId":"seg-005","term":"踣","explanation":"跌倒。","pronunciation":"bó","type":"word"},
+  {"id":"ann-007","workId":"lao-shan-dao-shi","segmentId":"seg-005","term":"揶揄","explanation":"嘲笑、戏弄。","pronunciation":"yé yú","type":"word"}
+]

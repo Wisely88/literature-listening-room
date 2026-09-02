@@ -1,0 +1,24 @@
+{
+  "id": "wang-xizhi",
+  "slug": "wang-xizhi",
+  "name": "王羲之",
+  "aliases": ["王右军"],
+  "courtesyNames": ["逸少"],
+  "birthYear": 303,
+  "deathYear": 361,
+  "dynasty": "东晋",
+  "country": "中国",
+  "bio": "东晋书法家，琅琊临沂（今属山东）人。书法兼善隶、草、楷、行，被后世尊为“书圣”。",
+  "styleSummary": "书法妍美流便、遒媚劲健，《兰亭序》被誉为“天下第一行书”。",
+  "timeline": [
+    { "year": 303, "title": "出生", "description": "生于琅琊临沂。" },
+    { "year": 353, "title": "兰亭雅集", "description": "与谢安等会于会稽兰亭，作《兰亭集序》。" },
+    { "year": 361, "title": "去世", "description": "病逝。" }
+  ],
+  "representativeWorks": [
+    { "title": "兰亭集序", "type": "散文" },
+    { "title": "快雪时晴帖", "type": "书法" },
+    { "title": "丧乱帖", "type": "书法" }
+  ],
+  "relatedPeople": []
+}

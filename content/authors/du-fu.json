@@ -1,0 +1,28 @@
+{
+  "id": "du-fu",
+  "slug": "du-fu",
+  "name": "杜甫",
+  "aliases": ["少陵野老", "诗圣"],
+  "courtesyNames": ["子美"],
+  "birthYear": 712,
+  "deathYear": 770,
+  "dynasty": "唐",
+  "country": "中国",
+  "bio": "唐代伟大的现实主义诗人，河南巩县人。诗作深刻反映安史之乱前后的社会动荡与民生疾苦，被尊为“诗圣”，其诗被称“诗史”。",
+  "styleSummary": "诗风沉郁顿挫，格律精严，善于以凝练的语言写家国忧思与个人漂泊，情感深沉而广阔。",
+  "timeline": [
+    { "year": 712, "title": "出生", "description": "生于河南巩县。" },
+    { "year": 744, "title": "与李白相遇", "description": "在洛阳与李白相识，结下深厚友谊。" },
+    { "year": 755, "title": "安史之乱", "description": "安史之乱爆发，流亡各地，亲历国难。" },
+    { "year": 759, "title": "入蜀定居", "description": "入蜀，在成都筑草堂定居。" },
+    { "year": 767, "title": "作《登高》", "description": "寓居夔州时作《登高》。" },
+    { "year": 770, "title": "去世", "description": "病逝于湘江舟中。" }
+  ],
+  "representativeWorks": [
+    { "title": "登高", "type": "诗" },
+    { "title": "春望", "type": "诗" },
+    { "title": "茅屋为秋风所破歌", "type": "诗" },
+    { "title": "三吏三别", "type": "诗" }
+  ],
+  "relatedPeople": []
+}

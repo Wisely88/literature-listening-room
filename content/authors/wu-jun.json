@@ -1,0 +1,23 @@
+{
+  "id": "wu-jun",
+  "slug": "wu-jun",
+  "name": "吴均",
+  "aliases": [],
+  "courtesyNames": ["叔庠"],
+  "birthYear": 469,
+  "deathYear": 520,
+  "dynasty": "南朝梁",
+  "country": "中国",
+  "bio": "南朝梁文学家，吴兴故鄣（今浙江安吉）人。文章以写景见长，文笔清拔，有“吴均体”之称。",
+  "styleSummary": "骈文清丽工整，写景逼真传神，短小精悍而韵味悠长。",
+  "timeline": [
+    { "year": 469, "title": "出生", "description": "生于吴兴故鄣。" },
+    { "year": 510, "title": "入仕", "description": "任奉朝请等职。" },
+    { "year": 520, "title": "去世", "description": "去世。" }
+  ],
+  "representativeWorks": [
+    { "title": "与朱元思书", "type": "散文" },
+    { "title": "与顾章书", "type": "散文" }
+  ],
+  "relatedPeople": []
+}

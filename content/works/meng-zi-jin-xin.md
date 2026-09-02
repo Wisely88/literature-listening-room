@@ -1,0 +1,31 @@
+---
+id: meng-zi-jin-xin
+slug: meng-zi-jin-xin
+title: 尽心知性
+aliases: []
+authorId: meng-zi
+category: 思想随笔
+dynasty: 战国
+language: zh-CN
+estimatedMinutes: 2
+rightsStatus: public-domain
+summary: 《尽心知性》公版原文精读片段，适合短时阅读与听读。
+tags: [思想随笔, 精读, 公版]
+moods: [夜读, 思考]
+ambience: [rain]
+defaultAmbience: rain
+sourceNote: 依据公版通行本节选；白话译文与导读为本项目整理。
+editorialNotes: []
+pronunciationOverrides: []
+---
+## 原文
+尽其心者，知其性也。知其性，则知天矣。
+
+## 白话
+充分展开人的本心，才能认识自己的本性，并由此理解更大的秩序。
+
+## 创作背景
+本条目选取《尽心知性》中适合独立听读的代表片段。原作已进入公版领域，本馆保留原文并补充简明导读。
+
+## 赏析
+这段文字以凝练的叙述、意象或议论展开核心主题。短篇幅中既保留原作语气，也为继续阅读完整作品留下入口。

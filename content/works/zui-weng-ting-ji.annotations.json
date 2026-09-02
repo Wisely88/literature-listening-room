@@ -1,0 +1,12 @@
+[
+  {"id":"ann-001","workId":"zui-weng-ting-ji","segmentId":"seg-001","term":"环滁皆山也","explanation":"环绕滁州城都是山。滁，指滁州。","pronunciation":"huán chú jiē shān yě","type":"word"},
+  {"id":"ann-002","workId":"zui-weng-ting-ji","segmentId":"seg-001","term":"蔚然","explanation":"草木茂盛的样子。","pronunciation":"wèi rán","type":"word"},
+  {"id":"ann-003","workId":"zui-weng-ting-ji","segmentId":"seg-001","term":"翼然","explanation":"像鸟张开翅膀一样。","pronunciation":"yì rán","type":"word"},
+  {"id":"ann-004","workId":"zui-weng-ting-ji","segmentId":"seg-001","term":"辄","explanation":"就、便。","pronunciation":"zhé","type":"word"},
+  {"id":"ann-005","workId":"zui-weng-ting-ji","segmentId":"seg-002","term":"林霏","explanation":"林间的雾气。","pronunciation":"lín fēi","type":"word"},
+  {"id":"ann-006","workId":"zui-weng-ting-ji","segmentId":"seg-002","term":"岩穴暝","explanation":"山谷岩穴昏暗。暝，昏暗。","pronunciation":"yán xué míng","type":"word"},
+  {"id":"ann-007","workId":"zui-weng-ting-ji","segmentId":"seg-003","term":"伛偻提携","explanation":"老人弯着腰，小孩由大人领着。伛偻，指老人；提携，指小孩。","pronunciation":"yǔ lǚ tí xié","type":"word"},
+  {"id":"ann-008","workId":"zui-weng-ting-ji","segmentId":"seg-003","term":"山肴野蔌","explanation":"山中的野味和野菜。蔌，菜蔬。","pronunciation":"shān yáo yě sù","type":"word"},
+  {"id":"ann-009","workId":"zui-weng-ting-ji","segmentId":"seg-003","term":"觥筹交错","explanation":"酒杯和酒筹交互错杂，形容宴饮热闹。觥，酒杯；筹，行酒令用的筹码。","pronunciation":"gōng chóu jiāo cuò","type":"word"},
+  {"id":"ann-010","workId":"zui-weng-ting-ji","segmentId":"seg-004","term":"阴翳","explanation":"枝叶茂密成荫。翳，遮蔽。","pronunciation":"yīn yì","type":"word"}
+]

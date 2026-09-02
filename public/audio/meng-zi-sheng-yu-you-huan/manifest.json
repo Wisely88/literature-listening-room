@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "workId": "meng-zi-sheng-yu-you-huan",
+  "provider": "edge-neural",
+  "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
+  "format": "mp3",
+  "generatedAt": "2026-09-01T02:11:03.114Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/meng-zi-sheng-yu-you-huan/seg-001.mp3",
+      "durationMs": 8808,
+      "checksum": "51490e7c5ef26ab5ce8a530facab610fa8e6def217d908107b5464f8ee50858e",
+      "sourceHash": "f86f778c508c3a9d37f4b6511181a2df79b678743977c887bd08b3faeb79167a"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/meng-zi-sheng-yu-you-huan/seg-002.mp3",
+      "durationMs": 3792,
+      "checksum": "1ea7a139ac41a2a6ef119052efbad7e13fb845ec0ca3bdf00f15e0d5dca88c99",
+      "sourceHash": "3fb2e56b60da823f5d1a7e70ae317d2d000202fbecf20d6c8502ef2e94fb599c"
+    }
+  ]
+}

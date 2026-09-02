@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "workId": "a-fang-gong-fu",
+  "provider": "edge-neural",
+  "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
+  "format": "mp3",
+  "generatedAt": "2026-09-01T01:51:17.033Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/a-fang-gong-fu/seg-001.mp3",
+      "durationMs": 11784,
+      "checksum": "62c6eab1811fd53018843cd5cc45b908f4b25c8b767fb33d4ec846a712506699",
+      "sourceHash": "39fa200964b77cc4263fb9f11d9f900f4bbf4c38f932486590ac54811a730b2d"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/a-fang-gong-fu/seg-002.mp3",
+      "durationMs": 5184,
+      "checksum": "e1c0830afb182dd20651f5cfefaf85dc2e75c9615d4d3c9aa3214cd655777cc9",
+      "sourceHash": "468af8b4ec1cf67bf3158d81d9284f28e567e34bc0818b7b0c16154c4e7e4652"
+    }
+  ]
+}

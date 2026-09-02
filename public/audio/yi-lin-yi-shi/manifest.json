@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "workId": "yi-lin-yi-shi",
+  "provider": "edge-neural",
+  "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
+  "format": "mp3",
+  "generatedAt": "2026-09-01T02:38:15.646Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/yi-lin-yi-shi/seg-001.mp3",
+      "durationMs": 11616,
+      "checksum": "3260a66b9e8f180c3ec2717d8aba9fe8924af0cdb77b9d0907f364dfa86c3de1",
+      "sourceHash": "eea69a87a980205d1779149fe60a0d365ec002a89d1d9d8124b55e263558a326"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/yi-lin-yi-shi/seg-002.mp3",
+      "durationMs": 5352,
+      "checksum": "7877d38603badb0b200ecc8cc929200b761bc39a050bdfbdc67e483ddf8c147e",
+      "sourceHash": "c0be9a58152ac1e2a8b03f8ce73c766eb2a9c89e816dd01a04dd2538ba9d2445"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "workId": "wang-cheng",
+  "provider": "edge-neural",
+  "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
+  "format": "mp3",
+  "generatedAt": "2026-09-01T02:34:31.422Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/wang-cheng/seg-001.mp3",
+      "durationMs": 7368,
+      "checksum": "d2ad62b7b6a09ef1d8d5576d9540f5faa55d84c9105d8288d75c404aeaa88e21",
+      "sourceHash": "ac7c64ba3c664a85f175e118f4b3bdcc3447187b3bed6ab4e8203286a56589ec"
+    }
+  ]
+}

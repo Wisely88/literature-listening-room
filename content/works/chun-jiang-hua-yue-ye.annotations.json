@@ -1,0 +1,11 @@
+[
+  {"id":"ann-001","workId":"chun-jiang-hua-yue-ye","segmentId":"seg-001","term":"滟滟","explanation":"波光闪动的样子。","pronunciation":"yàn yàn","type":"word"},
+  {"id":"ann-002","workId":"chun-jiang-hua-yue-ye","segmentId":"seg-002","term":"芳甸","explanation":"花草丛生的原野。甸，郊野。","pronunciation":"fāng diàn","type":"word"},
+  {"id":"ann-003","workId":"chun-jiang-hua-yue-ye","segmentId":"seg-002","term":"霰","explanation":"雪珠、小冰粒，这里形容月光照在花林上的洁白景象。","pronunciation":"xiàn","type":"word"},
+  {"id":"ann-004","workId":"chun-jiang-hua-yue-ye","segmentId":"seg-002","term":"汀","explanation":"水边平地、小洲。","pronunciation":"tīng","type":"word"},
+  {"id":"ann-005","workId":"chun-jiang-hua-yue-ye","segmentId":"seg-005","term":"青枫浦","explanation":"地名，常指游子送别之地。","pronunciation":"qīng fēng pǔ","type":"place"},
+  {"id":"ann-006","workId":"chun-jiang-hua-yue-ye","segmentId":"seg-005","term":"扁舟","explanation":"小船。","pronunciation":"piān zhōu","type":"word"},
+  {"id":"ann-007","workId":"chun-jiang-hua-yue-ye","segmentId":"seg-006","term":"捣衣砧","explanation":"捣衣用的石砧。","pronunciation":"dǎo yī zhēn","type":"word"},
+  {"id":"ann-008","workId":"chun-jiang-hua-yue-ye","segmentId":"seg-007","term":"逐月华","explanation":"追随月光。","pronunciation":"zhú yuè huá","type":"word"},
+  {"id":"ann-009","workId":"chun-jiang-hua-yue-ye","segmentId":"seg-009","term":"碣石潇湘","explanation":"碣石在北方，潇湘在南方，泛指天南地北、路途遥远。","pronunciation":"jié shí xiāo xiāng","type":"place"}
+]

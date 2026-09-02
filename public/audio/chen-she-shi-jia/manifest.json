@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "workId": "chen-she-shi-jia",
+  "provider": "edge-neural",
+  "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
+  "format": "mp3",
+  "generatedAt": "2026-09-01T01:54:32.763Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/chen-she-shi-jia/seg-001.mp3",
+      "durationMs": 14880,
+      "checksum": "120636e5159ff4138089c0c7faaf7ff3abf3c86d70844f8894a8c15b7a9f24b0",
+      "sourceHash": "273dcb95c9d047a4e7087505d6b02de4a8c50ee61a10e3479677cb4f5c873c32"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/chen-she-shi-jia/seg-002.mp3",
+      "durationMs": 3432,
+      "checksum": "3a5030dfafeeca1642e1fed5cb598fa8a0adbfc1ba1deb4734d7508eaf194737",
+      "sourceHash": "dc02f246bea15d2ebcc4647bd3257c09de31fb5b10faa13cec79ad926096de91"
+    }
+  ]
+}

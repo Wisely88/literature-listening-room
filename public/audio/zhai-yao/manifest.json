@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "workId": "zhai-yao",
+  "provider": "edge-neural",
+  "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
+  "format": "mp3",
+  "generatedAt": "2026-09-01T02:39:06.190Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/zhai-yao/seg-001.mp3",
+      "durationMs": 8304,
+      "checksum": "a650f93e73ccfa3b82b3fac0c03ee3930a7e4f32302ca66a2b14c1a23234b1b9",
+      "sourceHash": "4edadd7c1d529c8c528e153a336f498e956beb011a54841f55a6135a1af5508c"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "liu-yuxi",
+  "slug": "liu-yuxi",
+  "name": "刘禹锡",
+  "aliases": [],
+  "courtesyNames": ["梦得"],
+  "birthYear": 772,
+  "deathYear": 842,
+  "dynasty": "唐",
+  "country": "中国",
+  "bio": "唐代文学家、哲学家，洛阳（今属河南）人。诗文俱佳，与柳宗元并称“刘柳”，与白居易并称“刘白”，诗风豪健明快。",
+  "styleSummary": "诗文刚健爽朗，善用比兴，兼具哲理与讽刺，咏史怀古之作尤为出色。",
+  "timeline": [
+    { "year": 772, "title": "出生", "description": "生于洛阳。" },
+    { "year": 793, "title": "进士及第", "description": "登进士第。" },
+    { "year": 805, "title": "永贞革新失败", "description": "参与永贞革新，失败后被贬朗州。" },
+    { "year": 824, "title": "作《陋室铭》", "description": "谪居和州期间写《陋室铭》。" },
+    { "year": 842, "title": "去世", "description": "病逝于洛阳。" }
+  ],
+  "representativeWorks": [
+    { "title": "陋室铭", "type": "散文" },
+    { "title": "乌衣巷", "type": "诗" },
+    { "title": "酬乐天扬州初逢席上见赠", "type": "诗" },
+    { "title": "望洞庭", "type": "诗" }
+  ],
+  "relatedPeople": []
+}

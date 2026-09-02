@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "workId": "lun-xue-wen-zhi-shi-li",
+  "provider": "edge-neural",
+  "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
+  "format": "mp3",
+  "generatedAt": "2026-09-01T02:10:05.462Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/lun-xue-wen-zhi-shi-li/seg-001.mp3",
+      "durationMs": 7272,
+      "checksum": "d80632b41b468135f7d959f18bba4ad9934d90ab9616e83d33611f267e48407e",
+      "sourceHash": "13a5d367a683a092cd6bdbd919aabba35dfd79d787dbd7f54aad9295937fc661"
+    }
+  ]
+}

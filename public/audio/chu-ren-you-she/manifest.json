@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "workId": "chu-ren-you-she",
+  "provider": "edge-neural",
+  "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
+  "format": "mp3",
+  "generatedAt": "2026-09-01T01:55:24.960Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/chu-ren-you-she/seg-001.mp3",
+      "durationMs": 7848,
+      "checksum": "2b60a271f241ac6e5e2e476a84860ab52653ae12139338eb6e956a5120470a90",
+      "sourceHash": "c3ac0255bda8c937bdda63d04690e73fe554701df6173ca851fff825f949fbc0"
+    }
+  ]
+}

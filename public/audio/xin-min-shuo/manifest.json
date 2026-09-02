@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "workId": "xin-min-shuo",
+  "provider": "edge-neural",
+  "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
+  "format": "mp3",
+  "generatedAt": "2026-09-01T02:37:22.733Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/xin-min-shuo/seg-001.mp3",
+      "durationMs": 7776,
+      "checksum": "8d38682b9cbf812e87de05e2e11f0b133c0fc514cb637dba5329f7c34b9f6335",
+      "sourceHash": "5a642077809537c5a9be2d0649422a7aef830e7b1b944c0ab4f23322a7a16175"
+    }
+  ]
+}

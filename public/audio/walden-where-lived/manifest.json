@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "workId": "walden-where-lived",
+  "provider": "edge-neural",
+  "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
+  "format": "mp3",
+  "generatedAt": "2026-09-01T02:33:51.058Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/walden-where-lived/seg-001.mp3",
+      "durationMs": 233328,
+      "checksum": "44a8301e79647675a23d550a704286b5e0d94249723023e914ea86ecc8843a93",
+      "sourceHash": "6b29388d3455571573ffdd3031ff60e48337ecfc90fbc0c28a49e97bdec5e279"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/walden-where-lived/seg-002.mp3",
+      "durationMs": 63312,
+      "checksum": "a2301490c4f383d112359231cf6ad7d6266df852d26e5aa8bf95b88fec23d071",
+      "sourceHash": "9776fe19e9279ee34e4a05d9cd469d2382aaf39c9487e4dc97e1cbfa26880a80"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/walden-where-lived/seg-003.mp3",
+      "durationMs": 75408,
+      "checksum": "07b055de94d04d8a80303597ddfd679eaf7c13a03a9b859a9f7f010154f5d232",
+      "sourceHash": "554bf5c7f79fdf1d222ac165261a4667fdf3612535b254826b0fcca255c8720c"
+    }
+  ]
+}

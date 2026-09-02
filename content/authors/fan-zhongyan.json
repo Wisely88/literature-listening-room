@@ -1,0 +1,26 @@
+{
+  "id": "fan-zhongyan",
+  "slug": "fan-zhongyan",
+  "name": "范仲淹",
+  "aliases": ["范文正公"],
+  "courtesyNames": ["希文"],
+  "birthYear": 989,
+  "deathYear": 1052,
+  "dynasty": "北宋",
+  "country": "中国",
+  "bio": "北宋政治家、文学家，苏州吴县人。庆历新政的主持者之一，以“先天下之忧而忧，后天下之乐而乐”闻名，谥文正。",
+  "styleSummary": "文章气势开阔、议论谨严，兼重经世致用，词作亦豪放悲壮。",
+  "timeline": [
+    { "year": 989, "title": "出生", "description": "生于苏州吴县。" },
+    { "year": 1015, "title": "进士及第", "description": "登进士第。" },
+    { "year": 1043, "title": "庆历新政", "description": "任参知政事，主持庆历新政。" },
+    { "year": 1046, "title": "作《岳阳楼记》", "description": "应滕子京之请作《岳阳楼记》。" },
+    { "year": 1052, "title": "去世", "description": "病逝于徐州途中。" }
+  ],
+  "representativeWorks": [
+    { "title": "岳阳楼记", "type": "散文" },
+    { "title": "渔家傲·秋思", "type": "词" },
+    { "title": "苏幕遮·怀旧", "type": "词" }
+  ],
+  "relatedPeople": []
+}

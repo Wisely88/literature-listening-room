@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "workId": "yue-yang-lou-ji",
+  "provider": "edge-neural",
+  "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
+  "format": "mp3",
+  "generatedAt": "2026-08-31T14:06:58.336Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/yue-yang-lou-ji/seg-001.mp3",
+      "durationMs": 16944,
+      "checksum": "e3475bf569639a76eda8c205b8600ab3ce21ae8e897c898a8785dca301a132d3",
+      "sourceHash": "5f8084db03a331916a0129d296332e90f3db097002101e176a8e5cc92a375c57"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/yue-yang-lou-ji/seg-002.mp3",
+      "durationMs": 24624,
+      "checksum": "b8208dade4dedf9464d1b26aa58902c8283daaa0e703f7c2e39788678e3e24d3",
+      "sourceHash": "71be2e3b343ec2b00bd0476d59e4c46aec5f7603534acdcebccf43238a877224"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/yue-yang-lou-ji/seg-003.mp3",
+      "durationMs": 21408,
+      "checksum": "90a1611b03c79000072608f1d6ee4cc1bca82574dfcf026e2d36116fee142f4f",
+      "sourceHash": "79169a66868728d5bdb412ab313549ad5a8a1d461544bfdb8deb8a7646a70ec2"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/yue-yang-lou-ji/seg-004.mp3",
+      "durationMs": 27096,
+      "checksum": "e139f3c6879cce4e817c49618ce64d80893cf751c48aefac1d53c5d5ea3a4068",
+      "sourceHash": "f26c8d52f97b0c591414e71d95873c8b10555ce2bc3704beff7f4c6bf4306f42"
+    },
+    {
+      "id": "seg-005",
+      "url": "/audio/yue-yang-lou-ji/seg-005.mp3",
+      "durationMs": 28536,
+      "checksum": "f638a31f7c70e92b4b5e63f96ad12a26fd6be4006cc79b23b27abd0182457dd7",
+      "sourceHash": "9cb09d60dca01a4ae9276d33c8cd8bb41a9b956894b45788024dd0472a834840"
+    },
+    {
+      "id": "seg-006",
+      "url": "/audio/yue-yang-lou-ji/seg-006.mp3",
+      "durationMs": 2712,
+      "checksum": "a4b0dd9f2f9bbabe0b1d9873c64bbd4df638b18218a129f45487d18e5ef2aae0",
+      "sourceHash": "a4ea9c974419d167933e9c768a6d23b61747613ca484998e66eaf430ae0cd2b6"
+    }
+  ]
+}

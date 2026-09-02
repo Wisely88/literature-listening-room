@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "workId": "du-lu-liu-fa",
+  "provider": "edge-neural",
+  "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
+  "format": "mp3",
+  "generatedAt": "2026-09-01T01:57:29.935Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/du-lu-liu-fa/seg-001.mp3",
+      "durationMs": 8808,
+      "checksum": "3fcb419c90329ce0e94955327e6f53b568a0c0415333ecd61a43585687ae8e3d",
+      "sourceHash": "32b61523b389a1712d7d6a2c8e195a6ec252c87aa981d62db8e461aec3e92f82"
+    }
+  ]
+}

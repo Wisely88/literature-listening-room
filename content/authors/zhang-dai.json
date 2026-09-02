@@ -1,0 +1,24 @@
+{
+  "id": "zhang-dai",
+  "slug": "zhang-dai",
+  "name": "张岱",
+  "aliases": ["陶庵", "蝶庵居士"],
+  "courtesyNames": ["宗子"],
+  "birthYear": 1597,
+  "deathYear": 1679,
+  "dynasty": "明",
+  "country": "中国",
+  "bio": "明末清初文学家、史学家，山阴（今浙江绍兴）人。明亡后避居山野，著《陶庵梦忆》《西湖梦寻》追忆故国旧事，小品文成就极高。",
+  "styleSummary": "小品文清丽空灵，善以简淡笔墨写景记事，于闲适中寄寓兴亡之感。",
+  "timeline": [
+    { "year": 1597, "title": "出生", "description": "生于山阴。" },
+    { "year": 1644, "title": "明亡", "description": "明朝灭亡，避居山野，专心著述。" },
+    { "year": 1679, "title": "去世", "description": "去世。" }
+  ],
+  "representativeWorks": [
+    { "title": "湖心亭看雪", "type": "散文" },
+    { "title": "陶庵梦忆", "type": "散文集" },
+    { "title": "西湖梦寻", "type": "散文集" }
+  ],
+  "relatedPeople": []
+}

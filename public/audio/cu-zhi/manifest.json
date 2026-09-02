@@ -1,0 +1,66 @@
+{
+  "version": 1,
+  "workId": "cu-zhi",
+  "provider": "edge-neural",
+  "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
+  "format": "mp3",
+  "generatedAt": "2026-08-31T13:59:02.363Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/cu-zhi/seg-001.mp3",
+      "durationMs": 27336,
+      "checksum": "4d0c606b95d67c7467f709243838fcc94bed82ace9d01b900403c3ed3e0e3c23",
+      "sourceHash": "8364399c0ff87e9db8c5bbec98e9886354b37ca5e45fddffff70505b595553f0"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/cu-zhi/seg-002.mp3",
+      "durationMs": 49848,
+      "checksum": "de0edb65ba8f74ed62155d2f0fd33188a01ebb2940b375b0ac797a35c5943e73",
+      "sourceHash": "0a10c8391b047c30657d9aa1d95dfa6f69e1cefca5f9af71f4e0c63c50a8bb87"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/cu-zhi/seg-003.mp3",
+      "durationMs": 57120,
+      "checksum": "ba2b4c4f4d6f1781d63075bb47882e5df37e0c68a979a71d33831289f8376ca8",
+      "sourceHash": "9f9915dcf44dad597f86ceb708633233e574fa5a9eeeae8025437c56d45873d7"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/cu-zhi/seg-004.mp3",
+      "durationMs": 63072,
+      "checksum": "ac3b26f0cf1c02df883c2a805221da6e4f3ce1b2ce09f2cb4c02b621c1a224f8",
+      "sourceHash": "2bc458a8f3f059496e66cec5d86dea43d91c879e39c873c07f2926266d9c5210"
+    },
+    {
+      "id": "seg-005",
+      "url": "/audio/cu-zhi/seg-005.mp3",
+      "durationMs": 116976,
+      "checksum": "a01bd46b543ceea7ba9a6b740ea5acebb74c68a2fc3db1feafb0f2e5233a8443",
+      "sourceHash": "6244690a032bdc717d758e5404cbfa2689a364c8a0622c34d5a88dee6c69f181"
+    },
+    {
+      "id": "seg-006",
+      "url": "/audio/cu-zhi/seg-006.mp3",
+      "durationMs": 88656,
+      "checksum": "a27b8d072e6ad7386575dc5ee443cae8b5542339ffb0f41478250d51da0b5984",
+      "sourceHash": "5ee914632205865ef7005050387396b2aea426008442f180eacec5c18d3baeff"
+    },
+    {
+      "id": "seg-007",
+      "url": "/audio/cu-zhi/seg-007.mp3",
+      "durationMs": 66288,
+      "checksum": "ad623be4e9059d19b919bc3ac27de178be5b126d393d55ce3d0041c50443579f",
+      "sourceHash": "386bd7f5756b631ab665fac5a8fb782ded4e315982094b1b1bbb9194cb8713bc"
+    },
+    {
+      "id": "seg-008",
+      "url": "/audio/cu-zhi/seg-008.mp3",
+      "durationMs": 38112,
+      "checksum": "dbaceca42827666f37d216884bf8728555e18b2cd6215b4a8a64a39b425ce91d",
+      "sourceHash": "2c2e216053e89e854cfb9958a79453659e368514cf3146489e3d32b5e7255368"
+    }
+  ]
+}

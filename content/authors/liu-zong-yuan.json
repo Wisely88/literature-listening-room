@@ -1,0 +1,25 @@
+{
+  "id": "liu-zong-yuan",
+  "slug": "liu-zong-yuan",
+  "name": "柳宗元",
+  "aliases": ["柳河东", "柳柳州"],
+  "courtesyNames": ["子厚"],
+  "birthYear": 773,
+  "deathYear": 819,
+  "dynasty": "唐",
+  "country": "中国",
+  "bio": "唐代文学家、思想家，河东（今山西运城）人。唐宋八大家之一，与韩愈并称“韩柳”。因参与永贞革新被贬永州、柳州，山水游记成就尤高。",
+  "styleSummary": "散文峻洁精严，山水游记清幽冷峭，善于在写景中寄托身世之感。",
+  "timeline": [
+    { "year": 773, "title": "出生", "description": "生于河东。" },
+    { "year": 793, "title": "进士及第", "description": "登进士第。" },
+    { "year": 805, "title": "永贞革新失败", "description": "参与永贞革新，失败后被贬永州司马。" },
+    { "year": 815, "title": "迁柳州刺史", "description": "改任柳州刺史，卒于任所。" }
+  ],
+  "representativeWorks": [
+    { "title": "小石潭记", "type": "散文" },
+    { "title": "捕蛇者说", "type": "散文" },
+    { "title": "江雪", "type": "诗" }
+  ],
+  "relatedPeople": []
+}

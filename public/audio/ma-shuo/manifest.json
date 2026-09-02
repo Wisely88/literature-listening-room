@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "workId": "ma-shuo",
+  "provider": "edge-neural",
+  "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
+  "format": "mp3",
+  "generatedAt": "2026-09-01T02:10:31.124Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/ma-shuo/seg-001.mp3",
+      "durationMs": 7032,
+      "checksum": "40edbdcb0825d8908faca384bbef62b17f0d7f61bbc6ccd0c5c3c17c5b106f01",
+      "sourceHash": "0e286e355e11a3416bc63007a7c3ef14c232293c767de58ff9e95d6d20ff9ef1"
+    }
+  ]
+}

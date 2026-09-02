@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "workId": "walden-ponds",
+  "provider": "edge-neural",
+  "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
+  "format": "mp3",
+  "generatedAt": "2026-09-01T02:30:31.316Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/walden-ponds/seg-001.mp3",
+      "durationMs": 19896,
+      "checksum": "e23d4594ca0c56e519a6ee3ed33ec834fab4cbfa43fafcf55b5d25e2ad87e389",
+      "sourceHash": "3028b6479b14ee022ded81703e4c1863bf53f307de282daf546ebbe2d41e4ce9"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/walden-ponds/seg-002.mp3",
+      "durationMs": 260064,
+      "checksum": "161824dffd291ca7cb931f97cc32fa8fddc4910dbe8d4f0f93901295fafe0194",
+      "sourceHash": "aafb9787fdcf70ddc9e2e7866086e99313d52d9a35601221ad87192487e49bfc"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/walden-ponds/seg-003.mp3",
+      "durationMs": 59616,
+      "checksum": "93d705bcd98574c18e4fd0c1af8839723b2989e54c18c421ecbf18eb5cd14bd3",
+      "sourceHash": "c947748fc1878ea7c2a2f0f8b9b55afce03adcf560f02f7411512cf4ef1b28c6"
+    }
+  ]
+}

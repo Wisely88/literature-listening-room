@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "workId": "qi-ren-you-hao-lie-zhe",
+  "provider": "edge-neural",
+  "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
+  "format": "mp3",
+  "generatedAt": "2026-09-01T02:15:36.673Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/qi-ren-you-hao-lie-zhe/seg-001.mp3",
+      "durationMs": 7752,
+      "checksum": "9c0693f5ce10aa48cfe7a6b3722199fc22c2e8f7244359a5a57a28b1a9186ad3",
+      "sourceHash": "ac6ee576c5a861f9469a25085762a229ea343dd9ad91344a714838b2921ed7da"
+    }
+  ]
+}

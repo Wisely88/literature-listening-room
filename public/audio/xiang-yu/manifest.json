@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "workId": "xiang-yu",
+  "provider": "edge-neural",
+  "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
+  "format": "mp3",
+  "generatedAt": "2026-09-01T02:37:06.480Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/xiang-yu/seg-001.mp3",
+      "durationMs": 8232,
+      "checksum": "c48c8133e7d88dcc1f919724a31e4a30f650b0b8383e5269c6edd413ab8e2e9f",
+      "sourceHash": "51edc97fab32b84097c427094e7024255df93c95731193622aaeb061efa5eb9a"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "workId": "qing-feng",
+  "provider": "edge-neural",
+  "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
+  "format": "mp3",
+  "generatedAt": "2026-09-01T02:15:40.294Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/qing-feng/seg-001.mp3",
+      "durationMs": 8136,
+      "checksum": "e3de09f2a154d3c26187c4aea8ffce566e14d95aa335d036a2bd574cb23a3dd8",
+      "sourceHash": "c609ac22ca6dc1b66d12e790e50d8e2e18b8ea51f9fa1d953ae814b392acd3de"
+    }
+  ]
+}

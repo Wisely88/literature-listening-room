@@ -1,0 +1,11 @@
+[
+  {"id":"ann-001","workId":"chu-shi-biao","segmentId":"seg-001","term":"崩殂","explanation":"指皇帝去世。崩，指帝王死。","pronunciation":"bēng cú","type":"word"},
+  {"id":"ann-002","workId":"chu-shi-biao","segmentId":"seg-001","term":"开张圣听","explanation":"广泛听取意见。开张，扩大；圣听，对帝王听闻的敬称。","pronunciation":"kāi zhāng shèng tīng","type":"word"},
+  {"id":"ann-003","workId":"chu-shi-biao","segmentId":"seg-002","term":"陟罚臧否","explanation":"提升、处分、褒扬、批评。陟，提升；臧否，褒贬。","pronunciation":"zhì fá zāng pǐ","type":"word"},
+  {"id":"ann-004","workId":"chu-shi-biao","segmentId":"seg-004","term":"性行淑均","explanation":"性情品行善良公正。","pronunciation":"xìng xíng shū jūn","type":"word"},
+  {"id":"ann-005","workId":"chu-shi-biao","segmentId":"seg-005","term":"桓、灵","explanation":"指东汉桓帝和灵帝，两人在位时朝政腐败。","pronunciation":"huán líng","type":"history"},
+  {"id":"ann-006","workId":"chu-shi-biao","segmentId":"seg-006","term":"卑鄙","explanation":"身份卑微、见识浅陋。与今义“品行低劣”不同。","pronunciation":"bēi bǐ","type":"grammar"},
+  {"id":"ann-007","workId":"chu-shi-biao","segmentId":"seg-006","term":"猥自枉屈","explanation":"降低身份、委屈自己。猥，谦词，辱；枉屈，屈就。","pronunciation":"wěi zì wǎng qū","type":"word"},
+  {"id":"ann-008","workId":"chu-shi-biao","segmentId":"seg-007","term":"庶竭驽钝","explanation":"希望竭尽我平庸的才能。驽钝，自谦才能平庸。","pronunciation":"shù jié nú dùn","type":"word"},
+  {"id":"ann-009","workId":"chu-shi-biao","segmentId":"seg-008","term":"咨诹善道","explanation":"征询治国的良策。咨诹，询问。","pronunciation":"zī zōu shàn dào","type":"word"}
+]

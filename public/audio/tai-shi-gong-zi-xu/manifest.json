@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "workId": "tai-shi-gong-zi-xu",
+  "provider": "edge-neural",
+  "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
+  "format": "mp3",
+  "generatedAt": "2026-09-01T02:17:12.352Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/tai-shi-gong-zi-xu/seg-001.mp3",
+      "durationMs": 12000,
+      "checksum": "6e40635aedd0cc53d7467baf195c91c0d42f5dafdb4647f8a185de009c60fd6b",
+      "sourceHash": "e5c3540c85552a60513eb30a74c1dc29e6f2721e2cf5647e087e877aab6ce9e8"
+    }
+  ]
+}

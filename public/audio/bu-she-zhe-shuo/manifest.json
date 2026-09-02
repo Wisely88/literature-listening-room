@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "workId": "bu-she-zhe-shuo",
+  "provider": "edge-neural",
+  "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
+  "format": "mp3",
+  "generatedAt": "2026-09-01T01:54:15.020Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/bu-she-zhe-shuo/seg-001.mp3",
+      "durationMs": 8256,
+      "checksum": "53d0b8d74451511743297455da37ad349552876984110f10b2ade8e10fb0e9de",
+      "sourceHash": "34395f4b3378f7d4eb02b820065ab55aa61b6ae3a14b983e80664a9e53bcf138"
+    }
+  ]
+}

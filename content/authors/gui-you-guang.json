@@ -1,0 +1,23 @@
+{
+  "id": "gui-you-guang",
+  "slug": "gui-you-guang",
+  "name": "归有光",
+  "aliases": ["震川先生"],
+  "courtesyNames": ["熙甫"],
+  "birthYear": 1506,
+  "deathYear": 1571,
+  "dynasty": "明",
+  "country": "中国",
+  "bio": "明代散文家，昆山（今属江苏）人。唐宋派代表作家，散文平易自然、感情真挚，尤善写家庭琐事与亲情。",
+  "styleSummary": "散文朴实无华，娓娓道来，以细节见真情，开明代小品文之先声。",
+  "timeline": [
+    { "year": 1506, "title": "出生", "description": "生于昆山。" },
+    { "year": 1540, "title": "进士及第", "description": "登进士第。" },
+    { "year": 1571, "title": "去世", "description": "去世。" }
+  ],
+  "representativeWorks": [
+    { "title": "项脊轩志", "type": "散文" },
+    { "title": "先妣事略", "type": "散文" }
+  ],
+  "relatedPeople": []
+}

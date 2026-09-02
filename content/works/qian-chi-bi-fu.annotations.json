@@ -1,0 +1,13 @@
+[
+  {"id":"ann-001","workId":"qian-chi-bi-fu","segmentId":"seg-001","term":"既望","explanation":"农历每月十六日。望，指十五日。","pronunciation":"jì wàng","type":"history"},
+  {"id":"ann-002","workId":"qian-chi-bi-fu","segmentId":"seg-001","term":"属客","explanation":"劝客人饮酒。属，劝酒。","pronunciation":"zhǔ kè","type":"word"},
+  {"id":"ann-003","workId":"qian-chi-bi-fu","segmentId":"seg-001","term":"冯虚御风","explanation":"凌空乘风。冯，通“凭”，凭借。","pronunciation":"píng xū yù fēng","type":"grammar"},
+  {"id":"ann-004","workId":"qian-chi-bi-fu","segmentId":"seg-002","term":"桂棹兰桨","explanation":"桂木做的棹、兰木做的桨，形容船桨华美。","pronunciation":"guì zhào lán jiǎng","type":"word"},
+  {"id":"ann-005","workId":"qian-chi-bi-fu","segmentId":"seg-002","term":"嫠妇","explanation":"寡妇。","pronunciation":"lí fù","type":"word"},
+  {"id":"ann-006","workId":"qian-chi-bi-fu","segmentId":"seg-003","term":"愀然","explanation":"神色忧伤的样子。","pronunciation":"qiǎo rán","type":"word"},
+  {"id":"ann-007","workId":"qian-chi-bi-fu","segmentId":"seg-003","term":"舳舻千里","explanation":"战船首尾相接绵延千里。舳，船尾；舻，船头。","pronunciation":"zhú lú qiān lǐ","type":"word"},
+  {"id":"ann-008","workId":"qian-chi-bi-fu","segmentId":"seg-003","term":"匏樽","explanation":"葫芦做的酒器。","pronunciation":"páo zūn","type":"word"},
+  {"id":"ann-009","workId":"qian-chi-bi-fu","segmentId":"seg-003","term":"蜉蝣","explanation":"一种朝生暮死的小虫，比喻人生短暂。","pronunciation":"fú yóu","type":"allusion"},
+  {"id":"ann-010","workId":"qian-chi-bi-fu","segmentId":"seg-004","term":"逝者如斯","explanation":"逝去的就像这江水。语出《论语》。","pronunciation":"shì zhě rú sī","type":"allusion"},
+  {"id":"ann-011","workId":"qian-chi-bi-fu","segmentId":"seg-005","term":"相与枕藉","explanation":"互相枕靠着。藉，垫着。","pronunciation":"xiāng yǔ zhěn jiè","type":"word"}
+]

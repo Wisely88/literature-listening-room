@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "workId": "chen-ping-qi-ji",
+  "provider": "edge-neural",
+  "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
+  "format": "mp3",
+  "generatedAt": "2026-09-01T01:54:25.758Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/chen-ping-qi-ji/seg-001.mp3",
+      "durationMs": 6672,
+      "checksum": "9f8b07aa5c17af5d3cdd6400c73cfcdd944aa5b5824f191f79f35f5153b2991c",
+      "sourceHash": "30fc267060a736a07067430ec8f0a5baceacad985f7e36e4357a3d005316d68b"
+    }
+  ]
+}

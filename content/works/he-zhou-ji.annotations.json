@@ -1,0 +1,12 @@
+[
+  {"id":"ann-001","workId":"he-zhou-ji","segmentId":"seg-001","term":"径寸之木","explanation":"直径一寸的木头。","pronunciation":"jìng cùn zhī mù","type":"word"},
+  {"id":"ann-002","workId":"he-zhou-ji","segmentId":"seg-001","term":"罔不","explanation":"无不、没有不。","pronunciation":"wǎng bù","type":"grammar"},
+  {"id":"ann-003","workId":"he-zhou-ji","segmentId":"seg-001","term":"贻","explanation":"赠送。","pronunciation":"yí","type":"word"},
+  {"id":"ann-004","workId":"he-zhou-ji","segmentId":"seg-002","term":"有奇","explanation":"有余、多一点。奇，零数。","pronunciation":"yǒu jī","type":"word"},
+  {"id":"ann-005","workId":"he-zhou-ji","segmentId":"seg-002","term":"箬篷","explanation":"箬竹叶做的船篷。","pronunciation":"ruò péng","type":"word"},
+  {"id":"ann-006","workId":"he-zhou-ji","segmentId":"seg-002","term":"石青糁之","explanation":"用石青涂在字上。糁，涂。","pronunciation":"shí qīng sǎn zhī","type":"word"},
+  {"id":"ann-007","workId":"he-zhou-ji","segmentId":"seg-003","term":"峨冠","explanation":"高高的帽子。","pronunciation":"é guān","type":"word"},
+  {"id":"ann-008","workId":"he-zhou-ji","segmentId":"seg-003","term":"诎","explanation":"通“屈”，弯曲。","pronunciation":"qū","type":"grammar"},
+  {"id":"ann-009","workId":"he-zhou-ji","segmentId":"seg-004","term":"椎髻","explanation":"梳成椎形的发髻。","pronunciation":"zhuī jì","type":"word"},
+  {"id":"ann-010","workId":"he-zhou-ji","segmentId":"seg-006","term":"曾不盈寸","explanation":"竟然不满一寸。曾，竟然；盈，满。","pronunciation":"céng bù yíng cùn","type":"grammar"}
+]

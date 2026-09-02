@@ -1,0 +1,25 @@
+{
+  "id": "zhuge-liang",
+  "slug": "zhuge-liang",
+  "name": "诸葛亮",
+  "aliases": ["卧龙", "诸葛武侯"],
+  "courtesyNames": ["孔明"],
+  "birthYear": 181,
+  "deathYear": 234,
+  "dynasty": "三国",
+  "country": "中国",
+  "bio": "三国时期蜀汉丞相、政治家、军事家，琅琊阳都（今山东沂南）人。辅佐刘备建立蜀汉，鞠躬尽瘁，死而后已。",
+  "styleSummary": "文章质朴恳切、情理兼备，《出师表》为古代表文名篇。",
+  "timeline": [
+    { "year": 181, "title": "出生", "description": "生于琅琊阳都。" },
+    { "year": 207, "title": "隆中对", "description": "刘备三顾茅庐，诸葛亮提出隆中对策。" },
+    { "year": 221, "title": "拜丞相", "description": "刘备称帝，诸葛亮任丞相。" },
+    { "year": 227, "title": "作《出师表》", "description": "北伐前上《出师表》。" },
+    { "year": 234, "title": "去世", "description": "病逝于五丈原军中。" }
+  ],
+  "representativeWorks": [
+    { "title": "出师表", "type": "散文" },
+    { "title": "诫子书", "type": "散文" }
+  ],
+  "relatedPeople": []
+}

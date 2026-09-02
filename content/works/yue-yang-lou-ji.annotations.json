@@ -1,0 +1,12 @@
+[
+  {"id":"ann-001","workId":"yue-yang-lou-ji","segmentId":"seg-001","term":"庆历四年","explanation":"宋仁宗庆历四年，即公元1044年。","pronunciation":"qìng lì sì nián","type":"history"},
+  {"id":"ann-002","workId":"yue-yang-lou-ji","segmentId":"seg-001","term":"属予作文","explanation":"嘱咐我写文章。属，通“嘱”，嘱咐。","pronunciation":"zhǔ yǔ zuò wén","type":"grammar"},
+  {"id":"ann-003","workId":"yue-yang-lou-ji","segmentId":"seg-002","term":"浩浩汤汤","explanation":"水势浩大、水流广大的样子。汤汤，读 shāng。","pronunciation":"hào hào shāng shāng","type":"word"},
+  {"id":"ann-004","workId":"yue-yang-lou-ji","segmentId":"seg-002","term":"迁客骚人","explanation":"被贬谪的官员和来往的诗人。骚人，指诗人。","pronunciation":"qiān kè sāo rén","type":"word"},
+  {"id":"ann-005","workId":"yue-yang-lou-ji","segmentId":"seg-003","term":"樯倾楫摧","explanation":"桅杆倾倒、船桨折断。","pronunciation":"qiáng qīng jí cuī","type":"word"},
+  {"id":"ann-006","workId":"yue-yang-lou-ji","segmentId":"seg-003","term":"去国怀乡","explanation":"离开国都，怀念家乡。","pronunciation":"qù guó huái xiāng","type":"word"},
+  {"id":"ann-007","workId":"yue-yang-lou-ji","segmentId":"seg-004","term":"岸芷汀兰","explanation":"岸边的香草和小洲上的兰花。芷，香草；汀，水边平地。","pronunciation":"àn zhǐ tīng lán","type":"word"},
+  {"id":"ann-008","workId":"yue-yang-lou-ji","segmentId":"seg-004","term":"静影沉璧","explanation":"静静的月影像沉入水中的玉璧。","pronunciation":"jìng yǐng chén bì","type":"word"},
+  {"id":"ann-009","workId":"yue-yang-lou-ji","segmentId":"seg-005","term":"庙堂","explanation":"朝廷、朝堂。","pronunciation":"miào táng","type":"word"},
+  {"id":"ann-010","workId":"yue-yang-lou-ji","segmentId":"seg-005","term":"微斯人","explanation":"如果没有这种人。微，如果没有。","pronunciation":"wēi sī rén","type":"grammar"}
+]

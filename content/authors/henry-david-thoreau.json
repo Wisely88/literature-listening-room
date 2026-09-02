@@ -1,0 +1,16 @@
+{
+  "id": "henry-david-thoreau",
+  "slug": "henry-david-thoreau",
+  "name": "亨利·戴维·梭罗",
+  "aliases": ["Henry David Thoreau", "梭罗"],
+  "courtesyNames": [],
+  "birthYear": 1817,
+  "deathYear": 1862,
+  "dynasty": "近代",
+  "country": "美国",
+  "bio": "亨利·戴维·梭罗（Henry David Thoreau，1817—1862），美国作家、思想家与自然观察者，超验主义的重要代表。《瓦尔登湖》记录了他在康科德瓦尔登湖畔简朴生活期间对自然、劳动与自我独立的思考。",
+  "styleSummary": "文字清澈、节制而富有哲思，常从细小的自然经验抵达关于生活方式与精神自由的追问。",
+  "timeline": [{"year":1817,"title":"出生于康科德","description":"出生于美国马萨诸塞州康科德。"},{"year":1845,"title":"居于瓦尔登湖畔","description":"在瓦尔登湖畔搭建小屋，开始简朴生活实验。"},{"year":1854,"title":"《瓦尔登湖》出版","description":"出版《Walden; or, Life in the Woods》。"},{"year":1862,"title":"逝世于康科德","description":"逝世于家乡康科德。"}],
+  "representativeWorks": [{"title":"瓦尔登湖","type":"散文"},{"title":"论公民的不服从","type":"随笔"},{"title":"漫步","type":"随笔"}],
+  "relatedPeople": []
+}

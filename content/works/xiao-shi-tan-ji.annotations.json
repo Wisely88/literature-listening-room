@@ -1,0 +1,11 @@
+[
+  {"id":"ann-001","workId":"xiao-shi-tan-ji","segmentId":"seg-001","term":"篁竹","explanation":"竹林。篁，竹子。","pronunciation":"huáng zhú","type":"word"},
+  {"id":"ann-002","workId":"xiao-shi-tan-ji","segmentId":"seg-001","term":"清冽","explanation":"清凉。冽，寒冷。","pronunciation":"qīng liè","type":"word"},
+  {"id":"ann-003","workId":"xiao-shi-tan-ji","segmentId":"seg-001","term":"坻","explanation":"水中的小洲或高地。","pronunciation":"chí","type":"word"},
+  {"id":"ann-004","workId":"xiao-shi-tan-ji","segmentId":"seg-001","term":"嵁","explanation":"不平的岩石。","pronunciation":"kān","type":"word"},
+  {"id":"ann-005","workId":"xiao-shi-tan-ji","segmentId":"seg-002","term":"佁然","explanation":"呆呆的样子。","pronunciation":"yǐ rán","type":"word"},
+  {"id":"ann-006","workId":"xiao-shi-tan-ji","segmentId":"seg-002","term":"俶尔","explanation":"忽然。","pronunciation":"chù ěr","type":"word"},
+  {"id":"ann-007","workId":"xiao-shi-tan-ji","segmentId":"seg-002","term":"翕忽","explanation":"轻快敏捷的样子。","pronunciation":"xī hū","type":"word"},
+  {"id":"ann-008","workId":"xiao-shi-tan-ji","segmentId":"seg-003","term":"斗折蛇行","explanation":"像北斗星那样曲折，像蛇那样蜿蜒前行。","pronunciation":"dǒu zhé shé xíng","type":"word"},
+  {"id":"ann-009","workId":"xiao-shi-tan-ji","segmentId":"seg-004","term":"悄怆幽邃","explanation":"寂静幽深得让人忧伤。悄怆，忧伤；邃，深。","pronunciation":"qiǎo chuàng yōu suì","type":"word"}
+]

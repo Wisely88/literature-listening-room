@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "workId": "empty-room-lamp",
+  "provider": "edge-neural",
+  "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
+  "format": "mp3",
+  "generatedAt": "2026-09-01T01:57:37.227Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/empty-room-lamp/seg-001.mp3",
+      "durationMs": 9912,
+      "checksum": "fee8cad585e32d6bce37235b7d0c65831002d9eaaef8a053752fa729fb6cc45f",
+      "sourceHash": "58b1b92b197ffa0b56177a112b62c7f81c08d2112b95d76e4205c487e0bb9827"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/empty-room-lamp/seg-002.mp3",
+      "durationMs": 4608,
+      "checksum": "0321e79a2eda0b2f51a164929dfda478177abf3b0b4de1e3d342a6efac8b3209",
+      "sourceHash": "734ec2a64e6bfbf665c8e6086fbcc52b2fda46394e8ff495f34dfd7fa5390869"
+    }
+  ]
+}

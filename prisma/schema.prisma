@@ -1,0 +1,140 @@
+generator client {
+  provider = "prisma-client"
+  output   = "../generated/prisma"
+}
+
+datasource db {
+  provider = "sqlite"
+}
+
+model Work {
+  id                     String            @id
+  slug                   String            @unique
+  title                  String
+  aliases                String            @default("[]")
+  authorId               String?
+  category               String
+  foreignGenre           String?
+  dynasty                String?
+  language               String            @default("zh-CN")
+  summary                String?
+  tags                   String            @default("[]")
+  moods                  String            @default("[]")
+  ambience               String            @default("[]")
+  defaultAmbience        String?
+  background             String?
+  translation            String?
+  appreciation           String?
+  estimatedMinutes       Int?
+  rightsStatus           String
+  sourceNote             String?
+  editorialNotes         String            @default("[]")
+  pronunciationOverrides String            @default("[]")
+  createdAt              DateTime          @default(now())
+  updatedAt              DateTime          @updatedAt
+  author                 Author?           @relation(fields: [authorId], references: [id])
+  segments               Segment[]
+  annotations            Annotation[]
+  audioAssets            AudioAsset[]
+  ttsJobs                TTSJob[]
+  progress               PlaybackProgress?
+  favorite               Favorite?
+}
+
+model Author {
+  id                  String  @id
+  slug                String  @unique
+  name                String
+  aliases             String?
+  courtesyNames       String?
+  bio                 String?
+  dynasty             String?
+  country             String?
+  birthYear           Int?
+  deathYear           Int?
+  styleSummary        String?
+  timeline            String?
+  representativeWorks String?
+  relatedPeople       String?
+  works               Work[]
+}
+
+model Segment {
+  id          String       @id
+  workId      String
+  order       Int
+  displayText String
+  speechText  String?
+  translation String?
+  work        Work         @relation(fields: [workId], references: [id], onDelete: Cascade)
+  audioAssets AudioAsset[]
+
+  @@unique([workId, order])
+}
+
+model Annotation {
+  id            String  @id
+  workId        String
+  segmentId     String?
+  term          String
+  explanation   String
+  pronunciation String?
+  type          String
+  work          Work    @relation(fields: [workId], references: [id], onDelete: Cascade)
+}
+
+model AudioAsset {
+  id               String   @id
+  workId           String
+  segmentId        String?
+  provider         String
+  voice            String
+  format           String   @default("mp3")
+  url              String
+  durationMs       Int?
+  checksum         String?
+  sourceHash       String?
+  providerMetadata String   @default("{}")
+  createdAt        DateTime @default(now())
+  updatedAt        DateTime @updatedAt
+  work             Work     @relation(fields: [workId], references: [id], onDelete: Cascade)
+  segment          Segment? @relation(fields: [segmentId], references: [id], onDelete: Cascade)
+
+  @@unique([segmentId, provider, voice, format])
+  @@index([workId, provider, voice])
+}
+
+model PlaybackProgress {
+  id           String   @id
+  workId       String   @unique
+  segmentId    String?
+  positionMs   Int      @default(0)
+  completed    Boolean  @default(false)
+  lastOpenedAt DateTime @default(now())
+  updatedAt    DateTime @updatedAt
+  work         Work     @relation(fields: [workId], references: [id], onDelete: Cascade)
+}
+
+model Favorite {
+  id        String   @id
+  workId    String   @unique
+  createdAt DateTime @default(now())
+  work      Work     @relation(fields: [workId], references: [id], onDelete: Cascade)
+}
+
+model TTSJob {
+  id             String   @id
+  workId         String
+  provider       String
+  voice          String
+  status         String
+  progress       Int      @default(0)
+  idempotencyKey String   @unique
+  requestConfig  String   @default("{}")
+  error          String?
+  createdAt      DateTime @default(now())
+  updatedAt      DateTime @updatedAt
+  work           Work     @relation(fields: [workId], references: [id], onDelete: Cascade)
+
+  @@index([workId, status])
+}

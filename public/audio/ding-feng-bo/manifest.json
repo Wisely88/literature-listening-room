@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "workId": "ding-feng-bo",
+  "provider": "edge-neural",
+  "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
+  "format": "mp3",
+  "generatedAt": "2026-09-01T01:56:54.373Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/ding-feng-bo/seg-001.mp3",
+      "durationMs": 10296,
+      "checksum": "157be951fb0fb178eb76fccddc9d82436490e570465625e23d5e8f52d7f45ed9",
+      "sourceHash": "c0634c8ff16c10a58bac2a35b6f4e7147e5a594e78dabac9c096276e3a9e31b6"
+    }
+  ]
+}

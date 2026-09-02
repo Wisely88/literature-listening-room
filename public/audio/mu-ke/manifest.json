@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "workId": "mu-ke",
+  "provider": "edge-neural",
+  "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
+  "format": "mp3",
+  "generatedAt": "2026-09-01T02:11:17.719Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/mu-ke/seg-001.mp3",
+      "durationMs": 5664,
+      "checksum": "58fc5c6388fc408acaa6ace10d3cc6402b0e241d5274a1ee8c9c12f955640b3c",
+      "sourceHash": "82800af5ab8dd6c50fbd51866c51fc2a1dea06e6bf2bc6a4cd159a3f41eea25d"
+    }
+  ]
+}

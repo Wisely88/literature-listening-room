@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "workId": "pen-shui",
+  "provider": "edge-neural",
+  "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
+  "format": "mp3",
+  "generatedAt": "2026-09-01T02:12:25.413Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/pen-shui/seg-001.mp3",
+      "durationMs": 7632,
+      "checksum": "777a66c03c235b77eabb0bfc599e64b16a19dfb3a4b895f07e153eb6baf7ebf0",
+      "sourceHash": "972f80248bc060f8df006071c1a7383fb39d2e7e7c5a812d01c0f398442b0505"
+    }
+  ]
+}

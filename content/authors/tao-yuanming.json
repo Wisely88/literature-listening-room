@@ -1,0 +1,26 @@
+{
+  "id": "tao-yuanming",
+  "slug": "tao-yuanming",
+  "name": "陶渊明",
+  "aliases": ["陶潜", "五柳先生"],
+  "courtesyNames": ["元亮"],
+  "birthYear": 365,
+  "deathYear": 427,
+  "dynasty": "东晋",
+  "country": "中国",
+  "bio": "东晋末至南朝宋初诗人、辞赋家，浔阳柴桑（今江西九江）人。曾任江州祭酒、彭泽令等职，后辞官归隐，躬耕田园，是中国田园诗派的开创者。",
+  "styleSummary": "诗风平淡自然、真挚冲和，善于以朴素语言写田园生活与归隐心境，对后世影响深远。",
+  "timeline": [
+    { "year": 365, "title": "出生", "description": "生于浔阳柴桑。" },
+    { "year": 393, "title": "初入仕途", "description": "任江州祭酒，不久辞归。" },
+    { "year": 405, "title": "彭泽令与归隐", "description": "任彭泽令八十余日后辞官归田，作《归去来兮辞》。" },
+    { "year": 427, "title": "去世", "description": "病逝，世称靖节先生。" }
+  ],
+  "representativeWorks": [
+    { "title": "桃花源记", "type": "散文" },
+    { "title": "归去来兮辞", "type": "辞赋" },
+    { "title": "饮酒·其五", "type": "诗" },
+    { "title": "归园田居", "type": "诗" }
+  ],
+  "relatedPeople": []
+}

@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "workId": "fang-he-ting-ji",
+  "provider": "edge-neural",
+  "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
+  "format": "mp3",
+  "generatedAt": "2026-09-01T01:58:03.077Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/fang-he-ting-ji/seg-001.mp3",
+      "durationMs": 7728,
+      "checksum": "fab50adc3f5523a988c8a9222f82f184c8ed1227a642443ba4d268f05cdafc41",
+      "sourceHash": "a974fec91f59c1cba97514bf37047b0d519340791f27b1fdee8b136771ba2bd0"
+    }
+  ]
+}

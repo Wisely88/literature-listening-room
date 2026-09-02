@@ -1,0 +1,11 @@
+[
+  {"id":"ann-001","workId":"qiang-jin-jiu","segmentId":"seg-001","term":"君不见","explanation":"你没有看见吗？古乐府常用起兴语。","pronunciation":"jūn bù jiàn","type":"grammar"},
+  {"id":"ann-002","workId":"qiang-jin-jiu","segmentId":"seg-002","term":"金樽","explanation":"金制的酒杯。樽，酒杯。","pronunciation":"jīn zūn","type":"word"},
+  {"id":"ann-003","workId":"qiang-jin-jiu","segmentId":"seg-003","term":"会须","explanation":"应当。","pronunciation":"huì xū","type":"word"},
+  {"id":"ann-004","workId":"qiang-jin-jiu","segmentId":"seg-003","term":"岑夫子","explanation":"指岑勋，李白的朋友。","pronunciation":"cén fū zǐ","type":"person"},
+  {"id":"ann-005","workId":"qiang-jin-jiu","segmentId":"seg-003","term":"丹丘生","explanation":"指元丹丘，李白的朋友。","pronunciation":"dān qiū shēng","type":"person"},
+  {"id":"ann-006","workId":"qiang-jin-jiu","segmentId":"seg-004","term":"钟鼓馔玉","explanation":"指富贵人家的音乐与美食。馔玉，珍美如玉的饮食。","pronunciation":"zhōng gǔ zhuàn yù","type":"word"},
+  {"id":"ann-007","workId":"qiang-jin-jiu","segmentId":"seg-005","term":"陈王","explanation":"指曹植，曾封陈王。","pronunciation":"chén wáng","type":"person"},
+  {"id":"ann-008","workId":"qiang-jin-jiu","segmentId":"seg-005","term":"恣欢谑","explanation":"尽情地欢乐戏谑。","pronunciation":"zì huān xuè","type":"word"},
+  {"id":"ann-009","workId":"qiang-jin-jiu","segmentId":"seg-006","term":"径须","explanation":"只管、尽管。","pronunciation":"jìng xū","type":"word"}
+]

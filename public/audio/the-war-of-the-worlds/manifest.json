@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "workId": "the-war-of-the-worlds",
+  "provider": "edge-neural",
+  "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
+  "format": "mp3",
+  "generatedAt": "2026-09-01T02:25:18.227Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/the-war-of-the-worlds/seg-001.mp3",
+      "durationMs": 53040,
+      "checksum": "cb1d5462c202c1aea78fb0fb248261354ea02310ccf72e7afd194c4049dc7fed",
+      "sourceHash": "8d7f86df62ec680e27f3e26f5c7ab8f2a3a2f89e72a60940fe012c67cb1451e3"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/the-war-of-the-worlds/seg-002.mp3",
+      "durationMs": 38040,
+      "checksum": "c661306e09233a17f0361f24d41e8220b6c0190eb3e49cfea2fd7731f1cfbb2a",
+      "sourceHash": "524c1a613def04753c44f7c0cea4a11328087de9b4d049c6c5bab1739ceb9554"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/the-war-of-the-worlds/seg-003.mp3",
+      "durationMs": 41184,
+      "checksum": "0ea80c42f0d851c497a815e6e9ed9d8c4b06d498cf0d7c4bdf25a5309ef666bc",
+      "sourceHash": "96dcc73c8192bc7a75a889470e30a07eaa3c98fbd0d34b5b60f110ab655d90c0"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/the-war-of-the-worlds/seg-004.mp3",
+      "durationMs": 30120,
+      "checksum": "a9f5cc2d01e1ffb7d76cb33baa7caf08e12ccd788b0d7e9072098e9f09b3d5cf",
+      "sourceHash": "e8001143e12d6a51feee8acf886977368f2d86a7c1bdbc4fe217f4ada8413396"
+    },
+    {
+      "id": "seg-005",
+      "url": "/audio/the-war-of-the-worlds/seg-005.mp3",
+      "durationMs": 78840,
+      "checksum": "a925ca759e124c6f09f6487c588c92656068d5ac34076a0cd805241d203cbe7c",
+      "sourceHash": "f59915f9b506a2ad3f9a71ce2af8136dc118a252c6a8eebdfcd81df5b566ef9b"
+    },
+    {
+      "id": "seg-006",
+      "url": "/audio/the-war-of-the-worlds/seg-006.mp3",
+      "durationMs": 74808,
+      "checksum": "01fd70c66f5e1cc7f57c54964df0976863161f3b9eeb0d42c556179185557bef",
+      "sourceHash": "e0d8f1c3d7933c27a68c744c9d7db09ac181b6849794318401708f95a6f797f0"
+    }
+  ]
+}

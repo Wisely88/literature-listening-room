@@ -1,0 +1,13 @@
+.git
+.next
+node_modules
+coverage
+test-results
+playwright-report
+.env*
+!.env.example
+storage/audio
+.venv-edge-tts
+generated/prisma
+Dockerfile
+docker-compose.yml

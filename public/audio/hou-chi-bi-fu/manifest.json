@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "workId": "hou-chi-bi-fu",
+  "provider": "edge-neural",
+  "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
+  "format": "mp3",
+  "generatedAt": "2026-09-01T02:03:52.113Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/hou-chi-bi-fu/seg-001.mp3",
+      "durationMs": 13368,
+      "checksum": "4179968b45de246e9f24863bfaf66952cbf2b0cb13bc0693142ee13b544eed8a",
+      "sourceHash": "1937b064e07cd89f4f2224d35195e8edefd4d47a5738fab3d21eb3ea9f67952f"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "workId": "lun-you-er-li",
+  "provider": "edge-neural",
+  "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
+  "format": "mp3",
+  "generatedAt": "2026-09-01T02:10:09.234Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/lun-you-er-li/seg-001.mp3",
+      "durationMs": 7200,
+      "checksum": "25c63bbbd2aa73262052409c720624f11af20a9bced11944dcc0dc51b3151b03",
+      "sourceHash": "f95bd3aca56711bcbdb88b342025ab2d8940686897be02b08a9a07a0e530659a"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+[
+  {"id":"ann-001","workId":"tao-hua-yuan-ji","segmentId":"seg-001","term":"太元","explanation":"东晋孝武帝司马曜的年号。","pronunciation":"tài yuán","type":"history"},
+  {"id":"ann-002","workId":"tao-hua-yuan-ji","segmentId":"seg-001","term":"缘","explanation":"沿着、顺着。","pronunciation":"yuán","type":"word"},
+  {"id":"ann-003","workId":"tao-hua-yuan-ji","segmentId":"seg-001","term":"落英缤纷","explanation":"落花繁多而错杂。英，指花。","pronunciation":"luò yīng bīn fēn","type":"word"},
+  {"id":"ann-004","workId":"tao-hua-yuan-ji","segmentId":"seg-002","term":"俨然","explanation":"整齐的样子。","pronunciation":"yǎn rán","type":"word"},
+  {"id":"ann-005","workId":"tao-hua-yuan-ji","segmentId":"seg-002","term":"阡陌交通","explanation":"田间小路交错相通。阡陌，指田间小路。","pronunciation":"qiān mò jiāo tōng","type":"word"},
+  {"id":"ann-006","workId":"tao-hua-yuan-ji","segmentId":"seg-002","term":"黄发垂髫","explanation":"指老人和小孩。黄发，代指老人；垂髫，指小孩下垂的头发。","pronunciation":"huáng fà chuí tiáo","type":"word"},
+  {"id":"ann-007","workId":"tao-hua-yuan-ji","segmentId":"seg-003","term":"绝境","explanation":"与外界隔绝的地方。","pronunciation":"jué jìng","type":"word"},
+  {"id":"ann-008","workId":"tao-hua-yuan-ji","segmentId":"seg-003","term":"无论","explanation":"不要说、更不必说。与今义“不管”不同。","pronunciation":"wú lùn","type":"grammar"},
+  {"id":"ann-009","workId":"tao-hua-yuan-ji","segmentId":"seg-004","term":"志之","explanation":"做标记。志，做记号。","pronunciation":"zhì zhī","type":"word"},
+  {"id":"ann-010","workId":"tao-hua-yuan-ji","segmentId":"seg-005","term":"问津","explanation":"询问渡口，引申为探访、寻访。","pronunciation":"wèn jīn","type":"word"}
+]

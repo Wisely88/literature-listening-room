@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "workId": "lv-ye-shu-huai",
+  "provider": "edge-neural",
+  "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
+  "format": "mp3",
+  "generatedAt": "2026-09-01T02:10:26.335Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/lv-ye-shu-huai/seg-001.mp3",
+      "durationMs": 6960,
+      "checksum": "7e86d5d526bba74581051488856938f246f5563c238256e06df2772688019049",
+      "sourceHash": "feced8adebecdfcd1250b29abd28188440dabfd4708dc0f89825261cb19bf50f"
+    }
+  ]
+}

@@ -1,0 +1,209 @@
+.player {
+  width: 100%;
+  padding: 22px;
+  border: 1px solid var(--line);
+  border-radius: 18px;
+  background: var(--surface);
+  box-shadow: 0 16px 42px var(--shadow);
+}
+
+.heading {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 18px;
+}
+
+.heading h2,
+.empty h2 {
+  margin: 5px 0 0;
+  font-family: "Songti SC", STSong, "Noto Serif SC", serif;
+  font-size: 1.25rem;
+  font-weight: 600;
+}
+
+.eyebrow {
+  margin: 0;
+  color: var(--accent-strong);
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.16em;
+}
+
+.segmentStatus,
+.timeRow,
+.empty > p,
+.unavailable {
+  color: var(--muted);
+  font-size: 0.82rem;
+}
+
+.segmentStatus {
+  flex: none;
+  margin: 4px 0 0;
+}
+
+.timeline {
+  margin-top: 24px;
+}
+
+.timeline input,
+.volume input {
+  width: 100%;
+  min-height: 42px;
+  accent-color: var(--accent-strong);
+}
+
+.timeRow {
+  display: flex;
+  justify-content: space-between;
+  margin-top: -7px;
+  font-variant-numeric: tabular-nums;
+}
+
+.controls {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  margin-top: 18px;
+}
+
+.controls button,
+.fallbackButton,
+.error button {
+  min-width: 44px;
+  min-height: 44px;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  background: transparent;
+  color: var(--ink);
+}
+
+.controls button:hover:not(:disabled),
+.fallbackButton:hover,
+.error button:hover {
+  background: var(--accent-soft);
+}
+
+.controls button:disabled {
+  cursor: not-allowed;
+  opacity: 0.35;
+}
+
+.controls .primaryControl {
+  min-width: 54px;
+  min-height: 54px;
+  border-color: var(--ink);
+  background: var(--ink);
+  color: var(--paper);
+  font-size: 1.05rem;
+}
+
+.settings {
+  display: grid;
+  grid-template-columns: auto minmax(140px, 1fr);
+  align-items: center;
+  gap: 20px;
+  margin-top: 22px;
+  padding-top: 18px;
+  border-top: 1px solid var(--line);
+}
+
+.settings label {
+  display: flex;
+  min-height: 44px;
+  align-items: center;
+  gap: 10px;
+  color: var(--muted);
+  font-size: 0.82rem;
+}
+
+.settings select {
+  min-height: 42px;
+  border: 1px solid var(--line);
+  border-radius: 10px;
+  background: var(--paper);
+  color: var(--ink);
+  padding: 0 28px 0 10px;
+}
+
+.volume input {
+  max-width: 220px;
+}
+
+.error {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 14px;
+  margin-top: 18px;
+  padding: 12px 14px;
+  border: 1px solid color-mix(in srgb, #a94234 45%, var(--line));
+  border-radius: 12px;
+  background: color-mix(in srgb, #a94234 8%, var(--surface));
+}
+
+.error p {
+  margin: 0;
+}
+
+.error button {
+  flex: none;
+  padding: 0 16px;
+}
+
+.empty > p {
+  max-width: 54ch;
+  margin: 12px 0 0;
+  line-height: 1.75;
+}
+
+.fallbackButton {
+  margin-top: 18px;
+  padding: 0 18px;
+  background: var(--ink);
+  color: var(--paper);
+}
+
+.empty .unavailable,
+.fallbackError {
+  margin-top: 14px;
+}
+
+.fallbackError {
+  color: #a94234;
+  font-size: 0.82rem;
+}
+
+@media (max-width: 520px) {
+  .player {
+    padding: 18px 14px;
+  }
+
+  .heading {
+    display: block;
+  }
+
+  .segmentStatus {
+    margin-top: 8px;
+  }
+
+  .controls {
+    gap: 4px;
+  }
+
+  .controls button {
+    flex: 1 1 44px;
+    max-width: 54px;
+  }
+
+  .settings {
+    grid-template-columns: 1fr;
+    gap: 4px;
+  }
+
+  .volume input {
+    max-width: none;
+  }
+}

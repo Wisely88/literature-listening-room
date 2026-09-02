@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "workId": "frankenstein-creation-night",
+  "provider": "edge-neural",
+  "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
+  "format": "mp3",
+  "generatedAt": "2026-09-01T01:58:40.633Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/frankenstein-creation-night/seg-001.mp3",
+      "durationMs": 36648,
+      "checksum": "4cdce060653f82506d86dbf067b69c4cbd9ee5cbac30c6a236dc860eefeec323",
+      "sourceHash": "b43310157cb01d9a94848a1ec6a5f91ad6729c0cde7b0e294ce5b5580e369350"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/frankenstein-creation-night/seg-002.mp3",
+      "durationMs": 44880,
+      "checksum": "7b3da2d3d2f493add11fecf994de7999cdcf3ed3a4ef53777d730eee750c698a",
+      "sourceHash": "c8ce490f651a242f0d02cb2154aeab271801ff541223c60593624c3eff386dcf"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/frankenstein-creation-night/seg-003.mp3",
+      "durationMs": 135792,
+      "checksum": "1a5f7a5f8a8c4a444cbc0f3e0e32cf5da4a2794f4cc3ecd710a1dba5aa931622",
+      "sourceHash": "12b97a41c912ff8c2b791c036dd97327bb601317738cca3d1fe9655b63b66c8c"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/frankenstein-creation-night/seg-004.mp3",
+      "durationMs": 23976,
+      "checksum": "02d6c2213ce034ee25d28de46b2fb10828bbb91bfaf698a7ddb5466b71c63f18",
+      "sourceHash": "575eae9777247b562bdebd06cd9957692eb4c079e9852fce9041d65afc959c1d"
+    },
+    {
+      "id": "seg-005",
+      "url": "/audio/frankenstein-creation-night/seg-005.mp3",
+      "durationMs": 29208,
+      "checksum": "ff1b037e109458d5beaef19169bf4683305fe0c0cc049dbf246a60e4792604e1",
+      "sourceHash": "8372ea27cdb676c192bfa95242bbdbc26e5ed434a872778ebd4f4fe25d17e694"
+    },
+    {
+      "id": "seg-006",
+      "url": "/audio/frankenstein-creation-night/seg-006.mp3",
+      "durationMs": 36072,
+      "checksum": "36c7e6761057df2e309160aa87383d6a02ff86c387c81256839f1edeb7a90db7",
+      "sourceHash": "2052855b020746160b1351a3bc453ebdcfa32fe31c912e11904edfaad97946d6"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "version": 1,
+  "workId": "zui-weng-ting-ji",
+  "provider": "edge-neural",
+  "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
+  "format": "mp3",
+  "generatedAt": "2026-08-31T14:07:24.130Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/zui-weng-ting-ji/seg-001.mp3",
+      "durationMs": 45216,
+      "checksum": "31b590c5d922cf1bfcb875da23b60acf415ae9b1cd9a2f9b3d2c232b6e2a3b0e",
+      "sourceHash": "a10317e55188ab6a044d76d40de87543f03307868c03a2a438b05fff6a78511a"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/zui-weng-ting-ji/seg-002.mp3",
+      "durationMs": 22008,
+      "checksum": "c6b4337db957e717b00e6c47c63087f2cdccadeb24fea2001312a150e2ee41b0",
+      "sourceHash": "db97b093420066aa0f51f6ff8d8401078e829374a0d9bcd8ee2fa5cde8fd07d9"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/zui-weng-ting-ji/seg-003.mp3",
+      "durationMs": 34752,
+      "checksum": "adb90b3299c8c5dce9c50999eb58e1cc721c8daf174a596bc9ed380f448a5b5d",
+      "sourceHash": "72cd3872e2012b54cfeac24e514cf8241d01a455812f9628a84c14ccb94bb727"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/zui-weng-ting-ji/seg-004.mp3",
+      "durationMs": 28728,
+      "checksum": "fc8c2bc6dc9968569adcbe47237cadceb851a2f54ff4e07f731b38e98a81cd35",
+      "sourceHash": "5f3c79449ef1c9d0fb5680221d0a36630f7b21d12248ad2ff4352c0fc946c86c"
+    }
+  ]
+}

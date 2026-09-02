@@ -1,0 +1,9 @@
+[
+  {"id":"ann-001","workId":"yu-zhu-yuan-si-shu","segmentId":"seg-001","term":"共色","explanation":"同样的颜色。","pronunciation":"gòng sè","type":"word"},
+  {"id":"ann-002","workId":"yu-zhu-yuan-si-shu","segmentId":"seg-002","term":"缥碧","explanation":"青白色。","pronunciation":"piǎo bì","type":"word"},
+  {"id":"ann-003","workId":"yu-zhu-yuan-si-shu","segmentId":"seg-002","term":"甚箭","explanation":"比箭还快。甚，胜过。","pronunciation":"shèn jiàn","type":"word"},
+  {"id":"ann-004","workId":"yu-zhu-yuan-si-shu","segmentId":"seg-003","term":"轩邈","explanation":"高远。轩，高；邈，远。","pronunciation":"xuān miǎo","type":"word"},
+  {"id":"ann-005","workId":"yu-zhu-yuan-si-shu","segmentId":"seg-003","term":"泠泠","explanation":"形容水声清越。","pronunciation":"líng líng","type":"word"},
+  {"id":"ann-006","workId":"yu-zhu-yuan-si-shu","segmentId":"seg-003","term":"鸢飞戾天","explanation":"像鸢鸟一样飞上天，比喻极力追求名利。语出《诗经》。","pronunciation":"yuān fēi lì tiān","type":"allusion"},
+  {"id":"ann-007","workId":"yu-zhu-yuan-si-shu","segmentId":"seg-003","term":"经纶世务","explanation":"治理政务。经纶，筹划治理。","pronunciation":"jīng lún shì wù","type":"word"}
+]

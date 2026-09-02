@@ -1,0 +1,59 @@
+{
+  "version": 1,
+  "workId": "walden-bean-field",
+  "provider": "edge-neural",
+  "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
+  "format": "mp3",
+  "generatedAt": "2026-09-01T02:28:14.187Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/walden-bean-field/seg-001.mp3",
+      "durationMs": 100992,
+      "checksum": "d95f110982fc6b06128e2ccdc89193a3dac426bb2fcdf1c25beff1a4e7f816ae",
+      "sourceHash": "356af8c3264d7013be55ee3b5cfc3d5b14fd406434ec787134181f35b012f11b"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/walden-bean-field/seg-002.mp3",
+      "durationMs": 107328,
+      "checksum": "433021349126b49000c633d4769fbbf28c34923769b403b825702ca151856811",
+      "sourceHash": "1cfafb745dc2f6c443a846101fe5358374fb8673e16d7f0e7af90003fcac171e"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/walden-bean-field/seg-003.mp3",
+      "durationMs": 10392,
+      "checksum": "fcdbb482013118fce7d5ba1da896c47c0c05c78785586638be48b6243acfb698",
+      "sourceHash": "782fa03ae196013c73285f5ca8dc50c28a21155dffb43b761d0758f5e4b6dba3"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/walden-bean-field/seg-004.mp3",
+      "durationMs": 32304,
+      "checksum": "931395a448d26afed569eafd3f6e742fc74f5ffb5957ed1c013181b528069ed6",
+      "sourceHash": "8b037e6ec187ddb432e7d51b5b3907feece0066bd023c4a8d4893dd442397c94"
+    },
+    {
+      "id": "seg-005",
+      "url": "/audio/walden-bean-field/seg-005.mp3",
+      "durationMs": 5592,
+      "checksum": "f9e1b1da84d192738cbd1c4b3fe062dfd3ed625c542ac5cd28bda5cf65fefcad",
+      "sourceHash": "c51177ea486bb0cdce61e3eeb5b100c1263313c432b9c18a1942908b66445368"
+    },
+    {
+      "id": "seg-006",
+      "url": "/audio/walden-bean-field/seg-006.mp3",
+      "durationMs": 26304,
+      "checksum": "2c381e389a0167d68d4894ab44536f8da4ec95d718c95acc38a40cdb60caa06d",
+      "sourceHash": "ca14377d1cec555583eb27d0f848596fd6c1febf5af9aef1bb046311b34b12fc"
+    },
+    {
+      "id": "seg-007",
+      "url": "/audio/walden-bean-field/seg-007.mp3",
+      "durationMs": 51528,
+      "checksum": "7061237b8f3e9f0a2d3c7b3a5a9f3356c449e815572e63a07941eeff017acb27",
+      "sourceHash": "d3286e331457d17a5aa7530ad71e8338086bc8befb3f37163f99c7e913a00877"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+[
+  {"id":"ann-001","workId":"hu-xin-ting-kan-xue","segmentId":"seg-001","term":"更定","explanation":"初更以后，约晚上八点左右。","pronunciation":"gēng dìng","type":"word"},
+  {"id":"ann-002","workId":"hu-xin-ting-kan-xue","segmentId":"seg-001","term":"拏","explanation":"撑、划。","pronunciation":"ná","type":"word"},
+  {"id":"ann-003","workId":"hu-xin-ting-kan-xue","segmentId":"seg-001","term":"毳衣","explanation":"毛皮做的衣服。毳，鸟兽的细毛。","pronunciation":"cuì yī","type":"word"},
+  {"id":"ann-004","workId":"hu-xin-ting-kan-xue","segmentId":"seg-001","term":"雾凇沆砀","explanation":"水气凝成的冰花弥漫。沆砀，白气弥漫的样子。","pronunciation":"wù sōng hàng dàng","type":"word"},
+  {"id":"ann-005","workId":"hu-xin-ting-kan-xue","segmentId":"seg-001","term":"芥","explanation":"小草，这里形容船小如草芥。","pronunciation":"jiè","type":"word"},
+  {"id":"ann-006","workId":"hu-xin-ting-kan-xue","segmentId":"seg-002","term":"大白","explanation":"大酒杯。","pronunciation":"dà bái","type":"word"},
+  {"id":"ann-007","workId":"hu-xin-ting-kan-xue","segmentId":"seg-002","term":"喃喃","explanation":"低声自语。","pronunciation":"nán nán","type":"word"}
+]

@@ -1,0 +1,10 @@
+[
+  {"id":"ann-001","workId":"shi-shuo","segmentId":"seg-001","term":"传道受业","explanation":"传授道理、教授学业。受，通“授”。","pronunciation":"chuán dào shòu yè","type":"word"},
+  {"id":"ann-002","workId":"shi-shuo","segmentId":"seg-002","term":"庸知","explanation":"哪里知道。庸，岂、哪里。","pronunciation":"yōng zhī","type":"word"},
+  {"id":"ann-003","workId":"shi-shuo","segmentId":"seg-004","term":"句读","explanation":"断句。读，句中停顿处。","pronunciation":"jù dòu","type":"word"},
+  {"id":"ann-004","workId":"shi-shuo","segmentId":"seg-004","term":"小学而大遗","explanation":"学习小的方面，却遗漏大的方面。","pronunciation":"xiǎo xué ér dà yí","type":"word"},
+  {"id":"ann-005","workId":"shi-shuo","segmentId":"seg-005","term":"不齿","explanation":"不屑与之同列，即看不起。","pronunciation":"bù chǐ","type":"word"},
+  {"id":"ann-006","workId":"shi-shuo","segmentId":"seg-006","term":"无常师","explanation":"没有固定的老师。","pronunciation":"wú cháng shī","type":"word"},
+  {"id":"ann-007","workId":"shi-shuo","segmentId":"seg-006","term":"术业有专攻","explanation":"学问技艺各有专门的研究。","pronunciation":"shù yè yǒu zhuān gōng","type":"word"},
+  {"id":"ann-008","workId":"shi-shuo","segmentId":"seg-007","term":"六艺经传","explanation":"六经的经文和传文。六艺，指《诗》《书》《礼》《乐》《易》《春秋》。","pronunciation":"liù yì jīng zhuàn","type":"history"}
+]

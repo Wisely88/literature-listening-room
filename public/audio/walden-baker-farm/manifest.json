@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "workId": "walden-baker-farm",
+  "provider": "edge-neural",
+  "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
+  "format": "mp3",
+  "generatedAt": "2026-09-01T02:27:28.514Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/walden-baker-farm/seg-001.mp3",
+      "durationMs": 104232,
+      "checksum": "b51db29c5ab47ced77f5b02923246ed20bf3574d29c2b676af673977bc6db84c",
+      "sourceHash": "1dddcfe8c85b548e61c2d74b608be1d8bcd3fbec5ba0abdf1d94cf13f70a2c0a"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/walden-baker-farm/seg-002.mp3",
+      "durationMs": 16152,
+      "checksum": "7b647ed2d6f8db6a8ff8ad35915f53844b4257743ed392c171b0d295a2caf920",
+      "sourceHash": "23572d274e7db068d3b9e0d064b948257c3cbb2a2d6d3bb2999554ea6cc7564d"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/walden-baker-farm/seg-003.mp3",
+      "durationMs": 13992,
+      "checksum": "a5e8c4d712142e4965aad8013a6fb93d3caf90d2338bd1d7f2cf62706399a18c",
+      "sourceHash": "44d237b7ccd18ca4338f7ee2a4a54769c809fc26e898db75fcdcd8f8a1cd653b"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/walden-baker-farm/seg-004.mp3",
+      "durationMs": 63696,
+      "checksum": "902de4d649da7ced87ef4890aeca00e0ebf3cbb8efcafe6349dcdd87daf4fd49",
+      "sourceHash": "520ea46c0ac8d6db8a3693e376f9652dba87d532a124b6ffcca201e53534e778"
+    },
+    {
+      "id": "seg-005",
+      "url": "/audio/walden-baker-farm/seg-005.mp3",
+      "durationMs": 8688,
+      "checksum": "37a617e4d0144306a023a3313d0adf7605ea4750a85c4f9d2594d2343eb3ebdf",
+      "sourceHash": "d99c45a6a6be4e9e616d77a0cb9e9a30c161b18feb327a6a06c20ba9ab04a072"
+    },
+    {
+      "id": "seg-006",
+      "url": "/audio/walden-baker-farm/seg-006.mp3",
+      "durationMs": 90360,
+      "checksum": "26c2e27379630586c173203871a359fefa3d80be058793db60cf8023f6e16945",
+      "sourceHash": "72a6b30025383af7da8af322677308f6fa6ec039b40534df99deef875321bfc1"
+    }
+  ]
+}

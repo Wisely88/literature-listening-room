@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "workId": "han-shan-gui-ying",
+  "provider": "edge-neural",
+  "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
+  "format": "mp3",
+  "generatedAt": "2026-09-01T02:01:53.497Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/han-shan-gui-ying/seg-001.mp3",
+      "durationMs": 8688,
+      "checksum": "056b5d86d8f9daeb88a0728de46e2ef3f35f53deb13228b11b537347f604c84d",
+      "sourceHash": "7db76592db8aa7a74300d610421991399025b4aa7f1928e0a26a7c3e8bffa5fb"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/han-shan-gui-ying/seg-002.mp3",
+      "durationMs": 5808,
+      "checksum": "a2c16872569428ae231108d0068d842a0ca2733a7061a1c09c2804dd96b1fecd",
+      "sourceHash": "14d9dffc6d793fc3deb0ab6e347a81e962ad629e8fd0460aa354b7d2673735c3"
+    }
+  ]
+}

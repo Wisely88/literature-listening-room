@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "workId": "guan-yan-lie-zhuan",
+  "provider": "edge-neural",
+  "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
+  "format": "mp3",
+  "generatedAt": "2026-09-01T02:01:27.399Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/guan-yan-lie-zhuan/seg-001.mp3",
+      "durationMs": 7248,
+      "checksum": "1952e7657dd7a34b6128293b0cddb329627684b64a96b39f55d7b890d5a2fcd0",
+      "sourceHash": "9d08ef033be75875e20b3e96bd480f8a1d61d7420262ce9f1a2e133fe123eadb"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+[
+  {"id":"ann-001","workId":"nie-xiao-qian","segmentId":"seg-001","term":"廉隅","explanation":"棱角，比喻品行端方。","pronunciation":"lián yú","type":"word"},
+  {"id":"ann-002","workId":"nie-xiao-qian","segmentId":"seg-001","term":"兰若","explanation":"梵语“阿兰若”的省称，指寺院。","pronunciation":"lán rě","type":"word"},
+  {"id":"ann-003","workId":"nie-xiao-qian","segmentId":"seg-002","term":"蓬沓","explanation":"插在发髻上的首饰。","pronunciation":"péng tà","type":"word"},
+  {"id":"ann-004","workId":"nie-xiao-qian","segmentId":"seg-002","term":"鲐背","explanation":"形容老人背皮如鲐鱼，指年老。","pronunciation":"tái bèi","type":"word"},
+  {"id":"ann-005","workId":"nie-xiao-qian","segmentId":"seg-002","term":"燕好","explanation":"夫妻欢好。","pronunciation":"yàn hǎo","type":"word"},
+  {"id":"ann-006","workId":"nie-xiao-qian","segmentId":"seg-005","term":"姑嫜","explanation":"公婆。","pronunciation":"gū zhāng","type":"word"},
+  {"id":"ann-007","workId":"nie-xiao-qian","segmentId":"seg-006","term":"觌","explanation":"相见、见面。","pronunciation":"dí","type":"word"}
+]

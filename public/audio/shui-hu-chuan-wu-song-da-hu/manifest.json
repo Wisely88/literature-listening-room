@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "workId": "shui-hu-chuan-wu-song-da-hu",
+  "provider": "edge-neural",
+  "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
+  "format": "mp3",
+  "generatedAt": "2026-09-01T02:16:50.134Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/shui-hu-chuan-wu-song-da-hu/seg-001.mp3",
+      "durationMs": 12456,
+      "checksum": "eccadb97df314a75d66588826a9271a82bdefdde2abefa599c65a0d7cff2c309",
+      "sourceHash": "0335b39500fddfe28224e3a00d4f64e8d4681313ff7200da64741f9ecd68d7e9"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/shui-hu-chuan-wu-song-da-hu/seg-002.mp3",
+      "durationMs": 11784,
+      "checksum": "57b9fc9b591a5040e0a7eb60693ec4810222bf1c26b4748c85b169159b0cc8b4",
+      "sourceHash": "5360dc96cbce01830f696d877bb2be01eea9df14c5ded0138c3e4878e3bdfc95"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "workId": "yi-xing-bu-zhang",
+  "provider": "edge-neural",
+  "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
+  "format": "mp3",
+  "generatedAt": "2026-09-01T02:38:27.428Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/yi-xing-bu-zhang/seg-001.mp3",
+      "durationMs": 10152,
+      "checksum": "8557b4709dd2a5dd90ee121c87e03ae8d1685ec9d1ea5f71bc561107ca00628e",
+      "sourceHash": "391ccbaef9cf72285c5c963da700b370a6cc3d07bbd7f2a53cdcb63c03e84638"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/yi-xing-bu-zhang/seg-002.mp3",
+      "durationMs": 6048,
+      "checksum": "8eb54e8db10f175a5312fd32f307b3ae6cdf791ed64b8fcc041bae6fec7bafa1",
+      "sourceHash": "696426a883243dbdfc345df33a97289043030acabc8da02ed8db2e3ccc4aec0a"
+    }
+  ]
+}

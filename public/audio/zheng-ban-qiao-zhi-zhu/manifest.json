@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "workId": "zheng-ban-qiao-zhi-zhu",
+  "provider": "edge-neural",
+  "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
+  "format": "mp3",
+  "generatedAt": "2026-09-01T02:39:18.276Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/zheng-ban-qiao-zhi-zhu/seg-001.mp3",
+      "durationMs": 10296,
+      "checksum": "411181f21e9574cb9fb84d39d02d3995f8208db68a61eb3e876b5f6d627eda2e",
+      "sourceHash": "152b7a03a229fd2ff8a6f7d61d3169fbef04644cbb8fe51a83b1c619a167980c"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/zheng-ban-qiao-zhi-zhu/seg-002.mp3",
+      "durationMs": 8208,
+      "checksum": "1ee77d31797776a2d4e9cf302541f24be00f28bc5c97f5f0b0a73dca6e0b7539",
+      "sourceHash": "5ddc4d82b796c879af941a1e95ecea65a550eedad5db3b8461d1538f374ed123"
+    }
+  ]
+}
