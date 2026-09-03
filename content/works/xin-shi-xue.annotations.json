@@ -1,0 +1,34 @@
+[
+  {
+    "id": "ann-xin-shi-xue-001",
+    "workId": "xin-shi-xue",
+    "segmentId": "seg-001",
+    "term": "史界革命",
+    "explanation": "史学领域的根本变革。",
+    "type": "word"
+  },
+  {
+    "id": "ann-xin-shi-xue-002",
+    "workId": "xin-shi-xue",
+    "segmentId": "seg-001",
+    "term": "不起",
+    "explanation": "不兴起、不发生。",
+    "type": "word"
+  },
+  {
+    "id": "ann-xin-shi-xue-003",
+    "workId": "xin-shi-xue",
+    "segmentId": "seg-001",
+    "term": "遂",
+    "explanation": "于是、就。",
+    "type": "word"
+  },
+  {
+    "id": "ann-xin-shi-xue-004",
+    "workId": "xin-shi-xue",
+    "segmentId": "seg-001",
+    "term": "惟此为大",
+    "explanation": "只有这件事最重要。",
+    "type": "grammar"
+  }
+]

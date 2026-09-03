@@ -1,0 +1,34 @@
+[
+  {
+    "id": "ann-xin-min-shuo-001",
+    "workId": "xin-min-shuo",
+    "segmentId": "seg-001",
+    "term": "积民而成",
+    "explanation": "由人民聚集、共同生活而形成。",
+    "type": "grammar"
+  },
+  {
+    "id": "ann-xin-min-shuo-002",
+    "workId": "xin-min-shuo",
+    "segmentId": "seg-001",
+    "term": "犹",
+    "explanation": "如同、好比。",
+    "type": "word"
+  },
+  {
+    "id": "ann-xin-min-shuo-003",
+    "workId": "xin-min-shuo",
+    "segmentId": "seg-001",
+    "term": "四肢五脏",
+    "explanation": "借人体器官比喻国家的各个组成部分。",
+    "type": "word"
+  },
+  {
+    "id": "ann-xin-min-shuo-004",
+    "workId": "xin-min-shuo",
+    "segmentId": "seg-001",
+    "term": "筋脉血轮",
+    "explanation": "借人体血脉比喻社会联系。",
+    "type": "word"
+  }
+]

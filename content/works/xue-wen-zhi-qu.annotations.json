@@ -1,0 +1,34 @@
+[
+  {
+    "id": "ann-xue-wen-zhi-qu-001",
+    "workId": "xue-wen-zhi-qu",
+    "segmentId": "seg-001",
+    "term": "趣味",
+    "explanation": "从事某事时由内心产生的兴味和快乐。",
+    "type": "word"
+  },
+  {
+    "id": "ann-xue-wen-zhi-qu-002",
+    "workId": "xue-wen-zhi-qu",
+    "segmentId": "seg-001",
+    "term": "领略",
+    "explanation": "亲自体会、理解。",
+    "type": "word"
+  },
+  {
+    "id": "ann-xue-wen-zhi-qu-003",
+    "workId": "xue-wen-zhi-qu",
+    "segmentId": "seg-001",
+    "term": "旁人",
+    "explanation": "别人。",
+    "type": "word"
+  },
+  {
+    "id": "ann-xue-wen-zhi-qu-004",
+    "workId": "xue-wen-zhi-qu",
+    "segmentId": "seg-001",
+    "term": "法子",
+    "explanation": "办法。",
+    "type": "word"
+  }
+]

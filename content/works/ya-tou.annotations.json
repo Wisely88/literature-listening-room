@@ -1,0 +1,42 @@
+[
+  {
+    "id": "ann-ya-tou-001",
+    "workId": "ya-tou",
+    "segmentId": "seg-001",
+    "term": "诸生",
+    "explanation": "读书人、秀才的通称。",
+    "type": "word"
+  },
+  {
+    "id": "ann-ya-tou-002",
+    "workId": "ya-tou",
+    "segmentId": "seg-001",
+    "term": "诚笃",
+    "explanation": "诚实厚道。",
+    "type": "word"
+  },
+  {
+    "id": "ann-ya-tou-003",
+    "workId": "ya-tou",
+    "segmentId": "seg-001",
+    "term": "薄游",
+    "explanation": "短期游历。薄，短。",
+    "type": "word"
+  },
+  {
+    "id": "ann-ya-tou-004",
+    "workId": "ya-tou",
+    "segmentId": "seg-001",
+    "term": "神情凄楚",
+    "explanation": "神态悲伤凄惶。",
+    "type": "word"
+  },
+  {
+    "id": "ann-ya-tou-005",
+    "workId": "ya-tou",
+    "segmentId": "seg-001",
+    "term": "东昌",
+    "explanation": "地名，今山东聊城一带。",
+    "type": "word"
+  }
+]
