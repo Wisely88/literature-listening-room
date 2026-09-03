@@ -3,32 +3,80 @@
     "id": "ann-shi-jian-ji-001",
     "workId": "shi-jian-ji",
     "segmentId": "seg-001",
-    "term": "既穷",
-    "explanation": "已经探寻到尽头。穷，尽。",
-    "type": "word"
+    "term": "石渠",
+    "explanation": "柳宗元《永州八记》中的另一处游踪。",
+    "type": "place"
   },
   {
     "id": "ann-shi-jian-ji-002",
     "workId": "shi-jian-ji",
     "segmentId": "seg-001",
     "term": "土山之阴",
-    "explanation": "土山的北面。阴，山北水南。",
-    "type": "word"
+    "explanation": "土山的北面、背阴处。",
+    "type": "place"
   },
   {
     "id": "ann-shi-jian-ji-003",
     "workId": "shi-jian-ji",
     "segmentId": "seg-001",
-    "term": "民又桥焉",
-    "explanation": "百姓又在这里架桥。桥，架桥。",
-    "type": "grammar"
+    "term": "亘石",
+    "explanation": "横贯涧底的巨石。",
+    "type": "word"
   },
   {
     "id": "ann-shi-jian-ji-004",
     "workId": "shi-jian-ji",
     "segmentId": "seg-001",
-    "term": "倍",
-    "explanation": "加倍。",
+    "term": "阃奥",
+    "explanation": "内室深处，比喻幽深境地。",
     "type": "word"
+  },
+  {
+    "id": "ann-shi-jian-ji-005",
+    "workId": "shi-jian-ji",
+    "segmentId": "seg-001",
+    "term": "揭跣",
+    "explanation": "提起衣裳，赤脚涉水。",
+    "type": "word"
+  },
+  {
+    "id": "ann-shi-jian-ji-006",
+    "workId": "shi-jian-ji",
+    "segmentId": "seg-001",
+    "term": "胡床",
+    "explanation": "可折叠的坐具，也称交椅。",
+    "type": "word"
+  },
+  {
+    "id": "ann-shi-jian-ji-007",
+    "workId": "shi-jian-ji",
+    "segmentId": "seg-001",
+    "term": "翠羽",
+    "explanation": "翠绿色羽毛，此处形容树木色泽。",
+    "type": "word"
+  },
+  {
+    "id": "ann-shi-jian-ji-008",
+    "workId": "shi-jian-ji",
+    "segmentId": "seg-001",
+    "term": "百家濑",
+    "explanation": "永州附近的水名。",
+    "type": "place"
+  },
+  {
+    "id": "ann-shi-jian-ji-009",
+    "workId": "shi-jian-ji",
+    "segmentId": "seg-001",
+    "term": "石城村",
+    "explanation": "永州山间村落。",
+    "type": "place"
+  },
+  {
+    "id": "ann-shi-jian-ji-010",
+    "workId": "shi-jian-ji",
+    "segmentId": "seg-001",
+    "term": "永州八记",
+    "explanation": "柳宗元贬永州时所作山水游记组文。",
+    "type": "allusion"
   }
 ]
