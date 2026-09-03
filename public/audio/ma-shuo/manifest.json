@@ -4,14 +4,28 @@
   "provider": "edge-neural",
   "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
   "format": "mp3",
-  "generatedAt": "2026-09-01T02:10:31.124Z",
+  "generatedAt": "2026-09-03T12:54:43.629Z",
   "segments": [
     {
       "id": "seg-001",
       "url": "/audio/ma-shuo/seg-001.mp3",
-      "durationMs": 7032,
-      "checksum": "40edbdcb0825d8908faca384bbef62b17f0d7f61bbc6ccd0c5c3c17c5b106f01",
-      "sourceHash": "0e286e355e11a3416bc63007a7c3ef14c232293c767de58ff9e95d6d20ff9ef1"
+      "durationMs": 14376,
+      "checksum": "b4a66d870d354a05c10f109a495f927836c6411b55a54f805f73e8eac1dd611f",
+      "sourceHash": "58b12f6e9a6372b5d33b6a68cca97a5a89e4d73e2bdb807971d27c743b057dec"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/ma-shuo/seg-002.mp3",
+      "durationMs": 18432,
+      "checksum": "d309f8587a40c4feac016bdc82bbb3a1d6d9043282ce3d5946cbe2bb93d53ae5",
+      "sourceHash": "3997ef159b9b89f8918cde5f4296576d2fb798bbf8a67d2bf2e4d80c3430add5"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/ma-shuo/seg-003.mp3",
+      "durationMs": 14760,
+      "checksum": "29bd3c3f2f11a90185f92ca2e4bb2d1c485d9939ed00a87efaf26e6960ccf0b3",
+      "sourceHash": "f4019570c8635258945cadca99280e00c1c29006fcc4f12933e9cd305fbcb9ca"
     }
   ]
 }

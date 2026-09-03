@@ -4,14 +4,35 @@
   "provider": "edge-neural",
   "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
   "format": "mp3",
-  "generatedAt": "2026-09-01T02:10:38.297Z",
+  "generatedAt": "2026-09-03T12:55:26.825Z",
   "segments": [
     {
       "id": "seg-001",
       "url": "/audio/mao-wu-wei-qiu-feng-suo-po-ge/seg-001.mp3",
-      "durationMs": 7032,
-      "checksum": "d29373ee78310f858329cf27e35abbb00187092a5144c0266e79a9818bd03ab0",
-      "sourceHash": "f624d2a5500ae286c2f1cf8a7dcdeb69c78b661ef33676e052b01a647c6cf6eb"
+      "durationMs": 11088,
+      "checksum": "b97ae84ba9152b2005f363644141d55ff3e4ec5a82470add2fd1180fcf20a5a4",
+      "sourceHash": "39718952cab2597bd7d7adf78d687a16c9486b5c7a6d1b0904c647203b23a7d2"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/mao-wu-wei-qiu-feng-suo-po-ge/seg-002.mp3",
+      "durationMs": 11136,
+      "checksum": "91be3d28315777744c76debbd2d731e1662c0827aa8d611867e099efde455e03",
+      "sourceHash": "a0199f19a026959c8c6a2cf23ef6e7b0c15cd352b8a72cb0fc787435e94171bd"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/mao-wu-wei-qiu-feng-suo-po-ge/seg-003.mp3",
+      "durationMs": 17736,
+      "checksum": "530b1cba9dd4b41898b50a13d86d332da114b2a80f45924d8d05ff3118715d14",
+      "sourceHash": "600b6d8b62ce44fccea7e5d58119232f8bf27c07e66e0010bd5a47cb027a72e6"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/mao-wu-wei-qiu-feng-suo-po-ge/seg-004.mp3",
+      "durationMs": 13992,
+      "checksum": "f22052d2137fca599d15e8fd95f26ed8688dd9189b61e196266636c4e193742c",
+      "sourceHash": "0f153e69c123782ba194a2566db8a4c5d0fa0ad36107042108217a777dd50ae3"
     }
   ]
 }

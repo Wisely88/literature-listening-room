@@ -4,14 +4,28 @@
   "provider": "edge-neural",
   "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
   "format": "mp3",
-  "generatedAt": "2026-09-01T02:10:45.454Z",
+  "generatedAt": "2026-09-03T12:55:58.578Z",
   "segments": [
     {
       "id": "seg-001",
       "url": "/audio/meng-zi-fu-gui-bu-neng-yin/seg-001.mp3",
-      "durationMs": 6768,
-      "checksum": "9312f989abd874fd0111760190f0ee88eac4e110e28b499c3d8b0a9ba4465c55",
-      "sourceHash": "11b322911d53ea4d8ed76f5c5128b40053f436f33cda932d261f40fae6a5e10b"
+      "durationMs": 9192,
+      "checksum": "e85a2393d82ed40de7e7f52319a1fa05ac73f454ddfbd560a2aa46e42105bbf0",
+      "sourceHash": "499a7edff17cce17cf836270a52cd3365a8cbacc373e41ee8375a643c7644f77"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/meng-zi-fu-gui-bu-neng-yin/seg-002.mp3",
+      "durationMs": 20184,
+      "checksum": "0535342c3b855fcaaaa82db160e46492fb245a88281662bd0e567ec3c1b4e441",
+      "sourceHash": "135be9718d4203634519ee4869c09bcab0b31eb6656b4f81cee77733ef743f7e"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/meng-zi-fu-gui-bu-neng-yin/seg-003.mp3",
+      "durationMs": 17232,
+      "checksum": "cbbdf3d044998c686acd6b13317a4936792aa19ecbe8b4efd367b24170482ca2",
+      "sourceHash": "219e1e3af38d68a9966ec596f5cbe60e7623980251ee5a738e835e452981c74d"
     }
   ]
 }

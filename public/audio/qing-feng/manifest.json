@@ -4,14 +4,28 @@
   "provider": "edge-neural",
   "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
   "format": "mp3",
-  "generatedAt": "2026-09-01T02:15:40.294Z",
+  "generatedAt": "2026-09-03T13:00:20.263Z",
   "segments": [
     {
       "id": "seg-001",
       "url": "/audio/qing-feng/seg-001.mp3",
-      "durationMs": 8136,
-      "checksum": "e3de09f2a154d3c26187c4aea8ffce566e14d95aa335d036a2bd574cb23a3dd8",
-      "sourceHash": "c609ac22ca6dc1b66d12e790e50d8e2e18b8ea51f9fa1d953ae814b392acd3de"
+      "durationMs": 219192,
+      "checksum": "43af3613617c4f0985aa6277eb9cdda3747f27654b9f2f1bd1b12b1d3671e8d4",
+      "sourceHash": "93cd0516fcf5be5d8d108491e09e2c2aa118444ad91c97192cd2b788d9f83335"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/qing-feng/seg-002.mp3",
+      "durationMs": 196488,
+      "checksum": "aed924716afebf2e08db18afe454ea579cd9e0205e8c2057b62cb546f1c3e7ca",
+      "sourceHash": "2754f9225213e6f344bf01d9e9970c8a684be542e51a637097ade9a93c6da99d"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/qing-feng/seg-003.mp3",
+      "durationMs": 130848,
+      "checksum": "c0279be69da0f1e69cd9e43444366af22df0faeafea13c70e561f5d3ee8682c8",
+      "sourceHash": "acfa8af90c1947f989a332beb59e21435511f6b576ab975c4537a88a4c62a277"
     }
   ]
 }

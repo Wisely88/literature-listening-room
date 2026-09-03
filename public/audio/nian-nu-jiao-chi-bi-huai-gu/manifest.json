@@ -4,14 +4,42 @@
   "provider": "edge-neural",
   "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
   "format": "mp3",
-  "generatedAt": "2026-09-01T02:12:10.164Z",
+  "generatedAt": "2026-09-03T12:57:55.224Z",
   "segments": [
     {
       "id": "seg-001",
       "url": "/audio/nian-nu-jiao-chi-bi-huai-gu/seg-001.mp3",
-      "durationMs": 8952,
-      "checksum": "f28c89a37ede1714a17ac9386f414f2aeeb0d2537550aa58597c76a269b1e1a1",
-      "sourceHash": "48c2c8720d5af6e42a12f9198a04d3bffb99a3bc42dcfa06492c0163a14be3c9"
+      "durationMs": 4560,
+      "checksum": "76219fb21903ee00daab167e557d136664115ee64393d4eeec39121042e72227",
+      "sourceHash": "6465d94bbebb2c5940d655f594dfcb09ae170f08bb41cfecd01e77b6b231e271"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/nian-nu-jiao-chi-bi-huai-gu/seg-002.mp3",
+      "durationMs": 4512,
+      "checksum": "6fd5f46464a711d61c7a8a568296bd8831ca521eb7fd1551b8f0de4ed6f18974",
+      "sourceHash": "bb03140bfa677c513264af06020fab2327f25f6528b044eae963b115e7f368aa"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/nian-nu-jiao-chi-bi-huai-gu/seg-003.mp3",
+      "durationMs": 7992,
+      "checksum": "963bd8e9d65b94d5e8a2781e0fe5cb2252123e470699a68e8f81d2feecd8c6a8",
+      "sourceHash": "2b7240b64ab89aa58ef9ff5aae95d336140e3494e42a714ee1c01166c358b524"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/nian-nu-jiao-chi-bi-huai-gu/seg-004.mp3",
+      "durationMs": 9528,
+      "checksum": "9e8526dfb16336e2a9e601229aae094061b40f91a4ecc36273ab613d10c511a0",
+      "sourceHash": "df9eeb0e2ab9c3e4ed81c50487bb18715bf586107c3e0fc3d763b2616233b970"
+    },
+    {
+      "id": "seg-005",
+      "url": "/audio/nian-nu-jiao-chi-bi-huai-gu/seg-005.mp3",
+      "durationMs": 7848,
+      "checksum": "763004d78ff2ccbf480ef7a65d373c08fda911cfb4953cb1d1501450cba9fb74",
+      "sourceHash": "1e105b79a776b34947490b5221ae406bc8511c6171b7d181e3f15ae752e7f9bf"
     }
   ]
 }

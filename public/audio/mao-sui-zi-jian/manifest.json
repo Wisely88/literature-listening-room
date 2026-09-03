@@ -4,14 +4,35 @@
   "provider": "edge-neural",
   "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
   "format": "mp3",
-  "generatedAt": "2026-09-01T02:10:34.598Z",
+  "generatedAt": "2026-09-03T12:55:08.616Z",
   "segments": [
     {
       "id": "seg-001",
       "url": "/audio/mao-sui-zi-jian/seg-001.mp3",
       "durationMs": 9744,
-      "checksum": "3d8117ee465822b000bed22b3e5d66d8782523f63777caca7f330c1155761c67",
+      "checksum": "69d50d140c0bfa7bf5264dbd8ea4b9bfc761b7110b9fbf097f8e91f4134a41aa",
       "sourceHash": "d3e2edeeef00aa56032b193960ef5aea7d625527dcf6f71063dccacf94b50941"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/mao-sui-zi-jian/seg-002.mp3",
+      "durationMs": 13800,
+      "checksum": "8eef014a3e97e8193611f5d5c249296864c016166a35d3f97167f77fe6956cca",
+      "sourceHash": "2bb51432848dbf150c3733b7f6de0567433387fc45b93d713d12d137695780ec"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/mao-sui-zi-jian/seg-003.mp3",
+      "durationMs": 36552,
+      "checksum": "56aab59cf26ebb3c626fffafbc8d4a523a6291cea7871c138e7f6b5d8dc3fb25",
+      "sourceHash": "22f989287dce931030ef434a6128e2767569b7b823224c27bb4b86433c1590d1"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/mao-sui-zi-jian/seg-004.mp3",
+      "durationMs": 17352,
+      "checksum": "cad8e81df54d9555b05921be0678b5c97c4e515ac6e3a2dac75fe18d1ea73aa6",
+      "sourceHash": "9de2e80ec4e07beac0b5da973d9f44eff30c1c6f76efdaca6f78406e8e93eee7"
     }
   ]
 }

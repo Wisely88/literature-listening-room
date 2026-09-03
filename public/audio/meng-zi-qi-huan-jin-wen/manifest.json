@@ -4,21 +4,35 @@
   "provider": "edge-neural",
   "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
   "format": "mp3",
-  "generatedAt": "2026-09-01T02:10:55.931Z",
+  "generatedAt": "2026-09-03T12:56:30.113Z",
   "segments": [
     {
       "id": "seg-001",
       "url": "/audio/meng-zi-qi-huan-jin-wen/seg-001.mp3",
       "durationMs": 16584,
-      "checksum": "9e653736715a2eea74f626bd0f36823f93c19558288b08b36d788fd56b651a3c",
+      "checksum": "1966d85c71a1005a411f202410071a59ee2836117d2881b0e01c893cc057eaba",
       "sourceHash": "ea0a176f90f9b1ca3533ab80f3c58083785a1a167d2faef1198e669d2f5fe779"
     },
     {
       "id": "seg-002",
       "url": "/audio/meng-zi-qi-huan-jin-wen/seg-002.mp3",
-      "durationMs": 5040,
-      "checksum": "caf7e5ec4be0b6cc58e14b5bbf7b0735341412376b0afe1a9c1dcbf1eab7ab58",
-      "sourceHash": "9b7c7eb1654814ce040ee63c033454ffcc3d370066b064888893623ec5c7a513"
+      "durationMs": 12384,
+      "checksum": "3b641f69963bfab40b1cdf7465a91ff0c0b49d3c5beae7d5c718d405f19b50f8",
+      "sourceHash": "d8286920d0f9b34b8d8ac35ad5d76b42d1f786b6bba4666efd81cfd530d70471"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/meng-zi-qi-huan-jin-wen/seg-003.mp3",
+      "durationMs": 8088,
+      "checksum": "169a16f0a79b3a273ca158d342c76d0275b54ea7235a056c13be969b97009594",
+      "sourceHash": "e60ac958543c5417189a6d07fc891e854bc6bac2b22b6b33be430ba41f2b25d1"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/meng-zi-qi-huan-jin-wen/seg-004.mp3",
+      "durationMs": 7464,
+      "checksum": "5a38eccab44730ef225aadf16529a7b0bcfa1c4f176525e3f6be8fb754632090",
+      "sourceHash": "ce60e188f2cde5dd020615d0bb94c34e7962de48600176285f45a22b710c347b"
     }
   ]
 }

@@ -4,14 +4,35 @@
   "provider": "edge-neural",
   "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
   "format": "mp3",
-  "generatedAt": "2026-09-01T02:10:41.867Z",
+  "generatedAt": "2026-09-03T12:55:44.428Z",
   "segments": [
     {
       "id": "seg-001",
       "url": "/audio/meng-zi-de-dao-duo-zhu/seg-001.mp3",
       "durationMs": 3744,
-      "checksum": "e6152f7d866a0f877b55ab3afedc01de4e69953ddcacc3416c6f1a8330f9cf74",
+      "checksum": "b430ded4b5043624a7e197214ddb699a592628989bff2ed0384b44380b782e75",
       "sourceHash": "b1c677e94db2fc937c9a45ef001d88c77ed22e4b602d8c5a1333d059cfe87571"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/meng-zi-de-dao-duo-zhu/seg-002.mp3",
+      "durationMs": 12528,
+      "checksum": "fdc2db716acce692c7fe0117298611bf326102d31ddcece9a1310af586e63d7b",
+      "sourceHash": "5fd7447528af811a75ea8d46562642bf0a4fcc2e521d6bb372da32c9c47e710b"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/meng-zi-de-dao-duo-zhu/seg-003.mp3",
+      "durationMs": 10392,
+      "checksum": "1d4c075edfb3b2096e6aac9ee9654b6f68f860a2c7bcb7d8ebbc721e29cc0508",
+      "sourceHash": "50cb5511c281df2486b2fab6cae246c6ac888fb20676dc463de248dc07640a9c"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/meng-zi-de-dao-duo-zhu/seg-004.mp3",
+      "durationMs": 17088,
+      "checksum": "a9d801eca3d703f6af86f54f834f00a52f98ac19480c9616794b487bc0738559",
+      "sourceHash": "cb84e75b3fd203269853319fc0883f8a565cdaea21c58d79ead47e370b9824ea"
     }
   ]
 }

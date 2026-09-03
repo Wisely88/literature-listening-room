@@ -4,21 +4,42 @@
   "provider": "edge-neural",
   "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
   "format": "mp3",
-  "generatedAt": "2026-09-01T02:11:10.162Z",
+  "generatedAt": "2026-09-03T12:57:12.160Z",
   "segments": [
     {
       "id": "seg-001",
       "url": "/audio/meng-zi-yu-wo-suo-yu-ye/seg-001.mp3",
       "durationMs": 8904,
-      "checksum": "dbf0de5bfc4f692a9ea64cee75edf88c09647344e2a2a4167cc21b587af29a45",
+      "checksum": "ad6597bd55c605f21f93dbe0c03f01f37dc9b88a165879f122a03cc6665bd6b4",
       "sourceHash": "e430e5e1f4cfb7adf150632518f4ab39bbba4ecc090f7a1f775bea14950326bf"
     },
     {
       "id": "seg-002",
       "url": "/audio/meng-zi-yu-wo-suo-yu-ye/seg-002.mp3",
       "durationMs": 7536,
-      "checksum": "223e68bbf46c1704b48ebc98b8e82553ba3877fbc1a7063ba57f565be71c8002",
+      "checksum": "faa70a8cff7cb210965abaf356f2ab8161f8999883c7397e6a1f569ae56a19e1",
       "sourceHash": "6dd4d6bc5df817ac8ebdb77ac630f91d55923d60f2b1c784150393b96c101d8d"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/meng-zi-yu-wo-suo-yu-ye/seg-003.mp3",
+      "durationMs": 11688,
+      "checksum": "c41b18b5ba23abda362c8e44d80ff5a0f83bdfd452696cb34d4185b48e73fc52",
+      "sourceHash": "c8fcb727ff4d253b95a54250100282b63984004e2b0bf85e920ffbcef8e1e661"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/meng-zi-yu-wo-suo-yu-ye/seg-004.mp3",
+      "durationMs": 5016,
+      "checksum": "8fcd1147419c0fc4e6cfc555c5bc2d5cd0dd8dcae76405dda2a339c475afb093",
+      "sourceHash": "4290b13a41d6740827df19e90e79f70c5bccf4ff9dba6ce2a8be4db85bfab24e"
+    },
+    {
+      "id": "seg-005",
+      "url": "/audio/meng-zi-yu-wo-suo-yu-ye/seg-005.mp3",
+      "durationMs": 7392,
+      "checksum": "da0062033f24c088df80c068ab7e8883a1ce3f0bdd15022bb89df9155b98c031",
+      "sourceHash": "aa5c510e1e4ac66837c69156406821c861345c2553db4c311fef5e37aeaadffb"
     }
   ]
 }

@@ -4,14 +4,28 @@
   "provider": "edge-neural",
   "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
   "format": "mp3",
-  "generatedAt": "2026-09-01T02:11:14.238Z",
+  "generatedAt": "2026-09-03T12:57:26.184Z",
   "segments": [
     {
       "id": "seg-001",
       "url": "/audio/mian-chi-zhi-hui/seg-001.mp3",
-      "durationMs": 6216,
-      "checksum": "a3c62f7e8982364915dc11cf222ddb589df6ef08d996c35387167a1964171dd5",
-      "sourceHash": "a6d23ee8224e499775dc90dbee7168f4e99abcac72f66a9916ba082436ce62fb"
+      "durationMs": 16344,
+      "checksum": "6973e20a4c15b529b984f1203ba5f496a1fa8fb90fc38cbe190d602e6173ea07",
+      "sourceHash": "69011515d19b9e9647cc17be9badac406be3e4d48d6f4c0bc54303f5d82f006f"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/mian-chi-zhi-hui/seg-002.mp3",
+      "durationMs": 13992,
+      "checksum": "08726f0ef6fcc07c586420663ce31fdda338e8b89ebb2a727ab56b67f0f98a58",
+      "sourceHash": "dba83e3727ac569195a16a7faea496cdd2322eef4f77bf47cb9f989f5dd785a5"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/mian-chi-zhi-hui/seg-003.mp3",
+      "durationMs": 35424,
+      "checksum": "aad85887e78ee3dee1f408c059de312945b69cd314604f17a1f0b9b944f38b98",
+      "sourceHash": "6e606c2352404bde47470baed3d1e51e7b6cd844281bc77d565e9fed9b79ae8a"
     }
   ]
 }

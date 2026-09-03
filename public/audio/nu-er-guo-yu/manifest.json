@@ -4,14 +4,77 @@
   "provider": "edge-neural",
   "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
   "format": "mp3",
-  "generatedAt": "2026-09-01T02:12:13.746Z",
+  "generatedAt": "2026-09-03T12:59:37.248Z",
   "segments": [
     {
       "id": "seg-001",
       "url": "/audio/nu-er-guo-yu/seg-001.mp3",
-      "durationMs": 7464,
-      "checksum": "8b638989d84694aac3bacdabec4f36c1a48c7b71fcc5cf3489be3993214a0436",
-      "sourceHash": "a8a6039ce2d5b41c38e220be722e74d7520df02b0972bb15c26e0680d8b5e039"
+      "durationMs": 113784,
+      "checksum": "f4fbda692b520370a8ed54d64a99af8347f864c13523bf4cd9308b1bd1e70f6c",
+      "sourceHash": "064e672e21ad8724cf8c2c53d743420bd986f93e280c7a4f46cd93ef51fd6b21"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/nu-er-guo-yu/seg-002.mp3",
+      "durationMs": 128424,
+      "checksum": "fb1cb1b508ee3d87fde8ac0feed8b7358456e0e70eb6227f6d997a08d5dc2dbe",
+      "sourceHash": "9255de31ebad321b6631bb80b12855b238b95c3d1921adfe4f19b0ec4f69cf97"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/nu-er-guo-yu/seg-003.mp3",
+      "durationMs": 144312,
+      "checksum": "56f3e702e9cd46933f419b1f816969ea8db7d5743083b73153dd97bea6ee213c",
+      "sourceHash": "dda07e8c7eaf35bc292ef3b3d36ba67d6d0f23da5382f29c4ffde660cbc8d113"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/nu-er-guo-yu/seg-004.mp3",
+      "durationMs": 249456,
+      "checksum": "c7baf1f617a9df06722ca9ef25a3c800e1badf71b007c9acd359d327f09a5f42",
+      "sourceHash": "b55d5d464da1222c0d4d9f0008235e40bdda1df2a5b4c54a6a3daa37fbd52f13"
+    },
+    {
+      "id": "seg-005",
+      "url": "/audio/nu-er-guo-yu/seg-005.mp3",
+      "durationMs": 165384,
+      "checksum": "3560b08926c28dc012b984de39fb3351029ce0f49928ab115d991d7f45739b36",
+      "sourceHash": "ce9aa47ca00d123f0cc309b25c76a378b2706fabd0d21ffba63ff3f824c5f0cf"
+    },
+    {
+      "id": "seg-006",
+      "url": "/audio/nu-er-guo-yu/seg-006.mp3",
+      "durationMs": 313656,
+      "checksum": "cb634619e745154ef371300c01b10271a097150cd132b2afde4d04dfc2e597b8",
+      "sourceHash": "b25c95fea5a099d52e47413add5c1284a3655bd7f39af6c476612745f228b015"
+    },
+    {
+      "id": "seg-007",
+      "url": "/audio/nu-er-guo-yu/seg-007.mp3",
+      "durationMs": 265584,
+      "checksum": "bd430718674b6a5919465b538613a1a121e7a1405b4130d7516fc4d51f30bcbc",
+      "sourceHash": "4c717b81e141cd74025cd8c0143844052b73c8c48050bab5f20f06c4cc4699e7"
+    },
+    {
+      "id": "seg-008",
+      "url": "/audio/nu-er-guo-yu/seg-008.mp3",
+      "durationMs": 138840,
+      "checksum": "b19ce95918ffcf8c729c7a6271904bfc1fafe849814cac5a82ba55eb157ba981",
+      "sourceHash": "93a71783aa18d8702eb0cf9c40ff4720752db60160bdb025f98a00b2b2db6654"
+    },
+    {
+      "id": "seg-009",
+      "url": "/audio/nu-er-guo-yu/seg-009.mp3",
+      "durationMs": 96720,
+      "checksum": "57a61df3d3fe3b8b8272da43c571f34897ac3f12a1398ccca086746bb9933d41",
+      "sourceHash": "81047475d4ee06bcef6d922a7206cea95a4bece6fb894aebd1136976ee7a53d7"
+    },
+    {
+      "id": "seg-010",
+      "url": "/audio/nu-er-guo-yu/seg-010.mp3",
+      "durationMs": 90888,
+      "checksum": "82e352791eb274be76bc2285f129f2e18e7b1380deb4e520a8851d3861a048ea",
+      "sourceHash": "5d85698b39512f3d4c97d4fa5a78ccd8a3e6d686569d5af2ed93df1335c27b3f"
     }
   ]
 }

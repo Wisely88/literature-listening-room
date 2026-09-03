@@ -4,20 +4,34 @@
   "provider": "edge-neural",
   "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
   "format": "mp3",
-  "generatedAt": "2026-09-01T02:11:03.114Z",
+  "generatedAt": "2026-09-03T12:56:49.748Z",
   "segments": [
     {
       "id": "seg-001",
       "url": "/audio/meng-zi-sheng-yu-you-huan/seg-001.mp3",
-      "durationMs": 8808,
-      "checksum": "51490e7c5ef26ab5ce8a530facab610fa8e6def217d908107b5464f8ee50858e",
-      "sourceHash": "f86f778c508c3a9d37f4b6511181a2df79b678743977c887bd08b3faeb79167a"
+      "durationMs": 11640,
+      "checksum": "5da9473f454705d659874f34b254d52f280a4c42a6159fa88d5f95b3195bfc62",
+      "sourceHash": "1bd296ff6407a7f59281b2b20489c593aeb6baf07c323524a8420d534c6bb6d4"
     },
     {
       "id": "seg-002",
       "url": "/audio/meng-zi-sheng-yu-you-huan/seg-002.mp3",
+      "durationMs": 13896,
+      "checksum": "a69246bf1fabdc23e535ad831a9551cd4958cdd830782ade8258cc49141dc991",
+      "sourceHash": "a6ed13a2fd67366c95d0562ef2cd2a07865f98317103cc61c0c401b020a1e2d5"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/meng-zi-sheng-yu-you-huan/seg-003.mp3",
+      "durationMs": 14736,
+      "checksum": "01d086782666b828c40bb11d84e9357596ca22f9097eda961197ab67640d79b6",
+      "sourceHash": "c732f354bcacb9c7909863e047170289bf8aa46d99844b2c3af441b34f8119cf"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/meng-zi-sheng-yu-you-huan/seg-004.mp3",
       "durationMs": 3792,
-      "checksum": "1ea7a139ac41a2a6ef119052efbad7e13fb845ec0ca3bdf00f15e0d5dca88c99",
+      "checksum": "d25d0cac7589876eb5439e18f4a78f3b7882ecdf33eaa7a68d3a1184cb08fe83",
       "sourceHash": "3fb2e56b60da823f5d1a7e70ae317d2d000202fbecf20d6c8502ef2e94fb599c"
     }
   ]
