@@ -4,31 +4,87 @@
     "workId": "zhi-qu-sheng-chen-gang",
     "segmentId": "seg-001",
     "term": "生辰纲",
-    "explanation": "宋代押送给皇帝或权贵的生日礼物。",
-    "type": "word"
+    "explanation": "地方官员搜刮的金银财物，作为寿礼送给蔡京。",
+    "type": "history"
   },
   {
     "id": "ann-zhi-qu-sheng-chen-gang-002",
     "workId": "zhi-qu-sheng-chen-gang",
     "segmentId": "seg-001",
-    "term": "赤日炎炎",
-    "explanation": "烈日炽热。",
-    "type": "word"
+    "term": "梁中书",
+    "explanation": "大名府留守，负责筹办生辰纲。",
+    "type": "person"
   },
   {
     "id": "ann-zhi-qu-sheng-chen-gang-003",
     "workId": "zhi-qu-sheng-chen-gang",
     "segmentId": "seg-001",
-    "term": "枯焦",
-    "explanation": "干枯焦黄。",
-    "type": "word"
+    "term": "蔡京",
+    "explanation": "北宋权臣，梁中书岳父。",
+    "type": "person"
   },
   {
     "id": "ann-zhi-qu-sheng-chen-gang-004",
     "workId": "zhi-qu-sheng-chen-gang",
     "segmentId": "seg-001",
-    "term": "如汤煮",
-    "explanation": "像在沸水中煎熬。",
+    "term": "杨志",
+    "explanation": "负责押运生辰纲的武官。",
+    "type": "person"
+  },
+  {
+    "id": "ann-zhi-qu-sheng-chen-gang-005",
+    "workId": "zhi-qu-sheng-chen-gang",
+    "segmentId": "seg-001",
+    "term": "黄泥冈",
+    "explanation": "押运途中歇息的山冈。",
+    "type": "place"
+  },
+  {
+    "id": "ann-zhi-qu-sheng-chen-gang-006",
+    "workId": "zhi-qu-sheng-chen-gang",
+    "segmentId": "seg-001",
+    "term": "晁盖",
+    "explanation": "七星聚义首领之一。",
+    "type": "person"
+  },
+  {
+    "id": "ann-zhi-qu-sheng-chen-gang-007",
+    "workId": "zhi-qu-sheng-chen-gang",
+    "segmentId": "seg-001",
+    "term": "吴用",
+    "explanation": "足智多谋的军师，设计劫纲。",
+    "type": "person"
+  },
+  {
+    "id": "ann-zhi-qu-sheng-chen-gang-008",
+    "workId": "zhi-qu-sheng-chen-gang",
+    "segmentId": "seg-001",
+    "term": "公孙胜",
+    "explanation": "七星聚义成员，道号入云龙。",
+    "type": "person"
+  },
+  {
+    "id": "ann-zhi-qu-sheng-chen-gang-009",
+    "workId": "zhi-qu-sheng-chen-gang",
+    "segmentId": "seg-001",
+    "term": "三阮",
+    "explanation": "阮小二、阮小五、阮小七三兄弟。",
+    "type": "person"
+  },
+  {
+    "id": "ann-zhi-qu-sheng-chen-gang-010",
+    "workId": "zhi-qu-sheng-chen-gang",
+    "segmentId": "seg-001",
+    "term": "蒙汗药",
+    "explanation": "使人昏睡的药物。",
     "type": "word"
+  },
+  {
+    "id": "ann-zhi-qu-sheng-chen-gang-011",
+    "workId": "zhi-qu-sheng-chen-gang",
+    "segmentId": "seg-001",
+    "term": "白胜",
+    "explanation": "挑酒卖酒、参与劫纲的汉子。",
+    "type": "person"
   }
 ]
