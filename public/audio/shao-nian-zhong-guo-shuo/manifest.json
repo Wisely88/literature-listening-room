@@ -4,21 +4,42 @@
   "provider": "edge-neural",
   "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
   "format": "mp3",
-  "generatedAt": "2026-09-01T02:16:19.923Z",
+  "generatedAt": "2026-09-03T13:10:31.501Z",
   "segments": [
     {
       "id": "seg-001",
       "url": "/audio/shao-nian-zhong-guo-shuo/seg-001.mp3",
-      "durationMs": 8160,
-      "checksum": "e60910ac398924abd186d806edc0fd9af27f741fd3c5cca78eec7d56c50e8b83",
-      "sourceHash": "a6157f85a6b37a7129cc202498d64cb99fa2770695cfba14ab93e71f153fceda"
+      "durationMs": 289656,
+      "checksum": "d7173f5165a23f76d4c665d4a4aa6d47e3a664a1d13b34e2c2b350a67c284e4c",
+      "sourceHash": "d5e0765b6968140e27ea93d74789f3d28068883657dad856fabc2f969dd6f380"
     },
     {
       "id": "seg-002",
       "url": "/audio/shao-nian-zhong-guo-shuo/seg-002.mp3",
-      "durationMs": 8160,
-      "checksum": "d20d745096690e73d1ff5ff1651796af19d741d0b1ebd5150d3f36a723e6f0a0",
-      "sourceHash": "b7d37fcbd8808bf27340e171650ed91cfca1ccd0ba44f0040c95799cbccaac6d"
+      "durationMs": 269928,
+      "checksum": "ee693740818670b3d50745623d87d2ad5399dbc283ec60a64ff821cd71f80675",
+      "sourceHash": "369ca7994ffe90d8a3e0548abc415b53a0ab87a6735bbc48bfad39dcd92f4250"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/shao-nian-zhong-guo-shuo/seg-003.mp3",
+      "durationMs": 225936,
+      "checksum": "294a3c3cd79c8a23da0f11ec0b1f3ef58152fe53fabe3b9bf0b18a77dec3ea5e",
+      "sourceHash": "8272628d3d6ee05e3e1da12eb773fb4d6394147ed873ed67721fbc7f4e937192"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/shao-nian-zhong-guo-shuo/seg-004.mp3",
+      "durationMs": 192696,
+      "checksum": "d97d6a55e535839b507acce760ab879fc36f89bbf9cdc609c2450ee62d62ac61",
+      "sourceHash": "e6e34def513eba1f88843b6ac0ef99848287b18213a2281f31d07ff086b453c1"
+    },
+    {
+      "id": "seg-005",
+      "url": "/audio/shao-nian-zhong-guo-shuo/seg-005.mp3",
+      "durationMs": 8496,
+      "checksum": "71bef8c1fa3e88f18900a582683e99a9d12f99742a0a150995517ddfcc0030c5",
+      "sourceHash": "21843df7bd6c45d40ae74d1e4a6239f250b32a8c72792a0b7fe081b6b58d366e"
     }
   ]
 }

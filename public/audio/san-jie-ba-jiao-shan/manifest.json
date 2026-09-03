@@ -4,14 +4,42 @@
   "provider": "edge-neural",
   "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
   "format": "mp3",
-  "generatedAt": "2026-09-01T02:16:03.560Z",
+  "generatedAt": "2026-09-03T13:08:16.158Z",
   "segments": [
     {
       "id": "seg-001",
       "url": "/audio/san-jie-ba-jiao-shan/seg-001.mp3",
-      "durationMs": 8232,
-      "checksum": "55ef892fb429e39fab745682a653a268cb64a829a5319a069aeb0a19ee4f4624",
-      "sourceHash": "d3d3e80055d94dea5bc3709cdb396beebd454901e03ac9ef2bd6243c99ce4989"
+      "durationMs": 371160,
+      "checksum": "1834a280d8af402865c358419806814e54200cdd14587fcb82dbfff868663232",
+      "sourceHash": "c0275c1d75a4c87c5cdbb1c1b8d1056b5b10227cec5bc1e54cc8267ece0f1dba"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/san-jie-ba-jiao-shan/seg-002.mp3",
+      "durationMs": 356976,
+      "checksum": "3ffb5d918cc2bf9970cb5d399b8cab5c1c6cdfe9a0b3d9ca0d33ab8e235880f8",
+      "sourceHash": "0e82eb041715ceb3fec7272c7a2a250de12170ae1f63a89046463142b12a61ab"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/san-jie-ba-jiao-shan/seg-003.mp3",
+      "durationMs": 376200,
+      "checksum": "a5e2af906cd2c17d7640cba273b9b9c45554f46ad4abb9b4845429c3560d2ad5",
+      "sourceHash": "2472912322de1f78c4483669b5533bb24e46320dad3d60b2de954a71309c0cc9"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/san-jie-ba-jiao-shan/seg-004.mp3",
+      "durationMs": 374208,
+      "checksum": "334c588a8f83d5b0e490ab39f360f92f3ee2c16b388d70245124bcd10a3262ac",
+      "sourceHash": "04b2db33b5520774c665a7a206cc51ff9785de4339a75d6f417e452b65236944"
+    },
+    {
+      "id": "seg-005",
+      "url": "/audio/san-jie-ba-jiao-shan/seg-005.mp3",
+      "durationMs": 366048,
+      "checksum": "88884825c69cc85c49ab15bee6b5ca390b0fddb898c39138c07fa063dd08f333",
+      "sourceHash": "bd8def5f7f7930d8d6242c77c29a3207ae8a0763abd982b212fd10c05d1c6f86"
     }
   ]
 }

@@ -4,14 +4,28 @@
   "provider": "edge-neural",
   "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
   "format": "mp3",
-  "generatedAt": "2026-09-01T02:16:07.840Z",
+  "generatedAt": "2026-09-03T13:08:28.523Z",
   "segments": [
     {
       "id": "seg-001",
       "url": "/audio/san-ren-cheng-hu/seg-001.mp3",
-      "durationMs": 4560,
-      "checksum": "b1aeb90d322b7deaa03c5a81e99010a06bbb7da69a02db967d6988013d474694",
-      "sourceHash": "6c0a7a882b58f8d4544754cd7906683b7b19a16bd6eda43289870225c19260ee"
+      "durationMs": 9720,
+      "checksum": "cd0d850ffcf57bb5c6fb30a95608f3b00c7e8343e66fe4e66b44ade32d561dfa",
+      "sourceHash": "efce167be46ca2ec5653dc496e5d4531e47c5125d1fc80ef21b44cc41a28d87c"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/san-ren-cheng-hu/seg-002.mp3",
+      "durationMs": 12288,
+      "checksum": "55ed6d1a689c8fd19fef44c3c50a80b3066f0ae29c873af64c2734b361289640",
+      "sourceHash": "f7e3c69bf42f07828561055e372b21be5ffee93cad6b947b32ba9e9dfe7d95c0"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/san-ren-cheng-hu/seg-003.mp3",
+      "durationMs": 14784,
+      "checksum": "de0aaece4c26e68f3f24c13d8986932b74fcc57807bceac898821393ecd5465f",
+      "sourceHash": "1694f58e98d436625d2f94c3c9b7bbbdb77a0be1af37068b29d35f1cc3573899"
     }
   ]
 }

@@ -4,14 +4,42 @@
   "provider": "edge-neural",
   "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
   "format": "mp3",
-  "generatedAt": "2026-09-01T02:15:52.082Z",
+  "generatedAt": "2026-09-03T13:05:35.693Z",
   "segments": [
     {
       "id": "seg-001",
       "url": "/audio/san-da-bai-gu-jing/seg-001.mp3",
-      "durationMs": 7560,
-      "checksum": "85074431ccfd6b1c91ac49acee778a2b8b66c1344ae4e17daa92fd6411273a34",
-      "sourceHash": "d6e5d66b43348e990985708fc7d95b2b036b0b5bebdfe2d3d0a3f3854d39166f"
+      "durationMs": 335520,
+      "checksum": "d4f21fbfab038d794d0f9c15fb9877213b44e5b7ce00cbcf53e640973111ecb3",
+      "sourceHash": "1965eb6e7c1b97fe8d0ba5c383f4159ec83e248e3fc559411b14b87da6cf4d6d"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/san-da-bai-gu-jing/seg-002.mp3",
+      "durationMs": 348600,
+      "checksum": "af7f3ea4045a7ec247841a1f0d42c5d0b9b60502fbc82bf22cee5cf9f3a5d773",
+      "sourceHash": "2d138268f06e6a8c5eb1771d4e444824533568628e57e59da69b7db500ee5416"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/san-da-bai-gu-jing/seg-003.mp3",
+      "durationMs": 338568,
+      "checksum": "4451677dcd6a0923838608ec316d4be402eee3a4a1249556c48748b4ed313133",
+      "sourceHash": "d457b5fd93685eef46602ac34a8e2f0327cc6ca6a0612c8826dc0bc6f91f0093"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/san-da-bai-gu-jing/seg-004.mp3",
+      "durationMs": 336768,
+      "checksum": "06abf1b144cf46f15b083384e745ebc15dbb208a79e2066973bf11708b1ccaa3",
+      "sourceHash": "3269247d2187f1128bc142c3d900a88fa6670c7a443b433180742635d8824037"
+    },
+    {
+      "id": "seg-005",
+      "url": "/audio/san-da-bai-gu-jing/seg-005.mp3",
+      "durationMs": 361080,
+      "checksum": "a2e39fe91b3f1a28833ac673b8786100337fd7473947e398f60c7471eb933412",
+      "sourceHash": "2dd175c6407f4ad6a1fbd7e4f62881faed9f00662332205ea9e1de4709bc37af"
     }
   ]
 }

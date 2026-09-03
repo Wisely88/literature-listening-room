@@ -4,14 +4,49 @@
   "provider": "edge-neural",
   "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
   "format": "mp3",
-  "generatedAt": "2026-09-01T02:16:12.218Z",
+  "generatedAt": "2026-09-03T13:09:32.481Z",
   "segments": [
     {
       "id": "seg-001",
       "url": "/audio/san-ying-zhan-lu-bu/seg-001.mp3",
-      "durationMs": 8880,
-      "checksum": "2608075e2d4221ddbf337eb75805036f712d3ba58e4bdf34224406b82c7e0096",
-      "sourceHash": "98b4300e1f1c8a31cdad4f35e3c876a5be4c4c594eda100b5c5f5dc6d9105bd5"
+      "durationMs": 338880,
+      "checksum": "ca9a2e2575f5d7c53c3df24c8cadc71781fdeaedaa4b3d010ebb87533119d442",
+      "sourceHash": "25516564a032f421aa6abdd87e75a58a42804cecc1135930410cee16f49e7b6d"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/san-ying-zhan-lu-bu/seg-002.mp3",
+      "durationMs": 319728,
+      "checksum": "363db486350cb7edc727f88e3bb7da590cb3cccbcdbbfb61ed99e7762118a295",
+      "sourceHash": "a38b7edadc5df9b30636eb20857e6a703f1936d9aaf1c689f9d607d0c7791406"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/san-ying-zhan-lu-bu/seg-003.mp3",
+      "durationMs": 281640,
+      "checksum": "39fa4319edf9fa98ae926c8931f33dc9b0e39149bb0654fb9ce7ef9da21222bc",
+      "sourceHash": "a1409d8663d2e041ecc37c057419b2d6919b700378b1e133c0aea2be29b060a4"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/san-ying-zhan-lu-bu/seg-004.mp3",
+      "durationMs": 250440,
+      "checksum": "71a4dee9200f2ff3c7ee4cdfaf4a407f69e089d26c35ee58ff99f55994465b81",
+      "sourceHash": "2bfc2caf05891bd6dde178056054d7fcafd3a18f840f1d256498a3d488e90956"
+    },
+    {
+      "id": "seg-005",
+      "url": "/audio/san-ying-zhan-lu-bu/seg-005.mp3",
+      "durationMs": 103944,
+      "checksum": "bd9b7162fed13d2e0ec2342dde14c05801debf72931d45f74e13dd0bab3ef3bf",
+      "sourceHash": "e369e0042fd086d452e68a81995a984fa9495088f64ac361cdcdc29a915c5c8d"
+    },
+    {
+      "id": "seg-006",
+      "url": "/audio/san-ying-zhan-lu-bu/seg-006.mp3",
+      "durationMs": 6504,
+      "checksum": "34c178444cdce6925c71aa0ddf87858428cf33da99e52f8d78de4a0134dfd7d4",
+      "sourceHash": "78ca517a1b80bb5f3212f9fd1ab797183af0af1717cbca2a771357babecb69ec"
     }
   ]
 }
