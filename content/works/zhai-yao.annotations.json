@@ -4,31 +4,79 @@
     "workId": "zhai-yao",
     "segmentId": "seg-001",
     "term": "大司寇",
-    "explanation": "古代掌管刑狱的官职。",
-    "type": "word"
+    "explanation": "古代官名，掌刑狱，后泛指刑部尚书等高级官员。",
+    "type": "history"
   },
   {
     "id": "ann-zhai-yao-002",
     "workId": "zhai-yao",
     "segmentId": "seg-001",
-    "term": "似兽非兽",
-    "explanation": "像野兽却不能确定是什么。",
-    "type": "grammar"
+    "term": "春凳",
+    "explanation": "狭长的坐卧两用凳。",
+    "type": "word"
   },
   {
     "id": "ann-zhai-yao-003",
     "workId": "zhai-yao",
     "segmentId": "seg-001",
-    "term": "伏地",
-    "explanation": "贴着地面。",
+    "term": "肉紅色",
+    "explanation": "接近肉色的浅红色。",
     "type": "word"
   },
   {
     "id": "ann-zhai-yao-004",
     "workId": "zhai-yao",
     "segmentId": "seg-001",
-    "term": "夜见",
-    "explanation": "夜间看见。",
+    "term": "修潤",
+    "explanation": "修长而光润。",
     "type": "word"
+  },
+  {
+    "id": "ann-zhai-yao-005",
+    "workId": "zhai-yao",
+    "segmentId": "seg-001",
+    "term": "白梃",
+    "explanation": "白色长棍。",
+    "type": "word"
+  },
+  {
+    "id": "ann-zhai-yao-006",
+    "workId": "zhai-yao",
+    "segmentId": "seg-002",
+    "term": "康熙十七年",
+    "explanation": "清康熙十七年，即公元1678年。",
+    "type": "history"
+  },
+  {
+    "id": "ann-zhai-yao-007",
+    "workId": "zhai-yao",
+    "segmentId": "seg-002",
+    "term": "設帳",
+    "explanation": "设馆授徒、开课讲学。",
+    "type": "history"
+  },
+  {
+    "id": "ann-zhai-yao-008",
+    "workId": "zhai-yao",
+    "segmentId": "seg-002",
+    "term": "衰衣",
+    "explanation": "丧服。",
+    "type": "history"
+  },
+  {
+    "id": "ann-zhai-yao-009",
+    "workId": "zhai-yao",
+    "segmentId": "seg-002",
+    "term": "麻綆",
+    "explanation": "麻制的绳带。",
+    "type": "word"
+  },
+  {
+    "id": "ann-zhai-yao-010",
+    "workId": "zhai-yao",
+    "segmentId": "seg-002",
+    "term": "安厝",
+    "explanation": "安置棺柩、下葬。",
+    "type": "history"
   }
 ]
