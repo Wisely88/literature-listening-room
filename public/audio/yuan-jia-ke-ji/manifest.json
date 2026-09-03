@@ -4,14 +4,35 @@
   "provider": "edge-neural",
   "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
   "format": "mp3",
-  "generatedAt": "2026-09-01T02:38:41.979Z",
+  "generatedAt": "2026-09-03T13:42:16.469Z",
   "segments": [
     {
       "id": "seg-001",
       "url": "/audio/yuan-jia-ke-ji/seg-001.mp3",
-      "durationMs": 6504,
-      "checksum": "7b84e98d763645f5b56fdcf0eb47568a12d8e5aba786af98f506e54eec17d97a",
-      "sourceHash": "074e76d9608f3542075c19c9b452e3b86fc526e6c9c39eca0eb9ebc6f2856d64"
+      "durationMs": 20040,
+      "checksum": "c17a1a7adc8c2bda9f7911f1d86a857ffe000fa6999fa72460326a6921aff2da",
+      "sourceHash": "dc4cf32cdaa6fea47a91433483e0fc97b7789cb64717453d90a17c33bf5bff54"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/yuan-jia-ke-ji/seg-002.mp3",
+      "durationMs": 21264,
+      "checksum": "a6c9d2db53bf52c94d3b8ad915ed47b22192519ee07d7a8135e968bbf2b4eead",
+      "sourceHash": "5c78be4afcfef7a0bf05c52262c4c8ea5503089d05478f560885defd2d39730e"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/yuan-jia-ke-ji/seg-003.mp3",
+      "durationMs": 20496,
+      "checksum": "e6de1bbc395e894d0c89ca095bd78fe215d09ea0e9d34025cd4643dbc4f43971",
+      "sourceHash": "5b41ec48e60c2790cbb4468caa8dc7a109b6164137c6621becac057d642b3340"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/yuan-jia-ke-ji/seg-004.mp3",
+      "durationMs": 25656,
+      "checksum": "bc9cf8989ed637df4c927b4cb1b7700b105b788b1f632360f5943ee1366f4c1d",
+      "sourceHash": "46135539dfe769bbedd5147a5fe13077ca0258e0a8acb40f0f24795db91c4709"
     }
   ]
 }

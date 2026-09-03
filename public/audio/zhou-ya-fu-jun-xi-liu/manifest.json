@@ -4,14 +4,28 @@
   "provider": "edge-neural",
   "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
   "format": "mp3",
-  "generatedAt": "2026-09-01T02:39:29.658Z",
+  "generatedAt": "2026-09-03T13:47:06.262Z",
   "segments": [
     {
       "id": "seg-001",
       "url": "/audio/zhou-ya-fu-jun-xi-liu/seg-001.mp3",
-      "durationMs": 7272,
-      "checksum": "b4f5f5dd5d1a221992a9122bb0158b9327b46e3fca011de493889b821fcabbc9",
-      "sourceHash": "15f4ca3b6ec56920ee8cacdaf283d2cd4d4e6c37fb78dd9c602401f9657f545d"
+      "durationMs": 15120,
+      "checksum": "187eda719cb0cbef49afbaf7fe429a4553dc2ba6b974279aaffa2114a1913ac5",
+      "sourceHash": "c7962f34c7e75a719b2ba30eda0e427c3bc67f439931d4a3e793470902184528"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/zhou-ya-fu-jun-xi-liu/seg-002.mp3",
+      "durationMs": 29592,
+      "checksum": "a75dfb91883dc6940037884181ec56c9839aa183d19dd65295940281f9ac3c62",
+      "sourceHash": "7755f28acbf30e98696ef4bd41af2c9b0ee8079f854c2246c4096825358e1f14"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/zhou-ya-fu-jun-xi-liu/seg-003.mp3",
+      "durationMs": 26688,
+      "checksum": "4a963a10d6e06cdeffea804f6e7773ae9bd1a3d1fa2d6ef90849780214bb76f1",
+      "sourceHash": "5ebfc70b6badf5a0af5f12ccdd9be5a85537ddbdf7ae71a541562f879fab49b1"
     }
   ]
 }

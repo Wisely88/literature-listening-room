@@ -4,14 +4,56 @@
   "provider": "edge-neural",
   "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
   "format": "mp3",
-  "generatedAt": "2026-09-01T02:26:14.064Z",
+  "generatedAt": "2026-09-03T13:18:25.071Z",
   "segments": [
     {
       "id": "seg-001",
       "url": "/audio/tian-qi-lang/seg-001.mp3",
-      "durationMs": 5352,
-      "checksum": "e9b7e5ec011fdc493c32200af34c72fdb0aae402874daa0fb4444954c27fac71",
-      "sourceHash": "cfe2033f4f1ef9f4fe4cc124723a6afa490826175220237e981176247918f06a"
+      "durationMs": 90720,
+      "checksum": "a0578af8a4c000d1e12004ed7f24cd1208dc300c9c73ce0b605df6505158b38f",
+      "sourceHash": "b037cb4c36efbf13fcb6538c7dc07f5b7d2ec69ec30ac69ac4ef27d8d658f76f"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/tian-qi-lang/seg-002.mp3",
+      "durationMs": 151608,
+      "checksum": "6708329db236fc43c228c731a05c5cb7aa921d71b071194136d82cb1f62c0323",
+      "sourceHash": "2c5745b8d1198a22265d0253b277a091d1ac8158b0dc1b966ad002f5e833a89f"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/tian-qi-lang/seg-003.mp3",
+      "durationMs": 69336,
+      "checksum": "89f847658dcd282096aca712743c03a7e363d50444e47a243b18cbbe741b339d",
+      "sourceHash": "e7bad7cf1cff2503f0e04330b65409e5a04371e5cbef67db956eeced6afdaa02"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/tian-qi-lang/seg-004.mp3",
+      "durationMs": 89088,
+      "checksum": "bbdc3b10f922bc3c1f52ec522e3abb80807a0e5312b77e4e6d5d49be8abdcc8b",
+      "sourceHash": "66b690e51177aefbfc8827f08f20a94318e8db257e2ec7e7b567ee20c7d49831"
+    },
+    {
+      "id": "seg-005",
+      "url": "/audio/tian-qi-lang/seg-005.mp3",
+      "durationMs": 160776,
+      "checksum": "2db9e4ac3bbca52b1c5be17a56e858535101b2fbb73828df1884f91e6364dcfa",
+      "sourceHash": "3ab18ad60e2cf96e3ac040d2a4057b903248da9621346630366ad347cb2dfd0c"
+    },
+    {
+      "id": "seg-006",
+      "url": "/audio/tian-qi-lang/seg-006.mp3",
+      "durationMs": 73728,
+      "checksum": "426731b4953fac5e124d56dc54ed98d4939ed7a5ab76e48c4fbeaa622d7c3d7d",
+      "sourceHash": "d590bb675b1f2be0909d8472eae686a719f05820a3121e8898bfa47885764658"
+    },
+    {
+      "id": "seg-007",
+      "url": "/audio/tian-qi-lang/seg-007.mp3",
+      "durationMs": 23592,
+      "checksum": "f493657d451521cf1752b91eb7fe9365a2364b19029e155d1c75334402f7efba",
+      "sourceHash": "2eeacd36d6f482dea7331e38d8cc411353983eef8479c017f300c88372b9fdc4"
     }
   ]
 }

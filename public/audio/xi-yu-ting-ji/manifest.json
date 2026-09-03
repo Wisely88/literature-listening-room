@@ -4,14 +4,35 @@
   "provider": "edge-neural",
   "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
   "format": "mp3",
-  "generatedAt": "2026-09-01T02:36:58.757Z",
+  "generatedAt": "2026-09-03T13:28:19.155Z",
   "segments": [
     {
       "id": "seg-001",
       "url": "/audio/xi-yu-ting-ji/seg-001.mp3",
       "durationMs": 6696,
-      "checksum": "a5204dac92e6526fc9a17d5ccf314cdd370fc2f16d5c25a12e3f502ca621fb72",
+      "checksum": "4efd763cc118b55fb58e17f3238ee3347414361d3527ccf7a209c0e3ef4e4c23",
       "sourceHash": "f376b7a19be595d54626c15cdaae3e62dbc75a60d3d08b302c40a063a222c17b"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/xi-yu-ting-ji/seg-002.mp3",
+      "durationMs": 10368,
+      "checksum": "d6087137c725a8ae9fd6ed85b6443f878d63bda10db9a8003776107dee6ab53d",
+      "sourceHash": "32722527901d153574fb4152bf0d5825be8a7e4d6b885e387f0cde1b10a49097"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/xi-yu-ting-ji/seg-003.mp3",
+      "durationMs": 27528,
+      "checksum": "727594efcb124e5deb598358d8db989f9664d8a0cb60f42691b7dc9df0789f98",
+      "sourceHash": "a0fb560be63f5aa7001ad3a3ca9267850446ca0ce178b3b5eadc09c936b57f32"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/xi-yu-ting-ji/seg-004.mp3",
+      "durationMs": 25920,
+      "checksum": "1bf8736d3a65fb4c6c1de7e95fcf69115d5649889d96d875fca35a2282868585",
+      "sourceHash": "009fec5eac5c0d5fc7bb5b55c684634f2dc2814930b46472f105d9a159a377fa"
     }
   ]
 }

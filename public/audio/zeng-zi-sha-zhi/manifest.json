@@ -4,14 +4,21 @@
   "provider": "edge-neural",
   "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
   "format": "mp3",
-  "generatedAt": "2026-09-01T02:38:53.070Z",
+  "generatedAt": "2026-09-03T13:42:57.342Z",
   "segments": [
     {
       "id": "seg-001",
       "url": "/audio/zeng-zi-sha-zhi/seg-001.mp3",
-      "durationMs": 8088,
-      "checksum": "b14636fa0c9712c275982686b09a6623e2a9fa1c7c63746366d1402c6650dc7d",
-      "sourceHash": "f94df1020aa2a06f5d2da8089410b0528fd999c0e18173968e57842145b88b7d"
+      "durationMs": 31632,
+      "checksum": "73217e31ae08d0b0a2aedf1ed449c37ff00114a168a1362dab0aa3af4bc9e9eb",
+      "sourceHash": "a2c4d7d76beb9921e7ff5a701bf119fb303aa3c656525e9fcd8777cab185e7e2"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/zeng-zi-sha-zhi/seg-002.mp3",
+      "durationMs": 1896,
+      "checksum": "7e6e4f958aa0125d4888cded4735b70ae66d2c0c279c1b848bf9e203ef47fe85",
+      "sourceHash": "4987422aaf3656090931efc99b778546801bd3904155f4def0d4d5faf5eb1f0e"
     }
   ]
 }

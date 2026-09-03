@@ -4,21 +4,35 @@
   "provider": "edge-neural",
   "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
   "format": "mp3",
-  "generatedAt": "2026-09-01T02:39:40.350Z",
+  "generatedAt": "2026-09-03T13:47:42.764Z",
   "segments": [
     {
       "id": "seg-001",
       "url": "/audio/zhuang-zi-xiao-yao-you/seg-001.mp3",
-      "durationMs": 9072,
-      "checksum": "d61bde83710f215bdbd66c7cd262c212093acdc234c1832cefcd0cd84cebf1cc",
-      "sourceHash": "00f81224819c175218d9fd94c5b764b66a4ed0fe58fe1ade58a819b0b354ad43"
+      "durationMs": 15648,
+      "checksum": "f3d868ae2f9112ddebcff230ebd2c5ab065a7002f98440ceee9c63ae3b52724f",
+      "sourceHash": "4c536b51d0ece834522b9fa9cb951046daf2e1f1998377f161c0d4d57e393a59"
     },
     {
       "id": "seg-002",
       "url": "/audio/zhuang-zi-xiao-yao-you/seg-002.mp3",
+      "durationMs": 18840,
+      "checksum": "6dbdcb3182ec37ca4eca8ad073a793a50aafd69b643cd284b0c17f89a515b0aa",
+      "sourceHash": "3ca8363fca557a6b7e79071f30c27e15f8dccd711cd1488f974ef084deeb1b78"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/zhuang-zi-xiao-yao-you/seg-003.mp3",
       "durationMs": 8520,
-      "checksum": "c63ddf206aec6b6097c5a0d19a56865137564a5445eaf6a446fbecf59589cabf",
+      "checksum": "03fc1adcedb147ec09c6ddc919f4a49496324c3945805cce4d05cfa7d35cb5de",
       "sourceHash": "39fc5f13f313378a07a19ccc8f3c780e81c646ccd7766dcb8a52b02e35896412"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/zhuang-zi-xiao-yao-you/seg-004.mp3",
+      "durationMs": 22824,
+      "checksum": "c068b6e2adf982dfd11a01dd9d6769ae03b18e8b615366f81fcc545f0aa0b435",
+      "sourceHash": "ad44cc4baed2542e7b05e40ad6941fcb4a9b28484a63784f3baab5dc7181f035"
     }
   ]
 }

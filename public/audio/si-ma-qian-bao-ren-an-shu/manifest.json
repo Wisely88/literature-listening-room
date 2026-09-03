@@ -4,21 +4,35 @@
   "provider": "edge-neural",
   "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
   "format": "mp3",
-  "generatedAt": "2026-09-01T02:16:57.612Z",
+  "generatedAt": "2026-09-03T13:13:02.314Z",
   "segments": [
     {
       "id": "seg-001",
       "url": "/audio/si-ma-qian-bao-ren-an-shu/seg-001.mp3",
-      "durationMs": 10560,
-      "checksum": "e4d3f3e1d764fb23fe87e85b285d893c0c3786aff30ef884625970b70f1f3af7",
-      "sourceHash": "ad57f479972fd802f321deb44827587d2b9ccd8f1b6b607fac01da1ba712d999"
+      "durationMs": 22032,
+      "checksum": "ff366d0c1477b8af141cf5be9cb06ef339fa53334f633afd93186d63167e0024",
+      "sourceHash": "a3896f85b2cf2f6c05715aec5de761e2a0a7a380f9b1b27defcd7d3553b933ec"
     },
     {
       "id": "seg-002",
       "url": "/audio/si-ma-qian-bao-ren-an-shu/seg-002.mp3",
       "durationMs": 5592,
-      "checksum": "b5ac0db014aec95c105b356526c458489befeef5af9058ea4f25d96a2a11ee1c",
+      "checksum": "49efe5e60f0e62c061931c7e49b525b5dc902000028bf6949163de446ae650e1",
       "sourceHash": "17f72186c9a7aa23609f7c7e5af76030b466781b955d0a21f32460f20244b1f0"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/si-ma-qian-bao-ren-an-shu/seg-003.mp3",
+      "durationMs": 6792,
+      "checksum": "da9b88c6894e8bd29799e6078b7699c19a13f82b9e2aa8f4f690c014bcbc6e97",
+      "sourceHash": "7c7ccc5529598b5b5d16d9be5cd556d76ac931b84140ed3e64cab22df8ba2b75"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/si-ma-qian-bao-ren-an-shu/seg-004.mp3",
+      "durationMs": 6504,
+      "checksum": "e464ba70ebcbcb46b751357db88fc6d05e7a83fb0b3c15d0b7e814ae22960e80",
+      "sourceHash": "b1ff6c5c557c90af7e3911fdc9df593b7a302c2e668135cc9a0357e1a9d4bfcf"
     }
   ]
 }

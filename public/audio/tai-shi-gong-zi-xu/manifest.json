@@ -4,14 +4,56 @@
   "provider": "edge-neural",
   "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
   "format": "mp3",
-  "generatedAt": "2026-09-01T02:17:12.352Z",
+  "generatedAt": "2026-09-03T13:16:13.945Z",
   "segments": [
     {
       "id": "seg-001",
       "url": "/audio/tai-shi-gong-zi-xu/seg-001.mp3",
-      "durationMs": 12000,
-      "checksum": "6e40635aedd0cc53d7467baf195c91c0d42f5dafdb4647f8a185de009c60fd6b",
-      "sourceHash": "e5c3540c85552a60513eb30a74c1dc29e6f2721e2cf5647e087e877aab6ce9e8"
+      "durationMs": 442728,
+      "checksum": "42c47a474c58485bff6f8130dc0e4bd39f0911bffaf306d38e520c6623be3274",
+      "sourceHash": "6684998dff589c7f3e965e8653e964b75238326f234b90e096fce80f1ee37119"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/tai-shi-gong-zi-xu/seg-002.mp3",
+      "durationMs": 419856,
+      "checksum": "6282fdbeff159cee7078a8473d911aaa79396a345110d6a8ffd7c143806466f0",
+      "sourceHash": "ca6c9d928a77114b4d7df4d726883280c679e096bb49ea0a1ceefab0dc114660"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/tai-shi-gong-zi-xu/seg-003.mp3",
+      "durationMs": 410256,
+      "checksum": "61b8cd6b4b2c4658f7304502807719ca1fb048c2da2c789191c78345d2fbe4e9",
+      "sourceHash": "fcaf0e97e1ad824ee48abbfb1560edaba6ad4f26712623746d5bc8e16cc44aff"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/tai-shi-gong-zi-xu/seg-004.mp3",
+      "durationMs": 394056,
+      "checksum": "8e891adfdb550366048baeca7ddffa2440286b9e76709f23aaf9b9b437f66881",
+      "sourceHash": "0478778da44ff22e53624651f3009f2761a1cc63a289cf2bf31738588ab968d1"
+    },
+    {
+      "id": "seg-005",
+      "url": "/audio/tai-shi-gong-zi-xu/seg-005.mp3",
+      "durationMs": 345288,
+      "checksum": "6b14e93c65048a31c1b561482145c56a30c5d247934d6f3e25d1c65478549182",
+      "sourceHash": "cd9767ebd777ffc93aacd6b8834f1493edfbb4db2eba687457e9b991b3876dc8"
+    },
+    {
+      "id": "seg-006",
+      "url": "/audio/tai-shi-gong-zi-xu/seg-006.mp3",
+      "durationMs": 304080,
+      "checksum": "7b699cdd825290420cd415bf1f47bfdf5209c6abb61f1d3062a35b7e99fdf483",
+      "sourceHash": "9fea1cd77e44b52dfa0c8620a0edeaa2f562656aa7e316bd9de4bad8afadaf0e"
+    },
+    {
+      "id": "seg-007",
+      "url": "/audio/tai-shi-gong-zi-xu/seg-007.mp3",
+      "durationMs": 219408,
+      "checksum": "227b766d301afcb0f7aee58908a90ef73481a835eae1ffb49697c008cb5e3bce",
+      "sourceHash": "cd9fa238a57621f0fe0abcc02bd39c9f53d2e164cd32bb199bdf0f043672fc48"
     }
   ]
 }

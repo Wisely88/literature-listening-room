@@ -4,14 +4,35 @@
   "provider": "edge-neural",
   "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
   "format": "mp3",
-  "generatedAt": "2026-09-01T02:34:27.243Z",
+  "generatedAt": "2026-09-03T13:19:20.031Z",
   "segments": [
     {
       "id": "seg-001",
       "url": "/audio/wan-bi-gui-zhao/seg-001.mp3",
       "durationMs": 8928,
-      "checksum": "6b033b2d7fc2efd709d075a49f7ec3651c1d87149b70077af9b50bd4f66cb154",
+      "checksum": "69871fc15d191bc041cfb49f8ae9165390f2b7b3e202cf666aa20c04144e9d1a",
       "sourceHash": "721670a615f043114e60bb7d65703d782cfe504db0b94dc738be8df1ae09c339"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/wan-bi-gui-zhao/seg-002.mp3",
+      "durationMs": 14376,
+      "checksum": "0724ac8935627dd43d55629cd699f4feaeaf47ba8368997715879f9e05647732",
+      "sourceHash": "e1aff93c3ca5f42646960228af19888993ac8455338099368eb2a6be56d4b3a2"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/wan-bi-gui-zhao/seg-003.mp3",
+      "durationMs": 24360,
+      "checksum": "d8df9d6da1a566965355570d9a3e54bd33d956db3a447bfd894c89e7298a388f",
+      "sourceHash": "c322c648bb5ce25a55f685eb9fea9dd77b3bdace227e4c8e5765f880efda210a"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/wan-bi-gui-zhao/seg-004.mp3",
+      "durationMs": 23016,
+      "checksum": "d30e9691d0026f1ca3a2dae65ac09cb5e772b25746fc77ed5bd5b8b1247e2d6d",
+      "sourceHash": "a358413e871d0332651956fa34c9889ec6ccd6da59fa18ef9b0c09f0ee00758a"
     }
   ]
 }

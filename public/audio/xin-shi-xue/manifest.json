@@ -4,14 +4,98 @@
   "provider": "edge-neural",
   "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
   "format": "mp3",
-  "generatedAt": "2026-09-01T02:37:26.518Z",
+  "generatedAt": "2026-09-03T13:33:32.569Z",
   "segments": [
     {
       "id": "seg-001",
       "url": "/audio/xin-shi-xue/seg-001.mp3",
-      "durationMs": 7152,
-      "checksum": "40bb5ddde98d8b20d443cabb35a107507d7ce163f0ae00cbea8ec53005092c67",
-      "sourceHash": "6f4ebadf62b1571b2d5c7eb001595c8d84cddac2fcb2f02e5dba0e55ff5f4a41"
+      "durationMs": 38280,
+      "checksum": "ba49b75516fc8c126ee3d2cbf41aa76b7301f1e65fd61c3dd2bccb6859043981",
+      "sourceHash": "ec365815a64449e0dceaaeb38a806c78893d4ac21be30051964f7fded8516eaf"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/xin-shi-xue/seg-002.mp3",
+      "durationMs": 5280,
+      "checksum": "931f0d2f3db5241c19a85941d69dd1041a9893fa2af3e12a307199862a08c3ab",
+      "sourceHash": "0edd927a7848806fc478b41028788614b6e26d43a78b9182639c9f657ddac89d"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/xin-shi-xue/seg-003.mp3",
+      "durationMs": 119088,
+      "checksum": "a49f9b27bf67ca687bd6a9f1e1fe3dae5cd8a56a1435b5523ae9c3b4c885541f",
+      "sourceHash": "1fb21744075edf75b45f0a136c44835be838fa8a9469ae13a384b5a15bdbc469"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/xin-shi-xue/seg-004.mp3",
+      "durationMs": 33384,
+      "checksum": "b003c3c43fe11c679fa9d2a81acc7350580582e9a9625e2845a0ec8ef7854cff",
+      "sourceHash": "5295868b8a91aae0e5f4d1caa4a1c6fa784abaeb54901014a264684ce4cb80ed"
+    },
+    {
+      "id": "seg-005",
+      "url": "/audio/xin-shi-xue/seg-005.mp3",
+      "durationMs": 94824,
+      "checksum": "4ff89dfecd36e9c712ad7550f656b19c19b2692e94b8c47bfd6dd942c3cceba7",
+      "sourceHash": "b8f902e55a0e3ba36e819bf1272fa047502aa0f27d995b45d31083b8aa85b1d0"
+    },
+    {
+      "id": "seg-006",
+      "url": "/audio/xin-shi-xue/seg-006.mp3",
+      "durationMs": 66936,
+      "checksum": "e6566410e7e4bf1d0c2751c017d8e4294e37c2308c2547b9c4fc9a7989b0d574",
+      "sourceHash": "6b5c98e332259e3460354360508fb7e00d6eb8127cf0d7e4bd21dd791301920a"
+    },
+    {
+      "id": "seg-007",
+      "url": "/audio/xin-shi-xue/seg-007.mp3",
+      "durationMs": 118872,
+      "checksum": "2e96ad7102b924f6bae3b4f43d6cc7e9dce490b2d6d073d62cb5723bc19627a8",
+      "sourceHash": "8683e26a4178d0ebc65e161afda2a7c3065196cf09ab6cc62ade18285f99e76e"
+    },
+    {
+      "id": "seg-008",
+      "url": "/audio/xin-shi-xue/seg-008.mp3",
+      "durationMs": 91752,
+      "checksum": "47ea7027b34dde815b633602749a160911648f4626a811a9126beab2f8b4aabe",
+      "sourceHash": "9c3371263c8646bebb73658e77a8a704071d8302de9b09888cb0cbc17e597f2d"
+    },
+    {
+      "id": "seg-009",
+      "url": "/audio/xin-shi-xue/seg-009.mp3",
+      "durationMs": 7968,
+      "checksum": "d68b1985820d0506eb9d3690e496ffcee25d98f6b32d922e06a04530bc2c6650",
+      "sourceHash": "f9203f8e0cd4f4b40c9dd3eb32ae5c05022165b53535fabe7ed1598132478b25"
+    },
+    {
+      "id": "seg-010",
+      "url": "/audio/xin-shi-xue/seg-010.mp3",
+      "durationMs": 129600,
+      "checksum": "8ada0cfea8aea425a0262236d2c09a5ed53bd65905d15068971d710c27c17d7d",
+      "sourceHash": "42a2e44b8bb7fb1202310110033796645e7546b088261ebf86271c1496317b14"
+    },
+    {
+      "id": "seg-011",
+      "url": "/audio/xin-shi-xue/seg-011.mp3",
+      "durationMs": 208152,
+      "checksum": "cf5ba115af82c15466c8dccfd4e790a9526787bc7a3d1e226fe9bc9fa67052ed",
+      "sourceHash": "9652b92f78bf0518e00e8dab2ab157599c84e75be623f7748bbc3037f4c90d69"
+    },
+    {
+      "id": "seg-012",
+      "url": "/audio/xin-shi-xue/seg-012.mp3",
+      "durationMs": 48744,
+      "checksum": "c24c380ca4f0ce7b9173e26cf79a2abfafff09fa98960ad81f64517105ad1459",
+      "sourceHash": "cf01b3a6c02380cc0e547fb213aa237326a0ed7f796b7bdfe6f308f56a3541e6"
+    },
+    {
+      "id": "seg-013",
+      "url": "/audio/xin-shi-xue/seg-013.mp3",
+      "durationMs": 42960,
+      "checksum": "f227d79f6abd685d69523cad2cf63690dac0c33e6b8a50ffd26927aabebde137",
+      "sourceHash": "cbed1e7461864ee5e0be6daa0de200172efefac8333c7f99fc7cb72ddb9c8bdf"
     }
   ]
 }

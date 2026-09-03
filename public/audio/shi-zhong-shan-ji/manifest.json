@@ -4,14 +4,35 @@
   "provider": "edge-neural",
   "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
   "format": "mp3",
-  "generatedAt": "2026-09-01T02:16:42.066Z",
+  "generatedAt": "2026-09-03T13:11:38.960Z",
   "segments": [
     {
       "id": "seg-001",
       "url": "/audio/shi-zhong-shan-ji/seg-001.mp3",
-      "durationMs": 10584,
-      "checksum": "d0047ada1aab0732061e5ae4671370b8afe6db422af06c5bd54c1a064109fac8",
-      "sourceHash": "49ba4f4e6357108f9860d993837206fa7852c19082a85031c1767866c491acfb"
+      "durationMs": 13368,
+      "checksum": "83ca57e91881beb991e06f16b216a9d56c4f7aa5b4c04c09fc07048c90825c37",
+      "sourceHash": "56ebf398b7a3d1d5e9d78e43145a7ecc465463ac822ac1449478ae348b9528dd"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/shi-zhong-shan-ji/seg-002.mp3",
+      "durationMs": 28752,
+      "checksum": "c48a377335fb07c931ba18916962be8beb2299f0dc37ecac7590c35e634cf052",
+      "sourceHash": "f0d057c03a0a538b879ebb05c20a92424a4e8c1d79088617832f80e8c3ce8433"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/shi-zhong-shan-ji/seg-003.mp3",
+      "durationMs": 85416,
+      "checksum": "1a95fc356a4cfa8fce454a5657b3c42a9bcfb59224001961f1c9967b7cfca4ee",
+      "sourceHash": "ecb54d09eb9ca15c666ddf69a3a28a8283cf35c3e5c57c6f9b0a991ae26bbc19"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/shi-zhong-shan-ji/seg-004.mp3",
+      "durationMs": 30696,
+      "checksum": "6ca9418bbae2f8955a32b0064e08224d5e765af34ad5dc448e00c1fa561dbba0",
+      "sourceHash": "e23d2c0fc08e8ebb1fa4408798df48b56e833671291c25662b22866b8885d2a4"
     }
   ]
 }

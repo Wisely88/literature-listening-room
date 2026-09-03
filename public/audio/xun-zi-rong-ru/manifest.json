@@ -4,14 +4,42 @@
   "provider": "edge-neural",
   "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
   "format": "mp3",
-  "generatedAt": "2026-09-01T02:37:41.123Z",
+  "generatedAt": "2026-09-03T13:38:02.058Z",
   "segments": [
     {
       "id": "seg-001",
       "url": "/audio/xun-zi-rong-ru/seg-001.mp3",
-      "durationMs": 6288,
-      "checksum": "ad7e134722bbbc664a6d470e4448ec6fa055729ea975276c8fecd54f9497876b",
-      "sourceHash": "eaa01a8e9326a8d8925bc0e8374c285557bb4350841771410efd4b479638fd12"
+      "durationMs": 259584,
+      "checksum": "b5f846a2db99b2e1ebc4fff2cd671e1ab87e4b7f2e4f6a71164d74d202260a64",
+      "sourceHash": "ebaf2dc9f4d08f0e50ad4604cb23f3567b372b927e242a03dddb1b3a35d58da0"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/xun-zi-rong-ru/seg-002.mp3",
+      "durationMs": 226224,
+      "checksum": "29dbe39eee9b1a905593c1c5a381fc1e5173596d3c48e8af0320a4ea5601147c",
+      "sourceHash": "29ca4623de641217a85586befd69acecd5ffecadd4ccb38cce0a598cd36c07ae"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/xun-zi-rong-ru/seg-003.mp3",
+      "durationMs": 199152,
+      "checksum": "3f12b94073a698978f2988d6bf20c51c40bfd1d1ed083323c7f79705c47a1a3a",
+      "sourceHash": "feb3b04ee060579598353eba7f04877838815004530e7e4c1bfa1f57e991b43c"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/xun-zi-rong-ru/seg-004.mp3",
+      "durationMs": 90504,
+      "checksum": "8fbf44ce1b8ebc6b34c6f263746d0398f30c1fbe70336f5a0a5058f2af07bdb6",
+      "sourceHash": "6bc3492deec6ac8732d0d1b4d2e49d34b291865194d27f91696cbfc89bf85d18"
+    },
+    {
+      "id": "seg-005",
+      "url": "/audio/xun-zi-rong-ru/seg-005.mp3",
+      "durationMs": 6216,
+      "checksum": "f2fed627329d169d76176d762f148927a405fee173a8db0b13015e71570506aa",
+      "sourceHash": "ed537bb984d0fbc8863f78f4229cb9864c93b1eec61ca2e2310e6d86ff66f636"
     }
   ]
 }

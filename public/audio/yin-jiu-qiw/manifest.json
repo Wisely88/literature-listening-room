@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "workId": "yin-jiu-qiw",
+  "provider": "edge-neural",
+  "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
+  "format": "mp3",
+  "generatedAt": "2026-09-03T13:39:48.661Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/yin-jiu-qiw/seg-001.mp3",
+      "durationMs": 3528,
+      "checksum": "1f539aba00a80619a1e7d758e367cd30230125aba057f416bbb04468fa6a2fd6",
+      "sourceHash": "3aae77c2a455907271080e18661078ef3f2dee277fca51059a201813e74bb00b"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/yin-jiu-qiw/seg-002.mp3",
+      "durationMs": 4104,
+      "checksum": "5c7d07aeb6543f9baae2711f4402da770d23fd7acbc8c8a9058203fd2c943319",
+      "sourceHash": "72548a162daf556471ecc410105a1d164446bf032e02dd40a61fe4f99a36bc7a"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/yin-jiu-qiw/seg-003.mp3",
+      "durationMs": 3576,
+      "checksum": "3b0c5d219a93432919914139e5483621352b001961d0059386e3464a7f2dec62",
+      "sourceHash": "8def8f24e8425566f33caa35964cbc981b9844c0ddcc88cf31bb783eb2196a6a"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/yin-jiu-qiw/seg-004.mp3",
+      "durationMs": 3648,
+      "checksum": "fac7dc8c8a2c604f773a987eef5b45c6bb6c599c2e762ea7b5edf221076c3bff",
+      "sourceHash": "bd1aa1059bf4904fbf6abacab541390b9fdb6167b5a0a1ccf28fd041c31d71d2"
+    },
+    {
+      "id": "seg-005",
+      "url": "/audio/yin-jiu-qiw/seg-005.mp3",
+      "durationMs": 3528,
+      "checksum": "379f8fd59974b7b408f90b25a3af1d441b6d24367663e8ed70c7e0ce57727408",
+      "sourceHash": "f951599f14cdd4453488c702444b6328ef404a8f4ff8c8e40d6e334f35481f8b"
+    }
+  ]
+}

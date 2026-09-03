@@ -4,14 +4,35 @@
   "provider": "edge-neural",
   "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
   "format": "mp3",
-  "generatedAt": "2026-09-01T02:38:46.173Z",
+  "generatedAt": "2026-09-03T13:42:32.230Z",
   "segments": [
     {
       "id": "seg-001",
       "url": "/audio/yue-xia-du-zhuo/seg-001.mp3",
       "durationMs": 6816,
-      "checksum": "bb3d1ba56f3a4cb098632ae5acbe8889c56ab1a262f99c9cfd1a9f2197585635",
+      "checksum": "02d71fbde05609b5d90cded810cdd45c6452fd9979073971a7a3256deaed86f7",
       "sourceHash": "eacbe993594486d2071f4da05690dfc4baa1c6f796591f6151d05dc72ca9f3e0"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/yue-xia-du-zhuo/seg-002.mp3",
+      "durationMs": 6840,
+      "checksum": "98ee86dc9c8efa1a5bb220abad39b32b957586c3d50395cd0508b165f0bf6996",
+      "sourceHash": "04d1144398fa92d715366ee172a7c1c00b1dc71f739bca4a8f47fbbcc94ed9ee"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/yue-xia-du-zhuo/seg-003.mp3",
+      "durationMs": 6528,
+      "checksum": "2a46ec3eb9e782872d61f24bf12a7f5d599f37d01466091eb9626935185ac65e",
+      "sourceHash": "b6ca6d45264f2191830b0526f15c560f1abfe5b5b2d78bae379b4c68f1343c8d"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/yue-xia-du-zhuo/seg-004.mp3",
+      "durationMs": 3504,
+      "checksum": "c8acd2788e18d10023f7446f168721a3d2911f009082976e892b0c3b5f44d859",
+      "sourceHash": "b8ea321afb6df19078f60b18d68ff6ea3cf5137b1bf39e00948cd53e4d15df25"
     }
   ]
 }

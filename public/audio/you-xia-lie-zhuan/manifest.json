@@ -4,14 +4,35 @@
   "provider": "edge-neural",
   "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
   "format": "mp3",
-  "generatedAt": "2026-09-01T02:38:38.626Z",
+  "generatedAt": "2026-09-03T13:41:50.837Z",
   "segments": [
     {
       "id": "seg-001",
       "url": "/audio/you-xia-lie-zhuan/seg-001.mp3",
-      "durationMs": 4656,
-      "checksum": "c6036f282b1e590b6b05cf8c72350b8f4d8b99bbd97f7b67be6441d8cc456566",
-      "sourceHash": "1c784c87e15473e00d27198cfe1e6816e9848c69db4f86b20d3a99a722cfac41"
+      "durationMs": 235104,
+      "checksum": "baa4cc6f08cff254c0a698936d0ce25bcb3e9a1857ff137cf7080c5525734314",
+      "sourceHash": "8990e1e0aa036a5d6c599be801ef92178994ec9dee3cc8485a0de12520e10bc8"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/you-xia-lie-zhuan/seg-002.mp3",
+      "durationMs": 213456,
+      "checksum": "1fbab05c1d6897664027da9572ef6841bde9327015b39f8248be3ba313741018",
+      "sourceHash": "4e0fdfd7625745891adc9cceb0e6f938a00fe6a57b573de811eb376b97c7b82d"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/you-xia-lie-zhuan/seg-003.mp3",
+      "durationMs": 180576,
+      "checksum": "d36da9590d5004140f01a5b882e70b68905f2ea57b0fb0ffce7fe81e125090d8",
+      "sourceHash": "50fa05c9e1a971c2f652fe2219a42c6b10fdab41475937cf26e4cae9a7119b67"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/you-xia-lie-zhuan/seg-004.mp3",
+      "durationMs": 28392,
+      "checksum": "004898c09349be42f44aaf55ab9176a092e1f81449386fd900ba94e31c1ef15b",
+      "sourceHash": "a0a23d2fe64a7ea898118e302112d8b2bb8839ce414c20d8915c8d6fe25706d3"
     }
   ]
 }

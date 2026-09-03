@@ -4,14 +4,21 @@
   "provider": "edge-neural",
   "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
   "format": "mp3",
-  "generatedAt": "2026-09-01T02:38:49.495Z",
+  "generatedAt": "2026-09-03T13:42:38.484Z",
   "segments": [
     {
       "id": "seg-001",
       "url": "/audio/zao-fa-bai-di-cheng/seg-001.mp3",
-      "durationMs": 8760,
-      "checksum": "620aa4910a0b874a862894d1f3c06943e7f366f82e396f6ab6c75931b632cfcd",
-      "sourceHash": "908fc8fa83ccfd8833b57494d21bb1afda380c348d4d2402fcb03757705fdf8e"
+      "durationMs": 4416,
+      "checksum": "f6cf53d57788109f156c908998b5b15f33ba03261c87ae031fef7e8704187774",
+      "sourceHash": "5d9feff2e16ff83bf3fcf3ed5e2e49055e3f9a059a80947f6bcf79c0e529d323"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/zao-fa-bai-di-cheng/seg-002.mp3",
+      "durationMs": 4464,
+      "checksum": "990b4f10f8cc28634f0f28ecb4c361fbf184e2b18e285c767b4b716d915509bb",
+      "sourceHash": "f4475f9a8ac071c7eb2e55abaa9245429763fd54916e05b6ecd0fdb935e272ba"
     }
   ]
 }

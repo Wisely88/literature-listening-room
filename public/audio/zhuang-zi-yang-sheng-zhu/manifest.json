@@ -4,14 +4,35 @@
   "provider": "edge-neural",
   "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
   "format": "mp3",
-  "generatedAt": "2026-09-01T02:39:43.769Z",
+  "generatedAt": "2026-09-03T13:48:03.426Z",
   "segments": [
     {
       "id": "seg-001",
       "url": "/audio/zhuang-zi-yang-sheng-zhu/seg-001.mp3",
-      "durationMs": 7944,
-      "checksum": "eb3f8f006ff81d4c9f6e2653fc9dd7d1f5eb816ca9c02c616c84aa3cd52abc58",
-      "sourceHash": "8262060401a1f39c6d90b3bce544cd7e334fa280883b3393ca48436d58566401"
+      "durationMs": 15360,
+      "checksum": "9d62de161b4b00ce1e6081fe0f67594c5d99390050fc49c472eb4bc4c6c08a74",
+      "sourceHash": "65871af200173c3239de3be6faa30bd576b97bbbcdd43f4b97dc569408c10443"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/zhuang-zi-yang-sheng-zhu/seg-002.mp3",
+      "durationMs": 17760,
+      "checksum": "723d3c8ecf65c17ab3da666d4ceaedf8acc1fa5eb3ba9c401f58ae6a4b11211f",
+      "sourceHash": "01a7b64a2ef1522dfb10c4ee51832eb1e931883946ed62b424eb96c27c61133f"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/zhuang-zi-yang-sheng-zhu/seg-003.mp3",
+      "durationMs": 14472,
+      "checksum": "3ccaa21c2653303ea169f2410da2a2b353a6c8c430f6fae254202d80bc15a0b5",
+      "sourceHash": "8475a8b769c7e6504995cb275185fb4ca2477ec05f25b2122cabb976ab550ae7"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/zhuang-zi-yang-sheng-zhu/seg-004.mp3",
+      "durationMs": 11856,
+      "checksum": "1af7dce2402899d82d34b2b1ff5e79fed82a8e63fb76211562f216edf6eb4aff",
+      "sourceHash": "09aeb7d80c7bf2820cef2f27aa525616b5be1832a4cd5735f3aaca9354a229df"
     }
   ]
 }

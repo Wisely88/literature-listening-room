@@ -4,14 +4,14 @@
   "provider": "edge-neural",
   "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
   "format": "mp3",
-  "generatedAt": "2026-09-01T02:37:22.733Z",
+  "generatedAt": "2026-09-03T13:31:42.127Z",
   "segments": [
     {
       "id": "seg-001",
       "url": "/audio/xin-min-shuo/seg-001.mp3",
-      "durationMs": 7776,
-      "checksum": "8d38682b9cbf812e87de05e2e11f0b133c0fc514cb637dba5329f7c34b9f6335",
-      "sourceHash": "5a642077809537c5a9be2d0649422a7aef830e7b1b944c0ab4f23322a7a16175"
+      "durationMs": 99744,
+      "checksum": "7169faef18de32fd6fe8da77abfdedfa3a2d4d20da9bf047109fb8fa3213fbd1",
+      "sourceHash": "c4da88f70a0b1a4de79e68fc5fe07bed18b18df70b469f288a5131f0e53e5c4f"
     }
   ]
 }

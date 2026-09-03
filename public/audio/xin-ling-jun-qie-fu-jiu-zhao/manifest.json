@@ -4,14 +4,35 @@
   "provider": "edge-neural",
   "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
   "format": "mp3",
-  "generatedAt": "2026-09-01T02:37:18.343Z",
+  "generatedAt": "2026-09-03T13:31:32.963Z",
   "segments": [
     {
       "id": "seg-001",
       "url": "/audio/xin-ling-jun-qie-fu-jiu-zhao/seg-001.mp3",
       "durationMs": 10512,
-      "checksum": "35e8f305669d06df68cf71f8c86033bf6182527b5ab80a510c43008df339064f",
+      "checksum": "c7013a6fc5306ba5c7b57c6984f30652e73de9c29401ebb7fb841a3dd322afe6",
       "sourceHash": "29eddb753e9e8b40a7a289966f41aeec755c6f7240a464bf5a74b713ce4fcead"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/xin-ling-jun-qie-fu-jiu-zhao/seg-002.mp3",
+      "durationMs": 14184,
+      "checksum": "93e5acbc138468d6be2956d629df5aec6097d0300903ed54d38ce98cf9311e20",
+      "sourceHash": "2c23683426e9be4c7644801a45b887ba9a569daf9e1247f78895987989478926"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/xin-ling-jun-qie-fu-jiu-zhao/seg-003.mp3",
+      "durationMs": 21816,
+      "checksum": "b0fefc8fa80e0049df138e99b45563f31e7d773180d53db6ad0be3d70d77e01b",
+      "sourceHash": "545fe035d4771d958c22a0fe3d3dca94e24fcddf8823d74bb28947210d6f5849"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/xin-ling-jun-qie-fu-jiu-zhao/seg-004.mp3",
+      "durationMs": 15144,
+      "checksum": "553790185d200da7c02855bdf8ebf38c3ffa9f5d03585ef3ad74924054ff6905",
+      "sourceHash": "e20f1109e2cbcb725768200c43c2f9b7595a61bccfad52d1c9aa4a6dce46919b"
     }
   ]
 }

@@ -4,14 +4,84 @@
   "provider": "edge-neural",
   "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
   "format": "mp3",
-  "generatedAt": "2026-09-01T02:37:14.494Z",
+  "generatedAt": "2026-09-03T13:31:05.010Z",
   "segments": [
     {
       "id": "seg-001",
       "url": "/audio/xiao-xie/seg-001.mp3",
-      "durationMs": 5208,
-      "checksum": "7004988ceac95b5c5cbb3a9831f39c09033a1053b337da9ec2857171fd147d4f",
-      "sourceHash": "3519c635c240e9d296647a6a80b5ece99f98a8ade7768165feb1d1f00e60b338"
+      "durationMs": 204648,
+      "checksum": "a15d05e2e84367c964a693dec6da6b7cb3a90986d318e6693f8da0a2d04100d7",
+      "sourceHash": "2794c5990ce3e85e42f53c360317d40c37ae981eae8f1612d6c1532c31383745"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/xiao-xie/seg-002.mp3",
+      "durationMs": 45264,
+      "checksum": "d9103227802760a622d8a9185fefc401f89f65b890be90e922409c5a5c780ba2",
+      "sourceHash": "ff0663fc483fee31966849771362ee5c6eb00f6323033bcffb66a29c44d3dd05"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/xiao-xie/seg-003.mp3",
+      "durationMs": 76104,
+      "checksum": "321385bf62451dd022386097b719cf9cb515565023f1c75bf1297aab26f8fc5e",
+      "sourceHash": "e3a80d105d5ebc39d956490bb1f640b032c5c8633677aa5cc41d519f02a95fc7"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/xiao-xie/seg-004.mp3",
+      "durationMs": 62496,
+      "checksum": "df0a3631ae6d280c9f000a4c3c7d673bb69ecb6834db22fc9480708d0bf70629",
+      "sourceHash": "7cbe9a8a16b3ef30049c7b4aa3523fa70a09b8506f034927d1d547bc983e8ecb"
+    },
+    {
+      "id": "seg-005",
+      "url": "/audio/xiao-xie/seg-005.mp3",
+      "durationMs": 32568,
+      "checksum": "e85fcd06bac63327a87d8db5a967c8e2cafe7f4df20c7ba7e93d0f754826b3ba",
+      "sourceHash": "614f45f0809501b53d285c1a8f691fbb1d0ba5901ef1a15f1009b54676ce44c1"
+    },
+    {
+      "id": "seg-006",
+      "url": "/audio/xiao-xie/seg-006.mp3",
+      "durationMs": 40584,
+      "checksum": "2e5df05d2c5da413d944052f06a03e7249bbd831bec8d6eca551ec967fc583fa",
+      "sourceHash": "e62c15fe48013e00bbe8d120409513a9272d9dca04119faa0e069c7a2d87eb1c"
+    },
+    {
+      "id": "seg-007",
+      "url": "/audio/xiao-xie/seg-007.mp3",
+      "durationMs": 93744,
+      "checksum": "5043d7530aed9aa64f4005412699439a934154a71b02ba33c7750dea72768a8a",
+      "sourceHash": "c67c1bbead3136aadd826d684bd2764f54dd26b64b014f1e40d6ccfa464d0568"
+    },
+    {
+      "id": "seg-008",
+      "url": "/audio/xiao-xie/seg-008.mp3",
+      "durationMs": 53112,
+      "checksum": "2c290aac929f6fa88edcb7caaea5354a3eb05f39ee48f3ae15e26ebc271dcc3b",
+      "sourceHash": "aded34f8c47d43c21d09d25f746e21745b3a071831175e64789663a1cff8d6d1"
+    },
+    {
+      "id": "seg-009",
+      "url": "/audio/xiao-xie/seg-009.mp3",
+      "durationMs": 76680,
+      "checksum": "22560338e612b3a1e00193f2520761b465820b87e1f2f6e860448773a433abe9",
+      "sourceHash": "277f5f0f637b4cee68519e3f49185db52f9fd9a5b9b4d2ac4252eb4152c9fae0"
+    },
+    {
+      "id": "seg-010",
+      "url": "/audio/xiao-xie/seg-010.mp3",
+      "durationMs": 106536,
+      "checksum": "4a66ff72b30440f9caa12a09fda5196af521e8d749a0768e61cd210e628f6962",
+      "sourceHash": "d2838ebc5e7eb7a1b6fdbab1d563d73f90445993d8dffabf84e4fddcc0e00c3f"
+    },
+    {
+      "id": "seg-011",
+      "url": "/audio/xiao-xie/seg-011.mp3",
+      "durationMs": 17784,
+      "checksum": "6194c23ebe791f0aef034484eddc8a06fb8a161750a185a1e8191009b3ee33df",
+      "sourceHash": "173974eeb106eae6e636f30136f3238f6cd8b371e0f3307526d0791407fd4208"
     }
   ]
 }

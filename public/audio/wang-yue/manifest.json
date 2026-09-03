@@ -4,14 +4,28 @@
   "provider": "edge-neural",
   "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
   "format": "mp3",
-  "generatedAt": "2026-09-01T02:34:35.048Z",
+  "generatedAt": "2026-09-03T13:20:27.635Z",
   "segments": [
     {
       "id": "seg-001",
       "url": "/audio/wang-yue/seg-001.mp3",
       "durationMs": 7608,
-      "checksum": "b1f7da326e4d42d5d951f0b93dd771278b4617d7149e0c230ce150125f10c59c",
+      "checksum": "1b178a2bc0eabb76bf6443ae686968dcfd4f97cfbc6a519e7168d0ee15edafb6",
       "sourceHash": "755b549df52402d1e5fe1700bd1f5b76ef7f6463c4e7296a6134c8340fa5147f"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/wang-yue/seg-002.mp3",
+      "durationMs": 3672,
+      "checksum": "620cd705e181c9cc6df502741b89bc64033e7248c5b47ecc747a6124daf4c6b9",
+      "sourceHash": "db02f3b1673b18368d797de48380c7ed8292ab4ef4eeaebd60cd296786c36c41"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/wang-yue/seg-003.mp3",
+      "durationMs": 3480,
+      "checksum": "e44c4c2fe1e948a7bb8021c895387bc230b7ab77c70a134c0d2bc12bb65b1e79",
+      "sourceHash": "5071c233a408708c230a68d5846e011f7356de05850d5176d63b8df660eacdb8"
     }
   ]
 }

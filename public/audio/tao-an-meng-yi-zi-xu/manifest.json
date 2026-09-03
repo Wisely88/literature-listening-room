@@ -4,14 +4,14 @@
   "provider": "edge-neural",
   "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
   "format": "mp3",
-  "generatedAt": "2026-09-01T02:17:16.124Z",
+  "generatedAt": "2026-09-03T13:16:20.850Z",
   "segments": [
     {
       "id": "seg-001",
       "url": "/audio/tao-an-meng-yi-zi-xu/seg-001.mp3",
-      "durationMs": 9456,
-      "checksum": "250a9fbdc403c1cb15957ad6b8b164ceaeade45760e74a279aa8bd0ba989ee06",
-      "sourceHash": "5917b8ddeb45c788d937e9c064922ed24b17dd39c29d4dddcfc6151084a378c6"
+      "durationMs": 145488,
+      "checksum": "b9b516d51b6cdd5df7c11437d3f78ce9c53305a1cb81d29e8f4caf68fc9e29fa",
+      "sourceHash": "d6d5f54a6d75bf6e5b7eccf9584c6289855ad8e312b2f1cd83d5e4e354558629"
     }
   ]
 }

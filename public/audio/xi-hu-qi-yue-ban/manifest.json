@@ -4,14 +4,28 @@
   "provider": "edge-neural",
   "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
   "format": "mp3",
-  "generatedAt": "2026-09-01T02:36:47.004Z",
+  "generatedAt": "2026-09-03T13:25:50.650Z",
   "segments": [
     {
       "id": "seg-001",
       "url": "/audio/xi-hu-qi-yue-ban/seg-001.mp3",
       "durationMs": 5424,
-      "checksum": "4d5f133e27b07cfca87cfe5cc1fbb77c33fa395c0ad586bda3463240aeeed803",
+      "checksum": "9244b056cdb0c20cb4a5ea0dc7a3a77723238d56bb95e6af4969c61562cfd9be",
       "sourceHash": "e8b8a3e00c0dff408385764a9dc64a697bb858b9c2fe65043b724d8f5cf60d39"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/xi-hu-qi-yue-ban/seg-002.mp3",
+      "durationMs": 31080,
+      "checksum": "ab86b0b14fe85aebdf941f8a48ed3d62016c7dacc2ceeb30bff3832c46ae6118",
+      "sourceHash": "9d398be9c6becb07004c4520dcafe51ba6928a85cb8aba734a6249caaa86500c"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/xi-hu-qi-yue-ban/seg-003.mp3",
+      "durationMs": 15120,
+      "checksum": "bcea4da2a7c5768a96ffc458252641d587f080f91ba0afd3a67e4923fec0b687",
+      "sourceHash": "d493ed9759c7b0c0c34876f8f051bfa13819beaef6420d523c147c2e19d0d67d"
     }
   ]
 }

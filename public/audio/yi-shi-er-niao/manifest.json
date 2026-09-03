@@ -4,14 +4,21 @@
   "provider": "edge-neural",
   "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
   "format": "mp3",
-  "generatedAt": "2026-09-01T02:38:20.035Z",
+  "generatedAt": "2026-09-03T13:39:25.965Z",
   "segments": [
     {
       "id": "seg-001",
       "url": "/audio/yi-shi-er-niao/seg-001.mp3",
       "durationMs": 9096,
-      "checksum": "e3df8338d7722bb4dfe717a48d854c2764fc32c56ea5c4bbe943e449f277b7ba",
-      "sourceHash": "9731b91d2f964dee19dcc4ffe4ddcac92db977fb3c0cfa9832920749f7a45268"
+      "checksum": "d9eb185f58f1982da2b9e083714000362d7f8b5ad0f09d6a597e4e402249e194",
+      "sourceHash": "225a79ac63dd1f7b5cfedc12fa4ff332af1a36115d517b54026a9e41bf83620b"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/yi-shi-er-niao/seg-002.mp3",
+      "durationMs": 12216,
+      "checksum": "a5a177eec728b324f75787ff13960502a5d75b81d250d148959ca03fd34c5dcf",
+      "sourceHash": "7612c708b4cf2978a9cdf2515fcbc6cdac01836f6404e856f555f517a58e679e"
     }
   ]
 }

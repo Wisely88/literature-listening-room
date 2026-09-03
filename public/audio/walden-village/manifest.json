@@ -4,14 +4,49 @@
   "provider": "edge-neural",
   "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
   "format": "mp3",
-  "generatedAt": "2026-09-01T02:32:58.362Z",
+  "generatedAt": "2026-09-03T13:18:57.705Z",
   "segments": [
     {
       "id": "seg-001",
       "url": "/audio/walden-village/seg-001.mp3",
-      "durationMs": 279456,
-      "checksum": "ca07b0ff109ea2548a934f658131a35e90f5e169219c74f9e54f8650a918cb30",
-      "sourceHash": "beb51d188241d2dc03d0f57a3d99a4b40e07003c123ad772eeff2e9ae4545ef5"
+      "durationMs": 14712,
+      "checksum": "d1ba2735a958633a7935241399a8dde97a2ce418cc1f25e084cef4d84b611521",
+      "sourceHash": "43c4fe848b8a384f7c21847066e9ea8fbbe2597d284b85a9059747cf33515067"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/walden-village/seg-002.mp3",
+      "durationMs": 11400,
+      "checksum": "e8bcc3597e2449cf4457d09bc7a6e581479983be37772dc905c75748f537df77",
+      "sourceHash": "e4b84774d08e7cf7e3f069827902fbcbfdf292b49b0e45354955cb2d8a62c097"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/walden-village/seg-003.mp3",
+      "durationMs": 13488,
+      "checksum": "e17495bd6b4497d826828c4e6083f1b9ef376d16a981a696a88d6c45dd883ff2",
+      "sourceHash": "347c62d5bbda6fc76988a4c78d25b2ad16e8c08148d89f9a05a15bfb856e82b6"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/walden-village/seg-004.mp3",
+      "durationMs": 12696,
+      "checksum": "46a95a75841fec258ee3688efb6e4b9f603a363bfd2d1f6d52b141e947782196",
+      "sourceHash": "9bbee5ac51f72ab88db27e905c7401e5c55b153e834d51ed1694c7532c326d75"
+    },
+    {
+      "id": "seg-005",
+      "url": "/audio/walden-village/seg-005.mp3",
+      "durationMs": 13464,
+      "checksum": "bae20d8ebdd67db122723f6c27bd8649339cc5bb2dac35fe16e900be5ce20118",
+      "sourceHash": "0ef29a271e7293148130fda6f0a1525f57f940f68bbff5109a4cc2589793c708"
+    },
+    {
+      "id": "seg-006",
+      "url": "/audio/walden-village/seg-006.mp3",
+      "durationMs": 59736,
+      "checksum": "901c4c598216d9787c40ba028695dfd76676aae65851a68662fce4ef0fc69263",
+      "sourceHash": "935ebfbb4ed54959e8f0097101dfd4b7ad0c4610d55d3791e1a031ab15f4359f"
     }
   ]
 }

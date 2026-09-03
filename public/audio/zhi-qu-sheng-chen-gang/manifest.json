@@ -4,14 +4,42 @@
   "provider": "edge-neural",
   "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
   "format": "mp3",
-  "generatedAt": "2026-09-01T02:39:22.176Z",
+  "generatedAt": "2026-09-03T13:46:46.581Z",
   "segments": [
     {
       "id": "seg-001",
       "url": "/audio/zhi-qu-sheng-chen-gang/seg-001.mp3",
-      "durationMs": 8760,
-      "checksum": "161dce078592c167646dd49c9499327c2a9823e5c6d57340628c58f8a6cfa76c",
-      "sourceHash": "1d46d3469fc77b72559d5cc44dcffbd9fd89708bff832a4786058f506fd0b40e"
+      "durationMs": 449712,
+      "checksum": "9e8b3d7a1527f01db06fa8cad0236f891024336ec91d1c8ed69d33c49ade083d",
+      "sourceHash": "1e5bd126f6e111398c5103d573170720f870af4fc5da7095c99b4dde4de85d4f"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/zhi-qu-sheng-chen-gang/seg-002.mp3",
+      "durationMs": 472728,
+      "checksum": "ebd4475032ee0c8ccf07533801e9239130c7bf3c13c5a2d32d9b7ac05fa45132",
+      "sourceHash": "541752ab7480d4fa77a6a288d28a339b13fb443f3d90dea60a0e6497925ed05f"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/zhi-qu-sheng-chen-gang/seg-003.mp3",
+      "durationMs": 428760,
+      "checksum": "ab322ae3b5131dd1a98b77325055abc340504ec6aeff6b96afa4c442c46cfee7",
+      "sourceHash": "1cf241542b1f8e7dc049fc3f8aa2ace15a09d7776f28caa63d4288660793a443"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/zhi-qu-sheng-chen-gang/seg-004.mp3",
+      "durationMs": 388080,
+      "checksum": "df1a3c676f57cb12d4f44ddff0f105f94b741fbeddc6fa56fab3883928e09712",
+      "sourceHash": "e9435b29865f7131f28b9fd378e7059def7a1ed1e67b741c4d091063decc8240"
+    },
+    {
+      "id": "seg-005",
+      "url": "/audio/zhi-qu-sheng-chen-gang/seg-005.mp3",
+      "durationMs": 461712,
+      "checksum": "953e851cdf4d0a1823385826a51aaa78aebeed832125c9181be2e214d643be53",
+      "sourceHash": "af19a79f2a044b4473d2aa299ce8b5534260c2059ea04e7dfb39e4ec9e7628cc"
     }
   ]
 }

@@ -4,14 +4,49 @@
   "provider": "edge-neural",
   "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
   "format": "mp3",
-  "generatedAt": "2026-09-01T02:26:10.635Z",
+  "generatedAt": "2026-09-03T13:17:15.727Z",
   "segments": [
     {
       "id": "seg-001",
       "url": "/audio/tian-dan-fu-guo/seg-001.mp3",
-      "durationMs": 7512,
-      "checksum": "0fde851f91b5cdee157960b3706431f9dbb1c92085e816adb15e0f477363d7cb",
-      "sourceHash": "1065110878f3a354585946b3996c533b0c8019e7eccc60afb04afbc80d3aa141"
+      "durationMs": 16032,
+      "checksum": "9ad164378828438f92bc671ec973a4dbb0705900edff925523acc58b6387933b",
+      "sourceHash": "61d41fda638402e298b62c412cb02e8467631a00bfc93e34dddd25939bd2eccb"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/tian-dan-fu-guo/seg-002.mp3",
+      "durationMs": 22344,
+      "checksum": "d250c64061be7f9e7818664bed3eba7b6c5ee4a31905bbf43982684b0a8e1556",
+      "sourceHash": "22ee8a3921d6cb6a7981d7c113bc915415884e5616e894c9e22312ac97372941"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/tian-dan-fu-guo/seg-003.mp3",
+      "durationMs": 26760,
+      "checksum": "2a7855da840316109065778f319065ac9271d97dff10ea3e844c00193eb708b9",
+      "sourceHash": "f880e7779bfa955219c10e81541da7087c7989b5348af47ffce7592df409eeb7"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/tian-dan-fu-guo/seg-004.mp3",
+      "durationMs": 20640,
+      "checksum": "b93a91e2a75548ec452e351813bee6a7e3c7ab95d7a64e3719a9b3104f4c3009",
+      "sourceHash": "02df0c05fd93738fdea50c980e4ff851409783a7f9bc182343745b8548d94c4a"
+    },
+    {
+      "id": "seg-005",
+      "url": "/audio/tian-dan-fu-guo/seg-005.mp3",
+      "durationMs": 17352,
+      "checksum": "b8d4f572ced7cec7f7d3a0795635e7fae12b507326ba808644a27024f9aac1a1",
+      "sourceHash": "abe7bf7447e60bf08638df6e413d6ee1057e4b9ef7bd556b2606f5203c5d1824"
+    },
+    {
+      "id": "seg-006",
+      "url": "/audio/tian-dan-fu-guo/seg-006.mp3",
+      "durationMs": 17856,
+      "checksum": "83fee33335b130e8a2db986d0394594b52256d39c8cc0f3bd8887799f182e2a0",
+      "sourceHash": "e3e6b9fb838da67f65c830ebf60550deba1fb598cb37fc20e9822fad9196f16a"
     }
   ]
 }

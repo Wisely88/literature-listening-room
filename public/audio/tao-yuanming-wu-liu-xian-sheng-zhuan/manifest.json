@@ -4,21 +4,35 @@
   "provider": "edge-neural",
   "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
   "format": "mp3",
-  "generatedAt": "2026-09-01T02:17:23.253Z",
+  "generatedAt": "2026-09-03T13:16:43.431Z",
   "segments": [
     {
       "id": "seg-001",
       "url": "/audio/tao-yuanming-wu-liu-xian-sheng-zhuan/seg-001.mp3",
       "durationMs": 10560,
-      "checksum": "fe6db603c59fe977a00b3e79933dd99dcf72ecee4f9098361f09e9ec779a8e78",
+      "checksum": "8ce31a254c32b0754216e96e1b45244892465366fd6655dc995141278e2a26ea",
       "sourceHash": "6c81b95141e7a8bd7c1af1ac2f40963dc546a14b24cdd530ab9775db01fcd2cc"
     },
     {
       "id": "seg-002",
       "url": "/audio/tao-yuanming-wu-liu-xian-sheng-zhuan/seg-002.mp3",
-      "durationMs": 9048,
-      "checksum": "8198a72e5ebe28b6f1382612a9032e294fc29e3f0b2d100c5c9353c3a14b0bee",
-      "sourceHash": "035c574baa99172bfceb6199d61ef24edeb44a20db9656c12a7540450a22a5b6"
+      "durationMs": 18816,
+      "checksum": "3b201232bdb59d88348cd2a635c206a14d75bbf95743ec63183269c4ee1e6363",
+      "sourceHash": "54b89107d292bc3fdd2d54eeffe6aa80632a81d7fdf5586846aac2a0ac635ae6"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/tao-yuanming-wu-liu-xian-sheng-zhuan/seg-003.mp3",
+      "durationMs": 13104,
+      "checksum": "e59744de638a6dbba799675a4688d0beae79fd0cc2649cf64b41bf8b0f194da9",
+      "sourceHash": "53d95786492ee38aa7dae9f3cb29537f89dbf4763d601cbfc7456dc008374237"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/tao-yuanming-wu-liu-xian-sheng-zhuan/seg-004.mp3",
+      "durationMs": 15936,
+      "checksum": "ef0ba1e946f08c847f599283331625e2974dd8421be242533e67b950ecfd36c4",
+      "sourceHash": "71123fa701f55337c2c92e51a5e0c62c0a64ac9712ccb01cebbe65b3cb86e553"
     }
   ]
 }

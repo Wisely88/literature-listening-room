@@ -4,14 +4,28 @@
   "provider": "edge-neural",
   "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
   "format": "mp3",
-  "generatedAt": "2026-09-01T02:39:10.898Z",
+  "generatedAt": "2026-09-03T13:43:26.702Z",
   "segments": [
     {
       "id": "seg-001",
       "url": "/audio/zhao-gao-zhi-lu-wei-ma/seg-001.mp3",
-      "durationMs": 7488,
-      "checksum": "277b0053c62d8ba4ffe6374445fccbcedfd3e66dcb222b0edcbf36fa41902ce2",
-      "sourceHash": "864d8a35a8e83fbdeb2c853dfe90cc01fc99e2e2f5d3ebd0755d6ad20f3b501e"
+      "durationMs": 7824,
+      "checksum": "6aeda71053c22142273e82e676e96a6cb548d62a3316681c689575070d10ef07",
+      "sourceHash": "1db509d8451367953574ce9e4efc0b3dfa77b5cc4283c0929d4260ffa6e833d3"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/zhao-gao-zhi-lu-wei-ma/seg-002.mp3",
+      "durationMs": 10992,
+      "checksum": "01ea908691091b7bc8e95a201dbd0a0f091a0639b436bc9060eb26bd7ae3fb28",
+      "sourceHash": "e766b633ebfadbf35f1cab2cc7d930ac52c2350732f81f12eff7a44467519838"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/zhao-gao-zhi-lu-wei-ma/seg-003.mp3",
+      "durationMs": 5352,
+      "checksum": "c6a65a511fe069f4dbeeee28aa3484fa2f65e22b80fdb7ba3638329a5c2b4e48",
+      "sourceHash": "9d53229dd841ce98d8b301c8239dd06947a9a0c62f1ae7fc8da51c2051b04810"
     }
   ]
 }

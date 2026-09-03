@@ -4,21 +4,70 @@
   "provider": "edge-neural",
   "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
   "format": "mp3",
-  "generatedAt": "2026-09-01T02:36:55.011Z",
+  "generatedAt": "2026-09-03T13:27:55.678Z",
   "segments": [
     {
       "id": "seg-001",
       "url": "/audio/xi-you-ji-da-sheng-nao-tian-gong/seg-001.mp3",
-      "durationMs": 13248,
-      "checksum": "b930b72d1e3d0d57a2d07e4a3f1fb7e5b58d938d9d314025acd767b3fb547917",
-      "sourceHash": "a35d5b4ab38b363055fa5060ac3e78ad4bf9b8f21a15f49ef88f03b47b0e004d"
+      "durationMs": 192168,
+      "checksum": "c1b70e78fe1e27226b5efd4ac99c1bbca05090b1d763c54801e6b1fde1764965",
+      "sourceHash": "de020d1e1f4046d8aa6cf356d27ae1f336f3cd54c6ac6a64d80f6747828d21d7"
     },
     {
       "id": "seg-002",
       "url": "/audio/xi-you-ji-da-sheng-nao-tian-gong/seg-002.mp3",
-      "durationMs": 9528,
-      "checksum": "7592644c822ba9f248e6446efb5505ed4a08948c2c0a8c6e8b3e8ca1de3b4beb",
-      "sourceHash": "e592a9e35dc3637fc9bfb7a81028a9a03689dee3b41489c833c0b797eff590b5"
+      "durationMs": 298176,
+      "checksum": "ed564d563a7130b2218640595de21650326b7d7b4e81afefd33e90313b2a7b0c",
+      "sourceHash": "34df0bef51e4eacb4fd4e114e7203127de4e7f411f4a961ed32921f9530ca071"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/xi-you-ji-da-sheng-nao-tian-gong/seg-003.mp3",
+      "durationMs": 79824,
+      "checksum": "b67831985b6d672f129be5728ac5641f8b606a20b7f567d8623c2d45fe41d5ed",
+      "sourceHash": "498f38f5813af9be8156c026371bbeccfaf3f4c74420d0de45a5b736199bbf6c"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/xi-you-ji-da-sheng-nao-tian-gong/seg-004.mp3",
+      "durationMs": 229512,
+      "checksum": "b1f448997a2575e56290febf2ce14c0a2d75a35d0cf23603944dac242e612306",
+      "sourceHash": "1fde66e7f2895a7c722d3b5c87ff06bf4cf6b0ec3a622c89ea94bad15ae37841"
+    },
+    {
+      "id": "seg-005",
+      "url": "/audio/xi-you-ji-da-sheng-nao-tian-gong/seg-005.mp3",
+      "durationMs": 250656,
+      "checksum": "25083839b78b6045c02ef8e3a588614286abc3697d2e249280cd984d1d41f481",
+      "sourceHash": "779ebc8de77bcaf497ce389c237fd2a1cfd954e39682527a244bc6e6984ca688"
+    },
+    {
+      "id": "seg-006",
+      "url": "/audio/xi-you-ji-da-sheng-nao-tian-gong/seg-006.mp3",
+      "durationMs": 161544,
+      "checksum": "ef8e011ef7f34c8e1838429f1da7dcf50be3262a07e5a8ffe0f0384d3becf4e4",
+      "sourceHash": "c0b680712825e7b662a3227417adc65dba20904c1bf5db04c31d6edd6c226fed"
+    },
+    {
+      "id": "seg-007",
+      "url": "/audio/xi-you-ji-da-sheng-nao-tian-gong/seg-007.mp3",
+      "durationMs": 155496,
+      "checksum": "368113d7ea7f8bcb56fa13c930b49880f58e39411342d171d775422d5e2e8444",
+      "sourceHash": "091d666c16672aeff88a61304472d7245321bd00fa7ec70d5ecd3d6847021871"
+    },
+    {
+      "id": "seg-008",
+      "url": "/audio/xi-you-ji-da-sheng-nao-tian-gong/seg-008.mp3",
+      "durationMs": 163896,
+      "checksum": "e835a2ba0d81a6ee362519577119edd73ea4a37011d1668170366b1e3f855ced",
+      "sourceHash": "f3b15b0bee524d3c9201d94a55baa19b3ef9696caf8d81465c45c3240d96f59f"
+    },
+    {
+      "id": "seg-009",
+      "url": "/audio/xi-you-ji-da-sheng-nao-tian-gong/seg-009.mp3",
+      "durationMs": 36936,
+      "checksum": "9be8b44777c5dbac1a24dfdb6b4ade9f82c14bd95b2a52cc884e2efd3c712c2e",
+      "sourceHash": "24274ddbfe6ce900ccd3e4272005b7193aef6c47157b406ace934cb76355ff7e"
     }
   ]
 }
