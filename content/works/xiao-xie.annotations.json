@@ -3,32 +3,136 @@
     "id": "ann-xiao-xie-001",
     "workId": "xiao-xie",
     "segmentId": "seg-001",
-    "term": "第",
-    "explanation": "宅院、府第。",
+    "term": "凌夷",
+    "explanation": "衰败、衰落。",
     "type": "word"
   },
   {
     "id": "ann-xiao-xie-002",
     "workId": "xiao-xie",
     "segmentId": "seg-001",
-    "term": "鬼魅",
-    "explanation": "鬼怪。",
+    "term": "蒼頭",
+    "explanation": "家中的老仆、仆役。",
     "type": "word"
   },
   {
     "id": "ann-xiao-xie-003",
     "workId": "xiao-xie",
     "segmentId": "seg-001",
-    "term": "惑人",
-    "explanation": "使人迷惑。",
-    "type": "word"
+    "term": "鼓盆之戚",
+    "explanation": "妻子去世的丧事，典出庄子。",
+    "type": "allusion"
   },
   {
     "id": "ann-xiao-xie-004",
     "workId": "xiao-xie",
     "segmentId": "seg-001",
-    "term": "徙去",
-    "explanation": "搬迁离开。",
+    "term": "溽暑",
+    "explanation": "闷热的暑气。",
     "type": "word"
+  },
+  {
+    "id": "ann-xiao-xie-005",
+    "workId": "xiao-xie",
+    "segmentId": "seg-001",
+    "term": "續無鬼論",
+    "explanation": "陶生借以证明自己不怕鬼的文章题目。",
+    "type": "allusion"
+  },
+  {
+    "id": "ann-xiao-xie-006",
+    "workId": "xiao-xie",
+    "segmentId": "seg-001",
+    "term": "翹一足",
+    "explanation": "抬起一只脚。",
+    "type": "word"
+  },
+  {
+    "id": "ann-xiao-xie-007",
+    "workId": "xiao-xie",
+    "segmentId": "seg-001",
+    "term": "捋髭",
+    "explanation": "捻弄胡须。",
+    "type": "word"
+  },
+  {
+    "id": "ann-xiao-xie-008",
+    "workId": "xiao-xie",
+    "segmentId": "seg-001",
+    "term": "酖",
+    "explanation": "传说中的毒酒。",
+    "type": "word"
+  },
+  {
+    "id": "ann-xiao-xie-009",
+    "workId": "xiao-xie",
+    "segmentId": "seg-001",
+    "term": "稔",
+    "explanation": "熟悉、相熟。",
+    "type": "word"
+  },
+  {
+    "id": "ann-xiao-xie-010",
+    "workId": "xiao-xie",
+    "segmentId": "seg-001",
+    "term": "鬼帳",
+    "explanation": "鬼宅里的私塾，文中是诙谐说法。",
+    "type": "allusion"
+  },
+  {
+    "id": "ann-xiao-xie-011",
+    "workId": "xiao-xie",
+    "segmentId": "seg-001",
+    "term": "通籍",
+    "explanation": "取得功名，列入仕籍。",
+    "type": "history"
+  },
+  {
+    "id": "ann-xiao-xie-012",
+    "workId": "xiao-xie",
+    "segmentId": "seg-001",
+    "term": "部院",
+    "explanation": "明清对都察院等高级官署的合称。",
+    "type": "history"
+  },
+  {
+    "id": "ann-xiao-xie-013",
+    "workId": "xiao-xie",
+    "segmentId": "seg-001",
+    "term": "御媵",
+    "explanation": "供冥府贵者使役的妾侍。",
+    "type": "allusion"
+  },
+  {
+    "id": "ann-xiao-xie-014",
+    "workId": "xiao-xie",
+    "segmentId": "seg-001",
+    "term": "廨神",
+    "explanation": "官署中被认为掌管该处的神灵。",
+    "type": "allusion"
+  },
+  {
+    "id": "ann-xiao-xie-015",
+    "workId": "xiao-xie",
+    "segmentId": "seg-001",
+    "term": "投生",
+    "explanation": "转世出生。",
+    "type": "allusion"
+  },
+  {
+    "id": "ann-xiao-xie-016",
+    "workId": "xiao-xie",
+    "segmentId": "seg-001",
+    "term": "合巹之禮",
+    "explanation": "古代婚礼中夫妻交杯，借指正式成婚。",
+    "type": "history"
+  },
+  {
+    "id": "ann-xiao-xie-017",
+    "workId": "xiao-xie",
+    "segmentId": "seg-001",
+    "term": "蔡子經",
+    "explanation": "与陶生同榜的进士友人，后来认出小谢是亡妹。",
+    "type": "person"
   }
 ]
