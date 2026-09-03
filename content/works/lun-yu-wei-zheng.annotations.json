@@ -1,0 +1,34 @@
+[
+  {
+    "id": "ann-lun-yu-wei-zheng-001",
+    "workId": "lun-yu-wei-zheng",
+    "segmentId": "seg-001",
+    "term": "为政以德",
+    "explanation": "用道德治理政事。以，用、凭借。",
+    "type": "grammar"
+  },
+  {
+    "id": "ann-lun-yu-wei-zheng-002",
+    "workId": "lun-yu-wei-zheng",
+    "segmentId": "seg-002",
+    "term": "共",
+    "explanation": "同“拱”，环绕。",
+    "type": "word"
+  },
+  {
+    "id": "ann-lun-yu-wei-zheng-003",
+    "workId": "lun-yu-wei-zheng",
+    "segmentId": "seg-003",
+    "term": "耳顺",
+    "explanation": "听到不同意见能够包容理解。",
+    "type": "word"
+  },
+  {
+    "id": "ann-lun-yu-wei-zheng-004",
+    "workId": "lun-yu-wei-zheng",
+    "segmentId": "seg-003",
+    "term": "不逾矩",
+    "explanation": "不越过规矩。逾，超过；矩，法度。",
+    "type": "word"
+  }
+]

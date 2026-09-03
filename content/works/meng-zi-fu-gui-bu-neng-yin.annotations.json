@@ -1,0 +1,42 @@
+[
+  {
+    "id": "ann-meng-zi-fu-gui-bu-neng-yin-001",
+    "workId": "meng-zi-fu-gui-bu-neng-yin",
+    "segmentId": "seg-001",
+    "term": "诚",
+    "explanation": "真正，确实。",
+    "type": "word"
+  },
+  {
+    "id": "ann-meng-zi-fu-gui-bu-neng-yin-002",
+    "workId": "meng-zi-fu-gui-bu-neng-yin",
+    "segmentId": "seg-002",
+    "term": "冠",
+    "explanation": "古代男子成年举行的加冠礼。",
+    "type": "word"
+  },
+  {
+    "id": "ann-meng-zi-fu-gui-bu-neng-yin-003",
+    "workId": "meng-zi-fu-gui-bu-neng-yin",
+    "segmentId": "seg-003",
+    "term": "女家",
+    "explanation": "同“汝家”，指夫家。女同“汝”。",
+    "type": "word"
+  },
+  {
+    "id": "ann-meng-zi-fu-gui-bu-neng-yin-004",
+    "workId": "meng-zi-fu-gui-bu-neng-yin",
+    "segmentId": "seg-003",
+    "term": "淫",
+    "explanation": "使……迷乱。",
+    "type": "grammar"
+  },
+  {
+    "id": "ann-meng-zi-fu-gui-bu-neng-yin-005",
+    "workId": "meng-zi-fu-gui-bu-neng-yin",
+    "segmentId": "seg-003",
+    "term": "移",
+    "explanation": "使……改变节操。",
+    "type": "grammar"
+  }
+]

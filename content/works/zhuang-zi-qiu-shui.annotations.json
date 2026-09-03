@@ -1,0 +1,42 @@
+[
+  {
+    "id": "ann-zhuang-zi-qiu-shui-001",
+    "workId": "zhuang-zi-qiu-shui",
+    "segmentId": "seg-001",
+    "term": "涘",
+    "explanation": "水边。",
+    "type": "word"
+  },
+  {
+    "id": "ann-zhuang-zi-qiu-shui-002",
+    "workId": "zhuang-zi-qiu-shui",
+    "segmentId": "seg-002",
+    "term": "渚崖",
+    "explanation": "水中的小洲和岸边。渚，水中小洲。",
+    "type": "word"
+  },
+  {
+    "id": "ann-zhuang-zi-qiu-shui-003",
+    "workId": "zhuang-zi-qiu-shui",
+    "segmentId": "seg-003",
+    "term": "望洋",
+    "explanation": "抬头仰视的样子，后写仰望而感叹。",
+    "type": "word"
+  },
+  {
+    "id": "ann-zhuang-zi-qiu-shui-004",
+    "workId": "zhuang-zi-qiu-shui",
+    "segmentId": "seg-003",
+    "term": "穷",
+    "explanation": "尽，达到尽头。",
+    "type": "word"
+  },
+  {
+    "id": "ann-zhuang-zi-qiu-shui-005",
+    "workId": "zhuang-zi-qiu-shui",
+    "segmentId": "seg-003",
+    "term": "大方之家",
+    "explanation": "懂得大道、见识广博的人。",
+    "type": "word"
+  }
+]

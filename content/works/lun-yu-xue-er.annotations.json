@@ -1,0 +1,34 @@
+[
+  {
+    "id": "ann-lun-yu-xue-er-001",
+    "workId": "lun-yu-xue-er",
+    "segmentId": "seg-001",
+    "term": "说",
+    "explanation": "同“悦”，愉快。",
+    "type": "word"
+  },
+  {
+    "id": "ann-lun-yu-xue-er-002",
+    "workId": "lun-yu-xue-er",
+    "segmentId": "seg-002",
+    "term": "时习",
+    "explanation": "按时温习、实践。时，按时。",
+    "type": "word"
+  },
+  {
+    "id": "ann-lun-yu-xue-er-003",
+    "workId": "lun-yu-xue-er",
+    "segmentId": "seg-003",
+    "term": "愠",
+    "explanation": "恼怒，怨恨。",
+    "type": "word"
+  },
+  {
+    "id": "ann-lun-yu-xue-er-004",
+    "workId": "lun-yu-xue-er",
+    "segmentId": "seg-003",
+    "term": "孝弟",
+    "explanation": "孝顺父母、敬爱兄长。弟同“悌”。",
+    "type": "word"
+  }
+]
