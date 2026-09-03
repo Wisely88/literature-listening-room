@@ -3,40 +3,88 @@
     "id": "ann-qing-feng-001",
     "workId": "qing-feng",
     "segmentId": "seg-001",
-    "term": "大家",
-    "explanation": "世代显贵的家族。",
+    "term": "凌夷",
+    "explanation": "衰败、衰落。",
     "type": "word"
   },
   {
     "id": "ann-qing-feng-002",
     "workId": "qing-feng",
     "segmentId": "seg-001",
-    "term": "第宅",
-    "explanation": "宅院。第，大宅。",
+    "term": "覘",
+    "explanation": "窥看、探察。",
     "type": "word"
   },
   {
     "id": "ann-qing-feng-003",
     "workId": "qing-feng",
     "segmentId": "seg-001",
-    "term": "宏阔",
-    "explanation": "宏大宽阔。",
-    "type": "word"
+    "term": "涂山氏",
+    "explanation": "传说中辅佐大禹治水的氏族，故事借此铺陈胡氏狐族的来历。",
+    "type": "allusion"
   },
   {
     "id": "ann-qing-feng-004",
     "workId": "qing-feng",
     "segmentId": "seg-001",
-    "term": "凌夷",
-    "explanation": "衰落、衰败。",
-    "type": "word"
+    "term": "及笄",
+    "explanation": "女子到十五岁成年。笄是束发簪。",
+    "type": "history"
   },
   {
     "id": "ann-qing-feng-005",
     "workId": "qing-feng",
     "segmentId": "seg-001",
-    "term": "连亘",
-    "explanation": "绵延相接。",
+    "term": "厉鬼",
+    "explanation": "面目可怖、会惊吓人的鬼。",
+    "type": "allusion"
+  },
+  {
+    "id": "ann-qing-feng-006",
+    "workId": "qing-feng",
+    "segmentId": "seg-001",
+    "term": "长跽",
+    "explanation": "长时间跪着。",
     "type": "word"
+  },
+  {
+    "id": "ann-qing-feng-007",
+    "workId": "qing-feng",
+    "segmentId": "seg-001",
+    "term": "南面王",
+    "explanation": "面向南方居王位，比喻极尊贵的地位。",
+    "type": "allusion"
+  },
+  {
+    "id": "ann-qing-feng-008",
+    "workId": "qing-feng",
+    "segmentId": "seg-001",
+    "term": "返哺",
+    "explanation": "鸟雏长大后反过来喂养母鸟，比喻奉养长辈。",
+    "type": "allusion"
+  },
+  {
+    "id": "ann-qing-feng-009",
+    "workId": "qing-feng",
+    "segmentId": "seg-001",
+    "term": "嫡出",
+    "explanation": "正妻所生。",
+    "type": "history"
+  },
+  {
+    "id": "ann-qing-feng-010",
+    "workId": "qing-feng",
+    "segmentId": "seg-001",
+    "term": "孝儿",
+    "explanation": "胡翁之子，名字也含有孝顺之意。",
+    "type": "person"
+  },
+  {
+    "id": "ann-qing-feng-011",
+    "workId": "qing-feng",
+    "segmentId": "seg-001",
+    "term": "莫三郎",
+    "explanation": "故事中携猎物经过的猎户。",
+    "type": "person"
   }
 ]
