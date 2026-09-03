@@ -3,32 +3,80 @@
     "id": "ann-zheng-ban-qiao-zhi-zhu-001",
     "workId": "zheng-ban-qiao-zhi-zhu",
     "segmentId": "seg-001",
-    "term": "江馆",
-    "explanation": "江边的馆舍。",
-    "type": "word"
+    "term": "外王父",
+    "explanation": "外祖父。",
+    "type": "person"
   },
   {
     "id": "ann-zheng-ban-qiao-zhi-zhu-002",
     "workId": "zheng-ban-qiao-zhi-zhu",
     "segmentId": "seg-001",
-    "term": "勃勃",
-    "explanation": "旺盛、充满生机。",
+    "term": "寢陋",
+    "explanation": "相貌丑陋。",
     "type": "word"
   },
   {
     "id": "ann-zheng-ban-qiao-zhi-zhu-003",
     "workId": "zheng-ban-qiao-zhi-zhu",
     "segmentId": "seg-001",
-    "term": "倏",
-    "explanation": "很快、突然。",
+    "term": "屈曲委蛇",
+    "explanation": "曲折深入、循序渐进。",
     "type": "word"
   },
   {
     "id": "ann-zheng-ban-qiao-zhi-zhu-004",
     "workId": "zheng-ban-qiao-zhi-zhu",
     "segmentId": "seg-001",
-    "term": "变相",
-    "explanation": "变化后的形态。",
+    "term": "余桃",
+    "explanation": "典出弥子瑕，以美貌男子借指男色。",
+    "type": "allusion"
+  },
+  {
+    "id": "ann-zheng-ban-qiao-zhi-zhu-005",
+    "workId": "zheng-ban-qiao-zhi-zhu",
+    "segmentId": "seg-001",
+    "term": "椒風",
+    "explanation": "古代对妃嫔居处或妃嫔的代称。",
+    "type": "history"
+  },
+  {
+    "id": "ann-zheng-ban-qiao-zhi-zhu-006",
+    "workId": "zheng-ban-qiao-zhi-zhu",
+    "segmentId": "seg-001",
+    "term": "六分半書",
+    "explanation": "郑燮以隶、楷、行、草杂糅形成的书体。",
+    "type": "allusion"
+  },
+  {
+    "id": "ann-zheng-ban-qiao-zhi-zhu-007",
+    "workId": "zheng-ban-qiao-zhi-zhu",
+    "segmentId": "seg-001",
+    "term": "書畫史",
+    "explanation": "掌管宫廷书画事务的官职。",
+    "type": "history"
+  },
+  {
+    "id": "ann-zheng-ban-qiao-zhi-zhu-008",
+    "workId": "zheng-ban-qiao-zhi-zhu",
+    "segmentId": "seg-001",
+    "term": "埒",
+    "explanation": "等同、相齐。",
+    "type": "word"
+  },
+  {
+    "id": "ann-zheng-ban-qiao-zhi-zhu-009",
+    "workId": "zheng-ban-qiao-zhi-zhu",
+    "segmentId": "seg-001",
+    "term": "經世",
+    "explanation": "用于治理现实、济世。",
+    "type": "word"
+  },
+  {
+    "id": "ann-zheng-ban-qiao-zhi-zhu-010",
+    "workId": "zheng-ban-qiao-zhi-zhu",
+    "segmentId": "seg-001",
+    "term": "一家言",
+    "explanation": "自成一家的见解或文体。",
     "type": "word"
   }
 ]
