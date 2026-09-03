@@ -1,0 +1,42 @@
+[
+  {
+    "id": "ann-shi-qu-ji-001",
+    "workId": "shi-qu-ji",
+    "segmentId": "seg-001",
+    "term": "桥其上",
+    "explanation": "在石渠上架桥。桥，架桥，名词作动词。",
+    "type": "grammar"
+  },
+  {
+    "id": "ann-shi-qu-ji-002",
+    "workId": "shi-qu-ji",
+    "segmentId": "seg-002",
+    "term": "幽幽然",
+    "explanation": "幽深静谧的样子。",
+    "type": "word"
+  },
+  {
+    "id": "ann-shi-qu-ji-003",
+    "workId": "shi-qu-ji",
+    "segmentId": "seg-003",
+    "term": "咫尺",
+    "explanation": "很短的距离。",
+    "type": "word"
+  },
+  {
+    "id": "ann-shi-qu-ji-004",
+    "workId": "shi-qu-ji",
+    "segmentId": "seg-003",
+    "term": "石泓",
+    "explanation": "石下的水洼、深潭。",
+    "type": "word"
+  },
+  {
+    "id": "ann-shi-qu-ji-005",
+    "workId": "shi-qu-ji",
+    "segmentId": "seg-003",
+    "term": "庥",
+    "explanation": "同“休”，乘凉、休息。",
+    "type": "word"
+  }
+]

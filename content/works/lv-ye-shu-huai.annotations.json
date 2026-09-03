@@ -1,0 +1,42 @@
+[
+  {
+    "id": "ann-lv-ye-shu-huai-001",
+    "workId": "lv-ye-shu-huai",
+    "segmentId": "seg-001",
+    "term": "危樯",
+    "explanation": "高高的桅杆。危，高。",
+    "type": "word"
+  },
+  {
+    "id": "ann-lv-ye-shu-huai-002",
+    "workId": "lv-ye-shu-huai",
+    "segmentId": "seg-002",
+    "term": "月涌",
+    "explanation": "月影映在江水中随波涌动。",
+    "type": "word"
+  },
+  {
+    "id": "ann-lv-ye-shu-huai-003",
+    "workId": "lv-ye-shu-huai",
+    "segmentId": "seg-003",
+    "term": "著",
+    "explanation": "显著、著名。",
+    "type": "word"
+  },
+  {
+    "id": "ann-lv-ye-shu-huai-004",
+    "workId": "lv-ye-shu-huai",
+    "segmentId": "seg-004",
+    "term": "应",
+    "explanation": "大概、应该是。",
+    "type": "word"
+  },
+  {
+    "id": "ann-lv-ye-shu-huai-005",
+    "workId": "lv-ye-shu-huai",
+    "segmentId": "seg-004",
+    "term": "飘飘",
+    "explanation": "漂泊不定的样子。",
+    "type": "word"
+  }
+]

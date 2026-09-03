@@ -1,0 +1,42 @@
+[
+  {
+    "id": "ann-nan-yuan-bei-zhe-001",
+    "workId": "nan-yuan-bei-zhe",
+    "segmentId": "seg-001",
+    "term": "大行",
+    "explanation": "太行山。",
+    "type": "word"
+  },
+  {
+    "id": "ann-nan-yuan-bei-zhe-002",
+    "workId": "nan-yuan-bei-zhe",
+    "segmentId": "seg-002",
+    "term": "之楚",
+    "explanation": "到楚国去。之，往、到。",
+    "type": "word"
+  },
+  {
+    "id": "ann-nan-yuan-bei-zhe-003",
+    "workId": "nan-yuan-bei-zhe",
+    "segmentId": "seg-002",
+    "term": "奚为",
+    "explanation": "为什么。奚，何。",
+    "type": "word"
+  },
+  {
+    "id": "ann-nan-yuan-bei-zhe-004",
+    "workId": "nan-yuan-bei-zhe",
+    "segmentId": "seg-002",
+    "term": "用",
+    "explanation": "路费。",
+    "type": "word"
+  },
+  {
+    "id": "ann-nan-yuan-bei-zhe-005",
+    "workId": "nan-yuan-bei-zhe",
+    "segmentId": "seg-002",
+    "term": "御者",
+    "explanation": "驾车的人。",
+    "type": "word"
+  }
+]
