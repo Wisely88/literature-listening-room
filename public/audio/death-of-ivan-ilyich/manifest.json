@@ -4,14 +4,49 @@
   "provider": "edge-neural",
   "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
   "format": "mp3",
-  "generatedAt": "2026-09-01T01:56:50.589Z",
+  "generatedAt": "2026-09-03T12:27:56.457Z",
   "segments": [
     {
       "id": "seg-001",
       "url": "/audio/death-of-ivan-ilyich/seg-001.mp3",
-      "durationMs": 300048,
-      "checksum": "36e5a5bb5be216d17d8e411220eee98bf1c63eb1abfedd7a547246bcee9e7c01",
-      "sourceHash": "0687f8acc62811941cfc8bb73afca3d2c3b60867ecc82a29fd76448c216087a6"
+      "durationMs": 16200,
+      "checksum": "95d72b357810c9914b770c58975c59ec376876ae5ae788d319ddffa8d4cc3d30",
+      "sourceHash": "01a1dbb28502b45c4fcce89f41612be6f8dd370e01e7d29cb9e66ae900afb7c9"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/death-of-ivan-ilyich/seg-002.mp3",
+      "durationMs": 15144,
+      "checksum": "6f7ec98656a5f259b1292b32a22ed9187f542402993cc235625637958687e299",
+      "sourceHash": "fe1915200d4822a217928cecdff65b1be7138c67f7d350078950996c9ddd6734"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/death-of-ivan-ilyich/seg-003.mp3",
+      "durationMs": 15504,
+      "checksum": "ae2a49765ced10d2a46f4403671a5daa8bd983d8f39654b723fd4a1347b959f0",
+      "sourceHash": "b1bc771577e49ad1bf59056102c3fbd9f34e6b4745f6f207932984453fd1b1e6"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/death-of-ivan-ilyich/seg-004.mp3",
+      "durationMs": 14472,
+      "checksum": "ad13709be4bb9c7b22cb3c85ceee4af06132c7a837aaabcc626ada3ac8f92492",
+      "sourceHash": "b6f41ed58e59f2adf40a1aa871eeab4b52b4bfae0ac3217ce9820ce5131c71c0"
+    },
+    {
+      "id": "seg-005",
+      "url": "/audio/death-of-ivan-ilyich/seg-005.mp3",
+      "durationMs": 13368,
+      "checksum": "71f05e6deed3fe9162be7741c8e4cf98152962c7c64136a3d3e4214209b2e242",
+      "sourceHash": "fa98a1913879201265fd004b3354d6bd96a35089e2c7599b939b9a4a8f42c5fa"
+    },
+    {
+      "id": "seg-006",
+      "url": "/audio/death-of-ivan-ilyich/seg-006.mp3",
+      "durationMs": 51744,
+      "checksum": "13af0741564a943b1700bf230a50f65c62691b4206264a10a4b3b8aa335d53dd",
+      "sourceHash": "1246b0e28003a3e7f0a130e97314de85b82ba13f47ae0a385f3e37d924ce4ee4"
     }
   ]
 }

@@ -4,14 +4,28 @@
   "provider": "edge-neural",
   "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
   "format": "mp3",
-  "generatedAt": "2026-09-01T01:56:54.373Z",
+  "generatedAt": "2026-09-03T12:28:12.221Z",
   "segments": [
     {
       "id": "seg-001",
       "url": "/audio/ding-feng-bo/seg-001.mp3",
       "durationMs": 10296,
-      "checksum": "157be951fb0fb178eb76fccddc9d82436490e570465625e23d5e8f52d7f45ed9",
+      "checksum": "0297b8211cb90c2a81ca2ee5812a9aa02642e95efcdb87bedc9e8ab789737717",
       "sourceHash": "c0634c8ff16c10a58bac2a35b6f4e7147e5a594e78dabac9c096276e3a9e31b6"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/ding-feng-bo/seg-002.mp3",
+      "durationMs": 5544,
+      "checksum": "d2f7ff82b28266b54e613154e5a4704db8ee27622571b30a488d0a19a9fea062",
+      "sourceHash": "78dc12b07226e49d0f05948fd1610d221af2231421a547d0f5478cc257f09df1"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/ding-feng-bo/seg-003.mp3",
+      "durationMs": 5256,
+      "checksum": "1233f4b1e41c3c9f362470eaa9ebaec5a209a4897f5b2b85ef9ea37e17bc7e9f",
+      "sourceHash": "2e558be74cb39546fdcdfeaf3f2dc83529412a1193e4a991618e277fa9b54419"
     }
   ]
 }

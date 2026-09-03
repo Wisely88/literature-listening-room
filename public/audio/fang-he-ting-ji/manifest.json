@@ -4,14 +4,28 @@
   "provider": "edge-neural",
   "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
   "format": "mp3",
-  "generatedAt": "2026-09-01T01:58:03.077Z",
+  "generatedAt": "2026-09-03T12:28:26.618Z",
   "segments": [
     {
       "id": "seg-001",
       "url": "/audio/fang-he-ting-ji/seg-001.mp3",
-      "durationMs": 7728,
-      "checksum": "fab50adc3f5523a988c8a9222f82f184c8ed1227a642443ba4d268f05cdafc41",
-      "sourceHash": "a974fec91f59c1cba97514bf37047b0d519340791f27b1fdee8b136771ba2bd0"
+      "durationMs": 12864,
+      "checksum": "0b1fb08b34c0b1f6f51c7518c3daf0b70b9f4b6a9356f1a0e8e15aeb619ffe1d",
+      "sourceHash": "2f3fcbf4fbcbb09cb100910d3c1149acee0951d7d1abe6c69b94e6bacd77ee81"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/fang-he-ting-ji/seg-002.mp3",
+      "durationMs": 22632,
+      "checksum": "9e81af4fc9e6ba651e2b62e50810a767e5e9707c94c77fec7a4fcf2650031cd3",
+      "sourceHash": "524df2c5820f738cb95392d30b08ebdf5459b0dc86fc8a7047088cdcbafb612e"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/fang-he-ting-ji/seg-003.mp3",
+      "durationMs": 14952,
+      "checksum": "0f8a86361f9cb42251f604d28a53f1f9eed0effbaf1aaf1d3b02fac06d28ce07",
+      "sourceHash": "52115d5a5e3ac5aadd381a8d78946121ad662a27001c1c1a90a17bd68c7dce35"
     }
   ]
 }

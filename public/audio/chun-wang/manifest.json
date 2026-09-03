@@ -4,14 +4,35 @@
   "provider": "edge-neural",
   "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
   "format": "mp3",
-  "generatedAt": "2026-09-01T01:55:28.398Z",
+  "generatedAt": "2026-09-03T12:26:47.005Z",
   "segments": [
     {
       "id": "seg-001",
       "url": "/audio/chun-wang/seg-001.mp3",
-      "durationMs": 7032,
-      "checksum": "0981806cc6c232ce3734ff71af1f2cbcbb2477c9913adfdce783127aba2306a5",
-      "sourceHash": "e549c319e78c2bd0673fa3b8f25702d29ec1c7c6ff5a6100f3173bd5b4faf5a9"
+      "durationMs": 3600,
+      "checksum": "112fb0d5f5ac2e2ee876eb0378f5b5056c132402b182b3ec5987d50bcce9a7d1",
+      "sourceHash": "80425206038a976e13c4e1ddc884c352e7c2772a4608d82c946d97649c0215b7"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/chun-wang/seg-002.mp3",
+      "durationMs": 3552,
+      "checksum": "e591be49429eeacac6a0f4a951fe08fa44b74052fac0b91f997bdf36ac5b045d",
+      "sourceHash": "2791abce231b0572ac2240d4160789eddc1f0154db554c80a49911adef9014d6"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/chun-wang/seg-003.mp3",
+      "durationMs": 3528,
+      "checksum": "d79f44ae09d11fef9cebefd0752888c0fcf25e7e43174322ef30721aacc0b94b",
+      "sourceHash": "46e4557682a67991cb35b8b86f09ff70d349de351c5cbba44b534e615e1c65b3"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/chun-wang/seg-004.mp3",
+      "durationMs": 3456,
+      "checksum": "825f2474a123be5a9195e90031365f3ba52b4203dbbe531e55b4682a1a001417",
+      "sourceHash": "b5e0bef55f1f2b2f5f34c74550811984dc7efe21e5be20355256fe315964ae6f"
     }
   ]
 }
