@@ -1,0 +1,42 @@
+[
+  {
+    "id": "ann-zhao-gao-001",
+    "workId": "zhao-gao-zhi-lu-wei-ma",
+    "segmentId": "seg-001",
+    "term": "为乱",
+    "explanation": "图谋作乱。为，作、发动。",
+    "type": "word"
+  },
+  {
+    "id": "ann-zhao-gao-002",
+    "workId": "zhao-gao-zhi-lu-wei-ma",
+    "segmentId": "seg-001",
+    "term": "设验",
+    "explanation": "设置一个试验，用来观察群臣的态度。",
+    "type": "word"
+  },
+  {
+    "id": "ann-zhao-gao-003",
+    "workId": "zhao-gao-zhi-lu-wei-ma",
+    "segmentId": "seg-002",
+    "term": "阿顺",
+    "explanation": "迎合、顺从。阿，曲从；顺，顺着。",
+    "type": "word"
+  },
+  {
+    "id": "ann-zhao-gao-004",
+    "workId": "zhao-gao-zhi-lu-wei-ma",
+    "segmentId": "seg-003",
+    "term": "阴中",
+    "explanation": "暗中陷害。中，击中、加害。",
+    "type": "word"
+  },
+  {
+    "id": "ann-zhao-gao-005",
+    "workId": "zhao-gao-zhi-lu-wei-ma",
+    "segmentId": "seg-003",
+    "term": "以法",
+    "explanation": "按照法律名义加以治罪。",
+    "type": "grammar"
+  }
+]
