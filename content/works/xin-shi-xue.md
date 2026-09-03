@@ -14,7 +14,7 @@ tags: [优秀文章, 精读, 公版]
 moods: [夜读, 思考]
 ambience: [rain]
 defaultAmbience: rain
-sourceNote: 依据公版通行本节选；白话译文与导读为本项目整理。
+sourceNote: 已确认原句见维基文库梁启超《新史学·中国之旧史》公版全文；当前条目尚未完成章节级扩写，暂保留并列入待补全队列。
 editorialNotes: []
 pronunciationOverrides: []
 ---
