@@ -14,7 +14,7 @@ tags: [优秀文章, 精读, 公版]
 moods: [夜读, 思考]
 ambience: [rain]
 defaultAmbience: rain
-sourceNote: 依据公版通行本节选；白话译文与导读为本项目整理。
+sourceNote: 已核对梁启超公版《论学术之势力左右世界》，但当前“学问者，天下之公器也”片段并非该篇正文；为避免误配，暂缓扩写。
 editorialNotes: []
 pronunciationOverrides: []
 ---
