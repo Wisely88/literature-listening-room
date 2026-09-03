@@ -1,0 +1,42 @@
+[
+  {
+    "id": "ann-chen-001",
+    "workId": "chen-she-shi-jia",
+    "segmentId": "seg-001",
+    "term": "佣耕",
+    "explanation": "被雇来耕田。佣，受雇。",
+    "type": "word"
+  },
+  {
+    "id": "ann-chen-002",
+    "workId": "chen-she-shi-jia",
+    "segmentId": "seg-002",
+    "term": "等死",
+    "explanation": "同样都是死。等，同样。",
+    "type": "word"
+  },
+  {
+    "id": "ann-chen-003",
+    "workId": "chen-she-shi-jia",
+    "segmentId": "seg-004",
+    "term": "丹书",
+    "explanation": "用朱砂写的字。丹，朱砂。",
+    "type": "word"
+  },
+  {
+    "id": "ann-chen-004",
+    "workId": "chen-she-shi-jia",
+    "segmentId": "seg-005",
+    "term": "篝火",
+    "explanation": "用笼子罩着火，借火光和声音制造声势。",
+    "type": "word"
+  },
+  {
+    "id": "ann-chen-005",
+    "workId": "chen-she-shi-jia",
+    "segmentId": "seg-007",
+    "term": "宁有种乎",
+    "explanation": "难道王侯将相天生就是贵种吗？宁，难道。",
+    "type": "grammar"
+  }
+]
