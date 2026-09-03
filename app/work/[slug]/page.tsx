@@ -4,12 +4,17 @@ import { notFound } from "next/navigation";
 import { AmbienceController } from "@/components/ambience/ambience-controller";
 import { FavoriteButton } from "@/components/library/favorite-button";
 import { ReadingRoom } from "@/components/reader/reading-room";
-import { getWorkBySlug } from "@/lib/content/repository";
+import { getAllWorks, getWorkBySlug } from "@/lib/content/repository";
 import { getProgress, isFavorite } from "@/lib/library/personal-data";
 import type { InitialProgress } from "@/lib/player";
 import { loadAudioManifests } from "@/lib/tts/server/manifest-loader";
 import type { AudioManifest } from "@/lib/tts";
 import styles from "./page.module.css";
+
+export async function generateStaticParams(): Promise<Array<{ slug: string }>> {
+  const works = await getAllWorks();
+  return works.map((work) => ({ slug: work.slug }));
+}
 
 const rightsLabels: Record<string, string> = {
   "public-domain": "公版作品",
