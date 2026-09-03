@@ -3,40 +3,88 @@
     "id": "ann-tao-an-meng-yi-zi-xu-001",
     "workId": "tao-an-meng-yi-zi-xu",
     "segmentId": "seg-001",
-    "term": "夜气",
-    "explanation": "夜间清冷的空气，也含夜深清醒之意。",
-    "type": "word"
+    "term": "陶庵",
+    "explanation": "张岱自号。",
+    "type": "person"
   },
   {
     "id": "ann-tao-an-meng-yi-zi-xu-002",
     "workId": "tao-an-meng-yi-zi-xu",
     "segmentId": "seg-001",
-    "term": "繁华靡丽",
-    "explanation": "繁盛华美的生活。",
-    "type": "word"
+    "term": "石匮书",
+    "explanation": "张岱编写的史书，未完成。",
+    "type": "history"
   },
   {
     "id": "ann-tao-an-meng-yi-zi-xu-003",
     "workId": "tao-an-meng-yi-zi-xu",
     "segmentId": "seg-001",
-    "term": "过眼",
-    "explanation": "从眼前经过，比喻短暂。",
-    "type": "word"
+    "term": "首阳二老",
+    "explanation": "伯夷、叔齐，传说商亡后不食周粟而饿死。",
+    "type": "allusion"
   },
   {
     "id": "ann-tao-an-meng-yi-zi-xu-004",
     "workId": "tao-an-meng-yi-zi-xu",
     "segmentId": "seg-001",
-    "term": "总成一梦",
-    "explanation": "最终都如同一场梦。",
-    "type": "grammar"
+    "term": "王谢",
+    "explanation": "东晋名门王氏、谢氏，代指显贵家族。",
+    "type": "allusion"
   },
   {
     "id": "ann-tao-an-meng-yi-zi-xu-005",
     "workId": "tao-an-meng-yi-zi-xu",
     "segmentId": "seg-001",
-    "term": "鸡鸣",
-    "explanation": "鸡叫，指天将明。",
+    "term": "黍熟黄粱",
+    "explanation": "黄粱梦典故，比喻富贵荣华短暂。",
+    "type": "allusion"
+  },
+  {
+    "id": "ann-tao-an-meng-yi-zi-xu-006",
+    "workId": "tao-an-meng-yi-zi-xu",
+    "segmentId": "seg-001",
+    "term": "不次岁月",
+    "explanation": "不按年月次序编排。",
     "type": "word"
+  },
+  {
+    "id": "ann-tao-an-meng-yi-zi-xu-007",
+    "workId": "tao-an-meng-yi-zi-xu",
+    "segmentId": "seg-001",
+    "term": "西陵脚夫",
+    "explanation": "古代传说中挑酒失足的脚夫。",
+    "type": "allusion"
+  },
+  {
+    "id": "ann-tao-an-meng-yi-zi-xu-008",
+    "workId": "tao-an-meng-yi-zi-xu",
+    "segmentId": "seg-001",
+    "term": "鹿鸣宴",
+    "explanation": "乡试中榜者参加的庆贺宴会。",
+    "type": "history"
+  },
+  {
+    "id": "ann-tao-an-meng-yi-zi-xu-009",
+    "workId": "tao-an-meng-yi-zi-xu",
+    "segmentId": "seg-001",
+    "term": "邯郸梦",
+    "explanation": "卢生在邯郸经历荣枯一生的梦境故事。",
+    "type": "allusion"
+  },
+  {
+    "id": "ann-tao-an-meng-yi-zi-xu-010",
+    "workId": "tao-an-meng-yi-zi-xu",
+    "segmentId": "seg-001",
+    "term": "二王",
+    "explanation": "王羲之、王献之父子，书法名家。",
+    "type": "person"
+  },
+  {
+    "id": "ann-tao-an-meng-yi-zi-xu-011",
+    "workId": "tao-an-meng-yi-zi-xu",
+    "segmentId": "seg-001",
+    "term": "果报",
+    "explanation": "佛教语汇，指行为带来的结果。",
+    "type": "allusion"
   }
 ]
