@@ -3,32 +3,80 @@
     "id": "ann-wang-cheng-001",
     "workId": "wang-cheng",
     "segmentId": "seg-001",
-    "term": "故家子",
-    "explanation": "世代富贵人家的子弟。",
-    "type": "word"
+    "term": "儀賓",
+    "explanation": "与王府联姻、任职的宗室女婿。",
+    "type": "history"
   },
   {
     "id": "ann-wang-cheng-002",
     "workId": "wang-cheng",
     "segmentId": "seg-001",
-    "term": "性最懒",
-    "explanation": "天性非常懒惰。",
+    "term": "牛衣",
+    "explanation": "用来覆盖牛的蓑衣，形容贫寒。",
     "type": "word"
   },
   {
     "id": "ann-wang-cheng-003",
     "workId": "wang-cheng",
     "segmentId": "seg-001",
-    "term": "生涯日落",
-    "explanation": "生计日渐衰败。",
+    "term": "繾綣",
+    "explanation": "情意深厚、难舍难分。",
     "type": "word"
   },
   {
     "id": "ann-wang-cheng-004",
     "workId": "wang-cheng",
     "segmentId": "seg-001",
-    "term": "破屋",
-    "explanation": "破旧房屋。",
+    "term": "儀賓府造",
+    "explanation": "王府为仪宾制作器物的标记。",
+    "type": "history"
+  },
+  {
+    "id": "ann-wang-cheng-005",
+    "workId": "wang-cheng",
+    "segmentId": "seg-001",
+    "term": "葛",
+    "explanation": "葛布，用葛纤维织成的布。",
+    "type": "word"
+  },
+  {
+    "id": "ann-wang-cheng-006",
+    "workId": "wang-cheng",
+    "segmentId": "seg-001",
+    "term": "翔貴",
+    "explanation": "价格飞涨。",
+    "type": "word"
+  },
+  {
+    "id": "ann-wang-cheng-007",
+    "workId": "wang-cheng",
+    "segmentId": "seg-001",
+    "term": "斗鶉",
+    "explanation": "训练鹌鹑相斗的民间游戏。",
+    "type": "allusion"
+  },
+  {
+    "id": "ann-wang-cheng-008",
+    "workId": "wang-cheng",
+    "segmentId": "seg-001",
+    "term": "大親王",
+    "explanation": "清代宗室王爵，此处为故事中的王府主人。",
+    "type": "history"
+  },
+  {
+    "id": "ann-wang-cheng-009",
+    "workId": "wang-cheng",
+    "segmentId": "seg-001",
+    "term": "連城之璧",
+    "explanation": "价值连城的宝玉，出自和氏璧典故。",
+    "type": "allusion"
+  },
+  {
+    "id": "ann-wang-cheng-010",
+    "workId": "wang-cheng",
+    "segmentId": "seg-001",
+    "term": "食指",
+    "explanation": "家中需要供养的人数。",
     "type": "word"
   }
 ]
