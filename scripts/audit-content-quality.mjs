@@ -20,13 +20,14 @@ for (const file of (await readdir(worksDir)).filter((item) => item.endsWith(".md
   const markdown = await readFile(path.join(worksDir, file), "utf8");
   const language = markdown.match(/^language: ([^\n]+)/m)?.[1]?.trim() ?? "zh-CN";
   const category = markdown.match(/^category: ([^\n]+)/m)?.[1]?.trim() ?? "";
+  const sourceNote = markdown.match(/^sourceNote: ([^\n]+)/m)?.[1]?.trim() ?? "";
   const original = section(markdown, "原文", "白话");
   const translation = section(markdown, "白话", "创作背景");
   const chars = original.replace(/\s/gu, "").length;
   const issues = [];
   if (chars < 80) {
     if (category === "诗词") shortCompleteCandidates.push({ slug: file.slice(0, -3), chars });
-    else issues.push("短篇节选");
+    else if (!/完整(?:故事|章句|回目|传记|篇章|段落)/u.test(sourceNote)) issues.push("短篇节选");
   }
   if (genericPhrases.some((phrase) => markdown.includes(phrase))) issues.push("模板导语");
   if (!translation) issues.push("缺少译文");
