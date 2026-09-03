@@ -14,7 +14,7 @@ tags: [优秀文章, 精读, 公版]
 moods: [夜读, 思考]
 ambience: [rain]
 defaultAmbience: rain
-sourceNote: 依据公版通行本节选；白话译文与导读为本项目整理。
+sourceNote: 检索到梁启超《中国史叙论》相关研究与《论中国学术思想变迁之大势》等公版资料，但未找到与当前原句完全匹配的可核对全文底本；为避免误配，暂缓扩写。
 editorialNotes: []
 pronunciationOverrides: []
 ---
