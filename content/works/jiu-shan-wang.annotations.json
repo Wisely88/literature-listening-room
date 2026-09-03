@@ -3,24 +3,80 @@
     "id": "ann-jiu-shan-wang-001",
     "workId": "jiu-shan-wang",
     "segmentId": "seg-001",
-    "term": "惨淡",
-    "explanation": "暗淡凄清。",
-    "type": "word"
+    "term": "曹州",
+    "explanation": "地名，今山东菏泽一带。",
+    "type": "place"
   },
   {
     "id": "ann-jiu-shan-wang-002",
     "workId": "jiu-shan-wang",
     "segmentId": "seg-001",
-    "term": "山径",
-    "explanation": "山间小路。",
-    "type": "word"
+    "term": "诸生",
+    "explanation": "取得生员资格的读书人。",
+    "type": "history"
   },
   {
     "id": "ann-jiu-shan-wang-003",
     "workId": "jiu-shan-wang",
     "segmentId": "seg-001",
-    "term": "灯火成行",
-    "explanation": "灯火排列成行。",
+    "term": "税屋",
+    "explanation": "租赁房屋。税，通“赁”。",
     "type": "word"
+  },
+  {
+    "id": "ann-jiu-shan-wang-004",
+    "workId": "jiu-shan-wang",
+    "segmentId": "seg-001",
+    "term": "出直百金",
+    "explanation": "拿出一百两银子作为租金。直，同“值”。",
+    "type": "word"
+  },
+  {
+    "id": "ann-jiu-shan-wang-005",
+    "workId": "jiu-shan-wang",
+    "segmentId": "seg-001",
+    "term": "黍",
+    "explanation": "黍米，古代常见粮食。",
+    "type": "word"
+  },
+  {
+    "id": "ann-jiu-shan-wang-006",
+    "workId": "jiu-shan-wang",
+    "segmentId": "seg-001",
+    "term": "硝硫",
+    "explanation": "硝石和硫黄，古代可燃、制火药的材料。",
+    "type": "word"
+  },
+  {
+    "id": "ann-jiu-shan-wang-007",
+    "workId": "jiu-shan-wang",
+    "segmentId": "seg-001",
+    "term": "亘霄汉",
+    "explanation": "直达云天。",
+    "type": "word"
+  },
+  {
+    "id": "ann-jiu-shan-wang-008",
+    "workId": "jiu-shan-wang",
+    "segmentId": "seg-001",
+    "term": "九山王",
+    "explanation": "狐群对九座山中狐族首领的称呼。",
+    "type": "person"
+  },
+  {
+    "id": "ann-jiu-shan-wang-009",
+    "workId": "jiu-shan-wang",
+    "segmentId": "seg-001",
+    "term": "报应",
+    "explanation": "行为造成的后果，此处是志怪叙事中的因果观。",
+    "type": "allusion"
+  },
+  {
+    "id": "ann-jiu-shan-wang-010",
+    "workId": "jiu-shan-wang",
+    "segmentId": "seg-001",
+    "term": "异史氏",
+    "explanation": "蒲松龄在篇末使用的自称。",
+    "type": "person"
   }
 ]
