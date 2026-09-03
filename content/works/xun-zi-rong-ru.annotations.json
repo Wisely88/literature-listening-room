@@ -1,0 +1,34 @@
+[
+  {
+    "id": "ann-xun-zi-rong-ru-001",
+    "workId": "xun-zi-rong-ru",
+    "segmentId": "seg-001",
+    "term": "安雅",
+    "explanation": "以正道和高雅的生活为安。",
+    "type": "word"
+  },
+  {
+    "id": "ann-xun-zi-rong-ru-002",
+    "workId": "xun-zi-rong-ru",
+    "segmentId": "seg-001",
+    "term": "货财",
+    "explanation": "财货、物质财富。",
+    "type": "word"
+  },
+  {
+    "id": "ann-xun-zi-rong-ru-003",
+    "workId": "xun-zi-rong-ru",
+    "segmentId": "seg-001",
+    "term": "亲其亲",
+    "explanation": "亲爱自己的亲人。",
+    "type": "grammar"
+  },
+  {
+    "id": "ann-xun-zi-rong-ru-004",
+    "workId": "xun-zi-rong-ru",
+    "segmentId": "seg-001",
+    "term": "乐其利",
+    "explanation": "以谋利为乐。",
+    "type": "grammar"
+  }
+]

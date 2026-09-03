@@ -1,0 +1,42 @@
+[
+  {
+    "id": "ann-zhou-ya-fu-jun-xi-liu-001",
+    "workId": "zhou-ya-fu-jun-xi-liu",
+    "segmentId": "seg-001",
+    "term": "大入边",
+    "explanation": "大举侵犯边境。",
+    "type": "word"
+  },
+  {
+    "id": "ann-zhou-ya-fu-jun-xi-liu-002",
+    "workId": "zhou-ya-fu-jun-xi-liu",
+    "segmentId": "seg-002",
+    "term": "被甲",
+    "explanation": "披着铠甲。被同“披”。",
+    "type": "word"
+  },
+  {
+    "id": "ann-zhou-ya-fu-jun-xi-liu-003",
+    "workId": "zhou-ya-fu-jun-xi-liu",
+    "segmentId": "seg-003",
+    "term": "彀弓弩",
+    "explanation": "张开弓弩。彀，张满。",
+    "type": "word"
+  },
+  {
+    "id": "ann-zhou-ya-fu-jun-xi-liu-004",
+    "workId": "zhou-ya-fu-jun-xi-liu",
+    "segmentId": "seg-003",
+    "term": "壁门",
+    "explanation": "营垒的门。壁，军营。",
+    "type": "word"
+  },
+  {
+    "id": "ann-zhou-ya-fu-jun-xi-liu-005",
+    "workId": "zhou-ya-fu-jun-xi-liu",
+    "segmentId": "seg-003",
+    "term": "按辔",
+    "explanation": "按住缰绳。辔，马缰绳。",
+    "type": "word"
+  }
+]

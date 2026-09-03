@@ -1,0 +1,34 @@
+[
+  {
+    "id": "ann-you-xia-lie-zhuan-001",
+    "workId": "you-xia-lie-zhuan",
+    "segmentId": "seg-001",
+    "term": "儒",
+    "explanation": "儒者。",
+    "type": "word"
+  },
+  {
+    "id": "ann-you-xia-lie-zhuan-002",
+    "workId": "you-xia-lie-zhuan",
+    "segmentId": "seg-001",
+    "term": "侠",
+    "explanation": "侠客。",
+    "type": "word"
+  },
+  {
+    "id": "ann-you-xia-lie-zhuan-003",
+    "workId": "you-xia-lie-zhuan",
+    "segmentId": "seg-001",
+    "term": "讥",
+    "explanation": "讥评、指责。",
+    "type": "word"
+  },
+  {
+    "id": "ann-you-xia-lie-zhuan-004",
+    "workId": "you-xia-lie-zhuan",
+    "segmentId": "seg-001",
+    "term": "独行君子",
+    "explanation": "坚持独特操守的君子。",
+    "type": "word"
+  }
+]

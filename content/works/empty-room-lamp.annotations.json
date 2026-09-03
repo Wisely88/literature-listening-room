@@ -1,0 +1,26 @@
+[
+  {
+    "id": "ann-empty-room-lamp-001",
+    "workId": "empty-room-lamp",
+    "segmentId": "seg-001",
+    "term": "空室",
+    "explanation": "无人居住的房间。",
+    "type": "word"
+  },
+  {
+    "id": "ann-empty-room-lamp-002",
+    "workId": "empty-room-lamp",
+    "segmentId": "seg-001",
+    "term": "孤灯",
+    "explanation": "独自燃烧的灯。",
+    "type": "word"
+  },
+  {
+    "id": "ann-empty-room-lamp-003",
+    "workId": "empty-room-lamp",
+    "segmentId": "seg-001",
+    "term": "夜读",
+    "explanation": "夜间读书。",
+    "type": "word"
+  }
+]

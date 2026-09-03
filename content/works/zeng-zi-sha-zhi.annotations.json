@@ -1,0 +1,42 @@
+[
+  {
+    "id": "ann-zeng-zi-sha-zhi-001",
+    "workId": "zeng-zi-sha-zhi",
+    "segmentId": "seg-001",
+    "term": "之市",
+    "explanation": "到集市去。之，往、到。",
+    "type": "grammar"
+  },
+  {
+    "id": "ann-zeng-zi-sha-zhi-002",
+    "workId": "zeng-zi-sha-zhi",
+    "segmentId": "seg-002",
+    "term": "女还",
+    "explanation": "你回去。女同“汝”。",
+    "type": "word"
+  },
+  {
+    "id": "ann-zeng-zi-sha-zhi-003",
+    "workId": "zeng-zi-sha-zhi",
+    "segmentId": "seg-002",
+    "term": "彘",
+    "explanation": "猪。",
+    "type": "word"
+  },
+  {
+    "id": "ann-zeng-zi-sha-zhi-004",
+    "workId": "zeng-zi-sha-zhi",
+    "segmentId": "seg-002",
+    "term": "特",
+    "explanation": "只是、不过。",
+    "type": "word"
+  },
+  {
+    "id": "ann-zeng-zi-sha-zhi-005",
+    "workId": "zeng-zi-sha-zhi",
+    "segmentId": "seg-002",
+    "term": "戏",
+    "explanation": "开玩笑。",
+    "type": "word"
+  }
+]
