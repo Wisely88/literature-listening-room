@@ -1,0 +1,42 @@
+[
+  {
+    "id": "ann-san-da-bai-gu-jing-001",
+    "workId": "san-da-bai-gu-jing",
+    "segmentId": "seg-001",
+    "term": "月貌花容",
+    "explanation": "形容女子容貌美丽。",
+    "type": "word"
+  },
+  {
+    "id": "ann-san-da-bai-gu-jing-002",
+    "workId": "san-da-bai-gu-jing",
+    "segmentId": "seg-001",
+    "term": "摇身一变",
+    "explanation": "迅速改变形貌。",
+    "type": "word"
+  },
+  {
+    "id": "ann-san-da-bai-gu-jing-003",
+    "workId": "san-da-bai-gu-jing",
+    "segmentId": "seg-001",
+    "term": "白骨精",
+    "explanation": "《西游记》中由白骨修炼成精的妖怪。",
+    "type": "word"
+  },
+  {
+    "id": "ann-san-da-bai-gu-jing-004",
+    "workId": "san-da-bai-gu-jing",
+    "segmentId": "seg-001",
+    "term": "护持",
+    "explanation": "保护、扶持。",
+    "type": "word"
+  },
+  {
+    "id": "ann-san-da-bai-gu-jing-005",
+    "workId": "san-da-bai-gu-jing",
+    "segmentId": "seg-001",
+    "term": "妖形",
+    "explanation": "妖怪的真实形态。",
+    "type": "word"
+  }
+]

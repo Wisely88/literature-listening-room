@@ -1,0 +1,42 @@
+[
+  {
+    "id": "ann-san-ying-zhan-lu-bu-001",
+    "workId": "san-ying-zhan-lu-bu",
+    "segmentId": "seg-001",
+    "term": "三姓家奴",
+    "explanation": "张飞辱骂吕布先后事奉三姓。",
+    "type": "word"
+  },
+  {
+    "id": "ann-san-ying-zhan-lu-bu-002",
+    "workId": "san-ying-zhan-lu-bu",
+    "segmentId": "seg-001",
+    "term": "丈八蛇矛",
+    "explanation": "张飞使用的长柄兵器。",
+    "type": "word"
+  },
+  {
+    "id": "ann-san-ying-zhan-lu-bu-003",
+    "workId": "san-ying-zhan-lu-bu",
+    "segmentId": "seg-001",
+    "term": "傍边",
+    "explanation": "旁边。",
+    "type": "word"
+  },
+  {
+    "id": "ann-san-ying-zhan-lu-bu-004",
+    "workId": "san-ying-zhan-lu-bu",
+    "segmentId": "seg-001",
+    "term": "胶着",
+    "explanation": "战局相持不下。",
+    "type": "word"
+  },
+  {
+    "id": "ann-san-ying-zhan-lu-bu-005",
+    "workId": "san-ying-zhan-lu-bu",
+    "segmentId": "seg-001",
+    "term": "三英",
+    "explanation": "刘备、关羽、张飞。",
+    "type": "word"
+  }
+]

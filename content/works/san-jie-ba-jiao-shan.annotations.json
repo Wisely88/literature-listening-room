@@ -1,0 +1,42 @@
+[
+  {
+    "id": "ann-san-jie-ba-jiao-shan-001",
+    "workId": "san-jie-ba-jiao-shan",
+    "segmentId": "seg-001",
+    "term": "奉揖",
+    "explanation": "行礼作揖。奉，表示恭敬。",
+    "type": "word"
+  },
+  {
+    "id": "ann-san-jie-ba-jiao-shan-002",
+    "workId": "san-jie-ba-jiao-shan",
+    "segmentId": "seg-001",
+    "term": "嫂嫂",
+    "explanation": "孙悟空对铁扇公主的称呼。",
+    "type": "word"
+  },
+  {
+    "id": "ann-san-jie-ba-jiao-shan-003",
+    "workId": "san-jie-ba-jiao-shan",
+    "segmentId": "seg-001",
+    "term": "铁扇公主",
+    "explanation": "火焰山的罗刹女，持芭蕉扇。",
+    "type": "word"
+  },
+  {
+    "id": "ann-san-jie-ba-jiao-shan-004",
+    "workId": "san-jie-ba-jiao-shan",
+    "segmentId": "seg-001",
+    "term": "旧怨",
+    "explanation": "过去结下的怨仇。",
+    "type": "word"
+  },
+  {
+    "id": "ann-san-jie-ba-jiao-shan-005",
+    "workId": "san-jie-ba-jiao-shan",
+    "segmentId": "seg-001",
+    "term": "通行",
+    "explanation": "通过火焰山道路。",
+    "type": "word"
+  }
+]
