@@ -1,0 +1,42 @@
+[
+  {
+    "id": "ann-xiao-he-yue-xia-zhui-han-xin-001",
+    "workId": "xiao-he-yue-xia-zhui-han-xin",
+    "segmentId": "seg-001",
+    "term": "数",
+    "explanation": "多次。",
+    "type": "word"
+  },
+  {
+    "id": "ann-xiao-he-yue-xia-zhui-han-xin-002",
+    "workId": "xiao-he-yue-xia-zhui-han-xin",
+    "segmentId": "seg-002",
+    "term": "亡",
+    "explanation": "逃跑。",
+    "type": "word"
+  },
+  {
+    "id": "ann-xiao-he-yue-xia-zhui-han-xin-003",
+    "workId": "xiao-he-yue-xia-zhui-han-xin",
+    "segmentId": "seg-003",
+    "term": "不及以闻",
+    "explanation": "来不及把消息报告。闻，使……听到。",
+    "type": "grammar"
+  },
+  {
+    "id": "ann-xiao-he-yue-xia-zhui-han-xin-004",
+    "workId": "xiao-he-yue-xia-zhui-han-xin",
+    "segmentId": "seg-003",
+    "term": "国士无双",
+    "explanation": "全国独一无二的人才。",
+    "type": "word"
+  },
+  {
+    "id": "ann-xiao-he-yue-xia-zhui-han-xin-005",
+    "workId": "xiao-he-yue-xia-zhui-han-xin",
+    "segmentId": "seg-003",
+    "term": "长王汉中",
+    "explanation": "长久做汉中王。王，称王、统治。",
+    "type": "grammar"
+  }
+]

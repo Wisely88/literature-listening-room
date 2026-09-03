@@ -1,0 +1,42 @@
+[
+  {
+    "id": "ann-xin-ling-jun-qie-fu-jiu-zhao-001",
+    "workId": "xin-ling-jun-qie-fu-jiu-zhao",
+    "segmentId": "seg-001",
+    "term": "下士",
+    "explanation": "礼遇地位比自己低的士人。",
+    "type": "word"
+  },
+  {
+    "id": "ann-xin-ling-jun-qie-fu-jiu-zhao-002",
+    "workId": "xin-ling-jun-qie-fu-jiu-zhao",
+    "segmentId": "seg-002",
+    "term": "不肖",
+    "explanation": "不贤能。",
+    "type": "word"
+  },
+  {
+    "id": "ann-xin-ling-jun-qie-fu-jiu-zhao-003",
+    "workId": "xin-ling-jun-qie-fu-jiu-zhao",
+    "segmentId": "seg-003",
+    "term": "致",
+    "explanation": "招致、使……聚集。",
+    "type": "word"
+  },
+  {
+    "id": "ann-xin-ling-jun-qie-fu-jiu-zhao-004",
+    "workId": "xin-ling-jun-qie-fu-jiu-zhao",
+    "segmentId": "seg-004",
+    "term": "矫",
+    "explanation": "假传、伪造命令。",
+    "type": "word"
+  },
+  {
+    "id": "ann-xin-ling-jun-qie-fu-jiu-zhao-005",
+    "workId": "xin-ling-jun-qie-fu-jiu-zhao",
+    "segmentId": "seg-004",
+    "term": "合符",
+    "explanation": "核对兵符。",
+    "type": "word"
+  }
+]

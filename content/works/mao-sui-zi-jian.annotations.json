@@ -1,0 +1,42 @@
+[
+  {
+    "id": "ann-mao-sui-zi-jian-001",
+    "workId": "mao-sui-zi-jian",
+    "segmentId": "seg-001",
+    "term": "合从",
+    "explanation": "合纵，联合抗秦。从同“纵”。",
+    "type": "word"
+  },
+  {
+    "id": "ann-mao-sui-zi-jian-002",
+    "workId": "mao-sui-zi-jian",
+    "segmentId": "seg-002",
+    "term": "偕",
+    "explanation": "一同。",
+    "type": "word"
+  },
+  {
+    "id": "ann-mao-sui-zi-jian-003",
+    "workId": "mao-sui-zi-jian",
+    "segmentId": "seg-003",
+    "term": "历阶",
+    "explanation": "登上台阶。历，经过、登上。",
+    "type": "word"
+  },
+  {
+    "id": "ann-mao-sui-zi-jian-004",
+    "workId": "mao-sui-zi-jian",
+    "segmentId": "seg-004",
+    "term": "歃血",
+    "explanation": "古代结盟时以牲畜血涂口或饮血。",
+    "type": "word"
+  },
+  {
+    "id": "ann-mao-sui-zi-jian-005",
+    "workId": "mao-sui-zi-jian",
+    "segmentId": "seg-004",
+    "term": "录录",
+    "explanation": "同“碌碌”，平庸无能的样子。",
+    "type": "word"
+  }
+]
