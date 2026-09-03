@@ -3,32 +3,88 @@
     "id": "ann-tai-shi-gong-zi-xu-001",
     "workId": "tai-shi-gong-zi-xu",
     "segmentId": "seg-001",
-    "term": "绍明世",
-    "explanation": "继承并阐明圣明时代的传统。绍，继承。",
-    "type": "word"
+    "term": "太史公",
+    "explanation": "司马迁及其父司马谈担任太史令后的称号。",
+    "type": "person"
   },
   {
     "id": "ann-tai-shi-gong-zi-xu-002",
     "workId": "tai-shi-gong-zi-xu",
     "segmentId": "seg-001",
-    "term": "正易传",
-    "explanation": "校正、阐释《周易》传文。",
-    "type": "word"
+    "term": "天官",
+    "explanation": "古代掌天文历法、星象的官职和学术。",
+    "type": "history"
   },
   {
     "id": "ann-tai-shi-gong-zi-xu-003",
     "workId": "tai-shi-gong-zi-xu",
     "segmentId": "seg-001",
-    "term": "继春秋",
-    "explanation": "继承孔子修《春秋》的史学事业。",
-    "type": "word"
+    "term": "龙门",
+    "explanation": "司马迁出生地，今陕西韩城一带。",
+    "type": "place"
   },
   {
     "id": "ann-tai-shi-gong-zi-xu-004",
     "workId": "tai-shi-gong-zi-xu",
     "segmentId": "seg-001",
-    "term": "本诗书礼乐",
-    "explanation": "以《诗》《书》《礼》《乐》为根本。",
-    "type": "grammar"
+    "term": "李陵之祸",
+    "explanation": "司马迁因替李陵辩护而获罪受刑的事件。",
+    "type": "history"
+  },
+  {
+    "id": "ann-tai-shi-gong-zi-xu-005",
+    "workId": "tai-shi-gong-zi-xu",
+    "segmentId": "seg-001",
+    "term": "究天人之际",
+    "explanation": "探究天道与人事的关系。",
+    "type": "allusion"
+  },
+  {
+    "id": "ann-tai-shi-gong-zi-xu-006",
+    "workId": "tai-shi-gong-zi-xu",
+    "segmentId": "seg-001",
+    "term": "通古今之变",
+    "explanation": "贯通古今历史变化。",
+    "type": "allusion"
+  },
+  {
+    "id": "ann-tai-shi-gong-zi-xu-007",
+    "workId": "tai-shi-gong-zi-xu",
+    "segmentId": "seg-001",
+    "term": "成一家之言",
+    "explanation": "形成独立完整的史学见解。",
+    "type": "allusion"
+  },
+  {
+    "id": "ann-tai-shi-gong-zi-xu-008",
+    "workId": "tai-shi-gong-zi-xu",
+    "segmentId": "seg-001",
+    "term": "本纪",
+    "explanation": "《史记》记录帝王大事的体例。",
+    "type": "history"
+  },
+  {
+    "id": "ann-tai-shi-gong-zi-xu-009",
+    "workId": "tai-shi-gong-zi-xu",
+    "segmentId": "seg-001",
+    "term": "世家",
+    "explanation": "《史记》记录诸侯、功臣和重要家族的体例。",
+    "type": "history"
+  },
+  {
+    "id": "ann-tai-shi-gong-zi-xu-010",
+    "workId": "tai-shi-gong-zi-xu",
+    "segmentId": "seg-001",
+    "term": "列传",
+    "explanation": "《史记》记录各类人物和异域风俗的体例。",
+    "type": "history"
+  },
+  {
+    "id": "ann-tai-shi-gong-zi-xu-011",
+    "workId": "tai-shi-gong-zi-xu",
+    "segmentId": "seg-001",
+    "term": "太初",
+    "explanation": "汉武帝年号，司马迁编史的时代背景。",
+    "type": "history"
   }
 ]
