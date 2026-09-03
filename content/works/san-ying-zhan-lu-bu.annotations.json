@@ -3,40 +3,80 @@
     "id": "ann-san-ying-zhan-lu-bu-001",
     "workId": "san-ying-zhan-lu-bu",
     "segmentId": "seg-001",
-    "term": "三姓家奴",
-    "explanation": "张飞辱骂吕布先后事奉三姓。",
-    "type": "word"
+    "term": "矫诏",
+    "explanation": "假托皇帝名义发布的诏令。",
+    "type": "history"
   },
   {
     "id": "ann-san-ying-zhan-lu-bu-002",
     "workId": "san-ying-zhan-lu-bu",
     "segmentId": "seg-001",
-    "term": "丈八蛇矛",
-    "explanation": "张飞使用的长柄兵器。",
-    "type": "word"
+    "term": "十八路诸侯",
+    "explanation": "小说中响应讨董的各地诸侯联军。",
+    "type": "history"
   },
   {
     "id": "ann-san-ying-zhan-lu-bu-003",
     "workId": "san-ying-zhan-lu-bu",
     "segmentId": "seg-001",
-    "term": "傍边",
-    "explanation": "旁边。",
-    "type": "word"
+    "term": "汜水关",
+    "explanation": "关隘名，华雄曾在此迎战联军。",
+    "type": "place"
   },
   {
     "id": "ann-san-ying-zhan-lu-bu-004",
     "workId": "san-ying-zhan-lu-bu",
     "segmentId": "seg-001",
-    "term": "胶着",
-    "explanation": "战局相持不下。",
-    "type": "word"
+    "term": "虎牢关",
+    "explanation": "洛阳东部重要关隘，吕布据此迎战。",
+    "type": "place"
   },
   {
     "id": "ann-san-ying-zhan-lu-bu-005",
     "workId": "san-ying-zhan-lu-bu",
     "segmentId": "seg-001",
-    "term": "三英",
-    "explanation": "刘备、关羽、张飞。",
+    "term": "温酒斩华雄",
+    "explanation": "关羽在酒尚温时斩杀华雄的故事。",
+    "type": "allusion"
+  },
+  {
+    "id": "ann-san-ying-zhan-lu-bu-006",
+    "workId": "san-ying-zhan-lu-bu",
+    "segmentId": "seg-001",
+    "term": "赤兔马",
+    "explanation": "吕布名马，速度极快。",
+    "type": "allusion"
+  },
+  {
+    "id": "ann-san-ying-zhan-lu-bu-007",
+    "workId": "san-ying-zhan-lu-bu",
+    "segmentId": "seg-001",
+    "term": "方天画戟",
+    "explanation": "吕布使用的长柄兵器。",
     "type": "word"
+  },
+  {
+    "id": "ann-san-ying-zhan-lu-bu-008",
+    "workId": "san-ying-zhan-lu-bu",
+    "segmentId": "seg-001",
+    "term": "三英",
+    "explanation": "刘备、关羽、张飞的合称。",
+    "type": "person"
+  },
+  {
+    "id": "ann-san-ying-zhan-lu-bu-009",
+    "workId": "san-ying-zhan-lu-bu",
+    "segmentId": "seg-001",
+    "term": "董卓",
+    "explanation": "东汉末年权臣，挟持献帝迁都。",
+    "type": "person"
+  },
+  {
+    "id": "ann-san-ying-zhan-lu-bu-010",
+    "workId": "san-ying-zhan-lu-bu",
+    "segmentId": "seg-001",
+    "term": "迁都长安",
+    "explanation": "董卓为避诸侯进攻而强行迁都的事件。",
+    "type": "history"
   }
 ]
