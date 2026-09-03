@@ -1,0 +1,42 @@
+[
+  {
+    "id": "ann-yi-shi-er-niao-001",
+    "workId": "yi-shi-er-niao",
+    "segmentId": "seg-001",
+    "term": "雕",
+    "explanation": "大型猛禽，古代常指鹰雕一类。",
+    "type": "word"
+  },
+  {
+    "id": "ann-yi-shi-er-niao-002",
+    "workId": "yi-shi-er-niao",
+    "segmentId": "seg-002",
+    "term": "竞",
+    "explanation": "争逐、争夺。",
+    "type": "word"
+  },
+  {
+    "id": "ann-yi-shi-er-niao-003",
+    "workId": "yi-shi-er-niao",
+    "segmentId": "seg-002",
+    "term": "注矢",
+    "explanation": "把箭搭在弓上。注，安放。",
+    "type": "word"
+  },
+  {
+    "id": "ann-yi-shi-er-niao-004",
+    "workId": "yi-shi-er-niao",
+    "segmentId": "seg-002",
+    "term": "俟",
+    "explanation": "等待。",
+    "type": "word"
+  },
+  {
+    "id": "ann-yi-shi-er-niao-005",
+    "workId": "yi-shi-er-niao",
+    "segmentId": "seg-002",
+    "term": "兼得",
+    "explanation": "同时得到。",
+    "type": "word"
+  }
+]

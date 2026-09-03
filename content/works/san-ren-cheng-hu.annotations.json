@@ -1,0 +1,42 @@
+[
+  {
+    "id": "ann-san-ren-cheng-hu-001",
+    "workId": "san-ren-cheng-hu",
+    "segmentId": "seg-001",
+    "term": "质",
+    "explanation": "做人质。",
+    "type": "word"
+  },
+  {
+    "id": "ann-san-ren-cheng-hu-002",
+    "workId": "san-ren-cheng-hu",
+    "segmentId": "seg-002",
+    "term": "市",
+    "explanation": "市场。",
+    "type": "word"
+  },
+  {
+    "id": "ann-san-ren-cheng-hu-003",
+    "workId": "san-ren-cheng-hu",
+    "segmentId": "seg-003",
+    "term": "疑之",
+    "explanation": "对这件事产生怀疑。之，指市场有虎。",
+    "type": "grammar"
+  },
+  {
+    "id": "ann-san-ren-cheng-hu-004",
+    "workId": "san-ren-cheng-hu",
+    "segmentId": "seg-003",
+    "term": "明",
+    "explanation": "明白、明显。",
+    "type": "word"
+  },
+  {
+    "id": "ann-san-ren-cheng-hu-005",
+    "workId": "san-ren-cheng-hu",
+    "segmentId": "seg-003",
+    "term": "去",
+    "explanation": "距离。",
+    "type": "word"
+  }
+]

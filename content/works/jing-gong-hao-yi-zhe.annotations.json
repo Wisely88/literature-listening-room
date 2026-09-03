@@ -1,0 +1,42 @@
+[
+  {
+    "id": "ann-jing-gong-hao-yi-zhe-001",
+    "workId": "jing-gong-hao-yi-zhe",
+    "segmentId": "seg-001",
+    "term": "弋",
+    "explanation": "用带绳的箭射鸟。",
+    "type": "word"
+  },
+  {
+    "id": "ann-jing-gong-hao-yi-zhe-002",
+    "workId": "jing-gong-hao-yi-zhe",
+    "segmentId": "seg-002",
+    "term": "主鸟",
+    "explanation": "掌管、饲养鸟。主，主管。",
+    "type": "word"
+  },
+  {
+    "id": "ann-jing-gong-hao-yi-zhe-003",
+    "workId": "jing-gong-hao-yi-zhe",
+    "segmentId": "seg-002",
+    "term": "亡之",
+    "explanation": "使鸟逃亡。亡，使……逃亡。",
+    "type": "grammar"
+  },
+  {
+    "id": "ann-jing-gong-hao-yi-zhe-004",
+    "workId": "jing-gong-hao-yi-zhe",
+    "segmentId": "seg-002",
+    "term": "数",
+    "explanation": "列举罪状。",
+    "type": "word"
+  },
+  {
+    "id": "ann-jing-gong-hao-yi-zhe-005",
+    "workId": "jing-gong-hao-yi-zhe",
+    "segmentId": "seg-002",
+    "term": "重鸟轻士",
+    "explanation": "看重鸟而轻视士人。",
+    "type": "grammar"
+  }
+]
