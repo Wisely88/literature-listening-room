@@ -14,7 +14,7 @@ tags: [优秀文章, 精读, 公版]
 moods: [夜读, 思考]
 ambience: [rain]
 defaultAmbience: rain
-sourceNote: 依据公版通行本节选；白话译文与导读为本项目整理。
+sourceNote: 已核对梁启超同名公版篇章《论进步（一名论中国群治不进之原因）》，但其正文与当前“凡人之所以为人者”片段不匹配；为避免误配，暂缓扩写。
 editorialNotes: []
 pronunciationOverrides: []
 ---
