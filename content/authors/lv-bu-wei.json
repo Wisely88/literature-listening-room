@@ -1,0 +1,17 @@
+{
+  "id": "lv-bu-wei",
+  "slug": "lv-bu-wei",
+  "name": "吕不韦",
+  "dynasty": "战国末秦",
+  "country": "中国",
+  "birthYear": -291,
+  "deathYear": -235,
+  "bio": "战国末年政治家、思想家，主持编纂《吕氏春秋》，汇集诸子学说并保存大量寓言和史事。",
+  "styleSummary": "善于以简短寓言呈现事理变化，兼具说理与警策。",
+  "representativeWorks": [
+    {
+      "title": "吕氏春秋",
+      "type": "杂家著作"
+    }
+  ]
+}

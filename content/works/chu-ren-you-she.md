@@ -3,8 +3,8 @@ id: chu-ren-you-she
 slug: chu-ren-you-she
 title: 楚人有涉江者
 aliases: []
-authorId: liu-xiang
-category: 推理探案
+authorId: lv-bu-wei
+category: 优秀文章
 dynasty: 西汉
 language: zh-CN
 estimatedMinutes: 3
@@ -14,7 +14,7 @@ tags: [推理探案, 精读, 公版]
 moods: [夜读, 思考]
 ambience: [night]
 defaultAmbience: night
-sourceNote: 原文依据公版通行本核对；分段译文、背景与赏析为本项目整理。
+sourceNote: 原文依据《吕氏春秋·察今》公版通行本核对；分段译文、背景与赏析为本项目整理。
 editorialNotes: []
 pronunciationOverrides: []
 ---
