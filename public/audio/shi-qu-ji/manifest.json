@@ -4,14 +4,28 @@
   "provider": "edge-neural",
   "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
   "format": "mp3",
-  "generatedAt": "2026-09-01T02:16:34.116Z",
+  "generatedAt": "2026-09-03T13:11:16.391Z",
   "segments": [
     {
       "id": "seg-001",
       "url": "/audio/shi-qu-ji/seg-001.mp3",
       "durationMs": 8928,
-      "checksum": "3024ab6e26a642892a4b2cd45b77f836760d9a109bd8ad007585c42cefb07c1d",
+      "checksum": "4a7ca7e538b26a4bace579b4c315ee30237c3d51fdfa14b218e29d856e604125",
       "sourceHash": "5a5e9cdb4a77fcc0ca1611c1f73e333af2b1136cb57b44c41622c1aec25ccdde"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/shi-qu-ji/seg-002.mp3",
+      "durationMs": 17880,
+      "checksum": "1de5c3de80afd9ccce03f82d12adf17cbce72c51a3f8f804a2a07b797b243e29",
+      "sourceHash": "58428d58cd55bfe4bc3246df6109594b8c1c2ecbeba149dbf19165f4fe25039c"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/shi-qu-ji/seg-003.mp3",
+      "durationMs": 17064,
+      "checksum": "d0837e2b94a1672b01a129b6da4b01aeff302d67c262d1122f4d4fbfc55ac70e",
+      "sourceHash": "f60587a7e6fe4a2da89af4915e9994bd7ca517ec546748df99ec0e667412b8d4"
     }
   ]
 }
