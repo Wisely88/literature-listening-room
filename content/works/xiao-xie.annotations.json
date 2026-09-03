@@ -1,0 +1,34 @@
+[
+  {
+    "id": "ann-xiao-xie-001",
+    "workId": "xiao-xie",
+    "segmentId": "seg-001",
+    "term": "第",
+    "explanation": "宅院、府第。",
+    "type": "word"
+  },
+  {
+    "id": "ann-xiao-xie-002",
+    "workId": "xiao-xie",
+    "segmentId": "seg-001",
+    "term": "鬼魅",
+    "explanation": "鬼怪。",
+    "type": "word"
+  },
+  {
+    "id": "ann-xiao-xie-003",
+    "workId": "xiao-xie",
+    "segmentId": "seg-001",
+    "term": "惑人",
+    "explanation": "使人迷惑。",
+    "type": "word"
+  },
+  {
+    "id": "ann-xiao-xie-004",
+    "workId": "xiao-xie",
+    "segmentId": "seg-001",
+    "term": "徙去",
+    "explanation": "搬迁离开。",
+    "type": "word"
+  }
+]

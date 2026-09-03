@@ -1,0 +1,34 @@
+[
+  {
+    "id": "ann-ye-ban-hui-sheng-001",
+    "workId": "ye-ban-hui-sheng",
+    "segmentId": "seg-001",
+    "term": "叩门",
+    "explanation": "敲门。",
+    "type": "word"
+  },
+  {
+    "id": "ann-ye-ban-hui-sheng-002",
+    "workId": "ye-ban-hui-sheng",
+    "segmentId": "seg-001",
+    "term": "三叩而止",
+    "explanation": "敲三下便停止。",
+    "type": "grammar"
+  },
+  {
+    "id": "ann-ye-ban-hui-sheng-003",
+    "workId": "ye-ban-hui-sheng",
+    "segmentId": "seg-001",
+    "term": "龛隙",
+    "explanation": "佛龛的缝隙。",
+    "type": "word"
+  },
+  {
+    "id": "ann-ye-ban-hui-sheng-004",
+    "workId": "ye-ban-hui-sheng",
+    "segmentId": "seg-001",
+    "term": "湿掌印",
+    "explanation": "潮湿的手掌印记。",
+    "type": "word"
+  }
+]

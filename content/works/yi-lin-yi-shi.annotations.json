@@ -1,0 +1,42 @@
+[
+  {
+    "id": "ann-yi-lin-yi-shi-001",
+    "workId": "yi-lin-yi-shi",
+    "segmentId": "seg-001",
+    "term": "执一辞",
+    "explanation": "各自坚持一种说法。",
+    "type": "word"
+  },
+  {
+    "id": "ann-yi-lin-yi-shi-002",
+    "workId": "yi-lin-yi-shi",
+    "segmentId": "seg-001",
+    "term": "廷尉",
+    "explanation": "古代掌管刑狱的官职。",
+    "type": "word"
+  },
+  {
+    "id": "ann-yi-lin-yi-shi-003",
+    "workId": "yi-lin-yi-shi",
+    "segmentId": "seg-001",
+    "term": "简牍",
+    "explanation": "古代书写用的竹木片。",
+    "type": "word"
+  },
+  {
+    "id": "ann-yi-lin-yi-shi-004",
+    "workId": "yi-lin-yi-shi",
+    "segmentId": "seg-001",
+    "term": "比字迹",
+    "explanation": "比较字迹。比，核对、比较。",
+    "type": "grammar"
+  },
+  {
+    "id": "ann-yi-lin-yi-shi-005",
+    "workId": "yi-lin-yi-shi",
+    "segmentId": "seg-001",
+    "term": "伏罪",
+    "explanation": "认罪。",
+    "type": "word"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "id": "ann-ye-gou-001",
+    "workId": "ye-gou",
+    "segmentId": "seg-001",
+    "term": "于七之乱",
+    "explanation": "明末山东于七起事所造成的战乱。",
+    "type": "word"
+  },
+  {
+    "id": "ann-ye-gou-002",
+    "workId": "ye-gou",
+    "segmentId": "seg-001",
+    "term": "杀人如麻",
+    "explanation": "杀人极多，像割麻一样。",
+    "type": "word"
+  },
+  {
+    "id": "ann-ye-gou-003",
+    "workId": "ye-gou",
+    "segmentId": "seg-001",
+    "term": "窜归",
+    "explanation": "逃窜回乡。窜，逃跑。",
+    "type": "word"
+  },
+  {
+    "id": "ann-ye-gou-004",
+    "workId": "ye-gou",
+    "segmentId": "seg-001",
+    "term": "尸横遍野",
+    "explanation": "尸体遍布田野。",
+    "type": "word"
+  }
+]

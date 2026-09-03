@@ -1,0 +1,34 @@
+[
+  {
+    "id": "ann-zhai-yao-001",
+    "workId": "zhai-yao",
+    "segmentId": "seg-001",
+    "term": "大司寇",
+    "explanation": "古代掌管刑狱的官职。",
+    "type": "word"
+  },
+  {
+    "id": "ann-zhai-yao-002",
+    "workId": "zhai-yao",
+    "segmentId": "seg-001",
+    "term": "似兽非兽",
+    "explanation": "像野兽却不能确定是什么。",
+    "type": "grammar"
+  },
+  {
+    "id": "ann-zhai-yao-003",
+    "workId": "zhai-yao",
+    "segmentId": "seg-001",
+    "term": "伏地",
+    "explanation": "贴着地面。",
+    "type": "word"
+  },
+  {
+    "id": "ann-zhai-yao-004",
+    "workId": "zhai-yao",
+    "segmentId": "seg-001",
+    "term": "夜见",
+    "explanation": "夜间看见。",
+    "type": "word"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "id": "ann-ying-ning-001",
+    "workId": "ying-ning",
+    "segmentId": "seg-001",
+    "term": "莒",
+    "explanation": "古地名，今山东莒县一带。",
+    "type": "word"
+  },
+  {
+    "id": "ann-ying-ning-002",
+    "workId": "ying-ning",
+    "segmentId": "seg-001",
+    "term": "早孤",
+    "explanation": "年幼时丧父。",
+    "type": "word"
+  },
+  {
+    "id": "ann-ying-ning-003",
+    "workId": "ying-ning",
+    "segmentId": "seg-001",
+    "term": "绝慧",
+    "explanation": "非常聪明。",
+    "type": "word"
+  },
+  {
+    "id": "ann-ying-ning-004",
+    "workId": "ying-ning",
+    "segmentId": "seg-001",
+    "term": "入泮",
+    "explanation": "入学，泮宫为古代学校。",
+    "type": "word"
+  }
+]

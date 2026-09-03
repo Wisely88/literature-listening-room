@@ -1,0 +1,34 @@
+[
+  {
+    "id": "ann-yuan-jia-ke-ji-001",
+    "workId": "yuan-jia-ke-ji",
+    "segmentId": "seg-001",
+    "term": "冉溪",
+    "explanation": "柳宗元永州游记中的溪流。",
+    "type": "word"
+  },
+  {
+    "id": "ann-yuan-jia-ke-ji-002",
+    "workId": "yuan-jia-ke-ji",
+    "segmentId": "seg-001",
+    "term": "水行",
+    "explanation": "沿水路行进。",
+    "type": "word"
+  },
+  {
+    "id": "ann-yuan-jia-ke-ji-003",
+    "workId": "yuan-jia-ke-ji",
+    "segmentId": "seg-001",
+    "term": "可取",
+    "explanation": "值得观赏、游览。",
+    "type": "word"
+  },
+  {
+    "id": "ann-yuan-jia-ke-ji-004",
+    "workId": "yuan-jia-ke-ji",
+    "segmentId": "seg-001",
+    "term": "钴鉧潭",
+    "explanation": "永州名胜潭名。鉧，mǔ。",
+    "type": "word"
+  }
+]

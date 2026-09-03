@@ -1,0 +1,34 @@
+[
+  {
+    "id": "ann-ye-tan-shan-shen-001",
+    "workId": "ye-tan-shan-shen",
+    "segmentId": "seg-001",
+    "term": "献金帛",
+    "explanation": "献上钱财和丝织品。",
+    "type": "word"
+  },
+  {
+    "id": "ann-ye-tan-shan-shen-002",
+    "workId": "ye-tan-shan-shen",
+    "segmentId": "seg-001",
+    "term": "铜管",
+    "explanation": "铜制管道。",
+    "type": "word"
+  },
+  {
+    "id": "ann-ye-tan-shan-shen-003",
+    "workId": "ye-tan-shan-shen",
+    "segmentId": "seg-001",
+    "term": "土穴",
+    "explanation": "地下洞穴。",
+    "type": "word"
+  },
+  {
+    "id": "ann-ye-tan-shan-shen-004",
+    "workId": "ye-tan-shan-shen",
+    "segmentId": "seg-001",
+    "term": "盗党",
+    "explanation": "盗贼团伙。",
+    "type": "word"
+  }
+]

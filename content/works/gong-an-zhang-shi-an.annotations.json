@@ -1,0 +1,42 @@
+[
+  {
+    "id": "ann-gong-an-zhang-shi-an-001",
+    "workId": "gong-an-zhang-shi-an",
+    "segmentId": "seg-001",
+    "term": "县令",
+    "explanation": "县级行政长官。",
+    "type": "word"
+  },
+  {
+    "id": "ann-gong-an-zhang-shi-an-002",
+    "workId": "gong-an-zhang-shi-an",
+    "segmentId": "seg-001",
+    "term": "践踏",
+    "explanation": "踩踏。",
+    "type": "word"
+  },
+  {
+    "id": "ann-gong-an-zhang-shi-an-003",
+    "workId": "gong-an-zhang-shi-an",
+    "segmentId": "seg-001",
+    "term": "泥痕",
+    "explanation": "泥土留下的痕迹。",
+    "type": "word"
+  },
+  {
+    "id": "ann-gong-an-zhang-shi-an-004",
+    "workId": "gong-an-zhang-shi-an",
+    "segmentId": "seg-001",
+    "term": "车辙",
+    "explanation": "车轮经过留下的痕迹。",
+    "type": "word"
+  },
+  {
+    "id": "ann-gong-an-zhang-shi-an-005",
+    "workId": "gong-an-zhang-shi-an",
+    "segmentId": "seg-001",
+    "term": "伏罪",
+    "explanation": "认罪。",
+    "type": "word"
+  }
+]
