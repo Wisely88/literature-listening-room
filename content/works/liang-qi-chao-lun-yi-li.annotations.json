@@ -1,0 +1,42 @@
+[
+  {
+    "id": "ann-liang-qi-chao-lun-yi-li-001",
+    "workId": "liang-qi-chao-lun-yi-li",
+    "segmentId": "seg-001",
+    "term": "莽然",
+    "explanation": "纷杂、茫然没有头绪的样子。",
+    "type": "word"
+  },
+  {
+    "id": "ann-liang-qi-chao-lun-yi-li-002",
+    "workId": "liang-qi-chao-lun-yi-li",
+    "segmentId": "seg-001",
+    "term": "要其",
+    "explanation": "概括其要点。要，概括。",
+    "type": "grammar"
+  },
+  {
+    "id": "ann-liang-qi-chao-lun-yi-li-003",
+    "workId": "liang-qi-chao-lun-yi-li",
+    "segmentId": "seg-001",
+    "term": "操舟",
+    "explanation": "驾船。",
+    "type": "word"
+  },
+  {
+    "id": "ann-liang-qi-chao-lun-yi-li-004",
+    "workId": "liang-qi-chao-lun-yi-li",
+    "segmentId": "seg-001",
+    "term": "阻风",
+    "explanation": "遇到逆风阻挡。",
+    "type": "word"
+  },
+  {
+    "id": "ann-liang-qi-chao-lun-yi-li-005",
+    "workId": "liang-qi-chao-lun-yi-li",
+    "segmentId": "seg-001",
+    "term": "停泊",
+    "explanation": "船停靠岸边。",
+    "type": "word"
+  }
+]

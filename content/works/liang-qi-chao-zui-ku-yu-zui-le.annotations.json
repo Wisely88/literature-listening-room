@@ -1,0 +1,42 @@
+[
+  {
+    "id": "ann-liang-qi-chao-zui-ku-yu-zui-le-001",
+    "workId": "liang-qi-chao-zui-ku-yu-zui-le",
+    "segmentId": "seg-001",
+    "term": "失意",
+    "explanation": "不得志、不如意。",
+    "type": "word"
+  },
+  {
+    "id": "ann-liang-qi-chao-zui-ku-yu-zui-le-002",
+    "workId": "liang-qi-chao-zui-ku-yu-zui-le",
+    "segmentId": "seg-001",
+    "term": "责任",
+    "explanation": "应当承担的事情和义务。",
+    "type": "word"
+  },
+  {
+    "id": "ann-liang-qi-chao-zui-ku-yu-zui-le-003",
+    "workId": "liang-qi-chao-zui-ku-yu-zui-le",
+    "segmentId": "seg-001",
+    "term": "卸却",
+    "explanation": "卸下、摆脱。",
+    "type": "word"
+  },
+  {
+    "id": "ann-liang-qi-chao-zui-ku-yu-zui-le-004",
+    "workId": "liang-qi-chao-zui-ku-yu-zui-le",
+    "segmentId": "seg-001",
+    "term": "尽责",
+    "explanation": "把应负的责任完成。",
+    "type": "word"
+  },
+  {
+    "id": "ann-liang-qi-chao-zui-ku-yu-zui-le-005",
+    "workId": "liang-qi-chao-zui-ku-yu-zui-le",
+    "segmentId": "seg-001",
+    "term": "快乐",
+    "explanation": "因责任完成而获得的内在满足。",
+    "type": "word"
+  }
+]

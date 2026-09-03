@@ -1,0 +1,42 @@
+[
+  {
+    "id": "ann-liao-zhai-kui-hua-nu-001",
+    "workId": "liao-zhai-kui-hua-nu",
+    "segmentId": "seg-001",
+    "term": "憧憧",
+    "explanation": "影子摇曳不定的样子。",
+    "type": "word"
+  },
+  {
+    "id": "ann-liao-zhai-kui-hua-nu-002",
+    "workId": "liao-zhai-kui-hua-nu",
+    "segmentId": "seg-001",
+    "term": "移灯",
+    "explanation": "把灯移近。",
+    "type": "word"
+  },
+  {
+    "id": "ann-liao-zhai-kui-hua-nu-003",
+    "workId": "liao-zhai-kui-hua-nu",
+    "segmentId": "seg-001",
+    "term": "佯",
+    "explanation": "假装。",
+    "type": "word"
+  },
+  {
+    "id": "ann-liao-zhai-kui-hua-nu-004",
+    "workId": "liao-zhai-kui-hua-nu",
+    "segmentId": "seg-001",
+    "term": "俟",
+    "explanation": "等待。",
+    "type": "word"
+  },
+  {
+    "id": "ann-liao-zhai-kui-hua-nu-005",
+    "workId": "liao-zhai-kui-hua-nu",
+    "segmentId": "seg-001",
+    "term": "少顷",
+    "explanation": "一会儿。",
+    "type": "word"
+  }
+]

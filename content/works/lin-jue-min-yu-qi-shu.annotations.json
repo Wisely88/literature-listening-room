@@ -1,0 +1,42 @@
+[
+  {
+    "id": "ann-lin-jue-min-yu-qi-shu-001",
+    "workId": "lin-jue-min-yu-qi-shu",
+    "segmentId": "seg-001",
+    "term": "如晤",
+    "explanation": "如同见面。晤，见面。",
+    "type": "word"
+  },
+  {
+    "id": "ann-lin-jue-min-yu-qi-shu-002",
+    "workId": "lin-jue-min-yu-qi-shu",
+    "segmentId": "seg-001",
+    "term": "世中一人",
+    "explanation": "世间的普通人。",
+    "type": "word"
+  },
+  {
+    "id": "ann-lin-jue-min-yu-qi-shu-003",
+    "workId": "lin-jue-min-yu-qi-shu",
+    "segmentId": "seg-001",
+    "term": "阴间",
+    "explanation": "传统观念中的死后世界。",
+    "type": "word"
+  },
+  {
+    "id": "ann-lin-jue-min-yu-qi-shu-004",
+    "workId": "lin-jue-min-yu-qi-shu",
+    "segmentId": "seg-001",
+    "term": "充",
+    "explanation": "扩充、发扬。",
+    "type": "word"
+  },
+  {
+    "id": "ann-lin-jue-min-yu-qi-shu-005",
+    "workId": "lin-jue-min-yu-qi-shu",
+    "segmentId": "seg-001",
+    "term": "不敢死于汝前",
+    "explanation": "不忍让妻子先看到自己的死亡。",
+    "type": "grammar"
+  }
+]
