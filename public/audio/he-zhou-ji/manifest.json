@@ -4,48 +4,48 @@
   "provider": "edge-neural",
   "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
   "format": "mp3",
-  "generatedAt": "2026-08-31T13:59:42.527Z",
+  "generatedAt": "2026-09-03T14:19:14.141Z",
   "segments": [
     {
       "id": "seg-001",
       "url": "/audio/he-zhou-ji/seg-001.mp3",
       "durationMs": 16464,
-      "checksum": "165ef1497e3be700722c6714192602a1520004b381798714f05cb0093b9103ed",
+      "checksum": "7dfc89ccef516ee67d22578316e2959bc0ae5a1252bdc49b38eee4becf2e4094",
       "sourceHash": "a96bf4b5cb30b47454d145bf1785a49c7837a3711674d96f5377af5046aaea64"
     },
     {
       "id": "seg-002",
       "url": "/audio/he-zhou-ji/seg-002.mp3",
       "durationMs": 24072,
-      "checksum": "d86c5572e8de8a677ffca9a860bd2631ee1ade02fd5603fc9ba90cb0158d125b",
+      "checksum": "99f2da34eb1063de7bed0dc6f46ec00d4a991f2359fbfb7f97d3e332c714b245",
       "sourceHash": "0903adf681b785d20a9659106e932dc5324a58249e73bb12d01405d3522356ab"
     },
     {
       "id": "seg-003",
       "url": "/audio/he-zhou-ji/seg-003.mp3",
       "durationMs": 42168,
-      "checksum": "8f354e53801446652487976107ca2e22115f8d109bee71d25697be2356322880",
+      "checksum": "c54ae00057269e728ca2b36a4759c3a55a62ead9de3dc9e9cc9aee200d823863",
       "sourceHash": "12063f9c5862a3dc4a5f3d76ba9e2f07a253717d72ea7d4fdd57e8a5757e7eaf"
     },
     {
       "id": "seg-004",
       "url": "/audio/he-zhou-ji/seg-004.mp3",
       "durationMs": 20136,
-      "checksum": "3dea6de7806aa1fdd00cb8979d8c1f1b214e339cb1b504150406178cbb8fe60a",
+      "checksum": "bd3f4213188580554fdf43b1deba9affb8743939dafa51305d106096d5542bad",
       "sourceHash": "702f259491e6bb6ed8098efc393d10d07dc00d24a81e2ad6c66f440f1fcc088b"
     },
     {
       "id": "seg-005",
       "url": "/audio/he-zhou-ji/seg-005.mp3",
       "durationMs": 16008,
-      "checksum": "f2afc26d2f006ca2f6e3344b2be030f8f57b665d36fba2fec0c0968865bb22cf",
+      "checksum": "42e21986c35d784229919105b1af13f4d32016805bda76661a955c31f94e503a",
       "sourceHash": "ba04514cef098da8e1c7855c559bb3cf6b86490d30de90d15fec0dc0901d42a1"
     },
     {
       "id": "seg-006",
       "url": "/audio/he-zhou-ji/seg-006.mp3",
       "durationMs": 22728,
-      "checksum": "81ccf6c35995061bc958af562a178ca9e2dde0a8001513ca5bc58dd52024b013",
+      "checksum": "6ee188c1f11d6aa6908a111b4a2a22ce7f8f798470bcd7088f9f7cea71b2feb1",
       "sourceHash": "ab88a05db545cfa2b8a45fb4c28cbdc2fc1da790caec1a22378b57814dc16393"
     }
   ]

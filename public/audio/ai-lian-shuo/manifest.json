@@ -4,27 +4,27 @@
   "provider": "edge-neural",
   "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
   "format": "mp3",
-  "generatedAt": "2026-08-31T13:56:46.721Z",
+  "generatedAt": "2026-09-03T14:15:23.438Z",
   "segments": [
     {
       "id": "seg-001",
       "url": "/audio/ai-lian-shuo/seg-001.mp3",
       "durationMs": 9528,
-      "checksum": "97b0905f3d8746a2b13b57780ee6912dff802a57a3d8d4770c1f6cd01d3b52dd",
+      "checksum": "0baf7396907e84a102c5a20d690492de60d538c3478e51b664df641de2db7f63",
       "sourceHash": "81018903b5a158fb8738a11c49a914cdfc5aa009554e96cf67c94081d23f39f9"
     },
     {
       "id": "seg-002",
       "url": "/audio/ai-lian-shuo/seg-002.mp3",
       "durationMs": 12432,
-      "checksum": "7b7c91b657705549afdd3cf11511f5f5cebdc71e3f81780032cdc0b1fd9d5ad0",
+      "checksum": "80e7d258d5248ee1bb981f530400a020ca25e6a6240a9e0068e44dabf0f23054",
       "sourceHash": "ff1983f0ebe433628e425f0994460f8cfbaad6643d1e0b4a0f1bba55890992a5"
     },
     {
       "id": "seg-003",
       "url": "/audio/ai-lian-shuo/seg-003.mp3",
       "durationMs": 17928,
-      "checksum": "c8f5d2e6873402943a52413a9177db123ab7aa5f18d5ee60302b4ffd3eb43a70",
+      "checksum": "6d457601e43ab400b4ae0b4ad50a0e5ded219eb5ef14931b9e6047e1bd27a606",
       "sourceHash": "d82ad873c3283cd5fcca0e28ec355ea6179ed462e6c896ff989514640168ee58"
     }
   ]

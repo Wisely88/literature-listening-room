@@ -4,48 +4,48 @@
   "provider": "edge-neural",
   "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
   "format": "mp3",
-  "generatedAt": "2026-08-31T14:00:41.786Z",
+  "generatedAt": "2026-09-03T14:20:12.885Z",
   "segments": [
     {
       "id": "seg-001",
       "url": "/audio/hua-pi/seg-001.mp3",
       "durationMs": 68928,
-      "checksum": "99d20ec742592295673de65e57421a8e2224d76bd2d939042b669119a443dc38",
+      "checksum": "f4cb3f14828ea00db3beed2058417ec41b19d138bc3f30277d705b9291c8cccf",
       "sourceHash": "af87f5ba77b745fce85b0962c726860182ee658f9a7b3f02e9eb5cbe19a28665"
     },
     {
       "id": "seg-002",
       "url": "/audio/hua-pi/seg-002.mp3",
       "durationMs": 7488,
-      "checksum": "60a6bd183fc059712a84eb7f736b15163c0f82d3bf28a4cd5c54ff6c05b793d8",
+      "checksum": "fb455149db2ef16165dae959740e0f7e2916919921e85de04fe791602400da82",
       "sourceHash": "698553deae9d9f6347df374c9f8e9175139cc0bfc47f3ef5685a9707dfc59043"
     },
     {
       "id": "seg-003",
       "url": "/audio/hua-pi/seg-003.mp3",
       "durationMs": 77664,
-      "checksum": "c89bc9407b6adc5b754c7459bff237cd74dd1578863ffe0278546d50fe1e583a",
+      "checksum": "be63bd8be6ff536f0a30282b44af1c8a2f1879f6646a89393ba7b0610d9682a8",
       "sourceHash": "550cdaa19955c1cfae1548bd2da0ae15ecfbba88ece8020be712ca7e03f78926"
     },
     {
       "id": "seg-004",
       "url": "/audio/hua-pi/seg-004.mp3",
       "durationMs": 131400,
-      "checksum": "f00a55d11a1ca6126da539dc331c91264d8cc74a987bb6491e18b03ec54f51c7",
+      "checksum": "5ed170223b4968959ab0796ee6a0cff89979cee8db22f6d924e226ef6564a872",
       "sourceHash": "ef07e37fe7c9590361ea880ff7a7f1b3e3a8c7a3dbc7f2e6a576b1b567e3bc69"
     },
     {
       "id": "seg-005",
       "url": "/audio/hua-pi/seg-005.mp3",
       "durationMs": 150600,
-      "checksum": "f09f0a018fa4472ad75fe3ef472adfcc4e2d9436584865787e0de7cc1fb9ec53",
+      "checksum": "0ab68c1bca2a124ede8dd53f41428581510839c777900578734fe69785240cc8",
       "sourceHash": "1e0f37eaa3f329d4fbb09d931a9327cb68f7ccfeb50cd58fcac962d7387af64b"
     },
     {
       "id": "seg-006",
       "url": "/audio/hua-pi/seg-006.mp3",
       "durationMs": 20976,
-      "checksum": "e27b4f5fea56734035017d6746743c6ff3ef5c27ab3344da22bdfeb31f3375a3",
+      "checksum": "280845b987fdfa0e1a14c62bc7b644bb7be16dde5cf1b67ef0beaedb756dbe94",
       "sourceHash": "1bb5e10d7168ca4e87e85d0f1378d5d632c6034de212941b93b9dc4c872e695c"
     }
   ]

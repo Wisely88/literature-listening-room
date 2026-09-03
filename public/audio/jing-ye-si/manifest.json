@@ -4,20 +4,20 @@
   "provider": "edge-neural",
   "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
   "format": "mp3",
-  "generatedAt": "2026-08-31T14:00:48.656Z",
+  "generatedAt": "2026-09-03T14:20:46.421Z",
   "segments": [
     {
       "id": "seg-001",
       "url": "/audio/jing-ye-si/seg-001.mp3",
       "durationMs": 3600,
-      "checksum": "fd56f0480c5b17fff07ca4e24ad949190da8fa980950b14e99dea1a7353fe404",
+      "checksum": "422ea695a27dde454631b28fbf7ec4c4b1aa550f2e816d64e97340f06707f7ad",
       "sourceHash": "130bf39329d7fa1105ed599e49cfd8d97fcf4915d0621f208b46d9254018b3dd"
     },
     {
       "id": "seg-002",
       "url": "/audio/jing-ye-si/seg-002.mp3",
       "durationMs": 3504,
-      "checksum": "308081a370512bd175e543efe3a8e1da8bdda59821a5a7a60e89599ab181197b",
+      "checksum": "e7a71685b91f5f5d020bcf46ddc9df474df953d67f9d5bdb06569f0a9980df39",
       "sourceHash": "4c755b762ef4734dd0c8f576f590eeed2665d3e4c6f9573e92a0c2980997dc7a"
     }
   ]
