@@ -42,7 +42,7 @@
   {
     "id": "ann-shao-nian-zhong-guo-shuo-006",
     "workId": "shao-nian-zhong-guo-shuo",
-    "segmentId": "seg-007",
+    "segmentId": "seg-006",
     "term": "马志尼",
     "explanation": "意大利民族统一运动先驱。",
     "type": "person"
@@ -50,7 +50,7 @@
   {
     "id": "ann-shao-nian-zhong-guo-shuo-007",
     "workId": "shao-nian-zhong-guo-shuo",
-    "segmentId": "seg-008",
+    "segmentId": "seg-006",
     "term": "老朽",
     "explanation": "年老昏庸、思想僵化的人。",
     "type": "word"
@@ -58,7 +58,7 @@
   {
     "id": "ann-shao-nian-zhong-guo-shuo-008",
     "workId": "shao-nian-zhong-guo-shuo",
-    "segmentId": "seg-009",
+    "segmentId": "seg-006",
     "term": "少年智则国智",
     "explanation": "以排比说明青少年成长与国家命运相连。",
     "type": "grammar"
@@ -66,7 +66,7 @@
   {
     "id": "ann-shao-nian-zhong-guo-shuo-009",
     "workId": "shao-nian-zhong-guo-shuo",
-    "segmentId": "seg-010",
+    "segmentId": "seg-006",
     "term": "矞矞皇皇",
     "explanation": "形容草木初生、光彩盛大的样子。",
     "type": "word"
@@ -74,7 +74,7 @@
   {
     "id": "ann-shao-nian-zhong-guo-shuo-010",
     "workId": "shao-nian-zhong-guo-shuo",
-    "segmentId": "seg-011",
+    "segmentId": "seg-006",
     "term": "哀时客",
     "explanation": "梁启超自称的忧时伤世者，文末宣布改名。",
     "type": "allusion"
