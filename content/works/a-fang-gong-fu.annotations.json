@@ -1,0 +1,42 @@
+[
+  {
+    "id": "ann-afang-001",
+    "workId": "a-fang-gong-fu",
+    "segmentId": "seg-001",
+    "term": "六王毕",
+    "explanation": "六国国君的统治结束，指六国灭亡。",
+    "type": "history"
+  },
+  {
+    "id": "ann-afang-002",
+    "workId": "a-fang-gong-fu",
+    "segmentId": "seg-001",
+    "term": "钩心斗角",
+    "explanation": "宫室楼阁彼此连接、檐角相向，后常比喻各用心机争斗。",
+    "type": "word"
+  },
+  {
+    "id": "ann-afang-003",
+    "workId": "a-fang-gong-fu",
+    "segmentId": "seg-005",
+    "term": "辇来于秦",
+    "explanation": "乘车来到秦国。辇，古代人拉或推的车，后指帝王车驾。",
+    "type": "word"
+  },
+  {
+    "id": "ann-afang-004",
+    "workId": "a-fang-gong-fu",
+    "segmentId": "seg-008",
+    "term": "锱铢",
+    "explanation": "极小的重量，比喻极少的钱财。",
+    "type": "word"
+  },
+  {
+    "id": "ann-afang-005",
+    "workId": "a-fang-gong-fu",
+    "segmentId": "seg-009",
+    "term": "鉴之",
+    "explanation": "把它当作镜子来借鉴。鉴，照、借鉴。",
+    "type": "grammar"
+  }
+]
