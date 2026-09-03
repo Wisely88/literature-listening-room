@@ -1,0 +1,42 @@
+[
+  {
+    "id": "ann-tao-an-meng-yi-zi-xu-001",
+    "workId": "tao-an-meng-yi-zi-xu",
+    "segmentId": "seg-001",
+    "term": "夜气",
+    "explanation": "夜间清冷的空气，也含夜深清醒之意。",
+    "type": "word"
+  },
+  {
+    "id": "ann-tao-an-meng-yi-zi-xu-002",
+    "workId": "tao-an-meng-yi-zi-xu",
+    "segmentId": "seg-001",
+    "term": "繁华靡丽",
+    "explanation": "繁盛华美的生活。",
+    "type": "word"
+  },
+  {
+    "id": "ann-tao-an-meng-yi-zi-xu-003",
+    "workId": "tao-an-meng-yi-zi-xu",
+    "segmentId": "seg-001",
+    "term": "过眼",
+    "explanation": "从眼前经过，比喻短暂。",
+    "type": "word"
+  },
+  {
+    "id": "ann-tao-an-meng-yi-zi-xu-004",
+    "workId": "tao-an-meng-yi-zi-xu",
+    "segmentId": "seg-001",
+    "term": "总成一梦",
+    "explanation": "最终都如同一场梦。",
+    "type": "grammar"
+  },
+  {
+    "id": "ann-tao-an-meng-yi-zi-xu-005",
+    "workId": "tao-an-meng-yi-zi-xu",
+    "segmentId": "seg-001",
+    "term": "鸡鸣",
+    "explanation": "鸡叫，指天将明。",
+    "type": "word"
+  }
+]

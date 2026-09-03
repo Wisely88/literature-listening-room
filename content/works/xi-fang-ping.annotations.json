@@ -1,0 +1,42 @@
+[
+  {
+    "id": "ann-xi-fang-ping-001",
+    "workId": "xi-fang-ping",
+    "segmentId": "seg-001",
+    "term": "戆拙",
+    "explanation": "憨厚而笨拙。",
+    "type": "word"
+  },
+  {
+    "id": "ann-xi-fang-ping-002",
+    "workId": "xi-fang-ping",
+    "segmentId": "seg-001",
+    "term": "有隙",
+    "explanation": "有嫌隙、结怨。",
+    "type": "word"
+  },
+  {
+    "id": "ann-xi-fang-ping-003",
+    "workId": "xi-fang-ping",
+    "segmentId": "seg-001",
+    "term": "垂危",
+    "explanation": "病重将死。",
+    "type": "word"
+  },
+  {
+    "id": "ann-xi-fang-ping-004",
+    "workId": "xi-fang-ping",
+    "segmentId": "seg-001",
+    "term": "申冤",
+    "explanation": "为自己或亲人申诉冤屈。",
+    "type": "word"
+  },
+  {
+    "id": "ann-xi-fang-ping-005",
+    "workId": "xi-fang-ping",
+    "segmentId": "seg-001",
+    "term": "冥府",
+    "explanation": "传统观念中的阴间官府。",
+    "type": "word"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "ann-si-yi-001",
+    "workId": "si-yi",
+    "segmentId": "seg-001",
+    "term": "暴卒",
+    "explanation": "突然死亡。卒，死亡。",
+    "type": "word"
+  },
+  {
+    "id": "ann-si-yi-002",
+    "workId": "si-yi",
+    "segmentId": "seg-001",
+    "term": "环哭",
+    "explanation": "围绕棺木哭泣。",
+    "type": "word"
+  },
+  {
+    "id": "ann-si-yi-003",
+    "workId": "si-yi",
+    "segmentId": "seg-001",
+    "term": "棺",
+    "explanation": "装殓尸体的木器。",
+    "type": "word"
+  },
+  {
+    "id": "ann-si-yi-004",
+    "workId": "si-yi",
+    "segmentId": "seg-001",
+    "term": "启之",
+    "explanation": "打开棺材。启，开启。",
+    "type": "grammar"
+  },
+  {
+    "id": "ann-si-yi-005",
+    "workId": "si-yi",
+    "segmentId": "seg-001",
+    "term": "棺中有声",
+    "explanation": "棺材里面传出声音。",
+    "type": "grammar"
+  }
+]

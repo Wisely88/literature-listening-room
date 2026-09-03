@@ -1,0 +1,42 @@
+[
+  {
+    "id": "ann-shao-nian-zhong-guo-shuo-001",
+    "workId": "shao-nian-zhong-guo-shuo",
+    "segmentId": "seg-001",
+    "term": "智",
+    "explanation": "智慧。",
+    "type": "word"
+  },
+  {
+    "id": "ann-shao-nian-zhong-guo-shuo-002",
+    "workId": "shao-nian-zhong-guo-shuo",
+    "segmentId": "seg-001",
+    "term": "富",
+    "explanation": "富足、富强。",
+    "type": "word"
+  },
+  {
+    "id": "ann-shao-nian-zhong-guo-shuo-003",
+    "workId": "shao-nian-zhong-guo-shuo",
+    "segmentId": "seg-001",
+    "term": "独立",
+    "explanation": "自主自立。",
+    "type": "word"
+  },
+  {
+    "id": "ann-shao-nian-zhong-guo-shuo-004",
+    "workId": "shao-nian-zhong-guo-shuo",
+    "segmentId": "seg-001",
+    "term": "伏流",
+    "explanation": "潜藏地下的水流。",
+    "type": "word"
+  },
+  {
+    "id": "ann-shao-nian-zhong-guo-shuo-005",
+    "workId": "shao-nian-zhong-guo-shuo",
+    "segmentId": "seg-001",
+    "term": "鳞爪飞扬",
+    "explanation": "龙鳞龙爪飞舞，象征奋发。",
+    "type": "word"
+  }
+]
