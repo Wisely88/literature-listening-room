@@ -1,0 +1,42 @@
+[
+  {
+    "id": "ann-wang-yue-001",
+    "workId": "wang-yue",
+    "segmentId": "seg-001",
+    "term": "岱宗",
+    "explanation": "泰山的尊称，古代以泰山为五岳之首。",
+    "type": "word"
+  },
+  {
+    "id": "ann-wang-yue-002",
+    "workId": "wang-yue",
+    "segmentId": "seg-002",
+    "term": "钟",
+    "explanation": "聚集、汇聚。",
+    "type": "word"
+  },
+  {
+    "id": "ann-wang-yue-003",
+    "workId": "wang-yue",
+    "segmentId": "seg-003",
+    "term": "决眦",
+    "explanation": "睁大眼睛。眦，眼眶。",
+    "type": "word"
+  },
+  {
+    "id": "ann-wang-yue-004",
+    "workId": "wang-yue",
+    "segmentId": "seg-003",
+    "term": "凌绝顶",
+    "explanation": "登上最高峰。凌，登上、越过。",
+    "type": "word"
+  },
+  {
+    "id": "ann-wang-yue-005",
+    "workId": "wang-yue",
+    "segmentId": "seg-003",
+    "term": "一览",
+    "explanation": "一眼望尽。",
+    "type": "word"
+  }
+]

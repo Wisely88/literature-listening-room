@@ -1,0 +1,42 @@
+[
+  {
+    "id": "ann-zao-fa-bai-di-cheng-001",
+    "workId": "zao-fa-bai-di-cheng",
+    "segmentId": "seg-001",
+    "term": "白帝",
+    "explanation": "白帝城，在今重庆奉节。",
+    "type": "word"
+  },
+  {
+    "id": "ann-zao-fa-bai-di-cheng-002",
+    "workId": "zao-fa-bai-di-cheng",
+    "segmentId": "seg-002",
+    "term": "彩云间",
+    "explanation": "彩云缭绕之中。",
+    "type": "word"
+  },
+  {
+    "id": "ann-zao-fa-bai-di-cheng-003",
+    "workId": "zao-fa-bai-di-cheng",
+    "segmentId": "seg-002",
+    "term": "还",
+    "explanation": "返回。",
+    "type": "word"
+  },
+  {
+    "id": "ann-zao-fa-bai-di-cheng-004",
+    "workId": "zao-fa-bai-di-cheng",
+    "segmentId": "seg-002",
+    "term": "啼不住",
+    "explanation": "不停地啼叫。",
+    "type": "word"
+  },
+  {
+    "id": "ann-zao-fa-bai-di-cheng-005",
+    "workId": "zao-fa-bai-di-cheng",
+    "segmentId": "seg-002",
+    "term": "万重山",
+    "explanation": "层层叠叠的山岭。",
+    "type": "word"
+  }
+]

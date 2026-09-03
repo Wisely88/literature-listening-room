@@ -1,0 +1,42 @@
+[
+  {
+    "id": "ann-xi-yu-ting-ji-001",
+    "workId": "xi-yu-ting-ji",
+    "segmentId": "seg-001",
+    "term": "志喜",
+    "explanation": "记录喜悦。志，记载。",
+    "type": "word"
+  },
+  {
+    "id": "ann-xi-yu-ting-ji-002",
+    "workId": "xi-yu-ting-ji",
+    "segmentId": "seg-002",
+    "term": "治官舍",
+    "explanation": "修缮官署住所。",
+    "type": "word"
+  },
+  {
+    "id": "ann-xi-yu-ting-ji-003",
+    "workId": "xi-yu-ting-ji",
+    "segmentId": "seg-003",
+    "term": "占",
+    "explanation": "占卜、预示。",
+    "type": "word"
+  },
+  {
+    "id": "ann-xi-yu-ting-ji-004",
+    "workId": "xi-yu-ting-ji",
+    "segmentId": "seg-004",
+    "term": "有年",
+    "explanation": "有丰收。年，年成、收成。",
+    "type": "word"
+  },
+  {
+    "id": "ann-xi-yu-ting-ji-005",
+    "workId": "xi-yu-ting-ji",
+    "segmentId": "seg-004",
+    "term": "忭",
+    "explanation": "欢欣、喜悦。",
+    "type": "word"
+  }
+]
