@@ -3,24 +3,96 @@
     "id": "ann-tian-qi-lang-001",
     "workId": "tian-qi-lang",
     "segmentId": "seg-001",
-    "term": "交游",
-    "explanation": "结交朋友、往来。",
+    "term": "滥交",
+    "explanation": "没有选择、没有原则地交游。",
     "type": "word"
   },
   {
     "id": "ann-tian-qi-lang-002",
     "workId": "tian-qi-lang",
     "segmentId": "seg-001",
-    "term": "知名士",
-    "explanation": "有名望的士人。",
+    "term": "业猎",
+    "explanation": "以打猎为业。",
     "type": "word"
   },
   {
     "id": "ann-tian-qi-lang-003",
     "workId": "tian-qi-lang",
     "segmentId": "seg-001",
-    "term": "辽阳",
-    "explanation": "地名。",
+    "term": "皋比",
+    "explanation": "虎皮，古人也借指讲席。",
     "type": "word"
+  },
+  {
+    "id": "ann-tian-qi-lang-004",
+    "workId": "tian-qi-lang",
+    "segmentId": "seg-001",
+    "term": "晦纹",
+    "explanation": "面色或气色上的不祥征兆。",
+    "type": "allusion"
+  },
+  {
+    "id": "ann-tian-qi-lang-005",
+    "workId": "tian-qi-lang",
+    "segmentId": "seg-001",
+    "term": "浹旬",
+    "explanation": "满十天左右。",
+    "type": "word"
+  },
+  {
+    "id": "ann-tian-qi-lang-006",
+    "workId": "tian-qi-lang",
+    "segmentId": "seg-001",
+    "term": "通籍",
+    "explanation": "取得功名，列入仕籍。",
+    "type": "history"
+  },
+  {
+    "id": "ann-tian-qi-lang-007",
+    "workId": "tian-qi-lang",
+    "segmentId": "seg-001",
+    "term": "貙目蜂腰",
+    "explanation": "形容眼神锐利、腰身精悍。",
+    "type": "word"
+  },
+  {
+    "id": "ann-tian-qi-lang-008",
+    "workId": "tian-qi-lang",
+    "segmentId": "seg-001",
+    "term": "異國",
+    "explanation": "外国或异域。",
+    "type": "word"
+  },
+  {
+    "id": "ann-tian-qi-lang-009",
+    "workId": "tian-qi-lang",
+    "segmentId": "seg-001",
+    "term": "御史",
+    "explanation": "掌监察纠弹的官员。",
+    "type": "history"
+  },
+  {
+    "id": "ann-tian-qi-lang-010",
+    "workId": "tian-qi-lang",
+    "segmentId": "seg-001",
+    "term": "搢紳",
+    "explanation": "官宦士绅的统称。",
+    "type": "history"
+  },
+  {
+    "id": "ann-tian-qi-lang-011",
+    "workId": "tian-qi-lang",
+    "segmentId": "seg-001",
+    "term": "夤緣",
+    "explanation": "托关系、走门路。",
+    "type": "word"
+  },
+  {
+    "id": "ann-tian-qi-lang-012",
+    "workId": "tian-qi-lang",
+    "segmentId": "seg-001",
+    "term": "荊軻",
+    "explanation": "战国刺客，借指舍生取义的侠士。",
+    "type": "person"
   }
 ]
