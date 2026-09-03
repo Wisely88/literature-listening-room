@@ -14,7 +14,7 @@ tags: [优秀文章, 精读, 公版]
 moods: [夜读, 思考]
 ambience: [rain]
 defaultAmbience: rain
-sourceNote: 依据公版通行本节选；白话译文与导读为本项目整理。
+sourceNote: 检索到梁启超《变法通议·论幼学》公版文本，但与当前标题“论幼而学”及现有原句不完全匹配；为避免误配和臆写，暂缓扩写。
 editorialNotes: []
 pronunciationOverrides: []
 ---
