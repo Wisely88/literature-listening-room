@@ -1,0 +1,42 @@
+[
+  {
+    "id": "ann-xi-hu-qi-yue-ban-001",
+    "workId": "xi-hu-qi-yue-ban",
+    "segmentId": "seg-001",
+    "term": "止",
+    "explanation": "只、仅仅。",
+    "type": "word"
+  },
+  {
+    "id": "ann-xi-hu-qi-yue-ban-002",
+    "workId": "xi-hu-qi-yue-ban",
+    "segmentId": "seg-002",
+    "term": "峨冠",
+    "explanation": "高高的帽子，形容盛装。",
+    "type": "word"
+  },
+  {
+    "id": "ann-xi-hu-qi-yue-ban-003",
+    "workId": "xi-hu-qi-yue-ban",
+    "segmentId": "seg-003",
+    "term": "优傒",
+    "explanation": "歌伎、侍从。傒同“奚”。",
+    "type": "word"
+  },
+  {
+    "id": "ann-xi-hu-qi-yue-ban-004",
+    "workId": "xi-hu-qi-yue-ban",
+    "segmentId": "seg-003",
+    "term": "茶铛",
+    "explanation": "煮茶的小锅。铛，锅。",
+    "type": "word"
+  },
+  {
+    "id": "ann-xi-hu-qi-yue-ban-005",
+    "workId": "xi-hu-qi-yue-ban",
+    "segmentId": "seg-003",
+    "term": "低唱浅斟",
+    "explanation": "低声唱歌，慢慢饮酒。",
+    "type": "word"
+  }
+]
