@@ -1,0 +1,34 @@
+[
+  {
+    "id": "ann-tian-001",
+    "workId": "tian-dan-fu-guo",
+    "segmentId": "seg-001",
+    "term": "疏属",
+    "explanation": "远房亲属。",
+    "type": "word"
+  },
+  {
+    "id": "ann-tian-002",
+    "workId": "tian-dan-fu-guo",
+    "segmentId": "seg-003",
+    "term": "千溢",
+    "explanation": "千镒，古代重量单位，这里指大量金钱。",
+    "type": "word"
+  },
+  {
+    "id": "ann-tian-003",
+    "workId": "tian-dan-fu-guo",
+    "segmentId": "seg-004",
+    "term": "衔枚",
+    "explanation": "口中横衔枚（小木棍），防止出声。",
+    "type": "history"
+  },
+  {
+    "id": "ann-tian-004",
+    "workId": "tian-dan-fu-guo",
+    "segmentId": "seg-005",
+    "term": "逐北",
+    "explanation": "追击败逃的军队。北，败逃。",
+    "type": "word"
+  }
+]
