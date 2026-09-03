@@ -1,0 +1,50 @@
+[
+  {
+    "id": "ann-ou-yang-xiu-liu-yi-ju-shi-zhuan-001",
+    "workId": "ou-yang-xiu-liu-yi-ju-shi-zhuan",
+    "segmentId": "seg-001",
+    "term": "谪",
+    "explanation": "封建时代官员被降职或流放。",
+    "type": "word"
+  },
+  {
+    "id": "ann-ou-yang-xiu-liu-yi-ju-shi-zhuan-002",
+    "workId": "ou-yang-xiu-liu-yi-ju-shi-zhuan",
+    "segmentId": "seg-001",
+    "term": "金石遗文",
+    "explanation": "钟鼎碑刻等古代文字材料。",
+    "type": "word"
+  },
+  {
+    "id": "ann-ou-yang-xiu-liu-yi-ju-shi-zhuan-003",
+    "workId": "ou-yang-xiu-liu-yi-ju-shi-zhuan",
+    "segmentId": "seg-001",
+    "term": "集录",
+    "explanation": "搜集、编录。",
+    "type": "word"
+  },
+  {
+    "id": "ann-ou-yang-xiu-liu-yi-ju-shi-zhuan-004",
+    "workId": "ou-yang-xiu-liu-yi-ju-shi-zhuan",
+    "segmentId": "seg-001",
+    "term": "更号",
+    "explanation": "改换名号。更，改变。",
+    "type": "word"
+  },
+  {
+    "id": "ann-ou-yang-xiu-liu-yi-ju-shi-zhuan-005",
+    "workId": "ou-yang-xiu-liu-yi-ju-shi-zhuan",
+    "segmentId": "seg-001",
+    "term": "五物",
+    "explanation": "书、金石遗文、琴、棋、酒五种事物。",
+    "type": "word"
+  },
+  {
+    "id": "ann-ou-yang-xiu-liu-yi-ju-shi-zhuan-006",
+    "workId": "ou-yang-xiu-liu-yi-ju-shi-zhuan",
+    "segmentId": "seg-001",
+    "term": "六一",
+    "explanation": "五物加上自己这一位居士。",
+    "type": "word"
+  }
+]

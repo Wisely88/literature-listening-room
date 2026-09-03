@@ -1,0 +1,42 @@
+[
+  {
+    "id": "ann-san-guo-yan-yi-chibi-001",
+    "workId": "san-guo-yan-yi-chibi",
+    "segmentId": "seg-001",
+    "term": "倾颓",
+    "explanation": "衰败、倾覆。",
+    "type": "word"
+  },
+  {
+    "id": "ann-san-guo-yan-yi-chibi-002",
+    "workId": "san-guo-yan-yi-chibi",
+    "segmentId": "seg-001",
+    "term": "窃命",
+    "explanation": "窃取权柄、发号施令。",
+    "type": "word"
+  },
+  {
+    "id": "ann-san-guo-yan-yi-chibi-003",
+    "workId": "san-guo-yan-yi-chibi",
+    "segmentId": "seg-001",
+    "term": "蒙尘",
+    "explanation": "指皇帝流亡受辱。",
+    "type": "word"
+  },
+  {
+    "id": "ann-san-guo-yan-yi-chibi-004",
+    "workId": "san-guo-yan-yi-chibi",
+    "segmentId": "seg-001",
+    "term": "猖蹶",
+    "explanation": "失败、跌倒，形容事业受挫。",
+    "type": "word"
+  },
+  {
+    "id": "ann-san-guo-yan-yi-chibi-005",
+    "workId": "san-guo-yan-yi-chibi",
+    "segmentId": "seg-001",
+    "term": "箪食壶浆",
+    "explanation": "百姓用竹篮装饭、壶装酒迎接军队。",
+    "type": "word"
+  }
+]

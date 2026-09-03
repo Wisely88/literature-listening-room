@@ -1,0 +1,42 @@
+[
+  {
+    "id": "ann-ru-lin-wai-shi-fan-jin-zhong-ju-yan-001",
+    "workId": "ru-lin-wai-shi-fan-jin-zhong-ju-yan",
+    "segmentId": "seg-001",
+    "term": "不省人事",
+    "explanation": "失去知觉。省，知觉、醒悟。",
+    "type": "word"
+  },
+  {
+    "id": "ann-ru-lin-wai-shi-fan-jin-zhong-ju-yan-002",
+    "workId": "ru-lin-wai-shi-fan-jin-zhong-ju-yan",
+    "segmentId": "seg-001",
+    "term": "中举",
+    "explanation": "考中举人。",
+    "type": "word"
+  },
+  {
+    "id": "ann-ru-lin-wai-shi-fan-jin-zhong-ju-yan-003",
+    "workId": "ru-lin-wai-shi-fan-jin-zhong-ju-yan",
+    "segmentId": "seg-001",
+    "term": "乡邻",
+    "explanation": "乡里的邻居。",
+    "type": "word"
+  },
+  {
+    "id": "ann-ru-lin-wai-shi-fan-jin-zhong-ju-yan-004",
+    "workId": "ru-lin-wai-shi-fan-jin-zhong-ju-yan",
+    "segmentId": "seg-001",
+    "term": "胡屠户",
+    "explanation": "范进的岳父，以屠宰为业。",
+    "type": "word"
+  },
+  {
+    "id": "ann-ru-lin-wai-shi-fan-jin-zhong-ju-yan-005",
+    "workId": "ru-lin-wai-shi-fan-jin-zhong-ju-yan",
+    "segmentId": "seg-001",
+    "term": "世态炎凉",
+    "explanation": "人情随地位变化而冷暖不定。",
+    "type": "word"
+  }
+]
