@@ -15,6 +15,7 @@ const genericPhrases = [
 ];
 
 const reports = [];
+const shortCompleteCandidates = [];
 for (const file of (await readdir(worksDir)).filter((item) => item.endsWith(".md"))) {
   const markdown = await readFile(path.join(worksDir, file), "utf8");
   const language = markdown.match(/^language: ([^\n]+)/m)?.[1]?.trim() ?? "zh-CN";
@@ -23,7 +24,10 @@ for (const file of (await readdir(worksDir)).filter((item) => item.endsWith(".md
   const translation = section(markdown, "白话", "创作背景");
   const chars = original.replace(/\s/gu, "").length;
   const issues = [];
-  if (chars < 80) issues.push(category === "诗词" ? "短篇完整候选" : "短篇节选");
+  if (chars < 80) {
+    if (category === "诗词") shortCompleteCandidates.push({ slug: file.slice(0, -3), chars });
+    else issues.push("短篇节选");
+  }
   if (genericPhrases.some((phrase) => markdown.includes(phrase))) issues.push("模板导语");
   if (!translation) issues.push("缺少译文");
   if (translation && paragraphs(original).length !== paragraphs(translation).length) issues.push("译文未逐段对齐");
@@ -41,6 +45,7 @@ for (const file of (await readdir(worksDir)).filter((item) => item.endsWith(".md
 const counts = new Map();
 for (const report of reports) for (const issue of report.issues) counts.set(issue, (counts.get(issue) ?? 0) + 1);
 console.log(`内容质量审计：${reports.length} 篇需要编辑复核。`);
+console.log(`- 短篇完整候选（诗词）：${shortCompleteCandidates.length}`);
 for (const [issue, count] of counts) console.log(`- ${issue}: ${count}`);
 for (const report of reports) console.log(`- ${report.slug} [${report.chars}字]：${report.issues.join("、")}`);
 if (process.argv.includes("--strict") && reports.length) process.exitCode = 1;
