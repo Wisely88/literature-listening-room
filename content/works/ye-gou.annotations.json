@@ -4,31 +4,63 @@
     "workId": "ye-gou",
     "segmentId": "seg-001",
     "term": "于七之乱",
-    "explanation": "明末山东于七起事所造成的战乱。",
-    "type": "word"
+    "explanation": "明末山东于七起义及其引发的战乱。",
+    "type": "history"
   },
   {
     "id": "ann-ye-gou-002",
     "workId": "ye-gou",
     "segmentId": "seg-001",
-    "term": "杀人如麻",
-    "explanation": "杀人极多，像割麻一样。",
-    "type": "word"
+    "term": "炎昆之祸",
+    "explanation": "昆冈火灾，比喻受到牵连而遭殃。",
+    "type": "allusion"
   },
   {
     "id": "ann-ye-gou-003",
     "workId": "ye-gou",
     "segmentId": "seg-001",
-    "term": "窜归",
-    "explanation": "逃窜回乡。窜，逃跑。",
+    "term": "宵进",
+    "explanation": "夜间进兵或进入。",
     "type": "word"
   },
   {
     "id": "ann-ye-gou-004",
     "workId": "ye-gou",
     "segmentId": "seg-001",
-    "term": "尸横遍野",
-    "explanation": "尸体遍布田野。",
+    "term": "野狗子",
+    "explanation": "故事中的兽首人身食尸怪物。",
+    "type": "allusion"
+  },
+  {
+    "id": "ann-ye-gou-005",
+    "workId": "ye-gou",
+    "segmentId": "seg-001",
+    "term": "鴟",
+    "explanation": "鸱鸟，猛禽，叫声凄厉。",
+    "type": "word"
+  },
+  {
+    "id": "ann-ye-gou-006",
+    "workId": "ye-gou",
+    "segmentId": "seg-001",
+    "term": "齕",
+    "explanation": "咬、啃食。",
+    "type": "word"
+  },
+  {
+    "id": "ann-ye-gou-007",
+    "workId": "ye-gou",
+    "segmentId": "seg-001",
+    "term": "中曲",
+    "explanation": "中部弯曲。",
+    "type": "word"
+  },
+  {
+    "id": "ann-ye-gou-008",
+    "workId": "ye-gou",
+    "segmentId": "seg-001",
+    "term": "罹",
+    "explanation": "遭受、陷入。",
     "type": "word"
   }
 ]
