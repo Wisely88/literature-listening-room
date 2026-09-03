@@ -4,39 +4,71 @@
     "workId": "pen-shui",
     "segmentId": "seg-001",
     "term": "部曹",
-    "explanation": "清代中央各部的官员。",
-    "type": "word"
+    "explanation": "古代中央官署中的属官。",
+    "type": "history"
   },
   {
     "id": "ann-pen-shui-002",
     "workId": "pen-shui",
     "segmentId": "seg-001",
     "term": "僦第",
-    "explanation": "租赁住宅。僦，租赁；第，宅院。",
+    "explanation": "租赁住宅。僦，租赁。",
     "type": "word"
   },
   {
     "id": "ann-pen-shui-003",
     "workId": "pen-shui",
     "segmentId": "seg-001",
-    "term": "荒落",
-    "explanation": "荒凉破败。",
-    "type": "word"
+    "term": "太夫人",
+    "explanation": "对官员母亲的尊称。",
+    "type": "person"
   },
   {
     "id": "ann-pen-shui-004",
     "workId": "pen-shui",
     "segmentId": "seg-001",
-    "term": "喷水声",
-    "explanation": "水流喷涌的声音。",
+    "term": "噴水",
+    "explanation": "像缝工用工具喷水一样连续喷射。",
     "type": "word"
   },
   {
     "id": "ann-pen-shui-005",
     "workId": "pen-shui",
     "segmentId": "seg-001",
-    "term": "所僦",
-    "explanation": "所租住的房屋。",
-    "type": "grammar"
+    "term": "鹤步",
+    "explanation": "像鹤一样迈步，形容步态异常。",
+    "type": "word"
+  },
+  {
+    "id": "ann-pen-shui-006",
+    "workId": "pen-shui",
+    "segmentId": "seg-001",
+    "term": "櫺",
+    "explanation": "窗棂，窗格的木条。",
+    "type": "word"
+  },
+  {
+    "id": "ann-pen-shui-007",
+    "workId": "pen-shui",
+    "segmentId": "seg-001",
+    "term": "東曦",
+    "explanation": "东方初升的太阳，代指天亮。",
+    "type": "allusion"
+  },
+  {
+    "id": "ann-pen-shui-008",
+    "workId": "pen-shui",
+    "segmentId": "seg-001",
+    "term": "鬲下",
+    "explanation": "胸腹之间。鬲，通“膈”。",
+    "type": "word"
+  },
+  {
+    "id": "ann-pen-shui-009",
+    "workId": "pen-shui",
+    "segmentId": "seg-001",
+    "term": "異史氏",
+    "explanation": "蒲松龄在《聊斋志异》中使用的自称。",
+    "type": "person"
   }
 ]
