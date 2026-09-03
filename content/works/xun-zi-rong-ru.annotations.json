@@ -3,32 +3,80 @@
     "id": "ann-xun-zi-rong-ru-001",
     "workId": "xun-zi-rong-ru",
     "segmentId": "seg-001",
-    "term": "安雅",
-    "explanation": "以正道和高雅的生活为安。",
+    "term": "荣辱之大分",
+    "explanation": "荣辱最根本的区别和尺度。",
     "type": "word"
   },
   {
     "id": "ann-xun-zi-rong-ru-002",
     "workId": "xun-zi-rong-ru",
     "segmentId": "seg-001",
-    "term": "货财",
-    "explanation": "财货、物质财富。",
-    "type": "word"
+    "term": "先义后利",
+    "explanation": "先守正义，再考虑利益。",
+    "type": "grammar"
   },
   {
     "id": "ann-xun-zi-rong-ru-003",
     "workId": "xun-zi-rong-ru",
     "segmentId": "seg-001",
-    "term": "亲其亲",
-    "explanation": "亲爱自己的亲人。",
-    "type": "grammar"
+    "term": "安雅",
+    "explanation": "以正道、高雅的生活为安。",
+    "type": "word"
   },
   {
     "id": "ann-xun-zi-rong-ru-004",
     "workId": "xun-zi-rong-ru",
     "segmentId": "seg-001",
-    "term": "乐其利",
-    "explanation": "以谋利为乐。",
-    "type": "grammar"
+    "term": "制人",
+    "explanation": "能够制约、影响别人。",
+    "type": "word"
+  },
+  {
+    "id": "ann-xun-zi-rong-ru-005",
+    "workId": "xun-zi-rong-ru",
+    "segmentId": "seg-001",
+    "term": "安贫乐道",
+    "explanation": "安于清贫而以守道为乐。",
+    "type": "allusion"
+  },
+  {
+    "id": "ann-xun-zi-rong-ru-006",
+    "workId": "xun-zi-rong-ru",
+    "segmentId": "seg-001",
+    "term": "煖于布帛",
+    "explanation": "比布帛还温暖，比喻善言给人安慰。",
+    "type": "allusion"
+  },
+  {
+    "id": "ann-xun-zi-rong-ru-007",
+    "workId": "xun-zi-rong-ru",
+    "segmentId": "seg-001",
+    "term": "矫饰",
+    "explanation": "故意装出某种样子，含贬义。",
+    "type": "word"
+  },
+  {
+    "id": "ann-xun-zi-rong-ru-008",
+    "workId": "xun-zi-rong-ru",
+    "segmentId": "seg-001",
+    "term": "知耻",
+    "explanation": "知道羞耻并能自我警戒。",
+    "type": "word"
+  },
+  {
+    "id": "ann-xun-zi-rong-ru-009",
+    "workId": "xun-zi-rong-ru",
+    "segmentId": "seg-001",
+    "term": "礼义",
+    "explanation": "礼法与道义，是荀子判断行为的标准。",
+    "type": "word"
+  },
+  {
+    "id": "ann-xun-zi-rong-ru-010",
+    "workId": "xun-zi-rong-ru",
+    "segmentId": "seg-001",
+    "term": "积善成德",
+    "explanation": "长期行善积累，最终形成德性。",
+    "type": "allusion"
   }
 ]
