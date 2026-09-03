@@ -3,32 +3,72 @@
     "id": "ann-yuan-jia-ke-ji-001",
     "workId": "yuan-jia-ke-ji",
     "segmentId": "seg-001",
-    "term": "冉溪",
-    "explanation": "柳宗元永州游记中的溪流。",
+    "term": "水行",
+    "explanation": "沿着水路行走或乘船而行。",
     "type": "word"
   },
   {
     "id": "ann-yuan-jia-ke-ji-002",
     "workId": "yuan-jia-ke-ji",
     "segmentId": "seg-001",
-    "term": "水行",
-    "explanation": "沿水路行进。",
+    "term": "莫若",
+    "explanation": "没有比得上的，表示比较。",
     "type": "word"
   },
   {
     "id": "ann-yuan-jia-ke-ji-003",
     "workId": "yuan-jia-ke-ji",
-    "segmentId": "seg-001",
-    "term": "可取",
-    "explanation": "值得观赏、游览。",
+    "segmentId": "seg-002",
+    "term": "反流",
+    "explanation": "水流回旋、倒流，这里是“渴”这一地方方言的解释。",
     "type": "word"
   },
   {
     "id": "ann-yuan-jia-ke-ji-004",
     "workId": "yuan-jia-ke-ji",
-    "segmentId": "seg-001",
-    "term": "钴鉧潭",
-    "explanation": "永州名胜潭名。鉧，mǔ。",
+    "segmentId": "seg-002",
+    "term": "间厕",
+    "explanation": "交错夹杂在一起。厕，通“侧”，间杂。",
     "type": "word"
+  },
+  {
+    "id": "ann-yuan-jia-ke-ji-005",
+    "workId": "yuan-jia-ke-ji",
+    "segmentId": "seg-003",
+    "term": "蔚然",
+    "explanation": "草木茂盛的样子。",
+    "type": "word"
+  },
+  {
+    "id": "ann-yuan-jia-ke-ji-006",
+    "workId": "yuan-jia-ke-ji",
+    "segmentId": "seg-003",
+    "term": "轇轕",
+    "explanation": "盘结、缠绕的样子。",
+    "type": "word"
+  },
+  {
+    "id": "ann-yuan-jia-ke-ji-007",
+    "workId": "yuan-jia-ke-ji",
+    "segmentId": "seg-004",
+    "term": "蓊葧",
+    "explanation": "草木或香气盛大的样子。",
+    "type": "word"
+  },
+  {
+    "id": "ann-yuan-jia-ke-ji-008",
+    "workId": "yuan-jia-ke-ji",
+    "segmentId": "seg-004",
+    "term": "葳蕤",
+    "explanation": "草木枝叶繁茂、摇曳的样子。",
+    "type": "word"
+  },
+  {
+    "id": "ann-yuan-jia-ke-ji-009",
+    "workId": "yuan-jia-ke-ji",
+    "segmentId": "seg-004",
+    "term": "不敢专",
+    "explanation": "不敢把发现的美景据为己有，表现分享之意。",
+    "type": "allusion"
   }
 ]
