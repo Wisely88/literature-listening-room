@@ -3,40 +3,64 @@
     "id": "ann-qi-ren-you-hao-lie-zhe-001",
     "workId": "qi-ren-you-hao-lie-zhe",
     "segmentId": "seg-001",
-    "term": "好猎",
-    "explanation": "喜欢打猎。好，喜好。",
+    "term": "旷日持久",
+    "explanation": "耗费很长时间。",
     "type": "word"
   },
   {
     "id": "ann-qi-ren-you-hao-lie-zhe-002",
     "workId": "qi-ren-you-hao-lie-zhe",
     "segmentId": "seg-001",
-    "term": "旷日持久",
-    "explanation": "耗费很长时间。",
+    "term": "家室",
+    "explanation": "家人。",
     "type": "word"
   },
   {
     "id": "ann-qi-ren-you-hao-lie-zhe-003",
     "workId": "qi-ren-you-hao-lie-zhe",
     "segmentId": "seg-001",
-    "term": "家室",
-    "explanation": "家人、妻子。",
+    "term": "州里",
+    "explanation": "乡里邻人。",
     "type": "word"
   },
   {
     "id": "ann-qi-ren-you-hao-lie-zhe-004",
     "workId": "qi-ren-you-hao-lie-zhe",
     "segmentId": "seg-001",
-    "term": "知友",
-    "explanation": "知心朋友。",
-    "type": "word"
+    "term": "惟其所以",
+    "explanation": "只是因为……的缘故。",
+    "type": "grammar"
   },
   {
     "id": "ann-qi-ren-you-hao-lie-zhe-005",
     "workId": "qi-ren-you-hao-lie-zhe",
     "segmentId": "seg-001",
-    "term": "不得兽",
-    "explanation": "没有捕获野兽。",
-    "type": "grammar"
+    "term": "良狗",
+    "explanation": "善于追捕猎物的好猎犬。",
+    "type": "word"
+  },
+  {
+    "id": "ann-qi-ren-you-hao-lie-zhe-006",
+    "workId": "qi-ren-you-hao-lie-zhe",
+    "segmentId": "seg-001",
+    "term": "疾耕",
+    "explanation": "努力、快速地耕作。",
+    "type": "word"
+  },
+  {
+    "id": "ann-qi-ren-you-hao-lie-zhe-007",
+    "workId": "qi-ren-you-hao-lie-zhe",
+    "segmentId": "seg-001",
+    "term": "贵当篇",
+    "explanation": "《吕氏春秋》篇名，强调做事得当。",
+    "type": "history"
+  },
+  {
+    "id": "ann-qi-ren-you-hao-lie-zhe-008",
+    "workId": "qi-ren-you-hao-lie-zhe",
+    "segmentId": "seg-001",
+    "term": "百事也尽然",
+    "explanation": "各种事情大多都是同样道理。",
+    "type": "allusion"
   }
 ]
