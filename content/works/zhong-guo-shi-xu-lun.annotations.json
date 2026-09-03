@@ -1,0 +1,26 @@
+[
+  {
+    "id": "ann-zhong-guo-shi-xu-lun-001",
+    "workId": "zhong-guo-shi-xu-lun",
+    "segmentId": "seg-001",
+    "term": "范围",
+    "explanation": "界限、涵盖区域。",
+    "type": "word"
+  },
+  {
+    "id": "ann-zhong-guo-shi-xu-lun-002",
+    "workId": "zhong-guo-shi-xu-lun",
+    "segmentId": "seg-001",
+    "term": "民族活动",
+    "explanation": "群体迁徙、交往和创造历史的活动。",
+    "type": "word"
+  },
+  {
+    "id": "ann-zhong-guo-shi-xu-lun-003",
+    "workId": "zhong-guo-shi-xu-lun",
+    "segmentId": "seg-001",
+    "term": "为范围",
+    "explanation": "以……作为范围。",
+    "type": "grammar"
+  }
+]

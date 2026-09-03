@@ -1,0 +1,34 @@
+[
+  {
+    "id": "ann-yi-xing-bu-zhang-001",
+    "workId": "yi-xing-bu-zhang",
+    "segmentId": "seg-001",
+    "term": "妄言",
+    "explanation": "胡乱说、说谎。",
+    "type": "word"
+  },
+  {
+    "id": "ann-yi-xing-bu-zhang-002",
+    "workId": "yi-xing-bu-zhang",
+    "segmentId": "seg-001",
+    "term": "妄言失于舟",
+    "explanation": "谎称剑掉在船上。",
+    "type": "grammar"
+  },
+  {
+    "id": "ann-yi-xing-bu-zhang-003",
+    "workId": "yi-xing-bu-zhang",
+    "segmentId": "seg-001",
+    "term": "验事实",
+    "explanation": "核验事实。",
+    "type": "word"
+  },
+  {
+    "id": "ann-yi-xing-bu-zhang-004",
+    "workId": "yi-xing-bu-zhang",
+    "segmentId": "seg-001",
+    "term": "因惧责",
+    "explanation": "因为害怕责罚。",
+    "type": "grammar"
+  }
+]

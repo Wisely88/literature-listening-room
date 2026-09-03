@@ -1,0 +1,34 @@
+[
+  {
+    "id": "ann-zhi-qu-sheng-chen-gang-001",
+    "workId": "zhi-qu-sheng-chen-gang",
+    "segmentId": "seg-001",
+    "term": "生辰纲",
+    "explanation": "宋代押送给皇帝或权贵的生日礼物。",
+    "type": "word"
+  },
+  {
+    "id": "ann-zhi-qu-sheng-chen-gang-002",
+    "workId": "zhi-qu-sheng-chen-gang",
+    "segmentId": "seg-001",
+    "term": "赤日炎炎",
+    "explanation": "烈日炽热。",
+    "type": "word"
+  },
+  {
+    "id": "ann-zhi-qu-sheng-chen-gang-003",
+    "workId": "zhi-qu-sheng-chen-gang",
+    "segmentId": "seg-001",
+    "term": "枯焦",
+    "explanation": "干枯焦黄。",
+    "type": "word"
+  },
+  {
+    "id": "ann-zhi-qu-sheng-chen-gang-004",
+    "workId": "zhi-qu-sheng-chen-gang",
+    "segmentId": "seg-001",
+    "term": "如汤煮",
+    "explanation": "像在沸水中煎熬。",
+    "type": "word"
+  }
+]

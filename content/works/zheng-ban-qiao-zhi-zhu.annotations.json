@@ -1,0 +1,34 @@
+[
+  {
+    "id": "ann-zheng-ban-qiao-zhi-zhu-001",
+    "workId": "zheng-ban-qiao-zhi-zhu",
+    "segmentId": "seg-001",
+    "term": "江馆",
+    "explanation": "江边的馆舍。",
+    "type": "word"
+  },
+  {
+    "id": "ann-zheng-ban-qiao-zhi-zhu-002",
+    "workId": "zheng-ban-qiao-zhi-zhu",
+    "segmentId": "seg-001",
+    "term": "勃勃",
+    "explanation": "旺盛、充满生机。",
+    "type": "word"
+  },
+  {
+    "id": "ann-zheng-ban-qiao-zhi-zhu-003",
+    "workId": "zheng-ban-qiao-zhi-zhu",
+    "segmentId": "seg-001",
+    "term": "倏",
+    "explanation": "很快、突然。",
+    "type": "word"
+  },
+  {
+    "id": "ann-zheng-ban-qiao-zhi-zhu-004",
+    "workId": "zheng-ban-qiao-zhi-zhu",
+    "segmentId": "seg-001",
+    "term": "变相",
+    "explanation": "变化后的形态。",
+    "type": "word"
+  }
+]

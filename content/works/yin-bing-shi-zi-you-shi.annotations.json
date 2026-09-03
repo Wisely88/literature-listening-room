@@ -1,0 +1,34 @@
+[
+  {
+    "id": "ann-yin-bing-shi-zi-you-shi-001",
+    "workId": "yin-bing-shi-zi-you-shi",
+    "segmentId": "seg-001",
+    "term": "放纵",
+    "explanation": "任意而不受约束。",
+    "type": "word"
+  },
+  {
+    "id": "ann-yin-bing-shi-zi-you-shi-002",
+    "workId": "yin-bing-shi-zi-you-shi",
+    "segmentId": "seg-001",
+    "term": "自负责任",
+    "explanation": "自行承担责任。",
+    "type": "word"
+  },
+  {
+    "id": "ann-yin-bing-shi-zi-you-shi-003",
+    "workId": "yin-bing-shi-zi-you-shi",
+    "segmentId": "seg-001",
+    "term": "侵",
+    "explanation": "侵犯、妨碍。",
+    "type": "word"
+  },
+  {
+    "id": "ann-yin-bing-shi-zi-you-shi-004",
+    "workId": "yin-bing-shi-zi-you-shi",
+    "segmentId": "seg-001",
+    "term": "谓",
+    "explanation": "说、称作。",
+    "type": "word"
+  }
+]
