@@ -14,7 +14,7 @@ tags: [推理探案, 精读, 公版]
 moods: [夜读, 思考]
 ambience: [night]
 defaultAmbience: night
-sourceNote: 原文依据《吕氏春秋·察今》公版通行本核对；分段译文、背景与赏析为本项目整理。
+sourceNote: 原文依据《吕氏春秋·察今》公版通行本完整篇章核对；分段译文、背景与赏析为本项目整理。
 editorialNotes: []
 pronunciationOverrides: []
 ---
