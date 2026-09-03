@@ -3,20 +3,36 @@
     "id": "ann-kong-cheng-ji-001",
     "workId": "kong-cheng-ji",
     "segmentId": "seg-001",
-    "term": "鹤氅",
-    "explanation": "用鸟羽制成的外衣。",
-    "type": "word"
+    "term": "街亭",
+    "explanation": "秦岭西部的战略要地，蜀军粮道咽喉。",
+    "type": "place"
   },
   {
     "id": "ann-kong-cheng-ji-002",
     "workId": "kong-cheng-ji",
     "segmentId": "seg-001",
-    "term": "纶巾",
-    "explanation": "古代士人常戴的青丝头巾。",
-    "type": "word"
+    "term": "列柳城",
+    "explanation": "街亭附近城邑，与街亭共同控制汉中通道。",
+    "type": "place"
   },
   {
     "id": "ann-kong-cheng-ji-003",
+    "workId": "kong-cheng-ji",
+    "segmentId": "seg-001",
+    "term": "纶巾",
+    "explanation": "古代文士常戴的头巾，成为诸葛亮形象标志。",
+    "type": "word"
+  },
+  {
+    "id": "ann-kong-cheng-ji-004",
+    "workId": "kong-cheng-ji",
+    "segmentId": "seg-001",
+    "term": "鹤氅",
+    "explanation": "用鹤羽制成的外衣。",
+    "type": "word"
+  },
+  {
+    "id": "ann-kong-cheng-ji-005",
     "workId": "kong-cheng-ji",
     "segmentId": "seg-001",
     "term": "敌楼",
@@ -24,19 +40,51 @@
     "type": "word"
   },
   {
-    "id": "ann-kong-cheng-ji-004",
+    "id": "ann-kong-cheng-ji-006",
     "workId": "kong-cheng-ji",
     "segmentId": "seg-001",
-    "term": "操琴",
-    "explanation": "弹奏琴。操，弹奏。",
-    "type": "word"
+    "term": "疑兵",
+    "explanation": "用虚假旗号、声势迷惑敌人的兵力。",
+    "type": "history"
   },
   {
-    "id": "ann-kong-cheng-ji-005",
+    "id": "ann-kong-cheng-ji-007",
     "workId": "kong-cheng-ji",
     "segmentId": "seg-001",
-    "term": "凭栏",
-    "explanation": "倚靠栏杆。",
-    "type": "word"
+    "term": "輜重",
+    "explanation": "军队携带的粮草、器械等物资。",
+    "type": "history"
+  },
+  {
+    "id": "ann-kong-cheng-ji-008",
+    "workId": "kong-cheng-ji",
+    "segmentId": "seg-001",
+    "term": "仲达",
+    "explanation": "司马懿的字。",
+    "type": "person"
+  },
+  {
+    "id": "ann-kong-cheng-ji-009",
+    "workId": "kong-cheng-ji",
+    "segmentId": "seg-001",
+    "term": "孔明",
+    "explanation": "诸葛亮的字。",
+    "type": "person"
+  },
+  {
+    "id": "ann-kong-cheng-ji-010",
+    "workId": "kong-cheng-ji",
+    "segmentId": "seg-001",
+    "term": "空城计",
+    "explanation": "利用虚弱外表和心理判断迫使敌人退兵的计谋。",
+    "type": "allusion"
+  },
+  {
+    "id": "ann-kong-cheng-ji-011",
+    "workId": "kong-cheng-ji",
+    "segmentId": "seg-001",
+    "term": "魏主曹叡",
+    "explanation": "魏明帝曹叡，三国时期魏国皇帝。",
+    "type": "person"
   }
 ]
