@@ -14,7 +14,7 @@ tags: [史记, 证据, 推断]
 moods: [安静, 思考, 夜读]
 ambience: [night]
 defaultAmbience: night
-sourceNote: 依据史传叙事手法整理；正文与导读为本项目整理。
+sourceNote: 已检索《史记》《汉书》《资治通鉴》及公版史传索引，未找到与现有案情、人物和“比字迹”细节完全匹配的篇章；为避免臆写，暂缓扩写。
 editorialNotes: []
 pronunciationOverrides: []
 ---
