@@ -14,7 +14,7 @@ tags: [恐怖惊悚, 精读, 公版]
 moods: [夜读, 思考]
 ambience: [night]
 defaultAmbience: night
-sourceNote: 依据公版通行本节选；白话译文与导读为本项目整理。
+sourceNote: 已检索《聊斋志异》公版目录及相关古籍索引，未找到与现有“木客”原句完全匹配的篇章；为避免臆写，暂缓扩写。
 editorialNotes: []
 pronunciationOverrides: []
 ---
