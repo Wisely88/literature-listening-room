@@ -3,40 +3,80 @@
     "id": "ann-ya-tou-001",
     "workId": "ya-tou",
     "segmentId": "seg-001",
-    "term": "诸生",
-    "explanation": "读书人、秀才的通称。",
-    "type": "word"
+    "term": "小勾欄",
+    "explanation": "古代城市中供歌舞、伎艺或妓女活动的场所。",
+    "type": "history"
   },
   {
     "id": "ann-ya-tou-002",
     "workId": "ya-tou",
     "segmentId": "seg-001",
-    "term": "诚笃",
-    "explanation": "诚实厚道。",
+    "term": "纏頭",
+    "explanation": "客人给歌伎或妓女的赏钱。",
     "type": "word"
   },
   {
     "id": "ann-ya-tou-003",
     "workId": "ya-tou",
     "segmentId": "seg-001",
-    "term": "薄游",
-    "explanation": "短期游历。薄，短。",
-    "type": "word"
+    "term": "冰斧",
+    "explanation": "媒人，古代称作伐柯、冰人。",
+    "type": "allusion"
   },
   {
     "id": "ann-ya-tou-004",
     "workId": "ya-tou",
     "segmentId": "seg-001",
-    "term": "神情凄楚",
-    "explanation": "神态悲伤凄惶。",
+    "term": "煙花下流",
+    "explanation": "指身处风尘、社会地位低下。",
     "type": "word"
   },
   {
     "id": "ann-ya-tou-005",
     "workId": "ya-tou",
     "segmentId": "seg-001",
-    "term": "东昌",
-    "explanation": "地名，今山东聊城一带。",
-    "type": "word"
+    "term": "譙鼓",
+    "explanation": "城门或更楼报时的鼓声。",
+    "type": "history"
+  },
+  {
+    "id": "ann-ya-tou-006",
+    "workId": "ya-tou",
+    "segmentId": "seg-001",
+    "term": "汉江口",
+    "explanation": "故事中两人逃亡后暂居的地方。",
+    "type": "place"
+  },
+  {
+    "id": "ann-ya-tou-007",
+    "workId": "ya-tou",
+    "segmentId": "seg-001",
+    "term": "育嬰堂",
+    "explanation": "古代收养弃婴、孤儿的慈善机构。",
+    "type": "history"
+  },
+  {
+    "id": "ann-ya-tou-008",
+    "workId": "ya-tou",
+    "segmentId": "seg-001",
+    "term": "鸨母",
+    "explanation": "妓院中管理、控制妓女的老妇。",
+    "type": "person"
+  },
+  {
+    "id": "ann-ya-tou-009",
+    "workId": "ya-tou",
+    "segmentId": "seg-001",
+    "term": "拗筋",
+    "explanation": "文中指使人性情乖戾的象征性筋结。",
+    "type": "allusion"
+  },
+  {
+    "id": "ann-ya-tou-010",
+    "workId": "ya-tou",
+    "segmentId": "seg-001",
+    "term": "魏徵",
+    "explanation": "唐代名臣，以刚直著称。",
+    "type": "person"
   }
 ]
