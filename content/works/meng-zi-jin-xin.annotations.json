@@ -1,0 +1,50 @@
+[
+  {
+    "id": "ann-meng-zi-jin-xin-001",
+    "workId": "meng-zi-jin-xin",
+    "segmentId": "seg-001",
+    "term": "尽其心",
+    "explanation": "充分发展本心本性。",
+    "type": "grammar"
+  },
+  {
+    "id": "ann-meng-zi-jin-xin-002",
+    "workId": "meng-zi-jin-xin",
+    "segmentId": "seg-001",
+    "term": "知性",
+    "explanation": "认识人的本性。",
+    "type": "word"
+  },
+  {
+    "id": "ann-meng-zi-jin-xin-003",
+    "workId": "meng-zi-jin-xin",
+    "segmentId": "seg-001",
+    "term": "事天",
+    "explanation": "奉行、体察天道。事，奉行。",
+    "type": "word"
+  },
+  {
+    "id": "ann-meng-zi-jin-xin-004",
+    "workId": "meng-zi-jin-xin",
+    "segmentId": "seg-001",
+    "term": "夭寿",
+    "explanation": "短命与长寿。",
+    "type": "word"
+  },
+  {
+    "id": "ann-meng-zi-jin-xin-005",
+    "workId": "meng-zi-jin-xin",
+    "segmentId": "seg-001",
+    "term": "不贰",
+    "explanation": "不改变、不动摇。",
+    "type": "word"
+  },
+  {
+    "id": "ann-meng-zi-jin-xin-006",
+    "workId": "meng-zi-jin-xin",
+    "segmentId": "seg-001",
+    "term": "俟",
+    "explanation": "等待。",
+    "type": "word"
+  }
+]

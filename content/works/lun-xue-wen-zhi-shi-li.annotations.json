@@ -1,0 +1,34 @@
+[
+  {
+    "id": "ann-lun-xue-wen-zhi-shi-li-001",
+    "workId": "lun-xue-wen-zhi-shi-li",
+    "segmentId": "seg-001",
+    "term": "公器",
+    "explanation": "公共的器物，比喻社会共享的工具。",
+    "type": "word"
+  },
+  {
+    "id": "ann-lun-xue-wen-zhi-shi-li-002",
+    "workId": "lun-xue-wen-zhi-shi-li",
+    "segmentId": "seg-001",
+    "term": "根柢",
+    "explanation": "基础。",
+    "type": "word"
+  },
+  {
+    "id": "ann-lun-xue-wen-zhi-shi-li-003",
+    "workId": "lun-xue-wen-zhi-shi-li",
+    "segmentId": "seg-001",
+    "term": "保存经验",
+    "explanation": "把前人积累的知识传给后世。",
+    "type": "grammar"
+  },
+  {
+    "id": "ann-lun-xue-wen-zhi-shi-li-004",
+    "workId": "lun-xue-wen-zhi-shi-li",
+    "segmentId": "seg-001",
+    "term": "扩充智慧",
+    "explanation": "扩大认识和判断能力。",
+    "type": "grammar"
+  }
+]

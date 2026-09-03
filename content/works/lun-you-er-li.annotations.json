@@ -1,0 +1,34 @@
+[
+  {
+    "id": "ann-lun-you-er-li-001",
+    "workId": "lun-you-er-li",
+    "segmentId": "seg-001",
+    "term": "根柢",
+    "explanation": "树根，比喻基础。柢同“蒂”。",
+    "type": "word"
+  },
+  {
+    "id": "ann-lun-you-er-li-002",
+    "workId": "lun-you-er-li",
+    "segmentId": "seg-001",
+    "term": "及早",
+    "explanation": "趁早。",
+    "type": "word"
+  },
+  {
+    "id": "ann-lun-you-er-li-003",
+    "workId": "lun-you-er-li",
+    "segmentId": "seg-001",
+    "term": "固",
+    "explanation": "稳固。",
+    "type": "word"
+  },
+  {
+    "id": "ann-lun-you-er-li-004",
+    "workId": "lun-you-er-li",
+    "segmentId": "seg-001",
+    "term": "枝叶",
+    "explanation": "比喻后续成就。",
+    "type": "word"
+  }
+]
