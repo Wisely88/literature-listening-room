@@ -4,39 +4,95 @@
     "workId": "hong-yu",
     "segmentId": "seg-001",
     "term": "广平",
-    "explanation": "地名，今河北一带。",
-    "type": "word"
+    "explanation": "地名，今河北广平一带。",
+    "type": "place"
   },
   {
     "id": "ann-hong-yu-002",
     "workId": "hong-yu",
     "segmentId": "seg-001",
-    "term": "少孤",
-    "explanation": "年少时失去父亲。",
-    "type": "word"
+    "term": "诸生",
+    "explanation": "通过地方考试取得生员资格的读书人。",
+    "type": "history"
   },
   {
     "id": "ann-hong-yu-003",
     "workId": "hong-yu",
     "segmentId": "seg-001",
-    "term": "腼腆",
-    "explanation": "性格害羞、不善与人交往。",
+    "term": "性方鲠",
+    "explanation": "性情刚直，不肯屈从。",
     "type": "word"
   },
   {
     "id": "ann-hong-yu-004",
     "workId": "hong-yu",
     "segmentId": "seg-001",
-    "term": "秀美",
-    "explanation": "容貌清秀美丽。",
+    "term": "井臼",
+    "explanation": "汲水舂米，泛指家务劳动。",
     "type": "word"
   },
   {
     "id": "ann-hong-yu-005",
     "workId": "hong-yu",
     "segmentId": "seg-001",
-    "term": "教之读",
-    "explanation": "教他读书。之，指相如。",
-    "type": "grammar"
+    "term": "白金",
+    "explanation": "白银。古文中常以“白金”称银。",
+    "type": "word"
+  },
+  {
+    "id": "ann-hong-yu-006",
+    "workId": "hong-yu",
+    "segmentId": "seg-001",
+    "term": "巾服",
+    "explanation": "生员所穿的儒生服饰，代指功名身份。",
+    "type": "word"
+  },
+  {
+    "id": "ann-hong-yu-007",
+    "workId": "hong-yu",
+    "segmentId": "seg-001",
+    "term": "重垣",
+    "explanation": "多重高墙。",
+    "type": "word"
+  },
+  {
+    "id": "ann-hong-yu-008",
+    "workId": "hong-yu",
+    "segmentId": "seg-001",
+    "term": "縲絏",
+    "explanation": "捆绑囚犯的绳索，借指牢狱。",
+    "type": "word"
+  },
+  {
+    "id": "ann-hong-yu-009",
+    "workId": "hong-yu",
+    "segmentId": "seg-001",
+    "term": "杵臼",
+    "explanation": "舂米工具，典出东汉梁鸿故事，此处借指替人承担事务。",
+    "type": "allusion"
+  },
+  {
+    "id": "ann-hong-yu-010",
+    "workId": "hong-yu",
+    "segmentId": "seg-001",
+    "term": "褫革",
+    "explanation": "革去功名和身份。",
+    "type": "history"
+  },
+  {
+    "id": "ann-hong-yu-011",
+    "workId": "hong-yu",
+    "segmentId": "seg-001",
+    "term": "腴田连阡",
+    "explanation": "肥沃田地连绵成片。",
+    "type": "word"
+  },
+  {
+    "id": "ann-hong-yu-012",
+    "workId": "hong-yu",
+    "segmentId": "seg-001",
+    "term": "异史氏",
+    "explanation": "蒲松龄在《聊斋志异》篇末使用的自称。",
+    "type": "person"
   }
 ]
