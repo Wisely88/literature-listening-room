@@ -1,0 +1,42 @@
+[
+  {
+    "id": "ann-feng-le-ting-ji-001",
+    "workId": "feng-le-ting-ji",
+    "segmentId": "seg-001",
+    "term": "诸",
+    "explanation": "之于、向。",
+    "type": "grammar"
+  },
+  {
+    "id": "ann-feng-le-ting-ji-002",
+    "workId": "feng-le-ting-ji",
+    "segmentId": "seg-002",
+    "term": "滃然",
+    "explanation": "水势盛大的样子。",
+    "type": "word"
+  },
+  {
+    "id": "ann-feng-le-ting-ji-003",
+    "workId": "feng-le-ting-ji",
+    "segmentId": "seg-003",
+    "term": "掇",
+    "explanation": "拾取、采摘。",
+    "type": "word"
+  },
+  {
+    "id": "ann-feng-le-ting-ji-004",
+    "workId": "feng-le-ting-ji",
+    "segmentId": "seg-003",
+    "term": "荫",
+    "explanation": "在树下乘凉。",
+    "type": "grammar"
+  },
+  {
+    "id": "ann-feng-le-ting-ji-005",
+    "workId": "feng-le-ting-ji",
+    "segmentId": "seg-003",
+    "term": "刻露",
+    "explanation": "显露。刻，通“剋”，显明。",
+    "type": "word"
+  }
+]

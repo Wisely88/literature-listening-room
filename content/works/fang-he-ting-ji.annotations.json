@@ -1,0 +1,42 @@
+[
+  {
+    "id": "ann-fang-he-ting-ji-001",
+    "workId": "fang-he-ting-ji",
+    "segmentId": "seg-001",
+    "term": "半扉",
+    "explanation": "半扇门的高度。扉，门扇。",
+    "type": "word"
+  },
+  {
+    "id": "ann-fang-he-ting-ji-002",
+    "workId": "fang-he-ting-ji",
+    "segmentId": "seg-002",
+    "term": "际天",
+    "explanation": "接连到天边。",
+    "type": "word"
+  },
+  {
+    "id": "ann-fang-he-ting-ji-003",
+    "workId": "fang-he-ting-ji",
+    "segmentId": "seg-003",
+    "term": "晦明",
+    "explanation": "阴暗和明亮，指天气变化。",
+    "type": "word"
+  },
+  {
+    "id": "ann-fang-he-ting-ji-004",
+    "workId": "fang-he-ting-ji",
+    "segmentId": "seg-003",
+    "term": "驯",
+    "explanation": "顺服、驯熟。",
+    "type": "word"
+  },
+  {
+    "id": "ann-fang-he-ting-ji-005",
+    "workId": "fang-he-ting-ji",
+    "segmentId": "seg-003",
+    "term": "傃",
+    "explanation": "向着、朝向。",
+    "type": "word"
+  }
+]

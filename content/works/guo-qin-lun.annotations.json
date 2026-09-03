@@ -1,0 +1,42 @@
+[
+  {
+    "id": "ann-guo-qin-lun-001",
+    "workId": "guo-qin-lun",
+    "segmentId": "seg-001",
+    "term": "櫌",
+    "explanation": "农具，形似锄。櫌同“耰”。",
+    "type": "word"
+  },
+  {
+    "id": "ann-guo-qin-lun-002",
+    "workId": "guo-qin-lun",
+    "segmentId": "seg-002",
+    "term": "棘矜",
+    "explanation": "木棍。棘，荆棘；矜，木柄。",
+    "type": "word"
+  },
+  {
+    "id": "ann-guo-qin-lun-003",
+    "workId": "guo-qin-lun",
+    "segmentId": "seg-003",
+    "term": "铦",
+    "explanation": "锋利。",
+    "type": "word"
+  },
+  {
+    "id": "ann-guo-qin-lun-004",
+    "workId": "guo-qin-lun",
+    "segmentId": "seg-003",
+    "term": "絜",
+    "explanation": "衡量、比较。",
+    "type": "word"
+  },
+  {
+    "id": "ann-guo-qin-lun-005",
+    "workId": "guo-qin-lun",
+    "segmentId": "seg-003",
+    "term": "隳",
+    "explanation": "毁坏。",
+    "type": "word"
+  }
+]
