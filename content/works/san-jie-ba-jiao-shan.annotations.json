@@ -3,40 +3,80 @@
     "id": "ann-san-jie-ba-jiao-shan-001",
     "workId": "san-jie-ba-jiao-shan",
     "segmentId": "seg-001",
-    "term": "奉揖",
-    "explanation": "行礼作揖。奉，表示恭敬。",
-    "type": "word"
+    "term": "火焰山",
+    "explanation": "西域取经路上的炎热山岭，传说由大火焚烧而成。",
+    "type": "place"
   },
   {
     "id": "ann-san-jie-ba-jiao-shan-002",
     "workId": "san-jie-ba-jiao-shan",
     "segmentId": "seg-001",
-    "term": "嫂嫂",
-    "explanation": "孙悟空对铁扇公主的称呼。",
-    "type": "word"
+    "term": "芭蕉扇",
+    "explanation": "铁扇公主持有的法宝，可灭火、生风、降雨。",
+    "type": "allusion"
   },
   {
     "id": "ann-san-jie-ba-jiao-shan-003",
     "workId": "san-jie-ba-jiao-shan",
     "segmentId": "seg-001",
     "term": "铁扇公主",
-    "explanation": "火焰山的罗刹女，持芭蕉扇。",
-    "type": "word"
+    "explanation": "牛魔王之妻、红孩儿之母，又称罗刹女。",
+    "type": "person"
   },
   {
     "id": "ann-san-jie-ba-jiao-shan-004",
     "workId": "san-jie-ba-jiao-shan",
     "segmentId": "seg-001",
-    "term": "旧怨",
-    "explanation": "过去结下的怨仇。",
-    "type": "word"
+    "term": "红孩儿",
+    "explanation": "牛魔王与铁扇公主之子，曾被孙悟空降伏。",
+    "type": "person"
   },
   {
     "id": "ann-san-jie-ba-jiao-shan-005",
     "workId": "san-jie-ba-jiao-shan",
     "segmentId": "seg-001",
-    "term": "通行",
-    "explanation": "通过火焰山道路。",
-    "type": "word"
+    "term": "定风丹",
+    "explanation": "能抵挡芭蕉扇风力的法宝。",
+    "type": "allusion"
+  },
+  {
+    "id": "ann-san-jie-ba-jiao-shan-006",
+    "workId": "san-jie-ba-jiao-shan",
+    "segmentId": "seg-001",
+    "term": "芭蕉洞",
+    "explanation": "铁扇公主居住的洞府。",
+    "type": "place"
+  },
+  {
+    "id": "ann-san-jie-ba-jiao-shan-007",
+    "workId": "san-jie-ba-jiao-shan",
+    "segmentId": "seg-001",
+    "term": "哪吒",
+    "explanation": "天庭神将，奉命协助降伏牛魔王。",
+    "type": "person"
+  },
+  {
+    "id": "ann-san-jie-ba-jiao-shan-008",
+    "workId": "san-jie-ba-jiao-shan",
+    "segmentId": "seg-001",
+    "term": "牛魔王",
+    "explanation": "铁扇公主之夫，善于变化和斗法。",
+    "type": "person"
+  },
+  {
+    "id": "ann-san-jie-ba-jiao-shan-009",
+    "workId": "san-jie-ba-jiao-shan",
+    "segmentId": "seg-001",
+    "term": "一扇灭火",
+    "explanation": "芭蕉扇三次扇动的法术规则。",
+    "type": "allusion"
+  },
+  {
+    "id": "ann-san-jie-ba-jiao-shan-010",
+    "workId": "san-jie-ba-jiao-shan",
+    "segmentId": "seg-001",
+    "term": "三借芭蕉扇",
+    "explanation": "孙悟空三次设法取得真扇的故事。",
+    "type": "allusion"
   }
 ]
