@@ -3,32 +3,72 @@
     "id": "ann-xin-min-shuo-001",
     "workId": "xin-min-shuo",
     "segmentId": "seg-001",
-    "term": "积民而成",
-    "explanation": "由人民聚集、共同生活而形成。",
-    "type": "grammar"
+    "term": "巋然",
+    "explanation": "高大稳固的样子。",
+    "type": "word"
   },
   {
     "id": "ann-xin-min-shuo-002",
     "workId": "xin-min-shuo",
     "segmentId": "seg-001",
-    "term": "犹",
-    "explanation": "如同、好比。",
-    "type": "word"
+    "term": "五大洲",
+    "explanation": "当时通行的世界地理概念，指亚洲、欧洲、非洲、美洲、大洋洲。",
+    "type": "history"
   },
   {
     "id": "ann-xin-min-shuo-003",
     "workId": "xin-min-shuo",
     "segmentId": "seg-001",
-    "term": "四肢五脏",
-    "explanation": "借人体器官比喻国家的各个组成部分。",
-    "type": "word"
+    "term": "盎格魯撒遜",
+    "explanation": "盎格鲁—撒克逊民族，梁启超用以指英国及其移民后裔。",
+    "type": "history"
   },
   {
     "id": "ann-xin-min-shuo-004",
     "workId": "xin-min-shuo",
     "segmentId": "seg-001",
-    "term": "筋脉血轮",
-    "explanation": "借人体血脉比喻社会联系。",
+    "term": "亞歷山大",
+    "explanation": "马其顿国王亚历山大大帝。",
+    "type": "person"
+  },
+  {
+    "id": "ann-xin-min-shuo-005",
+    "workId": "xin-min-shuo",
+    "segmentId": "seg-001",
+    "term": "成吉思汗",
+    "explanation": "蒙古帝国建立者铁木真。",
+    "type": "person"
+  },
+  {
+    "id": "ann-xin-min-shuo-006",
+    "workId": "xin-min-shuo",
+    "segmentId": "seg-001",
+    "term": "天演界",
+    "explanation": "借达尔文进化论指国家与民族竞争的世界。",
+    "type": "allusion"
+  },
+  {
+    "id": "ann-xin-min-shuo-007",
+    "workId": "xin-min-shuo",
+    "segmentId": "seg-001",
+    "term": "渙散",
+    "explanation": "松散离散，缺少凝聚力。",
     "type": "word"
+  },
+  {
+    "id": "ann-xin-min-shuo-008",
+    "workId": "xin-min-shuo",
+    "segmentId": "seg-001",
+    "term": "攝生",
+    "explanation": "保养身体、养生。",
+    "type": "word"
+  },
+  {
+    "id": "ann-xin-min-shuo-009",
+    "workId": "xin-min-shuo",
+    "segmentId": "seg-001",
+    "term": "新民",
+    "explanation": "更新国民的思想、道德与能力。",
+    "type": "allusion"
   }
 ]
