@@ -1,0 +1,42 @@
+[
+  {
+    "id": "ann-meng-zi-de-dao-duo-zhu-001",
+    "workId": "meng-zi-de-dao-duo-zhu",
+    "segmentId": "seg-001",
+    "term": "天时",
+    "explanation": "有利的季节、气候等自然时机。",
+    "type": "word"
+  },
+  {
+    "id": "ann-meng-zi-de-dao-duo-zhu-002",
+    "workId": "meng-zi-de-dao-duo-zhu",
+    "segmentId": "seg-002",
+    "term": "地利",
+    "explanation": "有利的地形条件。",
+    "type": "word"
+  },
+  {
+    "id": "ann-meng-zi-de-dao-duo-zhu-003",
+    "workId": "meng-zi-de-dao-duo-zhu",
+    "segmentId": "seg-003",
+    "term": "人和",
+    "explanation": "人心团结，上下齐心。",
+    "type": "word"
+  },
+  {
+    "id": "ann-meng-zi-de-dao-duo-zhu-004",
+    "workId": "meng-zi-de-dao-duo-zhu",
+    "segmentId": "seg-004",
+    "term": "域民",
+    "explanation": "使人民居住在一定疆域内；域，限制、使……居住。",
+    "type": "grammar"
+  },
+  {
+    "id": "ann-meng-zi-de-dao-duo-zhu-005",
+    "workId": "meng-zi-de-dao-duo-zhu",
+    "segmentId": "seg-004",
+    "term": "畔",
+    "explanation": "同“叛”，背叛。",
+    "type": "word"
+  }
+]

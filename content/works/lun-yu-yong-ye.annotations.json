@@ -1,0 +1,34 @@
+[
+  {
+    "id": "ann-lun-yu-yong-ye-001",
+    "workId": "lun-yu-yong-ye",
+    "segmentId": "seg-001",
+    "term": "好之",
+    "explanation": "喜爱它。好，喜好，读作hào。",
+    "type": "word"
+  },
+  {
+    "id": "ann-lun-yu-yong-ye-002",
+    "workId": "lun-yu-yong-ye",
+    "segmentId": "seg-002",
+    "term": "乐之",
+    "explanation": "以它为乐，从中获得内在的快乐。",
+    "type": "word"
+  },
+  {
+    "id": "ann-lun-yu-yong-ye-003",
+    "workId": "lun-yu-yong-ye",
+    "segmentId": "seg-002",
+    "term": "迁怒",
+    "explanation": "把对某人的怒气转移到另一个人身上。",
+    "type": "word"
+  },
+  {
+    "id": "ann-lun-yu-yong-ye-004",
+    "workId": "lun-yu-yong-ye",
+    "segmentId": "seg-002",
+    "term": "贰过",
+    "explanation": "重复犯同样的过错。贰，重复。",
+    "type": "word"
+  }
+]

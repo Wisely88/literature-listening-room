@@ -1,0 +1,34 @@
+[
+  {
+    "id": "ann-lun-yu-zi-han-001",
+    "workId": "lun-yu-zi-han",
+    "segmentId": "seg-001",
+    "term": "三军",
+    "explanation": "古代军队的通称，也可泛指军队。",
+    "type": "word"
+  },
+  {
+    "id": "ann-lun-yu-zi-han-002",
+    "workId": "lun-yu-zi-han",
+    "segmentId": "seg-002",
+    "term": "匹夫",
+    "explanation": "普通男子，后泛指平民或普通人。",
+    "type": "word"
+  },
+  {
+    "id": "ann-lun-yu-zi-han-003",
+    "workId": "lun-yu-zi-han",
+    "segmentId": "seg-003",
+    "term": "后凋",
+    "explanation": "最后凋落。凋，凋零。",
+    "type": "word"
+  },
+  {
+    "id": "ann-lun-yu-zi-han-004",
+    "workId": "lun-yu-zi-han",
+    "segmentId": "seg-003",
+    "term": "一篑",
+    "explanation": "一筐土。篑，盛土的竹筐。",
+    "type": "word"
+  }
+]
