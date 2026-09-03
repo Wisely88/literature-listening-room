@@ -1,0 +1,42 @@
+[
+  {
+    "id": "ann-xi-you-ji-da-sheng-nao-tian-gong-001",
+    "workId": "xi-you-ji-da-sheng-nao-tian-gong",
+    "segmentId": "seg-001",
+    "term": "齐天大圣",
+    "explanation": "孙悟空自封的称号。",
+    "type": "word"
+  },
+  {
+    "id": "ann-xi-you-ji-da-sheng-nao-tian-gong-002",
+    "workId": "xi-you-ji-da-sheng-nao-tian-gong",
+    "segmentId": "seg-001",
+    "term": "招安",
+    "explanation": "招抚使其归顺。",
+    "type": "word"
+  },
+  {
+    "id": "ann-xi-you-ji-da-sheng-nao-tian-gong-003",
+    "workId": "xi-you-ji-da-sheng-nao-tian-gong",
+    "segmentId": "seg-001",
+    "term": "弼马温",
+    "explanation": "管理天马的官职，孙悟空初任官名。",
+    "type": "word"
+  },
+  {
+    "id": "ann-xi-you-ji-da-sheng-nao-tian-gong-004",
+    "workId": "xi-you-ji-da-sheng-nao-tian-gong",
+    "segmentId": "seg-001",
+    "term": "厮们",
+    "explanation": "他们，带轻蔑意味。",
+    "type": "word"
+  },
+  {
+    "id": "ann-xi-you-ji-da-sheng-nao-tian-gong-005",
+    "workId": "xi-you-ji-da-sheng-nao-tian-gong",
+    "segmentId": "seg-001",
+    "term": "点兵",
+    "explanation": "调集军队。",
+    "type": "word"
+  }
+]

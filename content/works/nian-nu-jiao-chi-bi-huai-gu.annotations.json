@@ -1,0 +1,42 @@
+[
+  {
+    "id": "ann-nian-nu-jiao-chi-bi-huai-gu-001",
+    "workId": "nian-nu-jiao-chi-bi-huai-gu",
+    "segmentId": "seg-001",
+    "term": "风流人物",
+    "explanation": "杰出的历史人物。",
+    "type": "word"
+  },
+  {
+    "id": "ann-nian-nu-jiao-chi-bi-huai-gu-002",
+    "workId": "nian-nu-jiao-chi-bi-huai-gu",
+    "segmentId": "seg-001",
+    "term": "周郎",
+    "explanation": "周瑜，字公瑾，年轻时任东吴将领。",
+    "type": "word"
+  },
+  {
+    "id": "ann-nian-nu-jiao-chi-bi-huai-gu-003",
+    "workId": "nian-nu-jiao-chi-bi-huai-gu",
+    "segmentId": "seg-001",
+    "term": "惊涛拍岸",
+    "explanation": "巨浪猛烈冲击江岸。",
+    "type": "word"
+  },
+  {
+    "id": "ann-nian-nu-jiao-chi-bi-huai-gu-004",
+    "workId": "nian-nu-jiao-chi-bi-huai-gu",
+    "segmentId": "seg-001",
+    "term": "樯橹",
+    "explanation": "代指曹操水军的战船。樯，桅杆；橹，划船工具。",
+    "type": "word"
+  },
+  {
+    "id": "ann-nian-nu-jiao-chi-bi-huai-gu-005",
+    "workId": "nian-nu-jiao-chi-bi-huai-gu",
+    "segmentId": "seg-001",
+    "term": "酹",
+    "explanation": "把酒洒在地上祭奠。",
+    "type": "word"
+  }
+]

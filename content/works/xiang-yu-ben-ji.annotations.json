@@ -1,0 +1,42 @@
+[
+  {
+    "id": "ann-xiang-yu-ben-ji-001",
+    "workId": "xiang-yu-ben-ji",
+    "segmentId": "seg-001",
+    "term": "季父",
+    "explanation": "父亲的弟弟，即叔父。",
+    "type": "word"
+  },
+  {
+    "id": "ann-xiang-yu-ben-ji-002",
+    "workId": "xiang-yu-ben-ji",
+    "segmentId": "seg-001",
+    "term": "书足以记名姓",
+    "explanation": "读书只能用来记住姓名。",
+    "type": "grammar"
+  },
+  {
+    "id": "ann-xiang-yu-ben-ji-003",
+    "workId": "xiang-yu-ben-ji",
+    "segmentId": "seg-001",
+    "term": "一人敌",
+    "explanation": "只抵挡一个人的武艺。",
+    "type": "word"
+  },
+  {
+    "id": "ann-xiang-yu-ben-ji-004",
+    "workId": "xiang-yu-ben-ji",
+    "segmentId": "seg-001",
+    "term": "万人敌",
+    "explanation": "能够对抗万人的军事本领。",
+    "type": "word"
+  },
+  {
+    "id": "ann-xiang-yu-ben-ji-005",
+    "workId": "xiang-yu-ben-ji",
+    "segmentId": "seg-001",
+    "term": "兵法",
+    "explanation": "用兵作战的谋略和方法。",
+    "type": "word"
+  }
+]

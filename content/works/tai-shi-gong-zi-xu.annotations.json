@@ -1,0 +1,34 @@
+[
+  {
+    "id": "ann-tai-shi-gong-zi-xu-001",
+    "workId": "tai-shi-gong-zi-xu",
+    "segmentId": "seg-001",
+    "term": "绍明世",
+    "explanation": "继承并阐明圣明时代的传统。绍，继承。",
+    "type": "word"
+  },
+  {
+    "id": "ann-tai-shi-gong-zi-xu-002",
+    "workId": "tai-shi-gong-zi-xu",
+    "segmentId": "seg-001",
+    "term": "正易传",
+    "explanation": "校正、阐释《周易》传文。",
+    "type": "word"
+  },
+  {
+    "id": "ann-tai-shi-gong-zi-xu-003",
+    "workId": "tai-shi-gong-zi-xu",
+    "segmentId": "seg-001",
+    "term": "继春秋",
+    "explanation": "继承孔子修《春秋》的史学事业。",
+    "type": "word"
+  },
+  {
+    "id": "ann-tai-shi-gong-zi-xu-004",
+    "workId": "tai-shi-gong-zi-xu",
+    "segmentId": "seg-001",
+    "term": "本诗书礼乐",
+    "explanation": "以《诗》《书》《礼》《乐》为根本。",
+    "type": "grammar"
+  }
+]
