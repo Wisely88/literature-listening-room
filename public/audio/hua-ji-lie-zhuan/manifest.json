@@ -4,14 +4,14 @@
   "provider": "edge-neural",
   "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
   "format": "mp3",
-  "generatedAt": "2026-09-01T02:03:55.751Z",
+  "generatedAt": "2026-09-03T12:38:12.861Z",
   "segments": [
     {
       "id": "seg-001",
       "url": "/audio/hua-ji-lie-zhuan/seg-001.mp3",
-      "durationMs": 5976,
-      "checksum": "500f2e6104354c18ae1082a87dcd6a9e49b049b7f9fcfd442174ea22fab6fd2c",
-      "sourceHash": "3205e6c8768c6d89ca48bf7e2926701c452122be1590c0b8e5bbd1d647fe4808"
+      "durationMs": 22848,
+      "checksum": "89bc93c8693676e858ae91d86b2973bffb34028071c68c0aa4fcdb7e3af1daab",
+      "sourceHash": "1f31ac52b5786e7db25c2b295b666aafc4299642e05696e02664b5781a8f0f6e"
     }
   ]
 }

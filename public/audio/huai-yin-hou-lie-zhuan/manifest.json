@@ -4,14 +4,14 @@
   "provider": "edge-neural",
   "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
   "format": "mp3",
-  "generatedAt": "2026-09-01T02:03:59.443Z",
+  "generatedAt": "2026-09-03T12:38:19.552Z",
   "segments": [
     {
       "id": "seg-001",
       "url": "/audio/huai-yin-hou-lie-zhuan/seg-001.mp3",
-      "durationMs": 7992,
-      "checksum": "3d08c6754e1f3953f68a05bcb0e7755f0b44d5dce9a0661b25fe6a2514ddf549",
-      "sourceHash": "5d5f84d52ca5788113b146e82338812caec2c0aa2203bc4d87b7357ae6cc2d6c"
+      "durationMs": 22536,
+      "checksum": "b2a76a6cd145f297912242dc886e3aadf54a65b93812681a8e12bf028cd71d64",
+      "sourceHash": "767d902cb2506d41d72c3475fc12f5de2be1a9d24e5bb1bdd3cfa627f562f2b8"
     }
   ]
 }

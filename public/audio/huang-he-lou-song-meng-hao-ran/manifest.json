@@ -4,14 +4,21 @@
   "provider": "edge-neural",
   "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
   "format": "mp3",
-  "generatedAt": "2026-09-01T02:04:02.808Z",
+  "generatedAt": "2026-09-03T12:38:27.167Z",
   "segments": [
     {
       "id": "seg-001",
       "url": "/audio/huang-he-lou-song-meng-hao-ran/seg-001.mp3",
-      "durationMs": 8976,
-      "checksum": "a11819596d5fa88c2da6b78079b8a2352efe2fe882d1402dc828dcc0409c2d7c",
-      "sourceHash": "3882d160bdbbc5a8661331ac73fb5ddb6266b4e73585de5da66142a86fc458be"
+      "durationMs": 4416,
+      "checksum": "5d9107ed58cc89fa40e9700ad9399169e96a0cb035f00c50e6e30054d8dd4840",
+      "sourceHash": "02a90771fb84c65cc6849c0a079798b000a0279142607c977c65aeccbf4799a1"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/huang-he-lou-song-meng-hao-ran/seg-002.mp3",
+      "durationMs": 4680,
+      "checksum": "6a6ab14255f4aad2858a49ad99d2cb1d8896f8a27082f9046838d035924e2df7",
+      "sourceHash": "190a067179ff330ff0b12ea243842659452d37b816ecd97702bbae1f1fde938b"
     }
   ]
 }

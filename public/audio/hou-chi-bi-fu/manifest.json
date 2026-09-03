@@ -4,14 +4,56 @@
   "provider": "edge-neural",
   "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
   "format": "mp3",
-  "generatedAt": "2026-09-01T02:03:52.113Z",
+  "generatedAt": "2026-09-03T12:38:06.695Z",
   "segments": [
     {
       "id": "seg-001",
       "url": "/audio/hou-chi-bi-fu/seg-001.mp3",
-      "durationMs": 13368,
-      "checksum": "4179968b45de246e9f24863bfaf66952cbf2b0cb13bc0693142ee13b544eed8a",
-      "sourceHash": "1937b064e07cd89f4f2224d35195e8edefd4d47a5738fab3d21eb3ea9f67952f"
+      "durationMs": 15600,
+      "checksum": "e2744a5b96351a6be7e6cc899e5869d00714110fba433a51c3a91c0fe967d7e4",
+      "sourceHash": "51885036f0006c5e68ba769791a3c6f5d38342a8e5660c94b938d21405ee90ac"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/hou-chi-bi-fu/seg-002.mp3",
+      "durationMs": 23208,
+      "checksum": "a5e4f2dbc15d0be2acbf439a578285aa9fb15bae27afdd377966fc65b498a40e",
+      "sourceHash": "359031ce54b9179c1eaab60404a012aa59b0577ae281bb0424c6b9aa4f27b588"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/hou-chi-bi-fu/seg-003.mp3",
+      "durationMs": 13920,
+      "checksum": "5fc507d3ebe8e7d2a9fde0e071ddbe8d7cd5cfacce5ec935ab609b9a5892be84",
+      "sourceHash": "e39ab16067febc2457d6d2528f490c958d3b8c7ee375dbd5fb5f1222b798a90c"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/hou-chi-bi-fu/seg-004.mp3",
+      "durationMs": 11976,
+      "checksum": "e977eb4d0e77cf5b52b5f65d86c5f3746dac8b640b7fe6d254765e54a5c05fbd",
+      "sourceHash": "353c13054a7d9b2efa62b5efc506c3e3df4c335a8ee5fd749c72decc01f14da3"
+    },
+    {
+      "id": "seg-005",
+      "url": "/audio/hou-chi-bi-fu/seg-005.mp3",
+      "durationMs": 15336,
+      "checksum": "82e845084f5c55caa23163eb935536a9cf603779c13c431766ad0364ce546bb5",
+      "sourceHash": "3410886134f14b58233b208f55438ace60079d3595816a44011034dbf7124c35"
+    },
+    {
+      "id": "seg-006",
+      "url": "/audio/hou-chi-bi-fu/seg-006.mp3",
+      "durationMs": 11472,
+      "checksum": "190eefd85a8e587f1115798f70aad4fda16847d5ad199fcf55071304a0846422",
+      "sourceHash": "cb741f6e610c0a8798ac8a2bff53b960e2c214ebbb541cf6bb806b24b14b84f6"
+    },
+    {
+      "id": "seg-007",
+      "url": "/audio/hou-chi-bi-fu/seg-007.mp3",
+      "durationMs": 27720,
+      "checksum": "79ee0a602e89c85d1ba605b566f8ee0897310e240c661902cdd6c72c06401f6e",
+      "sourceHash": "e9fa61f1ec180a63fe42f7e7d62f63ac4cdc9396f5b74403e2b4cc164b5ce66b"
     }
   ]
 }
