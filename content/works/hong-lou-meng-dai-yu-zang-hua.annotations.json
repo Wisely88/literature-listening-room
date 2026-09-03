@@ -1,0 +1,34 @@
+[
+  {
+    "id": "ann-daiyu-001",
+    "workId": "hong-lou-meng-dai-yu-zang-hua",
+    "segmentId": "seg-001",
+    "term": "春榭",
+    "explanation": "春日的亭台。榭，建在台上的敞屋。",
+    "type": "place"
+  },
+  {
+    "id": "ann-daiyu-002",
+    "workId": "hong-lou-meng-dai-yu-zang-hua",
+    "segmentId": "seg-005",
+    "term": "风刀霜剑",
+    "explanation": "比喻风霜严酷，也暗含环境对人的逼迫。",
+    "type": "allusion"
+  },
+  {
+    "id": "ann-daiyu-003",
+    "workId": "hong-lou-meng-dai-yu-zang-hua",
+    "segmentId": "seg-010",
+    "term": "香丘",
+    "explanation": "想象中埋葬花朵的洁净之地。",
+    "type": "word"
+  },
+  {
+    "id": "ann-daiyu-004",
+    "workId": "hong-lou-meng-dai-yu-zang-hua",
+    "segmentId": "seg-011",
+    "term": "污淖",
+    "explanation": "污泥。淖，泥水、泥浆。",
+    "type": "word"
+  }
+]
