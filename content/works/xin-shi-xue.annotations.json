@@ -3,32 +3,80 @@
     "id": "ann-xin-shi-xue-001",
     "workId": "xin-shi-xue",
     "segmentId": "seg-001",
-    "term": "史界革命",
-    "explanation": "史学领域的根本变革。",
-    "type": "word"
+    "term": "泰西",
+    "explanation": "旧时对欧美国家的称呼。",
+    "type": "history"
   },
   {
     "id": "ann-xin-shi-xue-002",
     "workId": "xin-shi-xue",
     "segmentId": "seg-001",
-    "term": "不起",
-    "explanation": "不兴起、不发生。",
+    "term": "史学",
+    "explanation": "研究历史及其规律、意义的学问。",
     "type": "word"
   },
   {
     "id": "ann-xin-shi-xue-003",
     "workId": "xin-shi-xue",
     "segmentId": "seg-001",
-    "term": "遂",
-    "explanation": "于是、就。",
-    "type": "word"
+    "term": "群治",
+    "explanation": "社会群体的组织、治理与共同进步。",
+    "type": "allusion"
   },
   {
     "id": "ann-xin-shi-xue-004",
     "workId": "xin-shi-xue",
     "segmentId": "seg-001",
-    "term": "惟此为大",
-    "explanation": "只有这件事最重要。",
-    "type": "grammar"
+    "term": "正史",
+    "explanation": "官方修撰或体例严整的纪传史书。",
+    "type": "history"
+  },
+  {
+    "id": "ann-xin-shi-xue-005",
+    "workId": "xin-shi-xue",
+    "segmentId": "seg-001",
+    "term": "四庫",
+    "explanation": "清代《四库全书》的简称。",
+    "type": "history"
+  },
+  {
+    "id": "ann-xin-shi-xue-006",
+    "workId": "xin-shi-xue",
+    "segmentId": "seg-001",
+    "term": "朝廷与国家",
+    "explanation": "梁启超强调的王朝统治机构与国民共同体的区别。",
+    "type": "allusion"
+  },
+  {
+    "id": "ann-xin-shi-xue-007",
+    "workId": "xin-shi-xue",
+    "segmentId": "seg-001",
+    "term": "本紀",
+    "explanation": "纪传体史书中记帝王事迹的部分。",
+    "type": "history"
+  },
+  {
+    "id": "ann-xin-shi-xue-008",
+    "workId": "xin-shi-xue",
+    "segmentId": "seg-001",
+    "term": "列傳",
+    "explanation": "纪传体史书中记人物事迹的部分。",
+    "type": "history"
+  },
+  {
+    "id": "ann-xin-shi-xue-009",
+    "workId": "xin-shi-xue",
+    "segmentId": "seg-001",
+    "term": "經世",
+    "explanation": "用于治理现实社会、济世救民。",
+    "type": "word"
+  },
+  {
+    "id": "ann-xin-shi-xue-010",
+    "workId": "xin-shi-xue",
+    "segmentId": "seg-001",
+    "term": "民族主義",
+    "explanation": "以民族共同体和公共责任为核心的现代政治思想。",
+    "type": "allusion"
   }
 ]
