@@ -3,32 +3,80 @@
     "id": "ann-you-xia-lie-zhuan-001",
     "workId": "you-xia-lie-zhuan",
     "segmentId": "seg-001",
-    "term": "儒",
-    "explanation": "儒者。",
-    "type": "word"
+    "term": "韩子",
+    "explanation": "韩非，战国法家代表人物。",
+    "type": "person"
   },
   {
     "id": "ann-you-xia-lie-zhuan-002",
     "workId": "you-xia-lie-zhuan",
     "segmentId": "seg-001",
-    "term": "侠",
-    "explanation": "侠客。",
-    "type": "word"
+    "term": "季次",
+    "explanation": "孔门弟子公皙哀，字季次。",
+    "type": "person"
   },
   {
     "id": "ann-you-xia-lie-zhuan-003",
     "workId": "you-xia-lie-zhuan",
     "segmentId": "seg-001",
-    "term": "讥",
-    "explanation": "讥评、指责。",
-    "type": "word"
+    "term": "原宪",
+    "explanation": "孔子弟子，以贫困守义著称。",
+    "type": "person"
   },
   {
     "id": "ann-you-xia-lie-zhuan-004",
     "workId": "you-xia-lie-zhuan",
     "segmentId": "seg-001",
-    "term": "独行君子",
-    "explanation": "坚持独特操守的君子。",
+    "term": "游侠",
+    "explanation": "重信用、赴急难的民间人物。",
+    "type": "word"
+  },
+  {
+    "id": "ann-you-xia-lie-zhuan-005",
+    "workId": "you-xia-lie-zhuan",
+    "segmentId": "seg-001",
+    "term": "窃钩者诛，窃国者侯",
+    "explanation": "偷小物受诛，篡国者反被封侯的讽刺。",
+    "type": "allusion"
+  },
+  {
+    "id": "ann-you-xia-lie-zhuan-006",
+    "workId": "you-xia-lie-zhuan",
+    "segmentId": "seg-001",
+    "term": "朱家",
+    "explanation": "汉代著名游侠，曾救助季布。",
+    "type": "person"
+  },
+  {
+    "id": "ann-you-xia-lie-zhuan-007",
+    "workId": "you-xia-lie-zhuan",
+    "segmentId": "seg-001",
+    "term": "剧孟",
+    "explanation": "汉代游侠，吴楚之乱时受重视。",
+    "type": "person"
+  },
+  {
+    "id": "ann-you-xia-lie-zhuan-008",
+    "workId": "you-xia-lie-zhuan",
+    "segmentId": "seg-001",
+    "term": "郭解",
+    "explanation": "汉代著名游侠，司马迁重点记述的人物。",
+    "type": "person"
+  },
+  {
+    "id": "ann-you-xia-lie-zhuan-009",
+    "workId": "you-xia-lie-zhuan",
+    "segmentId": "seg-001",
+    "term": "廉絜退让",
+    "explanation": "廉洁、清白并能谦退。",
+    "type": "word"
+  },
+  {
+    "id": "ann-you-xia-lie-zhuan-010",
+    "workId": "you-xia-lie-zhuan",
+    "segmentId": "seg-001",
+    "term": "闾巷",
+    "explanation": "乡里民间。",
     "type": "word"
   }
 ]
