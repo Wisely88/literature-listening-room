@@ -14,7 +14,7 @@ tags: [思想随笔, 精读, 公版]
 moods: [夜读, 思考]
 ambience: [rain]
 defaultAmbience: rain
-sourceNote: 原文依据《论语·子罕》第九篇公版通行本核对；本条目收录三则完整章句选读，译文、背景与赏析为本项目整理。
+sourceNote: 原文依据《论语·子罕》第九篇公版通行本核对；本条目收录三则完整章句选读，译文、背景与赏析为本项目整理。完整章句边界已核验。
 editorialNotes: []
 pronunciationOverrides: []
 ---
