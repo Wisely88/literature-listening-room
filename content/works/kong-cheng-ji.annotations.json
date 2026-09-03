@@ -1,0 +1,42 @@
+[
+  {
+    "id": "ann-kong-cheng-ji-001",
+    "workId": "kong-cheng-ji",
+    "segmentId": "seg-001",
+    "term": "鹤氅",
+    "explanation": "用鸟羽制成的外衣。",
+    "type": "word"
+  },
+  {
+    "id": "ann-kong-cheng-ji-002",
+    "workId": "kong-cheng-ji",
+    "segmentId": "seg-001",
+    "term": "纶巾",
+    "explanation": "古代士人常戴的青丝头巾。",
+    "type": "word"
+  },
+  {
+    "id": "ann-kong-cheng-ji-003",
+    "workId": "kong-cheng-ji",
+    "segmentId": "seg-001",
+    "term": "敌楼",
+    "explanation": "城墙上用于瞭望和防守的楼台。",
+    "type": "word"
+  },
+  {
+    "id": "ann-kong-cheng-ji-004",
+    "workId": "kong-cheng-ji",
+    "segmentId": "seg-001",
+    "term": "操琴",
+    "explanation": "弹奏琴。操，弹奏。",
+    "type": "word"
+  },
+  {
+    "id": "ann-kong-cheng-ji-005",
+    "workId": "kong-cheng-ji",
+    "segmentId": "seg-001",
+    "term": "凭栏",
+    "explanation": "倚靠栏杆。",
+    "type": "word"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "ann-lian-xiang-001",
+    "workId": "lian-xiang",
+    "segmentId": "seg-001",
+    "term": "设帐",
+    "explanation": "设馆授徒、教书。",
+    "type": "word"
+  },
+  {
+    "id": "ann-lian-xiang-002",
+    "workId": "lian-xiang",
+    "segmentId": "seg-001",
+    "term": "红花埠",
+    "explanation": "地名。",
+    "type": "word"
+  },
+  {
+    "id": "ann-lian-xiang-003",
+    "workId": "lian-xiang",
+    "segmentId": "seg-001",
+    "term": "少孤",
+    "explanation": "年少时失去父亲。",
+    "type": "word"
+  },
+  {
+    "id": "ann-lian-xiang-004",
+    "workId": "lian-xiang",
+    "segmentId": "seg-001",
+    "term": "桑生",
+    "explanation": "对桑姓书生的称呼。",
+    "type": "word"
+  },
+  {
+    "id": "ann-lian-xiang-005",
+    "workId": "lian-xiang",
+    "segmentId": "seg-001",
+    "term": "沂州",
+    "explanation": "古州名，今山东临沂一带。",
+    "type": "word"
+  }
+]

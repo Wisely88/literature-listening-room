@@ -1,0 +1,42 @@
+[
+  {
+    "id": "ann-hong-yu-001",
+    "workId": "hong-yu",
+    "segmentId": "seg-001",
+    "term": "广平",
+    "explanation": "地名，今河北一带。",
+    "type": "word"
+  },
+  {
+    "id": "ann-hong-yu-002",
+    "workId": "hong-yu",
+    "segmentId": "seg-001",
+    "term": "少孤",
+    "explanation": "年少时失去父亲。",
+    "type": "word"
+  },
+  {
+    "id": "ann-hong-yu-003",
+    "workId": "hong-yu",
+    "segmentId": "seg-001",
+    "term": "腼腆",
+    "explanation": "性格害羞、不善与人交往。",
+    "type": "word"
+  },
+  {
+    "id": "ann-hong-yu-004",
+    "workId": "hong-yu",
+    "segmentId": "seg-001",
+    "term": "秀美",
+    "explanation": "容貌清秀美丽。",
+    "type": "word"
+  },
+  {
+    "id": "ann-hong-yu-005",
+    "workId": "hong-yu",
+    "segmentId": "seg-001",
+    "term": "教之读",
+    "explanation": "教他读书。之，指相如。",
+    "type": "grammar"
+  }
+]

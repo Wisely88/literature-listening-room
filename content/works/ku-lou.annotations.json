@@ -1,0 +1,42 @@
+[
+  {
+    "id": "ann-ku-lou-001",
+    "workId": "ku-lou",
+    "segmentId": "seg-001",
+    "term": "髑髅",
+    "explanation": "骷髅、头骨。",
+    "type": "word"
+  },
+  {
+    "id": "ann-ku-lou-002",
+    "workId": "ku-lou",
+    "segmentId": "seg-001",
+    "term": "累累",
+    "explanation": "重重堆积的样子。",
+    "type": "word"
+  },
+  {
+    "id": "ann-ku-lou-003",
+    "workId": "ku-lou",
+    "segmentId": "seg-001",
+    "term": "空廊",
+    "explanation": "空旷无人、回声明显的走廊。",
+    "type": "word"
+  },
+  {
+    "id": "ann-ku-lou-004",
+    "workId": "ku-lou",
+    "segmentId": "seg-001",
+    "term": "转向而视",
+    "explanation": "转过头来观看。",
+    "type": "grammar"
+  },
+  {
+    "id": "ann-ku-lou-005",
+    "workId": "ku-lou",
+    "segmentId": "seg-001",
+    "term": "白骨",
+    "explanation": "人的骨骸。",
+    "type": "word"
+  }
+]
