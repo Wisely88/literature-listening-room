@@ -1,7 +1,7 @@
 ---
 id: meng-zi-jin-xin
 slug: meng-zi-jin-xin
-title: 尽心知性
+title: 孟子·尽心上（尽心知性）
 aliases: []
 authorId: meng-zi
 category: 思想随笔
@@ -9,12 +9,12 @@ dynasty: 战国
 language: zh-CN
 estimatedMinutes: 3
 rightsStatus: public-domain
-summary: 孟子从尽心、知性、知天谈修身立命，把内在本心与天道联系起来。
+summary: 《孟子·尽心上》首章从尽心、知性、知天谈修身立命，把内在本心与天道联系起来。
 tags: [思想随笔, 精读, 公版]
 moods: [夜读, 思考]
 ambience: [rain]
 defaultAmbience: rain
-sourceNote: 原文依据《孟子·尽心上》公版通行本核对；分段译文、背景与赏析为本项目整理。
+sourceNote: 原文依据《孟子·尽心上》第一章公版通行本核对；本条目收录“尽心知性”完整章句，译文、背景与赏析为本项目整理。
 editorialNotes: []
 pronunciationOverrides: []
 ---
