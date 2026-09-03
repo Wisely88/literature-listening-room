@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "workId": "gong-an-zhang-shi-an",
+  "provider": "edge-neural",
+  "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
+  "format": "mp3",
+  "generatedAt": "2026-09-01T01:59:55.889Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/gong-an-zhang-shi-an/seg-001.mp3",
+      "durationMs": 12264,
+      "checksum": "e2e25ec78cc20dabf90cc5f57dd147c32536b950f75c46599239c17d76cbaa89",
+      "sourceHash": "34b2c00c3099c9e35665f2c3990c9706937e972881a9feb583bdbc97d3d77751"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/gong-an-zhang-shi-an/seg-002.mp3",
+      "durationMs": 7200,
+      "checksum": "48f83d547f10375ebaf446884bc5701db1dff63de0e53cb46140ebf6edd2570c",
+      "sourceHash": "e583388fdc5c1f1e3404d15cd984dadfb4bc723b4ec721921137b26db845f66b"
+    }
+  ]
+}

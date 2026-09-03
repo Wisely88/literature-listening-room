@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "workId": "shen-ye-hu-sheng",
+  "provider": "edge-neural",
+  "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
+  "format": "mp3",
+  "generatedAt": "2026-09-01T02:16:27.096Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/shen-ye-hu-sheng/seg-001.mp3",
+      "durationMs": 9624,
+      "checksum": "2cdb0e843dedb671b35bbfc1571cb6a25ac23a43b9dc1520b98b26b396609ffe",
+      "sourceHash": "2425c307fccff86388e0ec9389e314acbec37f73c865c5001b0e6482f74fcd9c"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/shen-ye-hu-sheng/seg-002.mp3",
+      "durationMs": 4320,
+      "checksum": "1d0ccd7cfec43042a88af83237a1ab1f26c277d6d2fb1344512b6aaa306b7287",
+      "sourceHash": "180b5b099fddcfe104db23ecc5b290502a0bd7beb419627d400ac7b247093da3"
+    }
+  ]
+}

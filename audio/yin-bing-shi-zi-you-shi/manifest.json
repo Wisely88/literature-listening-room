@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "workId": "yin-bing-shi-zi-you-shi",
+  "provider": "edge-neural",
+  "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
+  "format": "mp3",
+  "generatedAt": "2026-09-01T02:38:31.167Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/yin-bing-shi-zi-you-shi/seg-001.mp3",
+      "durationMs": 7752,
+      "checksum": "d50ddb990cb887d715fbb3ad7f88a0841448a9a73617d900a977c745bb4903eb",
+      "sourceHash": "70aefd39733fc2695730aa80cde5655a5b1b4a7fd69050feafb73ae3804b9700"
+    }
+  ]
+}

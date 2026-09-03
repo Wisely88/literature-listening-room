@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "workId": "zhong-guo-shi-xu-lun",
+  "provider": "edge-neural",
+  "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
+  "format": "mp3",
+  "generatedAt": "2026-09-01T02:39:25.910Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/zhong-guo-shi-xu-lun/seg-001.mp3",
+      "durationMs": 5640,
+      "checksum": "87b4a31d12bef29c22e52ffc4c5ce9fc9207fef690541356fb0b69b6cfc54c6f",
+      "sourceHash": "f77cbdd46be620c15c441cc3c088a067fe6f3c142201d2707bc98293bcdfefa9"
+    }
+  ]
+}

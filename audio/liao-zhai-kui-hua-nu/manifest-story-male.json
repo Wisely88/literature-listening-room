@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "workId": "liao-zhai-kui-hua-nu",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-10%|pitch=-2Hz|voiceId=story-male",
+  "voiceId": "story-male",
+  "format": "mp3",
+  "generatedAt": "2026-09-02T13:13:27.059Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/liao-zhai-kui-hua-nu/seg-001-voice-story-male.mp3",
+      "durationMs": 10632,
+      "checksum": "d1f6e4d8d18d7cdd86d8682f07a79d89aad8ca49170dba8d617c847c446b0ad2",
+      "sourceHash": "0aeacb0b31ecac0c47e6859607fa968d8d50489f176c1e96579e4f538e6f2e3b"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/liao-zhai-kui-hua-nu/seg-002-voice-story-male.mp3",
+      "durationMs": 9912,
+      "checksum": "cfd805b091b34dfd6e6f8000e9ab36e866e47a4d72d48b736e99bf676b1f1d09",
+      "sourceHash": "35fdc79e1df28388a7002dcfbf9536441451009b55faad6b6ff275d73be7b1c5"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "workId": "gong-an-zhang-shi-an",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-10%|pitch=-2Hz|voiceId=story-male",
+  "voiceId": "story-male",
+  "format": "mp3",
+  "generatedAt": "2026-09-02T12:27:48.879Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/gong-an-zhang-shi-an/seg-001-voice-story-male.mp3",
+      "durationMs": 11976,
+      "checksum": "068039004b7d1cd737c9341ba6b3c926073bb811d9b6ee6e8933642f6bd09b79",
+      "sourceHash": "c8ebcb2ede60e6564cf320d619275212d7dda7ef85e75e49c82da745777b9a81"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/gong-an-zhang-shi-an/seg-002-voice-story-male.mp3",
+      "durationMs": 7032,
+      "checksum": "21144fc447027a19bc2140bd7dd6da96a940fd58a128cc200eca748b68e5944c",
+      "sourceHash": "061144c0b5e12da21f2d67f8b79ef75ef09f6dba6b1ed4955331023b53049c26"
+    }
+  ]
+}

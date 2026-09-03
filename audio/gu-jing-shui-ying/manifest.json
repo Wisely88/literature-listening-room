@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "workId": "gu-jing-shui-ying",
+  "provider": "edge-neural",
+  "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
+  "format": "mp3",
+  "generatedAt": "2026-09-01T02:01:23.460Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/gu-jing-shui-ying/seg-001.mp3",
+      "durationMs": 9552,
+      "checksum": "ab7eedae01d02b4a5335a982e1b195003eeeb03a993471deb28fd833bb4e0cf2",
+      "sourceHash": "34934cc14cf1a44c2f05a59bd8305770e2e391bdd618c3221aa7d92547f27ff3"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/gu-jing-shui-ying/seg-002.mp3",
+      "durationMs": 5352,
+      "checksum": "218729f970bef3ce17880bc74863534db5005fd76322031be988e20d2a312e3e",
+      "sourceHash": "54905af8d8ea113242ded8dd67f63424763d52cdfb6b9bc46917f4854c7fa6fa"
+    }
+  ]
+}
