@@ -3,40 +3,88 @@
     "id": "ann-xi-fang-ping-001",
     "workId": "xi-fang-ping",
     "segmentId": "seg-001",
-    "term": "戆拙",
-    "explanation": "憨厚而笨拙。",
-    "type": "word"
+    "term": "东安",
+    "explanation": "地名，今山东一带。",
+    "type": "place"
   },
   {
     "id": "ann-xi-fang-ping-002",
     "workId": "xi-fang-ping",
     "segmentId": "seg-001",
-    "term": "有隙",
-    "explanation": "有嫌隙、结怨。",
+    "term": "戇拙",
+    "explanation": "憨厚而不善机变。",
     "type": "word"
   },
   {
     "id": "ann-xi-fang-ping-003",
     "workId": "xi-fang-ping",
     "segmentId": "seg-001",
-    "term": "垂危",
-    "explanation": "病重将死。",
+    "term": "賕囑",
+    "explanation": "用财物贿赂请托。",
     "type": "word"
   },
   {
     "id": "ann-xi-fang-ping-004",
     "workId": "xi-fang-ping",
     "segmentId": "seg-001",
-    "term": "申冤",
-    "explanation": "为自己或亲人申诉冤屈。",
-    "type": "word"
+    "term": "城隍",
+    "explanation": "地方冥界神祇，主管一城幽魂。",
+    "type": "person"
   },
   {
     "id": "ann-xi-fang-ping-005",
     "workId": "xi-fang-ping",
     "segmentId": "seg-001",
-    "term": "冥府",
-    "explanation": "传统观念中的阴间官府。",
-    "type": "word"
+    "term": "冥王",
+    "explanation": "阴间掌管审判的王者。",
+    "type": "person"
+  },
+  {
+    "id": "ann-xi-fang-ping-006",
+    "workId": "xi-fang-ping",
+    "segmentId": "seg-001",
+    "term": "火床",
+    "explanation": "阴间刑罚中的炽热铁床。",
+    "type": "allusion"
+  },
+  {
+    "id": "ann-xi-fang-ping-007",
+    "workId": "xi-fang-ping",
+    "segmentId": "seg-001",
+    "term": "灌口二郎",
+    "explanation": "二郎神杨戬，传说神居灌口，能明察曲直。",
+    "type": "person"
+  },
+  {
+    "id": "ann-xi-fang-ping-008",
+    "workId": "xi-fang-ping",
+    "segmentId": "seg-001",
+    "term": "九王",
+    "explanation": "上帝殿下的神王，故事中请二郎神查案。",
+    "type": "person"
+  },
+  {
+    "id": "ann-xi-fang-ping-009",
+    "workId": "xi-fang-ping",
+    "segmentId": "seg-001",
+    "term": "褫革",
+    "explanation": "革除功名身份。",
+    "type": "history"
+  },
+  {
+    "id": "ann-xi-fang-ping-010",
+    "workId": "xi-fang-ping",
+    "segmentId": "seg-001",
+    "term": "異史氏",
+    "explanation": "蒲松龄在《聊斋志异》篇末的自称。",
+    "type": "person"
+  },
+  {
+    "id": "ann-xi-fang-ping-011",
+    "workId": "xi-fang-ping",
+    "segmentId": "seg-001",
+    "term": "三纪",
+    "explanation": "三十六年。古代以十二年为一纪。",
+    "type": "history"
   }
 ]
