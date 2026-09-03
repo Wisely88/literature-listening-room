@@ -1,0 +1,42 @@
+[
+  {
+    "id": "ann-jing-ke-ci-qin-001",
+    "workId": "jing-ke-ci-qin",
+    "segmentId": "seg-001",
+    "term": "祖",
+    "explanation": "古代出行前祭祀路神。",
+    "type": "word"
+  },
+  {
+    "id": "ann-jing-ke-ci-qin-002",
+    "workId": "jing-ke-ci-qin",
+    "segmentId": "seg-002",
+    "term": "变徵",
+    "explanation": "古代音乐调名，声调悲凉。",
+    "type": "word"
+  },
+  {
+    "id": "ann-jing-ke-ci-qin-003",
+    "workId": "jing-ke-ci-qin",
+    "segmentId": "seg-003",
+    "term": "慷慨羽声",
+    "explanation": "激昂悲壮的羽调歌声。",
+    "type": "word"
+  },
+  {
+    "id": "ann-jing-ke-ci-qin-004",
+    "workId": "jing-ke-ci-qin",
+    "segmentId": "seg-003",
+    "term": "瞋目",
+    "explanation": "瞪大眼睛，形容愤怒激昂。",
+    "type": "word"
+  },
+  {
+    "id": "ann-jing-ke-ci-qin-005",
+    "workId": "jing-ke-ci-qin",
+    "segmentId": "seg-003",
+    "term": "中庶子",
+    "explanation": "太子或诸侯身边的官职名。",
+    "type": "word"
+  }
+]

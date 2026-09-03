@@ -1,0 +1,42 @@
+[
+  {
+    "id": "ann-wan-bi-gui-zhao-001",
+    "workId": "wan-bi-gui-zhao",
+    "segmentId": "seg-001",
+    "term": "遗",
+    "explanation": "送给。",
+    "type": "word"
+  },
+  {
+    "id": "ann-wan-bi-gui-zhao-002",
+    "workId": "wan-bi-gui-zhao",
+    "segmentId": "seg-002",
+    "term": "易璧",
+    "explanation": "交换和氏璧。易，交换。",
+    "type": "word"
+  },
+  {
+    "id": "ann-wan-bi-gui-zhao-003",
+    "workId": "wan-bi-gui-zhao",
+    "segmentId": "seg-003",
+    "term": "报秦",
+    "explanation": "出使秦国回复。",
+    "type": "word"
+  },
+  {
+    "id": "ann-wan-bi-gui-zhao-004",
+    "workId": "wan-bi-gui-zhao",
+    "segmentId": "seg-004",
+    "term": "瑕",
+    "explanation": "玉上的斑点或裂痕。",
+    "type": "word"
+  },
+  {
+    "id": "ann-wan-bi-gui-zhao-005",
+    "workId": "wan-bi-gui-zhao",
+    "segmentId": "seg-004",
+    "term": "却立",
+    "explanation": "退后站立。却，退。",
+    "type": "word"
+  }
+]

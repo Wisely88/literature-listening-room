@@ -1,6 +1,42 @@
 [
-  {"id":"ann-lian-001","workId":"lian-po-lin-xiang-ru-fu-jing","segmentId":"seg-001","term":"肉袒负荆","explanation":"脱去上衣，背着荆条，表示请罪。袒，裸露；荆，荆条。","type":"word"},
-  {"id":"ann-lian-002","workId":"lian-po-lin-xiang-ru-fu-jing","segmentId":"seg-001","term":"因宾客","explanation":"通过宾客、借助宾客引见。因，依靠、经由。","type":"grammar"},
-  {"id":"ann-lian-003","workId":"lian-po-lin-xiang-ru-fu-jing","segmentId":"seg-001","term":"宽之","explanation":"宽容我。之，指廉颇自己。","type":"grammar"},
-  {"id":"ann-lian-004","workId":"lian-po-lin-xiang-ru-fu-jing","segmentId":"seg-002","term":"刎颈之交","explanation":"可以割颈相交、同生共死的朋友，形容交情深厚。","type":"allusion"}
+  {
+    "id": "ann-lian-po-lin-xiang-ru-fu-jing-001",
+    "workId": "lian-po-lin-xiang-ru-fu-jing",
+    "segmentId": "seg-001",
+    "term": "肉袒",
+    "explanation": "脱去上衣，露出身体，表示恭敬请罪。",
+    "type": "word"
+  },
+  {
+    "id": "ann-lian-po-lin-xiang-ru-fu-jing-002",
+    "workId": "lian-po-lin-xiang-ru-fu-jing",
+    "segmentId": "seg-002",
+    "term": "负荆",
+    "explanation": "背着荆条，表示愿受责罚。",
+    "type": "word"
+  },
+  {
+    "id": "ann-lian-po-lin-xiang-ru-fu-jing-003",
+    "workId": "lian-po-lin-xiang-ru-fu-jing",
+    "segmentId": "seg-002",
+    "term": "因宾客",
+    "explanation": "通过宾客引见。因，依靠、通过。",
+    "type": "grammar"
+  },
+  {
+    "id": "ann-lian-po-lin-xiang-ru-fu-jing-004",
+    "workId": "lian-po-lin-xiang-ru-fu-jing",
+    "segmentId": "seg-002",
+    "term": "鄙贱",
+    "explanation": "见识浅陋、地位卑微的自谦说法。",
+    "type": "word"
+  },
+  {
+    "id": "ann-lian-po-lin-xiang-ru-fu-jing-005",
+    "workId": "lian-po-lin-xiang-ru-fu-jing",
+    "segmentId": "seg-002",
+    "term": "刎颈之交",
+    "explanation": "同生共死的深厚友谊。",
+    "type": "word"
+  }
 ]

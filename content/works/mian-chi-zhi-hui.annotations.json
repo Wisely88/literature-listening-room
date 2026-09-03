@@ -1,0 +1,42 @@
+[
+  {
+    "id": "ann-mian-chi-zhi-hui-001",
+    "workId": "mian-chi-zhi-hui",
+    "segmentId": "seg-001",
+    "term": "为好",
+    "explanation": "交好、修好。",
+    "type": "word"
+  },
+  {
+    "id": "ann-mian-chi-zhi-hui-002",
+    "workId": "mian-chi-zhi-hui",
+    "segmentId": "seg-002",
+    "term": "酣",
+    "explanation": "饮酒尽兴。",
+    "type": "word"
+  },
+  {
+    "id": "ann-mian-chi-zhi-hui-003",
+    "workId": "mian-chi-zhi-hui",
+    "segmentId": "seg-003",
+    "term": "瑟",
+    "explanation": "古代弦乐器。",
+    "type": "word"
+  },
+  {
+    "id": "ann-mian-chi-zhi-hui-004",
+    "workId": "mian-chi-zhi-hui",
+    "segmentId": "seg-003",
+    "term": "盆缶",
+    "explanation": "瓦器，秦地乐器。缶，fǒu。",
+    "type": "word"
+  },
+  {
+    "id": "ann-mian-chi-zhi-hui-005",
+    "workId": "mian-chi-zhi-hui",
+    "segmentId": "seg-003",
+    "term": "靡",
+    "explanation": "退却、倒下。",
+    "type": "word"
+  }
+]
