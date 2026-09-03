@@ -4,14 +4,63 @@
   "provider": "edge-neural",
   "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
   "format": "mp3",
-  "generatedAt": "2026-09-01T02:01:34.351Z",
+  "generatedAt": "2026-09-03T12:31:18.684Z",
   "segments": [
     {
       "id": "seg-001",
       "url": "/audio/gui-qu-lai-xi-ci/seg-001.mp3",
-      "durationMs": 7272,
-      "checksum": "4189ca8f73ca68754305241f93ebec9e8b7d79fc1f8ed516ad006bc864f49ef4",
-      "sourceHash": "207832f596024603bf9a69ba92a7afed696245d57e9d031017e051db850f209a"
+      "durationMs": 15384,
+      "checksum": "d70aea0cd13ac1d6177d0c7a573131bf600df70cb0ba946dbf6f6b06bed0f75b",
+      "sourceHash": "c5eb6e20f1d1e1a969270e44ccf6ee921ea5a97a3dbb22d4abb76832221edd65"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/gui-qu-lai-xi-ci/seg-002.mp3",
+      "durationMs": 7776,
+      "checksum": "51a0ba8a823246bdd8a70a99d0437570e7791707fbfeef2bfdd94d655b9819ab",
+      "sourceHash": "28d8bc226ca8ec5817e2c0666cf4acf1a1ce0030666466158ce4ce65e6c2338c"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/gui-qu-lai-xi-ci/seg-003.mp3",
+      "durationMs": 15792,
+      "checksum": "25fa6b04354a41c9eacdca6cf089f5687ab065b5b188d9c9ea5d81518d968f2b",
+      "sourceHash": "c9860df41df891ce05515e3b87da7cfdc2bdbb87ef76774164bf04c3eef7145b"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/gui-qu-lai-xi-ci/seg-004.mp3",
+      "durationMs": 11472,
+      "checksum": "65df81cafbe2b08e0a01637992626bf462ff17c75233abb92ad50911391ac2f8",
+      "sourceHash": "50e3de3d841f253308dbf5efe9a56ed15e99988db261cb66f8b78299d1ea597a"
+    },
+    {
+      "id": "seg-005",
+      "url": "/audio/gui-qu-lai-xi-ci/seg-005.mp3",
+      "durationMs": 15264,
+      "checksum": "1d4693b529664365beea7e361a5ad7b0ca809e44c67d94b29294104b869139bc",
+      "sourceHash": "296cc4988ef35b93124f03444dacd35f851a51c9ea5bf22dfd1ec5f7a5157795"
+    },
+    {
+      "id": "seg-006",
+      "url": "/audio/gui-qu-lai-xi-ci/seg-006.mp3",
+      "durationMs": 14664,
+      "checksum": "ddd826d9c5c9fd88fd4540afe73350f96f503d7dc52ab2a25a2452d6e468e1b8",
+      "sourceHash": "64f4581679bd7ad030c4f54ed5cc4070376c87f2fae61423a61af4b4087044fe"
+    },
+    {
+      "id": "seg-007",
+      "url": "/audio/gui-qu-lai-xi-ci/seg-007.mp3",
+      "durationMs": 16896,
+      "checksum": "4ce03146b31a113e26bcb6e1925c594d58a1ed8c516b1c959feed8a422c159bd",
+      "sourceHash": "071f1fdfd9ef68ad1181e3e463420450ad9f21856ab0a1374d4468c77ca02f9a"
+    },
+    {
+      "id": "seg-008",
+      "url": "/audio/gui-qu-lai-xi-ci/seg-008.mp3",
+      "durationMs": 4344,
+      "checksum": "7abbd7e0dbea4cb5ff1630c081540b087ca03f3e1d1cb1d5ccefe35d71b2b289",
+      "sourceHash": "fe64b025155cee3f0a82ca4881c1096213140d8b5c9a88b92e078b06bc316101"
     }
   ]
 }

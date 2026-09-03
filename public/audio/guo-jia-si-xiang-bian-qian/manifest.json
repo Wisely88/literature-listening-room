@@ -4,14 +4,63 @@
   "provider": "edge-neural",
   "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
   "format": "mp3",
-  "generatedAt": "2026-09-01T02:01:38.424Z",
+  "generatedAt": "2026-09-03T12:32:16.597Z",
   "segments": [
     {
       "id": "seg-001",
       "url": "/audio/guo-jia-si-xiang-bian-qian/seg-001.mp3",
-      "durationMs": 8064,
-      "checksum": "f6b3a0cab75d13435b14796b939ad3d4ef41e1df1a0990b845f7ee1acb670e0c",
-      "sourceHash": "c7b6cab6e5090e46d308031c2101c914a5fa33ac4e6c667309a417de713c494c"
+      "durationMs": 72072,
+      "checksum": "07481505dc5495d599453bbce25e30a2a63d6315056c168b34092fa090df0de5",
+      "sourceHash": "aa1f32827b19319aa54ad387bd400e949ada1a7b9c8c9394a1e2b4bc0e6df3ef"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/guo-jia-si-xiang-bian-qian/seg-002.mp3",
+      "durationMs": 95376,
+      "checksum": "667637128d14ded41d4744f4c861177bdeed0ae42269017eed8e1a2befae49a9",
+      "sourceHash": "6eafad45af61d9bc38d92e7e177e84cc39ff9c50bf8558afdfd796e93d4f4d70"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/guo-jia-si-xiang-bian-qian/seg-003.mp3",
+      "durationMs": 94632,
+      "checksum": "cb7c5022830c680cc6b7f36674982221ec92d5c341e877cf361cdc037dcd44b5",
+      "sourceHash": "8a6d70d35226e2ef43f4ec7b4446e4bcdd392db950a081b01975b4762d56edd7"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/guo-jia-si-xiang-bian-qian/seg-004.mp3",
+      "durationMs": 36000,
+      "checksum": "4c78a84e110b31047c3066a487ef6ca3b11a7114df6732f221aee7205be570d1",
+      "sourceHash": "2756221a1f927071b0e2ce56ea8f7bcd743ef6679caa87408c17c55f5a11f2e4"
+    },
+    {
+      "id": "seg-005",
+      "url": "/audio/guo-jia-si-xiang-bian-qian/seg-005.mp3",
+      "durationMs": 51384,
+      "checksum": "550096296d8bae22ff451fe1432d5baea97f864b2f0de652361e42c9d357444f",
+      "sourceHash": "37e4fee7d7955207c61b331d837e261de8c76b08c00d502aca5c65e76f35c79f"
+    },
+    {
+      "id": "seg-006",
+      "url": "/audio/guo-jia-si-xiang-bian-qian/seg-006.mp3",
+      "durationMs": 40128,
+      "checksum": "640410cf4d2b2b9618339413c37c4bc13075c3baf24861fd1bf6c33082953292",
+      "sourceHash": "d5b233893d0039c466172f442729c2ee28adce640b36825e29dfd665162c6f2a"
+    },
+    {
+      "id": "seg-007",
+      "url": "/audio/guo-jia-si-xiang-bian-qian/seg-007.mp3",
+      "durationMs": 43128,
+      "checksum": "ae6b000995f95cdb3789782dad8dda4f0b90508715a3f87b3ed3d2aa7f139e1b",
+      "sourceHash": "68a3778ba5b342748db268a9ef62108f27605685cef1495170fb45e0f83aaed0"
+    },
+    {
+      "id": "seg-008",
+      "url": "/audio/guo-jia-si-xiang-bian-qian/seg-008.mp3",
+      "durationMs": 77160,
+      "checksum": "15e89530555e3ca3a5caf450306f0c223307b9c38c3afd0ebb158e45f0b80188",
+      "sourceHash": "b7e4449e86f63b4c01643204fe5b8ee8f9435c0b5c1a86d221e7ddfa550f56a5"
     }
   ]
 }

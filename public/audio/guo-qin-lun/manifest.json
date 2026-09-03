@@ -4,21 +4,28 @@
   "provider": "edge-neural",
   "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
   "format": "mp3",
-  "generatedAt": "2026-09-01T02:01:46.145Z",
+  "generatedAt": "2026-09-03T12:32:29.450Z",
   "segments": [
     {
       "id": "seg-001",
       "url": "/audio/guo-qin-lun/seg-001.mp3",
-      "durationMs": 15168,
-      "checksum": "c22c048c9c611a6b4ca2fa83eb55ea3346af3850bc40d57cf3054bc7d5800c79",
-      "sourceHash": "330be8d33c274a49a8b4c029437292581af9447fd9c560bc975fe9dcb8cdad54"
+      "durationMs": 22104,
+      "checksum": "2b5b1c7442648d5d19fc01fbcec2f99db6af67d096938247e321da91c1787c8e",
+      "sourceHash": "598e814ef0d4813687bc456a7a661e561bf83c27cc7678c0a342f5c9ea5293ed"
     },
     {
       "id": "seg-002",
       "url": "/audio/guo-qin-lun/seg-002.mp3",
-      "durationMs": 11016,
-      "checksum": "3d6e57591fa169be5986f3f7b311d699f25f55e8dbdbc8994a72528d8f2570a3",
-      "sourceHash": "225c0597a747c0e4471fed8cccd6ed65a1bb678fbc02e56014638b8db06d3db2"
+      "durationMs": 22128,
+      "checksum": "392717574578e4b69f91bd84c78b736fbaf69e2c03144fb3b38f7f1e455f78ad",
+      "sourceHash": "1f151e9198c86619099f5c0f98069a10085aaa33a0b9bce057a6d43432125cf6"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/guo-qin-lun/seg-003.mp3",
+      "durationMs": 9528,
+      "checksum": "3b4c2f16526811d3f6651f3c409e9c1ea5eede962884236462da74f1ae717590",
+      "sourceHash": "4227037a8af89d8a8150910e5d927da800ff4ef2c0b338bd5d1cd7c62605f4d3"
     }
   ]
 }

@@ -4,14 +4,14 @@
   "provider": "edge-neural",
   "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
   "format": "mp3",
-  "generatedAt": "2026-09-01T02:01:27.399Z",
+  "generatedAt": "2026-09-03T12:30:31.163Z",
   "segments": [
     {
       "id": "seg-001",
       "url": "/audio/guan-yan-lie-zhuan/seg-001.mp3",
-      "durationMs": 7248,
-      "checksum": "1952e7657dd7a34b6128293b0cddb329627684b64a96b39f55d7b890d5a2fcd0",
-      "sourceHash": "9d08ef033be75875e20b3e96bd480f8a1d61d7420262ce9f1a2e133fe123eadb"
+      "durationMs": 326688,
+      "checksum": "47e6027b054db8f165ee2723d4141a432dca1ea374eb642f98c6810b64270509",
+      "sourceHash": "7bd5c78c3d3d25d69ff59c9d70271c2e3b6090ef8212a74cfea542bfdf38bdb2"
     }
   ]
 }

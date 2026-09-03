@@ -4,21 +4,42 @@
   "provider": "edge-neural",
   "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
   "format": "mp3",
-  "generatedAt": "2026-09-01T02:03:45.307Z",
+  "generatedAt": "2026-09-03T12:34:06.844Z",
   "segments": [
     {
       "id": "seg-001",
       "url": "/audio/hong-men-yan/seg-001.mp3",
-      "durationMs": 12936,
-      "checksum": "61c813cff4c932f3541d7bbec617b8f217fe4a071da3983f6e04aefe5c9bd326",
-      "sourceHash": "44b83a054b55246c55760da0cbb58103bcc4a53c9b61e7bd5f0931e235f4be25"
+      "durationMs": 18192,
+      "checksum": "89d60f7db543fb9ce69272c1b541b7f749bc8a3c4c0fe9e299defc1ae1bfebd0",
+      "sourceHash": "7c5a6b26c9a6da81f54e7c710012777099a7548c05aabc44d8c001ea6dee31bd"
     },
     {
       "id": "seg-002",
       "url": "/audio/hong-men-yan/seg-002.mp3",
-      "durationMs": 5376,
-      "checksum": "1acdebcfc25f65ed71871daa0f83e88173d169c472a8dcdca94e56837c24cf07",
-      "sourceHash": "76bdf82e6c1ca16b2c5436d35d5e392b20bebf7895a1a421cddd84c4dde92ea4"
+      "durationMs": 19800,
+      "checksum": "0890aef34f6616cbc77526eccfd18f8f7a506054788f7c4d0f561d8083148c02",
+      "sourceHash": "f12e30ad5df7e61283c11e9e2487cda8743dca2499d3d68ee8ad4b590744ca85"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/hong-men-yan/seg-003.mp3",
+      "durationMs": 18720,
+      "checksum": "48e225ef6d33c2547215f9b8bfb82e354417713bd1ec02f3f6b976965e9df098",
+      "sourceHash": "d0db1e4b418a84be075fe46d6fd4b0d605182b418b5ff90e652b347bd7604567"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/hong-men-yan/seg-004.mp3",
+      "durationMs": 44088,
+      "checksum": "9e057d8cf45ea9eb9730807144eb1f31ffd57becb4ac58b733755a573470d0fc",
+      "sourceHash": "5b26ec5fc6e1530b12b0bd700f41c1ff527e7a4931c9487c202affbd47dc8c44"
+    },
+    {
+      "id": "seg-005",
+      "url": "/audio/hong-men-yan/seg-005.mp3",
+      "durationMs": 10296,
+      "checksum": "7e93bea57520a56dd8c98e5784650a04715d0ae5e5477f768a7d5a6cf555a790",
+      "sourceHash": "96d7a0e293c538476c1035c2f71a31507ae954aaa4d6d55ac21b312c0f510490"
     }
   ]
 }

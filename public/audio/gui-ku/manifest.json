@@ -4,14 +4,14 @@
   "provider": "edge-neural",
   "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
   "format": "mp3",
-  "generatedAt": "2026-09-01T02:01:30.853Z",
+  "generatedAt": "2026-09-03T12:30:37.937Z",
   "segments": [
     {
       "id": "seg-001",
       "url": "/audio/gui-ku/seg-001.mp3",
-      "durationMs": 6432,
-      "checksum": "34c5c89aa81d8ed0a1d6767da9289df4fff3b216eb44d1c696c1a593fa7f78ea",
-      "sourceHash": "9bdd7f645b17102d92098f596fa5d6d9cc064e314c7c734fb397ae2c83a4effc"
+      "durationMs": 99168,
+      "checksum": "f20c8296fcda2c66b6b5d7a3518693798d60b9eaf83953f824d5c065f8184879",
+      "sourceHash": "6d897497c3d339c11252287d5f69220ffa1175c2b88467ac21506c658119e520"
     }
   ]
 }
