@@ -1,0 +1,34 @@
+[
+  {
+    "id": "ann-wusong-001",
+    "workId": "shui-hu-chuan-wu-song-da-hu",
+    "segmentId": "seg-001",
+    "term": "景阳冈",
+    "explanation": "《水浒传》中武松打虎的地点。",
+    "type": "place"
+  },
+  {
+    "id": "ann-wusong-002",
+    "workId": "shui-hu-chuan-wu-song-da-hu",
+    "segmentId": "seg-005",
+    "term": "吊睛白额大虫",
+    "explanation": "眼睛上吊、额头有白色花纹的猛虎。大虫，古代对老虎的称呼。",
+    "type": "word"
+  },
+  {
+    "id": "ann-wusong-003",
+    "workId": "shui-hu-chuan-wu-song-da-hu",
+    "segmentId": "seg-007",
+    "term": "三般提不着",
+    "explanation": "三种扑、掀、剪的动作都没有抓到。",
+    "type": "word"
+  },
+  {
+    "id": "ann-wusong-004",
+    "workId": "shui-hu-chuan-wu-song-da-hu",
+    "segmentId": "seg-010",
+    "term": "纳定",
+    "explanation": "牢牢按住，使其不能动弹。",
+    "type": "word"
+  }
+]
