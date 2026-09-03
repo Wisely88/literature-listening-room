@@ -4,14 +4,28 @@
   "provider": "edge-neural",
   "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
   "format": "mp3",
-  "generatedAt": "2026-09-01T02:10:22.846Z",
+  "generatedAt": "2026-09-03T12:54:09.328Z",
   "segments": [
     {
       "id": "seg-001",
       "url": "/audio/lun-yu-zi-han/seg-001.mp3",
       "durationMs": 4296,
-      "checksum": "3b31598ac9ec2847a84236d46fc9677cdd4c1777b6c72dd77db7ab479c34a58f",
+      "checksum": "15b6a3b802a3f3ca3b5502994783b1c6d8c78f3d44f7640e017833eb2309def8",
       "sourceHash": "a27521dba9835e210a05e84077d660d4b86a52e016435a26d3ab957449f29dca"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/lun-yu-zi-han/seg-002.mp3",
+      "durationMs": 3792,
+      "checksum": "34e0f37f91af0aa1c2674a4607e3ee8d42b55fdd05f8a0414d1d29d84f552e5f",
+      "sourceHash": "b363bb6172fce5e843e71444addf422273964ec3e289f47f50c5c3f17b171896"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/lun-yu-zi-han/seg-003.mp3",
+      "durationMs": 8712,
+      "checksum": "5b82af1482d08eeff9eababa3cc1bb35a41e06f86769413941b0f98de98a3bc8",
+      "sourceHash": "aed110cdbf3b165e08165df63a7351d69f8f45bb7ad81555dfec188fbbf950aa"
     }
   ]
 }

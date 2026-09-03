@@ -4,14 +4,21 @@
   "provider": "edge-neural",
   "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
   "format": "mp3",
-  "generatedAt": "2026-09-01T02:10:19.454Z",
+  "generatedAt": "2026-09-03T12:53:54.388Z",
   "segments": [
     {
       "id": "seg-001",
       "url": "/audio/lun-yu-yong-ye/seg-001.mp3",
       "durationMs": 4872,
-      "checksum": "d73fd142640f9513f726a5f0d7183c820bc0ec9361a98b5d107bc7de1157268b",
+      "checksum": "79cae72196abfa6c51db46a2aef3970379127595ec89729f12a23519fa1684c6",
       "sourceHash": "3ebdf883e52a299f4f1e2c56027587c85b2ba3708c949fdbd533f122c9c363db"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/lun-yu-yong-ye/seg-002.mp3",
+      "durationMs": 9144,
+      "checksum": "55b60803ee04add27def89f752fdb4e7b3a05d94151c0400a19a3369a5599463",
+      "sourceHash": "f05e6556b572db64db156dd873113dcac28e98c3c69d41989d65562887797827"
     }
   ]
 }

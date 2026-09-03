@@ -4,21 +4,42 @@
   "provider": "edge-neural",
   "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
   "format": "mp3",
-  "generatedAt": "2026-09-01T02:08:35.905Z",
+  "generatedAt": "2026-09-03T12:48:06.962Z",
   "segments": [
     {
       "id": "seg-001",
       "url": "/audio/liang-qi-chao-lun-yi-li/seg-001.mp3",
-      "durationMs": 11208,
-      "checksum": "60b98096a0aa93547dbb391dfed0ee51b34f8e88392ebf5db21bed9d694b93b0",
-      "sourceHash": "117a6bbc08b4f4821c3da93760da015a814ac711b1ddee67000f8b69dd39c3d7"
+      "durationMs": 370536,
+      "checksum": "d3822b20eb6f45a10c7125036a1370a0c242dca5c0c4c3f3289e62d79a676c5b",
+      "sourceHash": "954d4e9fb42c2a8b07715fe0cb8086f4694be3669a265c5e5a170cbd25aef09a"
     },
     {
       "id": "seg-002",
       "url": "/audio/liang-qi-chao-lun-yi-li/seg-002.mp3",
-      "durationMs": 7368,
-      "checksum": "5b6706a77f8840b6aaba13fbf2ea7433926d090c270d500a38b4d411b454b4f6",
-      "sourceHash": "2c22a1b3076467301ab0252db9d88cfec1139d0eaf7412c80fbea86c69b2f6a2"
+      "durationMs": 352896,
+      "checksum": "47e8ad042c919d974bce8f2383e342f36718b4d474dd47e9bc4e6da0f0619d17",
+      "sourceHash": "5c6c8f867855b759434ce42a8131809b3f58aa3cdcde2ea02c91d95318fae916"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/liang-qi-chao-lun-yi-li/seg-003.mp3",
+      "durationMs": 312984,
+      "checksum": "ef13724d654157bf8392a50df161aa43a558084ccc686686189e5a34333c5e8f",
+      "sourceHash": "e9cef30a39efe7023206ee21263be397aa351abe75be317aa3a0d1ac621b9638"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/liang-qi-chao-lun-yi-li/seg-004.mp3",
+      "durationMs": 274104,
+      "checksum": "0ab1216f0d74aae9fc3be7e6f89531247d05b557611bcf6f917052b0e38978ac",
+      "sourceHash": "e21d454f4b19ca48bf8d73fa15bf8cc898e8b367137b6259e351a4e1c0e5d78a"
+    },
+    {
+      "id": "seg-005",
+      "url": "/audio/liang-qi-chao-lun-yi-li/seg-005.mp3",
+      "durationMs": 166800,
+      "checksum": "cf1f06c3a9987a86cb4931b3799fac4357df130bada8b2525a129b484c8fbc20",
+      "sourceHash": "40871dbc5481b46550b0ef66080997b986bb6767f842010c4c9015776245eab1"
     }
   ]
 }

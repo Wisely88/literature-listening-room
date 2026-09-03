@@ -4,14 +4,35 @@
   "provider": "edge-neural",
   "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
   "format": "mp3",
-  "generatedAt": "2026-09-01T02:09:54.572Z",
+  "generatedAt": "2026-09-03T12:51:22.986Z",
   "segments": [
     {
       "id": "seg-001",
       "url": "/audio/lu-pan/seg-001.mp3",
-      "durationMs": 7968,
-      "checksum": "83a26e89ef12292007327bc46d56bed100b86ab057df09e6ee369e04d1140a09",
-      "sourceHash": "d0ad77618141dda0364d8f7479449c064c77643d87214e6fd53e0d4449716efa"
+      "durationMs": 243120,
+      "checksum": "b6f07b993f7f2a5e80dab9a6e862c62471c9d35b957edea92a1969d6b07df309",
+      "sourceHash": "8efed7977b6cb474db6240f9c51585d1dfbcc34513bb04eb6230e4e58d31f801"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/lu-pan/seg-002.mp3",
+      "durationMs": 221088,
+      "checksum": "44f55e7e0f1ccdaa71d3d9ffdf889f5fdd76131e554d8fb3eba651053cbfafad",
+      "sourceHash": "7ff656a67c64714abead3ca2b31d48adc09480f1d73e02bf45c10613b822b752"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/lu-pan/seg-003.mp3",
+      "durationMs": 182640,
+      "checksum": "39a6f334253579b1e93dae18783ceb7d61af4a8b3839a0ecba1eb9169d40eeae",
+      "sourceHash": "a7661224c0bb5e1e04285f92ac0fe2512fe3f9edce7f516190a9eddd050baf9c"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/lu-pan/seg-004.mp3",
+      "durationMs": 40416,
+      "checksum": "394edf8b563d37533baed23466d8ffdc7ffe24306f1930103bc08ad31486775b",
+      "sourceHash": "15c7ae7b63b93f46e22cc8e89d3863c5d35fac2d6a6044188a54fd2fc139164a"
     }
   ]
 }

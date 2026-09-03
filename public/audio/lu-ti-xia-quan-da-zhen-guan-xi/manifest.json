@@ -4,14 +4,49 @@
   "provider": "edge-neural",
   "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
   "format": "mp3",
-  "generatedAt": "2026-09-01T02:09:58.153Z",
+  "generatedAt": "2026-09-03T12:53:20.075Z",
   "segments": [
     {
       "id": "seg-001",
       "url": "/audio/lu-ti-xia-quan-da-zhen-guan-xi/seg-001.mp3",
-      "durationMs": 6648,
-      "checksum": "e1357403a10890ac98851ae1caec10a74a73562fdfb667648fe60b2a86b199a6",
-      "sourceHash": "854b5c1d79fb253053878a84a8ed17bf3c8536f835393b95ce311758e8d1db91"
+      "durationMs": 441480,
+      "checksum": "4bfd491e05ee7edaba0573492b3bff7cbbed0dc18db0af2b913e0c7da51755c9",
+      "sourceHash": "bc360f306179c60ce88f30525cc8cce21b5a2508f33762a88555fbf73484913f"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/lu-ti-xia-quan-da-zhen-guan-xi/seg-002.mp3",
+      "durationMs": 413736,
+      "checksum": "75b98e70d6bd68c74ede1f831ddff61ef1bace45b98b1d9153fddc23d515d312",
+      "sourceHash": "e7de4d39fef203802acc22fa0151e8d1cc5d41de1454d1ea378299730daf2c1f"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/lu-ti-xia-quan-da-zhen-guan-xi/seg-003.mp3",
+      "durationMs": 378624,
+      "checksum": "fe1851280a3a174d81e53a6cf5f1fd497e924021e967fe3932309da330e22ba0",
+      "sourceHash": "0ffc059b54d0e8b83699c0e6cb49b389879785b8049fa7f084743e2f449aaaf3"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/lu-ti-xia-quan-da-zhen-guan-xi/seg-004.mp3",
+      "durationMs": 335160,
+      "checksum": "a45fef8fac0f81d047b675647874ff6e15adf792b8c53781a0bf6bd24c9b0f02",
+      "sourceHash": "a5e357812b749589fa33301a364b641621473918c5ed79cdf7af3a6aa856f42f"
+    },
+    {
+      "id": "seg-005",
+      "url": "/audio/lu-ti-xia-quan-da-zhen-guan-xi/seg-005.mp3",
+      "durationMs": 282024,
+      "checksum": "48e384d36ea1d035d59109c3518c809f1f56a72a4800e48ade0bf427c2465e43",
+      "sourceHash": "8621968f0f891e90dc67d043cd2cd852eb78ea8f82a91aea1f55abd326ea842e"
+    },
+    {
+      "id": "seg-006",
+      "url": "/audio/lu-ti-xia-quan-da-zhen-guan-xi/seg-006.mp3",
+      "durationMs": 62280,
+      "checksum": "9e937e3aacdddd28a12750e5b7e5a5fe60c8be56844e5aa3b6cec6f363db6a27",
+      "sourceHash": "2414a9850dd0349def39dbc2355a835554c64e56dfb1bca0e5976ded1bbf083f"
     }
   ]
 }

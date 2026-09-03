@@ -4,14 +4,28 @@
   "provider": "edge-neural",
   "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
   "format": "mp3",
-  "generatedAt": "2026-09-01T02:03:48.750Z",
+  "generatedAt": "2026-09-03T12:51:26.713Z",
   "segments": [
     {
       "id": "seg-001",
       "url": "/audio/hong-yu/seg-001.mp3",
-      "durationMs": 6672,
-      "checksum": "83688e39c829f6c5d38d8d94879bdcae1afea7597e1729628b0f714af8ca0c13",
-      "sourceHash": "611ff7f8a2602930ab68d1363037cbf572c14f336ffd120ffa6411f06a925a86"
+      "durationMs": 238560,
+      "checksum": "b0f63fdcf39789cf44a456b281f04be34652d9a5ef307fcc2ffa8a4f6fba90c4",
+      "sourceHash": "1e4edb882b7f6b68ea8e60ba34ef500805ec20496ed8b8b38369ad74174937e3"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/hong-yu/seg-002.mp3",
+      "durationMs": 209328,
+      "checksum": "33da91077ac6f2a1b5b63b74081e53f160b112ecbc8db66940d725a0bc744501",
+      "sourceHash": "38cc1266d5d40dce6880656d22b8673ff15c71bdc6747c43279c38013cb9bb63"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/hong-yu/seg-003.mp3",
+      "durationMs": 177936,
+      "checksum": "fbd6ba63ee32d95401700b4bff5c15e4ccef4e929d2d6338edfa7ed4bcc8fa4f",
+      "sourceHash": "574078e2dea194c2bb38bee02c713edf9afdfb89430af800efbf5ce9b4187248"
     }
   ]
 }

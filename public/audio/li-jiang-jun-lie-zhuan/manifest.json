@@ -4,14 +4,35 @@
   "provider": "edge-neural",
   "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
   "format": "mp3",
-  "generatedAt": "2026-09-01T02:08:09.941Z",
+  "generatedAt": "2026-09-03T12:44:50.665Z",
   "segments": [
     {
       "id": "seg-001",
       "url": "/audio/li-jiang-jun-lie-zhuan/seg-001.mp3",
-      "durationMs": 9192,
-      "checksum": "de2359d18d7be0470831f225984ffe92dc1918a0a48d5e9bbc6e757983952c92",
-      "sourceHash": "458aa22eb0bd935dbfa4a48b346e8a380c1c1686e04ab950c98040c465bac5b6"
+      "durationMs": 262440,
+      "checksum": "ede2133deeaac64628be837092b6c392ea65dbe7cb97e636d6085dd96e82f5b3",
+      "sourceHash": "7656171378cf2ce1ad16bed9a8674dff37ea7fd2c7663a999513bc58dcc74896"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/li-jiang-jun-lie-zhuan/seg-002.mp3",
+      "durationMs": 247392,
+      "checksum": "ca650f5d03730d3796a5d251cc20dd31fe0a5527e2ccd7a152b0992e359f8684",
+      "sourceHash": "7cefef82eb56091c900494d20a4747170c7f9475ba270f4012a175669d438d90"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/li-jiang-jun-lie-zhuan/seg-003.mp3",
+      "durationMs": 207048,
+      "checksum": "c6dab2ae8e4c363e6397ba366b6c9ec3681cca8e43a405d11dcd9db4354493af",
+      "sourceHash": "a2ed0fd984d95646385e0d2fcea5d977bfb5f0bcbf183b44cfb6c34c20911553"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/li-jiang-jun-lie-zhuan/seg-004.mp3",
+      "durationMs": 135672,
+      "checksum": "a4c9e8b9c525800703fe11915e59cebe6c85e7ffbfd133ce42ed42fae7e3c7a5",
+      "sourceHash": "3c8a52c6f5c648c08a27361267f469704590028387b2b1d4b6215b9ffdc27b78"
     }
   ]
 }

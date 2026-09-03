@@ -4,14 +4,28 @@
   "provider": "edge-neural",
   "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
   "format": "mp3",
-  "generatedAt": "2026-09-01T02:10:15.982Z",
+  "generatedAt": "2026-09-03T12:53:46.888Z",
   "segments": [
     {
       "id": "seg-001",
       "url": "/audio/lun-yu-xue-er/seg-001.mp3",
-      "durationMs": 9744,
-      "checksum": "15a2276788ccfa67d19d433a66f098c347e0bea5ef431ba6a81b4adbe3a6cb22",
-      "sourceHash": "8aa3ceaa7741dfd215822611dae09d0f1cf7a640a1a1a354af98b2b3dc444e26"
+      "durationMs": 10584,
+      "checksum": "fc62bb2f81360b7ec017d82a1f2bfcc56c0e5b3bfd4f92eeab4da98485df122a",
+      "sourceHash": "fdc777c087970ede273eaf21027afcf9bbe530995bf2e135fd76e1e842ab8e34"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/lun-yu-xue-er/seg-002.mp3",
+      "durationMs": 16008,
+      "checksum": "f9e187fbec25315896b66f43bb21d4c24bc6f798d488b3d676ea72bb301df4bb",
+      "sourceHash": "c229803ec95d18ae100364afa4b9dbdbf0086e6195c135f0a033bf51e0453ae0"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/lun-yu-xue-er/seg-003.mp3",
+      "durationMs": 3648,
+      "checksum": "d9a0e56ad4578afbe65bdcb8dbe8fe11d2466b6b8b4dc119c315df23d9703afd",
+      "sourceHash": "f654f5c5ff8cdbcbfeb4eaf99248608934321815b1dd44aae82161307fabbc83"
     }
   ]
 }

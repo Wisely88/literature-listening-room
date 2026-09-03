@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "workId": "lian-po-lin-xiang-ru-fu-jing",
+  "provider": "edge-neural",
+  "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
+  "format": "mp3",
+  "generatedAt": "2026-09-03T12:44:59.956Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/lian-po-lin-xiang-ru-fu-jing/seg-001.mp3",
+      "durationMs": 10464,
+      "checksum": "a538bc0916b32017c1fec2dabe0433c38dffcc4252ca56538f8b88a357246d5f",
+      "sourceHash": "d2421d94e1654d1fca9846000aad8a9ed373473a7f76227437c2e834bb5c6aec"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/lian-po-lin-xiang-ru-fu-jing/seg-002.mp3",
+      "durationMs": 3288,
+      "checksum": "5ddf8dd884da2f37bdbf51b6b30685de2f4d5e0186dd6719f8986f332d4ea81a",
+      "sourceHash": "03f4c3b7e816b97430b1bde200fb82ffc438aaf490b4c26a30fff2bc35191afc"
+    }
+  ]
+}

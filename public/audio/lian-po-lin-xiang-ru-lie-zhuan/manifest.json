@@ -4,21 +4,49 @@
   "provider": "edge-neural",
   "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
   "format": "mp3",
-  "generatedAt": "2026-09-01T02:08:17.895Z",
+  "generatedAt": "2026-09-03T12:45:40.534Z",
   "segments": [
     {
       "id": "seg-001",
       "url": "/audio/lian-po-lin-xiang-ru-lie-zhuan/seg-001.mp3",
-      "durationMs": 9552,
-      "checksum": "bc6f77dc81396ffb6154029e17df5c0850f2501dcc9031a78324ea02840e4888",
-      "sourceHash": "5628191e1d096242bc9e3db25bba4ccd8ec6cb87e3aa5cb98ec6631b4c5e5a22"
+      "durationMs": 27600,
+      "checksum": "001cedee9e06fc6893f5ffe097a74a28e83525137ed20698113f8f1d79c26200",
+      "sourceHash": "5f6b3202cfc64d3ff2e738a42bed9c18cd692d4403e98031c7dd1a1c0ad5c6ab"
     },
     {
       "id": "seg-002",
       "url": "/audio/lian-po-lin-xiang-ru-lie-zhuan/seg-002.mp3",
-      "durationMs": 8880,
-      "checksum": "1f829d2cdca6c9e226c51dfd5e2d0b1cf4fad7c18555829b28ffe9c7b03ca74a",
-      "sourceHash": "7f48987913868771fd53d6efacd2856bf1a2c65b8069ef302a1674f689fe0c5c"
+      "durationMs": 43824,
+      "checksum": "72b1cf1a7d854c2ca0cbd7a1fca255319bef23d7781c502fd2944d8f660fa04f",
+      "sourceHash": "f71c781641f2b3881ab584436b41b2bd0e478c7aef2cc9d28ee42807af2446c0"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/lian-po-lin-xiang-ru-lie-zhuan/seg-003.mp3",
+      "durationMs": 71952,
+      "checksum": "a068949f40abf22c16562ebfa550f8fafdfeaf9f5327cd9c7775b9deb60f26fc",
+      "sourceHash": "7bea8e7d41f9513a7daaae12403f1bacbf70b6458d8ca6281a573e9fcb33d9dd"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/lian-po-lin-xiang-ru-lie-zhuan/seg-004.mp3",
+      "durationMs": 92952,
+      "checksum": "4f93607d46e52faa5eb8bac9b6bf5c8d6925612e3c5dc37936ed6387b5945107",
+      "sourceHash": "76cdcb82da7042b6de566b09887f6f4c9f775aaa7b544773b2de3e4126454190"
+    },
+    {
+      "id": "seg-005",
+      "url": "/audio/lian-po-lin-xiang-ru-lie-zhuan/seg-005.mp3",
+      "durationMs": 85872,
+      "checksum": "bb1196e2219836c415159f113ba65830a7b5ae5817f9858bf3a71526ca7ee829",
+      "sourceHash": "114856b1378741931d80b8743b6ea2ac9c96b0ffc3653792af017a3e7f1ed49e"
+    },
+    {
+      "id": "seg-006",
+      "url": "/audio/lian-po-lin-xiang-ru-lie-zhuan/seg-006.mp3",
+      "durationMs": 95880,
+      "checksum": "16612f061c80e0bf35a6b54be90630612214f52bdcf2a4a8b1439e320ef572cf",
+      "sourceHash": "2a6cce7662fb45b8d9234d2cca2f14e687e7dbdcf6437721ef0afe72c7acb919"
     }
   ]
 }

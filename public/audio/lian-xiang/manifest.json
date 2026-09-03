@@ -4,14 +4,42 @@
   "provider": "edge-neural",
   "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
   "format": "mp3",
-  "generatedAt": "2026-09-01T02:08:21.324Z",
+  "generatedAt": "2026-09-03T12:46:47.056Z",
   "segments": [
     {
       "id": "seg-001",
       "url": "/audio/lian-xiang/seg-001.mp3",
-      "durationMs": 6720,
-      "checksum": "5aeff53018956e69219f27869c7c83ca07ae21e38e7eb2351e941b0d2c332d76",
-      "sourceHash": "11ec044940d9a22905eb5ff0e3d348fdeedd4078b59e30cb8cc43bc41a9d8b6e"
+      "durationMs": 313200,
+      "checksum": "987952cae90f85171796b047f2ed7cb81af7d60992082cd054baeb83166e2da1",
+      "sourceHash": "ebbf082bf10250de427dd7ea4742c90558aa4429413fa7f2a4743588433bb424"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/lian-xiang/seg-002.mp3",
+      "durationMs": 284064,
+      "checksum": "bb0f194f6e6b6645532f73263670478f9b194ff7da453541687a139e25c58012",
+      "sourceHash": "f4473c2f847e6f169c515faf77ada443c0f25a2ce98db670d14a103954c832e1"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/lian-xiang/seg-003.mp3",
+      "durationMs": 266904,
+      "checksum": "4da4a94770c012350aae0b1b6d195af6dc80ea9377114d0c97ca88424aa5b69f",
+      "sourceHash": "e3fdeb19db37fea47c091d26ca4c0ae1e5b860f3b538f9325c37b5e140868c5a"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/lian-xiang/seg-004.mp3",
+      "durationMs": 218304,
+      "checksum": "7b2a5776d9c316ad778fe84a276191e0646b72df984783aef831bff5d081f5ba",
+      "sourceHash": "6cb00cfeed16dbe077ef3a629feb80f8a5e154b477ded481eef837b199f1a56a"
+    },
+    {
+      "id": "seg-005",
+      "url": "/audio/lian-xiang/seg-005.mp3",
+      "durationMs": 43200,
+      "checksum": "114f80b7a1eb847734d21ceb656b24fa8e00b02eda2d982458667dc4cc1ebc58",
+      "sourceHash": "27c8ff940d5bfd2ef554c1ad44b5096b7cb8783a0a16a4af6d8f7afeb836cac6"
     }
   ]
 }
