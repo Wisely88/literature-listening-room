@@ -3,32 +3,88 @@
     "id": "ann-ying-ning-001",
     "workId": "ying-ning",
     "segmentId": "seg-001",
-    "term": "莒",
-    "explanation": "古地名，今山东莒县一带。",
-    "type": "word"
+    "term": "上元",
+    "explanation": "正月十五元宵节。",
+    "type": "history"
   },
   {
     "id": "ann-ying-ning-002",
     "workId": "ying-ning",
     "segmentId": "seg-001",
-    "term": "早孤",
-    "explanation": "年幼时丧父。",
-    "type": "word"
+    "term": "入泮",
+    "explanation": "进入县学读书，取得生员身份。",
+    "type": "history"
   },
   {
     "id": "ann-ying-ning-003",
     "workId": "ying-ning",
     "segmentId": "seg-001",
-    "term": "绝慧",
-    "explanation": "非常聪明。",
-    "type": "word"
+    "term": "及笄",
+    "explanation": "女子十五岁成年。",
+    "type": "history"
   },
   {
     "id": "ann-ying-ning-004",
     "workId": "ying-ning",
     "segmentId": "seg-001",
-    "term": "入泮",
-    "explanation": "入学，泮宫为古代学校。",
+    "term": "顾婢",
+    "explanation": "回头对婢女说话。",
+    "type": "grammar"
+  },
+  {
+    "id": "ann-ying-ning-005",
+    "workId": "ying-ning",
+    "segmentId": "seg-001",
+    "term": "怏怏",
+    "explanation": "不快乐、失意的样子。",
     "type": "word"
+  },
+  {
+    "id": "ann-ying-ning-006",
+    "workId": "ying-ning",
+    "segmentId": "seg-001",
+    "term": "醮禳",
+    "explanation": "设坛祈祷、禳解灾病。",
+    "type": "allusion"
+  },
+  {
+    "id": "ann-ying-ning-007",
+    "workId": "ying-ning",
+    "segmentId": "seg-001",
+    "term": "涂山女",
+    "explanation": "传说辅佐大禹的女子，文中借指古代婚姻故事。",
+    "type": "allusion"
+  },
+  {
+    "id": "ann-ying-ning-008",
+    "workId": "ying-ning",
+    "segmentId": "seg-001",
+    "term": "合卺",
+    "explanation": "新婚夫妇交杯饮酒的礼仪。",
+    "type": "history"
+  },
+  {
+    "id": "ann-ying-ning-009",
+    "workId": "ying-ning",
+    "segmentId": "seg-001",
+    "term": "鬼母",
+    "explanation": "婴宁在荒墓中认作母亲的鬼魂。",
+    "type": "person"
+  },
+  {
+    "id": "ann-ying-ning-010",
+    "workId": "ying-ning",
+    "segmentId": "seg-001",
+    "term": "异史氏",
+    "explanation": "蒲松龄在篇末使用的自称。",
+    "type": "person"
+  },
+  {
+    "id": "ann-ying-ning-011",
+    "workId": "ying-ning",
+    "segmentId": "seg-001",
+    "term": "春日宴",
+    "explanation": "古代春日游宴场景，构成故事的节令背景。",
+    "type": "history"
   }
 ]
