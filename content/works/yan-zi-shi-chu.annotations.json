@@ -1,0 +1,34 @@
+[
+  {
+    "id": "ann-yan-001",
+    "workId": "yan-zi-shi-chu",
+    "segmentId": "seg-001",
+    "term": "习辞",
+    "explanation": "熟悉辞令，善于言辞。习，熟习。",
+    "type": "word"
+  },
+  {
+    "id": "ann-yan-002",
+    "workId": "yan-zi-shi-chu",
+    "segmentId": "seg-002",
+    "term": "何坐",
+    "explanation": "犯了什么罪。坐，因犯罪。",
+    "type": "grammar"
+  },
+  {
+    "id": "ann-yan-003",
+    "workId": "yan-zi-shi-chu",
+    "segmentId": "seg-002",
+    "term": "枳",
+    "explanation": "一种果实较小、味酸苦的柑橘类植物。",
+    "type": "word"
+  },
+  {
+    "id": "ann-yan-004",
+    "workId": "yan-zi-shi-chu",
+    "segmentId": "seg-002",
+    "term": "避席",
+    "explanation": "离开座位起身，表示郑重回答。",
+    "type": "word"
+  }
+]
