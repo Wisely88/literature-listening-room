@@ -1,0 +1,50 @@
+[
+  {
+    "id": "ann-yue-xia-du-zhuo-001",
+    "workId": "yue-xia-du-zhuo",
+    "segmentId": "seg-001",
+    "term": "独酌",
+    "explanation": "独自饮酒。酌，斟酒、饮酒。",
+    "type": "word"
+  },
+  {
+    "id": "ann-yue-xia-du-zhuo-002",
+    "workId": "yue-xia-du-zhuo",
+    "segmentId": "seg-002",
+    "term": "相亲",
+    "explanation": "亲近、相伴。",
+    "type": "word"
+  },
+  {
+    "id": "ann-yue-xia-du-zhuo-003",
+    "workId": "yue-xia-du-zhuo",
+    "segmentId": "seg-003",
+    "term": "将",
+    "explanation": "和、与。",
+    "type": "word"
+  },
+  {
+    "id": "ann-yue-xia-du-zhuo-004",
+    "workId": "yue-xia-du-zhuo",
+    "segmentId": "seg-004",
+    "term": "交欢",
+    "explanation": "共同欢乐。",
+    "type": "word"
+  },
+  {
+    "id": "ann-yue-xia-du-zhuo-005",
+    "workId": "yue-xia-du-zhuo",
+    "segmentId": "seg-004",
+    "term": "无情游",
+    "explanation": "不受世俗情感拘束的交游。",
+    "type": "word"
+  },
+  {
+    "id": "ann-yue-xia-du-zhuo-006",
+    "workId": "yue-xia-du-zhuo",
+    "segmentId": "seg-004",
+    "term": "云汉",
+    "explanation": "银河。",
+    "type": "word"
+  }
+]

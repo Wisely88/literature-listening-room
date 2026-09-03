@@ -1,0 +1,50 @@
+[
+  {
+    "id": "ann-tao-yuanming-wu-liu-xian-sheng-zhuan-001",
+    "workId": "tao-yuanming-wu-liu-xian-sheng-zhuan",
+    "segmentId": "seg-001",
+    "term": "何许",
+    "explanation": "什么地方。",
+    "type": "word"
+  },
+  {
+    "id": "ann-tao-yuanming-wu-liu-xian-sheng-zhuan-002",
+    "workId": "tao-yuanming-wu-liu-xian-sheng-zhuan",
+    "segmentId": "seg-002",
+    "term": "会意",
+    "explanation": "对书中内容有所领会。",
+    "type": "word"
+  },
+  {
+    "id": "ann-tao-yuanming-wu-liu-xian-sheng-zhuan-003",
+    "workId": "tao-yuanming-wu-liu-xian-sheng-zhuan",
+    "segmentId": "seg-003",
+    "term": "造饮",
+    "explanation": "到别人家赴饮。造，往、到。",
+    "type": "word"
+  },
+  {
+    "id": "ann-tao-yuanming-wu-liu-xian-sheng-zhuan-004",
+    "workId": "tao-yuanming-wu-liu-xian-sheng-zhuan",
+    "segmentId": "seg-004",
+    "term": "环堵",
+    "explanation": "四周都是土墙，形容屋舍简陋。",
+    "type": "word"
+  },
+  {
+    "id": "ann-tao-yuanming-wu-liu-xian-sheng-zhuan-005",
+    "workId": "tao-yuanming-wu-liu-xian-sheng-zhuan",
+    "segmentId": "seg-004",
+    "term": "戚戚",
+    "explanation": "忧愁的样子。",
+    "type": "word"
+  },
+  {
+    "id": "ann-tao-yuanming-wu-liu-xian-sheng-zhuan-006",
+    "workId": "tao-yuanming-wu-liu-xian-sheng-zhuan",
+    "segmentId": "seg-004",
+    "term": "汲汲",
+    "explanation": "心情急切、追求不已。",
+    "type": "word"
+  }
+]
