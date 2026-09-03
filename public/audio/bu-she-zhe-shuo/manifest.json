@@ -4,14 +4,63 @@
   "provider": "edge-neural",
   "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
   "format": "mp3",
-  "generatedAt": "2026-09-01T01:54:15.020Z",
+  "generatedAt": "2026-09-03T12:16:42.596Z",
   "segments": [
     {
       "id": "seg-001",
       "url": "/audio/bu-she-zhe-shuo/seg-001.mp3",
-      "durationMs": 8256,
-      "checksum": "53d0b8d74451511743297455da37ad349552876984110f10b2ade8e10fb0e9de",
-      "sourceHash": "34395f4b3378f7d4eb02b820065ab55aa61b6ae3a14b983e80664a9e53bcf138"
+      "durationMs": 16032,
+      "checksum": "27b3345cf554d00e41d22f2e6e5aceda077040c241d1260d9badbee3b1b1cfaf",
+      "sourceHash": "456eec74231723be5240c4888a41baceae894f4f283442805aa6bb3b152bf604"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/bu-she-zhe-shuo/seg-002.mp3",
+      "durationMs": 10080,
+      "checksum": "faccc4326f84ac38a5ea5168bd5430a783e7ffda42f743cde299eee823a5850e",
+      "sourceHash": "853c9c63a1e4ac51cef0162e7c452986ed4125256abeeb2ea59c300a55461d78"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/bu-she-zhe-shuo/seg-003.mp3",
+      "durationMs": 15336,
+      "checksum": "0e9ab38a061e81cd6feb1a8d74049d40445372a883728f30218c8bd3969a3994",
+      "sourceHash": "5753d468625242ec7eeea0a3319d33f16fcf56c394b05c6e75d980a4b8a7514d"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/bu-she-zhe-shuo/seg-004.mp3",
+      "durationMs": 19272,
+      "checksum": "35007ae5aca2667c8095ea3fa487352f3e2905c8bbe2a636f17abff7eccc6320",
+      "sourceHash": "da8805ba302ab7fa5fd02303fccc135cacc5007fb55eeb39f9e5fc4f071ea77f"
+    },
+    {
+      "id": "seg-005",
+      "url": "/audio/bu-she-zhe-shuo/seg-005.mp3",
+      "durationMs": 37608,
+      "checksum": "ca6b0f8d9172ed01cd4ab921555a173e5e86f03d38ec5549e8692214d6df994d",
+      "sourceHash": "014a5dd2205bed7e6782e2e041f6677ad893ee2b47bfc86a3fbe3894d2dcf5d8"
+    },
+    {
+      "id": "seg-006",
+      "url": "/audio/bu-she-zhe-shuo/seg-006.mp3",
+      "durationMs": 20880,
+      "checksum": "198aeffb8e73a662562aa78bc4c6a5309661b9bd3d07ffa603ce065b2af637ff",
+      "sourceHash": "ee4afcc5eb87888c0409b082635238bad4cca9263aef3699b84bbdd834e87b3b"
+    },
+    {
+      "id": "seg-007",
+      "url": "/audio/bu-she-zhe-shuo/seg-007.mp3",
+      "durationMs": 14544,
+      "checksum": "96b8a71fb94e263d5b62f21f12f672f11831d435f149e56e10820ac13c13a584",
+      "sourceHash": "0399cfd60cc2c3ce8064d93d4890b2aefc26e16845b22dde2d21e5bb60d49a94"
+    },
+    {
+      "id": "seg-008",
+      "url": "/audio/bu-she-zhe-shuo/seg-008.mp3",
+      "durationMs": 18504,
+      "checksum": "e3472a9a426354c03915645d49ef4365d839951f0dbfb497c6bbd532b516fe06",
+      "sourceHash": "a00f5b20e5a183e6114da33356ca4a0b60dcd09d40a650ffe54a874afdbaa20a"
     }
   ]
 }

@@ -4,14 +4,42 @@
   "provider": "edge-neural",
   "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
   "format": "mp3",
-  "generatedAt": "2026-09-01T01:54:18.666Z",
+  "generatedAt": "2026-09-03T12:17:17.697Z",
   "segments": [
     {
       "id": "seg-001",
       "url": "/audio/cao-chuan-jie-jian/seg-001.mp3",
-      "durationMs": 5592,
-      "checksum": "7a8771a8e5dc8ff66211030af47518bff20544917ca3e2105ae1095c1312e8e9",
-      "sourceHash": "00d0dbe6a5018effa24b0cd355366c68b5c72879c9848d633c00472a7f87b056"
+      "durationMs": 18408,
+      "checksum": "9618fdf77f308090655627a42f91c02abb527f47573b9ce7ef374a64a6f9d36f",
+      "sourceHash": "eb10aeabf42060be8eabb69268dd71f3b7b509057085f5450499cc921f6ec161"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/cao-chuan-jie-jian/seg-002.mp3",
+      "durationMs": 20040,
+      "checksum": "e94231ca9134e5842798310ba8bf0a33299a3a5cb210d3ca09d49b397754fb7d",
+      "sourceHash": "22d792fe698bc05e11cde9dd765ec9d8ffdcf0f97d0f0026e2e4a09dc6a5ecec"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/cao-chuan-jie-jian/seg-003.mp3",
+      "durationMs": 17184,
+      "checksum": "0ab90b780549eea40e17139aa0436fbf43c6ae066d89fbabb86b6ae0751cfe2e",
+      "sourceHash": "5f7e499246d440f93a6309c7d77c90208f6fd7abe7446494542459ae54e9dd36"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/cao-chuan-jie-jian/seg-004.mp3",
+      "durationMs": 19056,
+      "checksum": "f0983d2f0ff05670dfc0fc983a8c3ae5fa44bf732c06feb37ac0aa79b37a2139",
+      "sourceHash": "16f62e64c2d06946fc2750d6299570f489dd0b30a9b608152d83a4938a3f0eb4"
+    },
+    {
+      "id": "seg-005",
+      "url": "/audio/cao-chuan-jie-jian/seg-005.mp3",
+      "durationMs": 10560,
+      "checksum": "0e25bd0402338ff8cfe5c8c04d8418a8ce95d7017e6c5c89902cc572ae195094",
+      "sourceHash": "5af5cb95e81d133d5a056dfd0fabd42c59485a60f472f2d1c9f986b6fe00128c"
     }
   ]
 }

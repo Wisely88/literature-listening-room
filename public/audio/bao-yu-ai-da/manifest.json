@@ -4,14 +4,56 @@
   "provider": "edge-neural",
   "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
   "format": "mp3",
-  "generatedAt": "2026-09-01T01:54:07.624Z",
+  "generatedAt": "2026-09-03T12:15:30.511Z",
   "segments": [
     {
       "id": "seg-001",
       "url": "/audio/bao-yu-ai-da/seg-001.mp3",
-      "durationMs": 6624,
-      "checksum": "07eff50028409d0178f5ebb226fe1b9e6e369d1eed69540018318cf5400f1ee3",
-      "sourceHash": "2f8146c24a2e684248f0c8fa74865f309fe8b881d079f175a9068a1e8dc2d6a4"
+      "durationMs": 282720,
+      "checksum": "5cc78894ec94ec14c8b10f4e531997fea9054fa66d711cfed01eeb001c17928b",
+      "sourceHash": "d023fd0d84b99663b9d39afe057c6af28b906016172da8570be459db11fac7c9"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/bao-yu-ai-da/seg-002.mp3",
+      "durationMs": 257808,
+      "checksum": "0b64c66463896061300100f0bca893959e68afe55021be00b457b3c90345ae95",
+      "sourceHash": "f4f1f4b920301f19f279110d26cb44d0547f41265751c6bbda8a94cf0e0ab470"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/bao-yu-ai-da/seg-003.mp3",
+      "durationMs": 230304,
+      "checksum": "5cdaa62a7ede9521893b2348360ef891886a9ea817c6d086401e7698d06986dd",
+      "sourceHash": "92fcd20adbc287e49cbddc7b6ca252509584d1f1efeb3dbffd23c3f1af935cd9"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/bao-yu-ai-da/seg-004.mp3",
+      "durationMs": 207120,
+      "checksum": "c8673d45a994323a5d852d3ba8242bf93852270606b4d23b66bc0ccf12e4531d",
+      "sourceHash": "7540d4520b7b1e0776a65a2061fe20c865bee2f12e7a6019ebcb10a98701af53"
+    },
+    {
+      "id": "seg-005",
+      "url": "/audio/bao-yu-ai-da/seg-005.mp3",
+      "durationMs": 155640,
+      "checksum": "05a7ba4ab48c20f313b8f57d36e7e9b99524ad217a3fffa567c42403c0d71431",
+      "sourceHash": "6fe2e9e5a3857fa803f770f5e13c715250ae3fa74be5c0cabd6c0319915bf69b"
+    },
+    {
+      "id": "seg-006",
+      "url": "/audio/bao-yu-ai-da/seg-006.mp3",
+      "durationMs": 2544,
+      "checksum": "a83eee55e1718f0c75632c8382438f5124182ca664362c5a3f0a784060f4d9cd",
+      "sourceHash": "d7e82b054f60b7c7d2c7e06d99cc036ce89b3b9e138aec7dd425258e16bc8496"
+    },
+    {
+      "id": "seg-007",
+      "url": "/audio/bao-yu-ai-da/seg-007.mp3",
+      "durationMs": 2808,
+      "checksum": "231cb4a772d4c702b74f8289b6c4d6865557d239319acd583859a0d2ebb40907",
+      "sourceHash": "d6ee2fe0438e143b8178f251761bd3711b27baa6d2932bee22abad06271771ab"
     }
   ]
 }

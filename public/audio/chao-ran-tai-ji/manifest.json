@@ -4,14 +4,35 @@
   "provider": "edge-neural",
   "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
   "format": "mp3",
-  "generatedAt": "2026-09-01T01:54:22.193Z",
+  "generatedAt": "2026-09-03T12:17:48.278Z",
   "segments": [
     {
       "id": "seg-001",
       "url": "/audio/chao-ran-tai-ji/seg-001.mp3",
-      "durationMs": 7224,
-      "checksum": "7b195a3c405ee6b3cae9a81326b98a6296b25274987b8c2bfb3b4f2b2be01deb",
-      "sourceHash": "61c75c73bb0b1d0765b3258ef1408923a0970f9d124f6e4e8a36dd51801c8f2a"
+      "durationMs": 15864,
+      "checksum": "4a00c9f94727abc113a93cae139e5f07af283e938682351b3da9272d93a78f85",
+      "sourceHash": "72d8b5b42120d56cd46923ffb960971d9270e4caa45c6df85037154ccd8c5c41"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/chao-ran-tai-ji/seg-002.mp3",
+      "durationMs": 25536,
+      "checksum": "d8c706a8474062da995f655ec8b0098753de4d253fa4ed0a238dddc1c005a6a2",
+      "sourceHash": "536418a958d9a9cdf156955203d9ec00a6444500e39c56c54c970dce68421d7f"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/chao-ran-tai-ji/seg-003.mp3",
+      "durationMs": 22776,
+      "checksum": "91c210feb0ef9b0f870308266b7ac1e25d243ca42ae769321d3187a866a56512",
+      "sourceHash": "16500a8e3b95dd74f351935f67c058fe1f9b1ed277c1318ce174053f3acb6d80"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/chao-ran-tai-ji/seg-004.mp3",
+      "durationMs": 29280,
+      "checksum": "42ce6977c0c84a256b0c08f78ca5d463de9a5ae388934c494cedc47d7137f1e9",
+      "sourceHash": "51602a813daf3829a29ccfa862225f1108955f5e2f79e0f6d9f6c1df4cb5ebcf"
     }
   ]
 }

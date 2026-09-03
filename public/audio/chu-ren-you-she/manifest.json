@@ -4,14 +4,21 @@
   "provider": "edge-neural",
   "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
   "format": "mp3",
-  "generatedAt": "2026-09-01T01:55:24.960Z",
+  "generatedAt": "2026-09-03T12:19:03.103Z",
   "segments": [
     {
       "id": "seg-001",
       "url": "/audio/chu-ren-you-she/seg-001.mp3",
       "durationMs": 7848,
-      "checksum": "2b60a271f241ac6e5e2e476a84860ab52653ae12139338eb6e956a5120470a90",
-      "sourceHash": "c3ac0255bda8c937bdda63d04690e73fe554701df6173ca851fff825f949fbc0"
+      "checksum": "f0c486c3082a2a83328c57a679ba58a352df62d72f92fabada8ec43dc61194e6",
+      "sourceHash": "c877a0f127c63f6ef0cb2bdcc04b67a75aa4782052fc4fce68139ca865d38acb"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/chu-ren-you-she/seg-002.mp3",
+      "durationMs": 9096,
+      "checksum": "c7cf81f709fba52e733064c14c7ff376802d8910995f4599955e4ef1b8dcc420",
+      "sourceHash": "fe86b9ed6fb199225c5873afd18118705c5bac8867bd835ab062e6ca62978fe2"
     }
   ]
 }

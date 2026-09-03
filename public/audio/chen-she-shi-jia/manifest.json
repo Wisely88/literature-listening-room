@@ -4,21 +4,56 @@
   "provider": "edge-neural",
   "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
   "format": "mp3",
-  "generatedAt": "2026-09-01T01:54:32.763Z",
+  "generatedAt": "2026-09-03T12:18:49.136Z",
   "segments": [
     {
       "id": "seg-001",
       "url": "/audio/chen-she-shi-jia/seg-001.mp3",
-      "durationMs": 14880,
-      "checksum": "120636e5159ff4138089c0c7faaf7ff3abf3c86d70844f8894a8c15b7a9f24b0",
-      "sourceHash": "273dcb95c9d047a4e7087505d6b02de4a8c50ee61a10e3479677cb4f5c873c32"
+      "durationMs": 20424,
+      "checksum": "65a482558282e20a98c0c92ccf44eaa70aff9300ffa79a02ab14ad8eac5a7ba2",
+      "sourceHash": "6f7ac74830c1cb66c891f36bbe5df9371d92b528b79061f536f39698631c4eb9"
     },
     {
       "id": "seg-002",
       "url": "/audio/chen-she-shi-jia/seg-002.mp3",
-      "durationMs": 3432,
-      "checksum": "3a5030dfafeeca1642e1fed5cb598fa8a0adbfc1ba1deb4734d7508eaf194737",
-      "sourceHash": "dc02f246bea15d2ebcc4647bd3257c09de31fb5b10faa13cec79ad926096de91"
+      "durationMs": 34272,
+      "checksum": "2aa7b6db870179f528986c7abc21fd4f077afe6ab7b1a0987545590d0fc47fba",
+      "sourceHash": "256f9f4d866591fbb2ebfc82c3315e7c49dd00d09576f10ca3942e0515563661"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/chen-she-shi-jia/seg-003.mp3",
+      "durationMs": 17112,
+      "checksum": "4de01c8ced6d25c37960c9d554370d9ea1f8a3d3cb80635977e5d0e6bdb1b3f7",
+      "sourceHash": "34f5dd224a93434acb8e3817b087d4c5f05949154698afdf73d9685e9583a405"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/chen-she-shi-jia/seg-004.mp3",
+      "durationMs": 24144,
+      "checksum": "e9f7fe57f20d32357ea382f6956c7048471cfd0be6de0387aea4b8cc16325ddc",
+      "sourceHash": "3c962b3dd871e455f7c238c0f154887ec8e97eea083eb2bd18be242ca7a46b9c"
+    },
+    {
+      "id": "seg-005",
+      "url": "/audio/chen-she-shi-jia/seg-005.mp3",
+      "durationMs": 14088,
+      "checksum": "e1a0c6a03748e272269181dbd164f4f8c06f42abaa37236a9bfbde09798063f3",
+      "sourceHash": "be181e6a5797fa3f62ce015b8f0d975f01af7161ba4ede991e0a1977310f54a5"
+    },
+    {
+      "id": "seg-006",
+      "url": "/audio/chen-she-shi-jia/seg-006.mp3",
+      "durationMs": 18528,
+      "checksum": "1bc0c38b9ea58c417c12ecb7caeffde5858a2f4151d15042cd72d4b5c3401456",
+      "sourceHash": "107ffcd05561cb915122441786be14e5834aef9541da5c27dbbd1eb7796da4bf"
+    },
+    {
+      "id": "seg-007",
+      "url": "/audio/chen-she-shi-jia/seg-007.mp3",
+      "durationMs": 19008,
+      "checksum": "bd4109f435839957b87920b8ba04bd6b3ea6b54e16372d77a1d2d79bfcb9044e",
+      "sourceHash": "502bf65d91c0dee9afddfccff5d5b6a8f12d5ed7e653d4fdd16b6f8cefec9854"
     }
   ]
 }
