@@ -1,0 +1,34 @@
+[
+  {
+    "id": "ann-tang-001",
+    "workId": "an-ling-jun-shou-di",
+    "segmentId": "seg-001",
+    "term": "易安陵",
+    "explanation": "用土地交换安陵。易，交换。",
+    "type": "word"
+  },
+  {
+    "id": "ann-tang-002",
+    "workId": "an-ling-jun-shou-di",
+    "segmentId": "seg-002",
+    "term": "错意",
+    "explanation": "打主意、存有吞并之心。错，同“措”。",
+    "type": "grammar"
+  },
+  {
+    "id": "ann-tang-003",
+    "workId": "an-ling-jun-shou-di",
+    "segmentId": "seg-003",
+    "term": "徒跣",
+    "explanation": "光着脚。徒，裸露；跣，赤脚。",
+    "type": "word"
+  },
+  {
+    "id": "ann-tang-004",
+    "workId": "an-ling-jun-shou-di",
+    "segmentId": "seg-003",
+    "term": "缟素",
+    "explanation": "白色丧服，古代表示服丧。",
+    "type": "history"
+  }
+]
