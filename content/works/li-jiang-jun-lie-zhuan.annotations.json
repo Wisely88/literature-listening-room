@@ -1,0 +1,42 @@
+[
+  {
+    "id": "ann-li-jiang-jun-lie-zhuan-001",
+    "workId": "li-jiang-jun-lie-zhuan",
+    "segmentId": "seg-001",
+    "term": "没镞",
+    "explanation": "箭头没入石中。镞，箭头。",
+    "type": "word"
+  },
+  {
+    "id": "ann-li-jiang-jun-lie-zhuan-002",
+    "workId": "li-jiang-jun-lie-zhuan",
+    "segmentId": "seg-001",
+    "term": "廉",
+    "explanation": "清廉。",
+    "type": "word"
+  },
+  {
+    "id": "ann-li-jiang-jun-lie-zhuan-003",
+    "workId": "li-jiang-jun-lie-zhuan",
+    "segmentId": "seg-001",
+    "term": "麾下",
+    "explanation": "部下、属下。麾，指挥旗。",
+    "type": "word"
+  },
+  {
+    "id": "ann-li-jiang-jun-lie-zhuan-004",
+    "workId": "li-jiang-jun-lie-zhuan",
+    "segmentId": "seg-001",
+    "term": "与士共之",
+    "explanation": "和士卒共同享用。",
+    "type": "grammar"
+  },
+  {
+    "id": "ann-li-jiang-jun-lie-zhuan-005",
+    "workId": "li-jiang-jun-lie-zhuan",
+    "segmentId": "seg-001",
+    "term": "终不能复入石",
+    "explanation": "再也不能射入石中。",
+    "type": "grammar"
+  }
+]

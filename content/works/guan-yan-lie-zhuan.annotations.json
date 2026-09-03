@@ -1,0 +1,42 @@
+[
+  {
+    "id": "ann-guan-yan-lie-zhuan-001",
+    "workId": "guan-yan-lie-zhuan",
+    "segmentId": "seg-001",
+    "term": "游",
+    "explanation": "交游、来往。",
+    "type": "word"
+  },
+  {
+    "id": "ann-guan-yan-lie-zhuan-002",
+    "workId": "guan-yan-lie-zhuan",
+    "segmentId": "seg-001",
+    "term": "欺",
+    "explanation": "占便宜、欺负。",
+    "type": "word"
+  },
+  {
+    "id": "ann-guan-yan-lie-zhuan-003",
+    "workId": "guan-yan-lie-zhuan",
+    "segmentId": "seg-001",
+    "term": "善遇",
+    "explanation": "友善地对待。",
+    "type": "word"
+  },
+  {
+    "id": "ann-guan-yan-lie-zhuan-004",
+    "workId": "guan-yan-lie-zhuan",
+    "segmentId": "seg-001",
+    "term": "进",
+    "explanation": "推荐。",
+    "type": "word"
+  },
+  {
+    "id": "ann-guan-yan-lie-zhuan-005",
+    "workId": "guan-yan-lie-zhuan",
+    "segmentId": "seg-001",
+    "term": "任政",
+    "explanation": "主持政务。",
+    "type": "word"
+  }
+]

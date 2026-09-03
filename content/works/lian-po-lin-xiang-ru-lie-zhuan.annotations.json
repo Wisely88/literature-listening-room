@@ -1,0 +1,34 @@
+[
+  {
+    "id": "ann-lian-po-lin-xiang-ru-lie-zhuan-001",
+    "workId": "lian-po-lin-xiang-ru-lie-zhuan",
+    "segmentId": "seg-001",
+    "term": "盆缶",
+    "explanation": "瓦制的乐器。缶，fǒu。",
+    "type": "word"
+  },
+  {
+    "id": "ann-lian-po-lin-xiang-ru-lie-zhuan-002",
+    "workId": "lian-po-lin-xiang-ru-lie-zhuan",
+    "segmentId": "seg-001",
+    "term": "相如前进缶",
+    "explanation": "蔺相如上前拿起瓦缶。进，上前。",
+    "type": "grammar"
+  },
+  {
+    "id": "ann-lian-po-lin-xiang-ru-lie-zhuan-003",
+    "workId": "lian-po-lin-xiang-ru-lie-zhuan",
+    "segmentId": "seg-001",
+    "term": "颈血溅大王",
+    "explanation": "以近身自杀相威胁，维护赵王尊严。",
+    "type": "grammar"
+  },
+  {
+    "id": "ann-lian-po-lin-xiang-ru-lie-zhuan-004",
+    "workId": "lian-po-lin-xiang-ru-lie-zhuan",
+    "segmentId": "seg-001",
+    "term": "为一击缶",
+    "explanation": "因此敲了一下瓦缶。为，因为、于是。",
+    "type": "grammar"
+  }
+]
