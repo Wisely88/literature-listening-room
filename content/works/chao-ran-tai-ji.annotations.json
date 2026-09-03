@@ -1,0 +1,50 @@
+[
+  {
+    "id": "ann-chao-ran-tai-ji-001",
+    "workId": "chao-ran-tai-ji",
+    "segmentId": "seg-001",
+    "term": "玮丽",
+    "explanation": "奇异美丽。玮同“瑰”。",
+    "type": "word"
+  },
+  {
+    "id": "ann-chao-ran-tai-ji-002",
+    "workId": "chao-ran-tai-ji",
+    "segmentId": "seg-002",
+    "term": "餔糟啜醨",
+    "explanation": "吃酒糟、喝薄酒，泛指粗劣饮食。",
+    "type": "word"
+  },
+  {
+    "id": "ann-chao-ran-tai-ji-003",
+    "workId": "chao-ran-tai-ji",
+    "segmentId": "seg-003",
+    "term": "岁比不登",
+    "explanation": "连年收成不好。比，连续；登，丰收。",
+    "type": "word"
+  },
+  {
+    "id": "ann-chao-ran-tai-ji-004",
+    "workId": "chao-ran-tai-ji",
+    "segmentId": "seg-004",
+    "term": "采椽",
+    "explanation": "未经雕饰的粗木椽子。",
+    "type": "word"
+  },
+  {
+    "id": "ann-chao-ran-tai-ji-005",
+    "workId": "chao-ran-tai-ji",
+    "segmentId": "seg-004",
+    "term": "索然",
+    "explanation": "空荡、乏味。",
+    "type": "word"
+  },
+  {
+    "id": "ann-chao-ran-tai-ji-006",
+    "workId": "chao-ran-tai-ji",
+    "segmentId": "seg-004",
+    "term": "游于物外",
+    "explanation": "超越外物得失的拘束。",
+    "type": "grammar"
+  }
+]
