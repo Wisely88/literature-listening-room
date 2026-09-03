@@ -14,7 +14,7 @@ tags: [恐怖, 古井, 倒影]
 moods: [夜读, 紧张]
 ambience: [rain, night]
 defaultAmbience: rain
-sourceNote: 依据公版志怪母题整理；正文与导读为本项目整理。
+sourceNote: 已检索相关古籍、公版目录及公开索引，未找到与标题“古井水影”及现有原句完全匹配的篇章；为避免臆写，暂缓扩写。
 editorialNotes: []
 pronunciationOverrides: []
 ---
