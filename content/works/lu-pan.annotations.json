@@ -5,38 +5,78 @@
     "segmentId": "seg-001",
     "term": "陵阳",
     "explanation": "地名，今安徽一带。",
-    "type": "word"
+    "type": "place"
   },
   {
     "id": "ann-lu-pan-002",
     "workId": "lu-pan",
     "segmentId": "seg-001",
-    "term": "豪放",
-    "explanation": "性情豪迈不拘束。",
-    "type": "word"
+    "term": "十王殿",
+    "explanation": "供奉十殿阎王的庙宇。",
+    "type": "place"
   },
   {
     "id": "ann-lu-pan-003",
     "workId": "lu-pan",
     "segmentId": "seg-001",
-    "term": "素钝",
-    "explanation": "一向迟钝。素，一向。",
+    "term": "醵",
+    "explanation": "凑钱置办酒席。",
     "type": "word"
   },
   {
     "id": "ann-lu-pan-004",
     "workId": "lu-pan",
     "segmentId": "seg-001",
-    "term": "学虽笃",
-    "explanation": "学习虽然勤奋。笃，专心、深厚。",
-    "type": "word"
+    "term": "斧鑕",
+    "explanation": "斧头和铡刀，借指刑罚。",
+    "type": "allusion"
   },
   {
     "id": "ann-lu-pan-005",
     "workId": "lu-pan",
     "segmentId": "seg-001",
-    "term": "未知名",
-    "explanation": "还没有声名。",
+    "term": "闱墨",
+    "explanation": "科举考试中的试卷文章。",
+    "type": "history"
+  },
+  {
+    "id": "ann-lu-pan-006",
+    "workId": "lu-pan",
+    "segmentId": "seg-001",
+    "term": "冥界",
+    "explanation": "传说中的阴间世界。",
+    "type": "allusion"
+  },
+  {
+    "id": "ann-lu-pan-007",
+    "workId": "lu-pan",
+    "segmentId": "seg-001",
+    "term": "异史氏",
+    "explanation": "蒲松龄在篇末使用的自称。",
+    "type": "person"
+  },
+  {
+    "id": "ann-lu-pan-008",
+    "workId": "lu-pan",
+    "segmentId": "seg-001",
+    "term": "科名",
+    "explanation": "科举功名。",
+    "type": "history"
+  },
+  {
+    "id": "ann-lu-pan-009",
+    "workId": "lu-pan",
+    "segmentId": "seg-001",
+    "term": "相法",
+    "explanation": "古代通过面貌推测命运的术数。",
+    "type": "allusion"
+  },
+  {
+    "id": "ann-lu-pan-010",
+    "workId": "lu-pan",
+    "segmentId": "seg-001",
+    "term": "剖腹",
+    "explanation": "剖开腹部，此处为志怪中的医治手段。",
     "type": "word"
   }
 ]
