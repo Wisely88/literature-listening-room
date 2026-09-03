@@ -4,14 +4,35 @@
   "provider": "edge-neural",
   "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
   "format": "mp3",
-  "generatedAt": "2026-09-01T02:10:26.335Z",
+  "generatedAt": "2026-09-03T12:54:26.440Z",
   "segments": [
     {
       "id": "seg-001",
       "url": "/audio/lv-ye-shu-huai/seg-001.mp3",
-      "durationMs": 6960,
-      "checksum": "7e86d5d526bba74581051488856938f246f5563c238256e06df2772688019049",
-      "sourceHash": "feced8adebecdfcd1250b29abd28188440dabfd4708dc0f89825261cb19bf50f"
+      "durationMs": 3600,
+      "checksum": "7d6b2dfe3cbebf80565e76aa777dd7d715516e7615bcd32df7aad0ffa45000b5",
+      "sourceHash": "bb281a50ac7321741af804f9eabd3d6588d509ff2b67119f8bbba5436338db60"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/lv-ye-shu-huai/seg-002.mp3",
+      "durationMs": 3648,
+      "checksum": "13e80fda6bfc01586323836939b4c8af7f5676abfc539ca2914d8716800e4aae",
+      "sourceHash": "d8e3ec979e042b277b6be7adad7633fdd51cce5b2e82f968e969fd2d148dff41"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/lv-ye-shu-huai/seg-003.mp3",
+      "durationMs": 3432,
+      "checksum": "de49829c011fb6b4cc49dee1291f013d63b38f5b159f065bce1acb1692a393ad",
+      "sourceHash": "ba388961f8d85eba04a7d0201bbf98139315d0719b5dd6a8d9da888c4f907d43"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/lv-ye-shu-huai/seg-004.mp3",
+      "durationMs": 3456,
+      "checksum": "3e8d8a34c08228f0e73c16b03d4b42e25697c496317f715c01073a4036026794",
+      "sourceHash": "2f94c2f0398d44525352c4510c4a99dc8480bd2c06531479540f9c5b71db70d5"
     }
   ]
 }
