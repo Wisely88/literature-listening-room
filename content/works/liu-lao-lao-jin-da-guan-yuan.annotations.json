@@ -3,40 +3,88 @@
     "id": "ann-liu-lao-lao-jin-da-guan-yuan-001",
     "workId": "liu-lao-lao-jin-da-guan-yuan",
     "segmentId": "seg-001",
-    "term": "咯当咯当",
-    "explanation": "形容器物碰撞发出的连续声响。",
-    "type": "word"
+    "term": "大观园",
+    "explanation": "《红楼梦》中贾府为元春省亲修建的园林。",
+    "type": "place"
   },
   {
     "id": "ann-liu-lao-lao-jin-da-guan-yuan-002",
     "workId": "liu-lao-lao-jin-da-guan-yuan",
     "segmentId": "seg-001",
-    "term": "箩柜",
-    "explanation": "用来筛、盛放粮食的器具。",
-    "type": "word"
+    "term": "史太君",
+    "explanation": "贾母的尊称。",
+    "type": "person"
   },
   {
     "id": "ann-liu-lao-lao-jin-da-guan-yuan-003",
     "workId": "liu-lao-lao-jin-da-guan-yuan",
     "segmentId": "seg-001",
-    "term": "筛面",
-    "explanation": "筛选面粉。",
-    "type": "word"
+    "term": "刘姥姥",
+    "explanation": "来自乡村的老妪，王夫人远房亲戚。",
+    "type": "person"
   },
   {
     "id": "ann-liu-lao-lao-jin-da-guan-yuan-004",
     "workId": "liu-lao-lao-jin-da-guan-yuan",
     "segmentId": "seg-001",
-    "term": "东瞧西望",
-    "explanation": "四处张望。",
-    "type": "word"
+    "term": "板儿",
+    "explanation": "刘姥姥的外孙。",
+    "type": "person"
   },
   {
     "id": "ann-liu-lao-lao-jin-da-guan-yuan-005",
     "workId": "liu-lao-lao-jin-da-guan-yuan",
     "segmentId": "seg-001",
-    "term": "大观园",
-    "explanation": "《红楼梦》中贾府为元春省亲修建的园林。",
+    "term": "缀锦阁",
+    "explanation": "大观园中的楼阁，宴席所在处之一。",
+    "type": "place"
+  },
+  {
+    "id": "ann-liu-lao-lao-jin-da-guan-yuan-006",
+    "workId": "liu-lao-lao-jin-da-guan-yuan",
+    "segmentId": "seg-001",
+    "term": "茄鲞",
+    "explanation": "把茄子晒干、加多种配料制成的精细菜肴。",
     "type": "word"
+  },
+  {
+    "id": "ann-liu-lao-lao-jin-da-guan-yuan-007",
+    "workId": "liu-lao-lao-jin-da-guan-yuan",
+    "segmentId": "seg-001",
+    "term": "牌令",
+    "explanation": "宴席上按牙牌或牌面行酒令的游戏。",
+    "type": "history"
+  },
+  {
+    "id": "ann-liu-lao-lao-jin-da-guan-yuan-008",
+    "workId": "liu-lao-lao-jin-da-guan-yuan",
+    "segmentId": "seg-001",
+    "term": "金鸳鸯",
+    "explanation": "贾母身边的丫鬟，善于主持宴席。",
+    "type": "person"
+  },
+  {
+    "id": "ann-liu-lao-lao-jin-da-guan-yuan-009",
+    "workId": "liu-lao-lao-jin-da-guan-yuan",
+    "segmentId": "seg-001",
+    "term": "牙牌",
+    "explanation": "古代宴饮行令使用的牌具。",
+    "type": "word"
+  },
+  {
+    "id": "ann-liu-lao-lao-jin-da-guan-yuan-010",
+    "workId": "liu-lao-lao-jin-da-guan-yuan",
+    "segmentId": "seg-001",
+    "term": "王熙凤",
+    "explanation": "贾府管家王夫人侄女，精明强干。",
+    "type": "person"
+  },
+  {
+    "id": "ann-liu-lao-lao-jin-da-guan-yuan-011",
+    "workId": "liu-lao-lao-jin-da-guan-yuan",
+    "segmentId": "seg-001",
+    "term": "元春省亲",
+    "explanation": "贾元春回娘家省亲，促成大观园修建的情节。",
+    "type": "allusion"
   }
 ]
