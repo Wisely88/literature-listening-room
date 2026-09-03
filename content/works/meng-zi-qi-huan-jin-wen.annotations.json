@@ -1,0 +1,34 @@
+[
+  {
+    "id": "ann-meng-zi-qi-huan-jin-wen-001",
+    "workId": "meng-zi-qi-huan-jin-wen",
+    "segmentId": "seg-001",
+    "term": "衅钟",
+    "explanation": "本段关键词，结合上下文理解其古义与语气。",
+    "type": "word"
+  },
+  {
+    "id": "ann-meng-zi-qi-huan-jin-wen-002",
+    "workId": "meng-zi-qi-huan-jin-wen",
+    "segmentId": "seg-002",
+    "term": "觳觫",
+    "explanation": "本段关键词，结合上下文理解其古义与语气。",
+    "type": "word"
+  },
+  {
+    "id": "ann-meng-zi-qi-huan-jin-wen-003",
+    "workId": "meng-zi-qi-huan-jin-wen",
+    "segmentId": "seg-003",
+    "term": "隐",
+    "explanation": "本段关键词，结合上下文理解其古义与语气。",
+    "type": "word"
+  },
+  {
+    "id": "ann-meng-zi-qi-huan-jin-wen-004",
+    "workId": "meng-zi-qi-huan-jin-wen",
+    "segmentId": "seg-004",
+    "term": "王",
+    "explanation": "本段关键词，结合上下文理解其古义与语气。",
+    "type": "word"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "id": "ann-meng-zi-sheng-yu-you-huan-001",
+    "workId": "meng-zi-sheng-yu-you-huan",
+    "segmentId": "seg-001",
+    "term": "畎亩",
+    "explanation": "本段关键词，结合上下文理解其古义与语气。",
+    "type": "word"
+  },
+  {
+    "id": "ann-meng-zi-sheng-yu-you-huan-002",
+    "workId": "meng-zi-sheng-yu-you-huan",
+    "segmentId": "seg-002",
+    "term": "版筑",
+    "explanation": "本段关键词，结合上下文理解其古义与语气。",
+    "type": "word"
+  },
+  {
+    "id": "ann-meng-zi-sheng-yu-you-huan-003",
+    "workId": "meng-zi-sheng-yu-you-huan",
+    "segmentId": "seg-003",
+    "term": "拂士",
+    "explanation": "本段关键词，结合上下文理解其古义与语气。",
+    "type": "word"
+  },
+  {
+    "id": "ann-meng-zi-sheng-yu-you-huan-004",
+    "workId": "meng-zi-sheng-yu-you-huan",
+    "segmentId": "seg-004",
+    "term": "衡于虑",
+    "explanation": "本段关键词，结合上下文理解其古义与语气。",
+    "type": "word"
+  }
+]

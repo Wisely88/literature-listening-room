@@ -1,0 +1,42 @@
+[
+  {
+    "id": "ann-meng-zi-yu-wo-suo-yu-ye-001",
+    "workId": "meng-zi-yu-wo-suo-yu-ye",
+    "segmentId": "seg-001",
+    "term": "兼",
+    "explanation": "本段关键词，结合上下文理解其古义与语气。",
+    "type": "word"
+  },
+  {
+    "id": "ann-meng-zi-yu-wo-suo-yu-ye-002",
+    "workId": "meng-zi-yu-wo-suo-yu-ye",
+    "segmentId": "seg-002",
+    "term": "箪",
+    "explanation": "本段关键词，结合上下文理解其古义与语气。",
+    "type": "word"
+  },
+  {
+    "id": "ann-meng-zi-yu-wo-suo-yu-ye-003",
+    "workId": "meng-zi-yu-wo-suo-yu-ye",
+    "segmentId": "seg-003",
+    "term": "豆",
+    "explanation": "本段关键词，结合上下文理解其古义与语气。",
+    "type": "word"
+  },
+  {
+    "id": "ann-meng-zi-yu-wo-suo-yu-ye-004",
+    "workId": "meng-zi-yu-wo-suo-yu-ye",
+    "segmentId": "seg-004",
+    "term": "蹴",
+    "explanation": "本段关键词，结合上下文理解其古义与语气。",
+    "type": "word"
+  },
+  {
+    "id": "ann-meng-zi-yu-wo-suo-yu-ye-005",
+    "workId": "meng-zi-yu-wo-suo-yu-ye",
+    "segmentId": "seg-005",
+    "term": "万钟",
+    "explanation": "本段关键词，结合上下文理解其古义与语气。",
+    "type": "word"
+  }
+]

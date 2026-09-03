@@ -1,0 +1,34 @@
+[
+  {
+    "id": "ann-si-ma-qian-bao-ren-an-shu-001",
+    "workId": "si-ma-qian-bao-ren-an-shu",
+    "segmentId": "seg-001",
+    "term": "拘",
+    "explanation": "本段关键词，结合上下文理解其古义与语气。",
+    "type": "word"
+  },
+  {
+    "id": "ann-si-ma-qian-bao-ren-an-shu-002",
+    "workId": "si-ma-qian-bao-ren-an-shu",
+    "segmentId": "seg-002",
+    "term": "厄",
+    "explanation": "本段关键词，结合上下文理解其古义与语气。",
+    "type": "word"
+  },
+  {
+    "id": "ann-si-ma-qian-bao-ren-an-shu-003",
+    "workId": "si-ma-qian-bao-ren-an-shu",
+    "segmentId": "seg-003",
+    "term": "发愤",
+    "explanation": "本段关键词，结合上下文理解其古义与语气。",
+    "type": "word"
+  },
+  {
+    "id": "ann-si-ma-qian-bao-ren-an-shu-004",
+    "workId": "si-ma-qian-bao-ren-an-shu",
+    "segmentId": "seg-004",
+    "term": "草创",
+    "explanation": "本段关键词，结合上下文理解其古义与语气。",
+    "type": "word"
+  }
+]
