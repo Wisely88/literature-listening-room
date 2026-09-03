@@ -4,39 +4,79 @@
     "workId": "lu-ti-xia-quan-da-zhen-guan-xi",
     "segmentId": "seg-001",
     "term": "提辖",
-    "explanation": "宋代军职名，鲁达原任提辖。",
-    "type": "word"
+    "explanation": "宋代军政系统中的武官称谓。",
+    "type": "history"
   },
   {
     "id": "ann-lu-ti-xia-quan-da-zhen-guan-xi-002",
     "workId": "lu-ti-xia-quan-da-zhen-guan-xi",
     "segmentId": "seg-001",
-    "term": "太阳",
-    "explanation": "面部额头，此处指拳打面门。",
-    "type": "word"
+    "term": "华阴县",
+    "explanation": "陕西华阴一带的县治。",
+    "type": "place"
   },
   {
     "id": "ann-lu-ti-xia-quan-da-zhen-guan-xi-003",
     "workId": "lu-ti-xia-quan-da-zhen-guan-xi",
     "segmentId": "seg-001",
-    "term": "水陆道场",
-    "explanation": "佛教法会，借喻声势巨大。",
-    "type": "word"
+    "term": "金翠莲",
+    "explanation": "被郑屠欺凌、由鲁达救助的女子。",
+    "type": "person"
   },
   {
     "id": "ann-lu-ti-xia-quan-da-zhen-guan-xi-004",
     "workId": "lu-ti-xia-quan-da-zhen-guan-xi",
     "segmentId": "seg-001",
-    "term": "镇关西",
-    "explanation": "郑屠的绰号，称其横行一方。",
-    "type": "word"
+    "term": "郑屠",
+    "explanation": "绰号“镇关西”的屠户恶霸。",
+    "type": "person"
   },
   {
     "id": "ann-lu-ti-xia-quan-da-zhen-guan-xi-005",
     "workId": "lu-ti-xia-quan-da-zhen-guan-xi",
     "segmentId": "seg-001",
-    "term": "拳打",
-    "explanation": "用拳击打。",
+    "term": "镇关西",
+    "explanation": "郑屠自夸的称号，后成为鲁达戏称。",
+    "type": "person"
+  },
+  {
+    "id": "ann-lu-ti-xia-quan-da-zhen-guan-xi-006",
+    "workId": "lu-ti-xia-quan-da-zhen-guan-xi",
+    "segmentId": "seg-001",
+    "term": "精肉",
+    "explanation": "纯瘦肉。",
     "type": "word"
+  },
+  {
+    "id": "ann-lu-ti-xia-quan-da-zhen-guan-xi-007",
+    "workId": "lu-ti-xia-quan-da-zhen-guan-xi",
+    "segmentId": "seg-001",
+    "term": "肥肉",
+    "explanation": "脂肪较多的肉。",
+    "type": "word"
+  },
+  {
+    "id": "ann-lu-ti-xia-quan-da-zhen-guan-xi-008",
+    "workId": "lu-ti-xia-quan-da-zhen-guan-xi",
+    "segmentId": "seg-001",
+    "term": "软骨",
+    "explanation": "较软的骨头，鲁达借此戏弄郑屠。",
+    "type": "word"
+  },
+  {
+    "id": "ann-lu-ti-xia-quan-da-zhen-guan-xi-009",
+    "workId": "lu-ti-xia-quan-da-zhen-guan-xi",
+    "segmentId": "seg-001",
+    "term": "五台山",
+    "explanation": "鲁达后来出家修行的佛教名山。",
+    "type": "place"
+  },
+  {
+    "id": "ann-lu-ti-xia-quan-da-zhen-guan-xi-010",
+    "workId": "lu-ti-xia-quan-da-zhen-guan-xi",
+    "segmentId": "seg-001",
+    "term": "鲁智深",
+    "explanation": "鲁达出家后的法名。",
+    "type": "person"
   }
 ]
