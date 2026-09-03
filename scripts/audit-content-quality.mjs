@@ -18,11 +18,12 @@ const reports = [];
 for (const file of (await readdir(worksDir)).filter((item) => item.endsWith(".md"))) {
   const markdown = await readFile(path.join(worksDir, file), "utf8");
   const language = markdown.match(/^language: ([^\n]+)/m)?.[1]?.trim() ?? "zh-CN";
+  const category = markdown.match(/^category: ([^\n]+)/m)?.[1]?.trim() ?? "";
   const original = section(markdown, "原文", "白话");
   const translation = section(markdown, "白话", "创作背景");
   const chars = original.replace(/\s/gu, "").length;
   const issues = [];
-  if (chars < 80) issues.push("短篇节选");
+  if (chars < 80) issues.push(category === "诗词" ? "短篇完整候选" : "短篇节选");
   if (genericPhrases.some((phrase) => markdown.includes(phrase))) issues.push("模板导语");
   if (!translation) issues.push("缺少译文");
   if (translation && paragraphs(original).length !== paragraphs(translation).length) issues.push("译文未逐段对齐");
