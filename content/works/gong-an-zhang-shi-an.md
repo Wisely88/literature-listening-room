@@ -14,7 +14,7 @@ tags: [公案, 包拯, 断案, 物证]
 moods: [夜读, 沉浸, 思考]
 ambience: [night]
 defaultAmbience: night
-sourceNote: 依据传统公案叙事整理；正文与导读为本项目整理。
+sourceNote: 已核对《包公案》《百家公案》公版目录及相关公案索引，未找到题为“包公审石头案”且与现有情节完全匹配的篇章；为避免臆写，暂缓扩写。
 editorialNotes: []
 pronunciationOverrides: []
 ---
