@@ -1,0 +1,42 @@
+[
+  {
+    "id": "ann-shi-yao-001",
+    "workId": "shi-yao",
+    "segmentId": "seg-001",
+    "term": "欹斜",
+    "explanation": "歪斜不稳。",
+    "type": "word"
+  },
+  {
+    "id": "ann-shi-yao-002",
+    "workId": "shi-yao",
+    "segmentId": "seg-001",
+    "term": "惨淡",
+    "explanation": "脸色暗淡、气色不佳。",
+    "type": "word"
+  },
+  {
+    "id": "ann-shi-yao-003",
+    "workId": "shi-yao",
+    "segmentId": "seg-001",
+    "term": "佯",
+    "explanation": "假装。",
+    "type": "word"
+  },
+  {
+    "id": "ann-shi-yao-004",
+    "workId": "shi-yao",
+    "segmentId": "seg-001",
+    "term": "俟",
+    "explanation": "等待。",
+    "type": "word"
+  },
+  {
+    "id": "ann-shi-yao-005",
+    "workId": "shi-yao",
+    "segmentId": "seg-001",
+    "term": "跃入",
+    "explanation": "跳进。",
+    "type": "word"
+  }
+]

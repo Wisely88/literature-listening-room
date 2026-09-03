@@ -1,0 +1,34 @@
+[
+  {
+    "id": "ann-guo-jia-si-xiang-bian-qian-001",
+    "workId": "guo-jia-si-xiang-bian-qian",
+    "segmentId": "seg-001",
+    "term": "国家思想",
+    "explanation": "把共同体视为政治与历史主体的观念。",
+    "type": "word"
+  },
+  {
+    "id": "ann-guo-jia-si-xiang-bian-qian-002",
+    "workId": "guo-jia-si-xiang-bian-qian",
+    "segmentId": "seg-001",
+    "term": "相团结",
+    "explanation": "彼此联合、结成共同体。",
+    "type": "word"
+  },
+  {
+    "id": "ann-guo-jia-si-xiang-bian-qian-003",
+    "workId": "guo-jia-si-xiang-bian-qian",
+    "segmentId": "seg-001",
+    "term": "表其特性",
+    "explanation": "表现自身区别于其他群体的特征。",
+    "type": "grammar"
+  },
+  {
+    "id": "ann-guo-jia-si-xiang-bian-qian-004",
+    "workId": "guo-jia-si-xiang-bian-qian",
+    "segmentId": "seg-001",
+    "term": "意识",
+    "explanation": "对自身处境和共同体的自觉认识。",
+    "type": "word"
+  }
+]
