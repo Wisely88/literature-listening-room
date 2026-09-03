@@ -1,0 +1,42 @@
+[
+  {
+    "id": "ann-bai-yang-chao-001",
+    "workId": "bai-yang-chao",
+    "segmentId": "seg-001",
+    "term": "故事",
+    "explanation": "旧例、惯例。",
+    "type": "word"
+  },
+  {
+    "id": "ann-bai-yang-chao-002",
+    "workId": "bai-yang-chao",
+    "segmentId": "seg-002",
+    "term": "暗涨潮",
+    "explanation": "暗中上涨、未显形的潮水。",
+    "type": "word"
+  },
+  {
+    "id": "ann-bai-yang-chao-003",
+    "workId": "bai-yang-chao",
+    "segmentId": "seg-003",
+    "term": "际天",
+    "explanation": "连接到天边。",
+    "type": "word"
+  },
+  {
+    "id": "ann-bai-yang-chao-004",
+    "workId": "bai-yang-chao",
+    "segmentId": "seg-003",
+    "term": "沃日",
+    "explanation": "冲荡太阳，形容水势高大。沃，冲洗。",
+    "type": "word"
+  },
+  {
+    "id": "ann-bai-yang-chao-005",
+    "workId": "bai-yang-chao",
+    "segmentId": "seg-003",
+    "term": "江干",
+    "explanation": "江岸。干，岸。",
+    "type": "word"
+  }
+]

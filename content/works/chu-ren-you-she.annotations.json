@@ -1,0 +1,42 @@
+[
+  {
+    "id": "ann-chu-ren-you-she-001",
+    "workId": "chu-ren-you-she",
+    "segmentId": "seg-001",
+    "term": "涉江",
+    "explanation": "渡江。涉，趟水、渡过。",
+    "type": "word"
+  },
+  {
+    "id": "ann-chu-ren-you-she-002",
+    "workId": "chu-ren-you-she",
+    "segmentId": "seg-002",
+    "term": "遽",
+    "explanation": "急忙、立即。",
+    "type": "word"
+  },
+  {
+    "id": "ann-chu-ren-you-she-003",
+    "workId": "chu-ren-you-she",
+    "segmentId": "seg-002",
+    "term": "契",
+    "explanation": "用刀刻。",
+    "type": "word"
+  },
+  {
+    "id": "ann-chu-ren-you-she-004",
+    "workId": "chu-ren-you-she",
+    "segmentId": "seg-002",
+    "term": "从其所契者",
+    "explanation": "从刻记号的地方。",
+    "type": "grammar"
+  },
+  {
+    "id": "ann-chu-ren-you-she-005",
+    "workId": "chu-ren-you-she",
+    "segmentId": "seg-002",
+    "term": "惑",
+    "explanation": "糊涂、迷惑。",
+    "type": "word"
+  }
+]
