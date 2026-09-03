@@ -3,48 +3,72 @@
     "id": "ann-song-lian-song-dong-yang-ma-sheng-xu-001",
     "workId": "song-lian-song-dong-yang-ma-sheng-xu",
     "segmentId": "seg-001",
-    "term": "箧",
-    "explanation": "书箱。",
+    "term": "嗜学",
+    "explanation": "爱好学习。",
     "type": "word"
   },
   {
     "id": "ann-song-lian-song-dong-yang-ma-sheng-xu-002",
     "workId": "song-lian-song-dong-yang-ma-sheng-xu",
     "segmentId": "seg-001",
-    "term": "曳屣",
-    "explanation": "拖着鞋子行走。曳，拖；屣，鞋。",
+    "term": "致书",
+    "explanation": "得到书。致，取得。",
     "type": "word"
   },
   {
     "id": "ann-song-lian-song-dong-yang-ma-sheng-xu-003",
     "workId": "song-lian-song-dong-yang-ma-sheng-xu",
     "segmentId": "seg-001",
-    "term": "皲裂",
-    "explanation": "皮肤因寒冷干燥而裂开。",
-    "type": "word"
+    "term": "硕师",
+    "explanation": "学问渊博的老师。",
+    "type": "person"
   },
   {
     "id": "ann-song-lian-song-dong-yang-ma-sheng-xu-004",
     "workId": "song-lian-song-dong-yang-ma-sheng-xu",
     "segmentId": "seg-001",
-    "term": "缊袍",
-    "explanation": "用乱麻旧絮做的袍子。",
-    "type": "word"
+    "term": "援疑质理",
+    "explanation": "提出疑难，询问道理。",
+    "type": "grammar"
   },
   {
     "id": "ann-song-lian-song-dong-yang-ma-sheng-xu-005",
     "workId": "song-lian-song-dong-yang-ma-sheng-xu",
-    "segmentId": "seg-001",
-    "term": "慕艳",
-    "explanation": "羡慕华美的衣服。",
+    "segmentId": "seg-002",
+    "term": "媵人",
+    "explanation": "陪嫁的侍妾，这里指旅舍中服侍的人。",
     "type": "word"
   },
   {
     "id": "ann-song-lian-song-dong-yang-ma-sheng-xu-006",
     "workId": "song-lian-song-dong-yang-ma-sheng-xu",
-    "segmentId": "seg-001",
-    "term": "口体之奉",
-    "explanation": "饮食和衣服等物质享受。",
+    "segmentId": "seg-002",
+    "term": "缊袍",
+    "explanation": "用旧絮、乱麻做的袍子。",
     "type": "word"
+  },
+  {
+    "id": "ann-song-lian-song-dong-yang-ma-sheng-xu-007",
+    "workId": "song-lian-song-dong-yang-ma-sheng-xu",
+    "segmentId": "seg-003",
+    "term": "耄老",
+    "explanation": "年老。耄，年老；老，衰老。",
+    "type": "word"
+  },
+  {
+    "id": "ann-song-lian-song-dong-yang-ma-sheng-xu-008",
+    "workId": "song-lian-song-dong-yang-ma-sheng-xu",
+    "segmentId": "seg-003",
+    "term": "廪稍",
+    "explanation": "官府按时供给的粮食。",
+    "type": "word"
+  },
+  {
+    "id": "ann-song-lian-song-dong-yang-ma-sheng-xu-009",
+    "workId": "song-lian-song-dong-yang-ma-sheng-xu",
+    "segmentId": "seg-003",
+    "term": "心不若余之专",
+    "explanation": "用心不如我专一。若，比得上。",
+    "type": "grammar"
   }
 ]

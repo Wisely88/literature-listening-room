@@ -1,0 +1,17 @@
+{
+  "id": "song-lian",
+  "slug": "song-lian",
+  "name": "宋濂",
+  "dynasty": "明",
+  "country": "中国",
+  "birthYear": 1310,
+  "deathYear": 1381,
+  "bio": "明初文学家、史学家，字景濂，号潜溪，浦江人，曾参与修撰《元史》。",
+  "styleSummary": "文章质朴严整，善于叙事说理，常以亲身经历寄寓劝学与立身之道。",
+  "representativeWorks": [
+    {
+      "title": "送东阳马生序",
+      "type": "序"
+    }
+  ]
+}
