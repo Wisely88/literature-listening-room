@@ -4,14 +4,35 @@
   "provider": "edge-neural",
   "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
   "format": "mp3",
-  "generatedAt": "2026-09-01T02:05:51.843Z",
+  "generatedAt": "2026-09-03T12:42:03.053Z",
   "segments": [
     {
       "id": "seg-001",
       "url": "/audio/jiang-cheng-zi-yi-mao/seg-001.mp3",
       "durationMs": 7800,
-      "checksum": "34d870fb000ecec17073b87b5d769d1797dda69ec4cec71cc411e5aad94b3121",
+      "checksum": "ae518613b4e912bf58ef0203b64bb6675e6cf8b5abe7fadd84f4a41ddcc50cf4",
       "sourceHash": "9a7c7d8e2315f2f6404be092bb8d24a7abfaad3fbed85e948e1b436ed5bfc459"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/jiang-cheng-zi-yi-mao/seg-002.mp3",
+      "durationMs": 4512,
+      "checksum": "1049d050d6f6552383ded94ddc67da02ea2aa0c1ef72367c0739bf350aa496ea",
+      "sourceHash": "c3ef43d53f6690c3962b22e8d2d530ff6ba59e3d7d7559221545fcb7a17e6f56"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/jiang-cheng-zi-yi-mao/seg-003.mp3",
+      "durationMs": 7752,
+      "checksum": "ac1373f801c61a7bffca0881ea7c676915ba64394c1b1e5086d58b54c1e154ef",
+      "sourceHash": "c63de2d4ad5bd1c019fa203fa1588669830bee58e7e0f30f8da148ec1920c1dd"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/jiang-cheng-zi-yi-mao/seg-004.mp3",
+      "durationMs": 4512,
+      "checksum": "6b3a91702df53e6bd209fb85d0ac04167ee752e500dcfd4f09094e02207b71bd",
+      "sourceHash": "5e094f83154ba726623a7dad147d1e7f4b45e9e461bca47e5c871a5d353946fa"
     }
   ]
 }

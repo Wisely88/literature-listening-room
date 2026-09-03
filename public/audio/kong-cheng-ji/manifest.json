@@ -4,14 +4,42 @@
   "provider": "edge-neural",
   "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
   "format": "mp3",
-  "generatedAt": "2026-09-01T02:06:07.458Z",
+  "generatedAt": "2026-09-03T12:44:07.726Z",
   "segments": [
     {
       "id": "seg-001",
       "url": "/audio/kong-cheng-ji/seg-001.mp3",
-      "durationMs": 9696,
-      "checksum": "4a7a0b51a0af550d4e1ec3c129eb99f30f044d0c6fd57bbd7aaeaca190bcf87d",
-      "sourceHash": "d1aec2c9807a6a8b01deac56e2af3bb6c8d65f5fa4b9f6363bd36873b7a4cf22"
+      "durationMs": 375984,
+      "checksum": "5222a8903db3aabd9e2aeb1c3724e59650367f25fcaf7477619048bcc42cb464",
+      "sourceHash": "035c408a24a5efdeb97cc9cb375a2a6a253e0c9bb0b3ebcb9eba0ea6ba085e88"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/kong-cheng-ji/seg-002.mp3",
+      "durationMs": 344856,
+      "checksum": "ff954a565388fca93857de4297450b51abab287200c88167b5aa072ce462d5dc",
+      "sourceHash": "d0f6ce39c17b4d0575238cea6617c102143e9e317684cd006097856594acd100"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/kong-cheng-ji/seg-003.mp3",
+      "durationMs": 315696,
+      "checksum": "76b126a49d284ffdb7e8720ab0a0aec556279437edd5b3ac0e1d25ed9557ad10",
+      "sourceHash": "cf15858dfebf10f6ff8b4b5dc3696ec9e94ff9d7c5743f7e1668ac49dec18aef"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/kong-cheng-ji/seg-004.mp3",
+      "durationMs": 279888,
+      "checksum": "2eb7d0a2323772dedaf3949d30d0ef7ab3dfdb85721de00fb7a8d41791d4bd1f",
+      "sourceHash": "916c67f8114a2c8434900a5c3362732c1618559350c7557ac56596c48da36d6f"
+    },
+    {
+      "id": "seg-005",
+      "url": "/audio/kong-cheng-ji/seg-005.mp3",
+      "durationMs": 180264,
+      "checksum": "de7c86fd53fbbb8f16d88269f8d9bef392d7f785c1b712c9d57828b86d2b6ca1",
+      "sourceHash": "aa0234ebfe1d8bf1b658496be7fc93ac2bb605b58b43f0041fcff474181d4b6f"
     }
   ]
 }

@@ -4,14 +4,14 @@
   "provider": "edge-neural",
   "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
   "format": "mp3",
-  "generatedAt": "2026-09-01T02:06:03.422Z",
+  "generatedAt": "2026-09-03T12:42:41.392Z",
   "segments": [
     {
       "id": "seg-001",
       "url": "/audio/jiu-shan-wang/seg-001.mp3",
-      "durationMs": 6720,
-      "checksum": "3ad69a7cfc9ad08da9a282d4f3ee24a62d1cf68e974eda9868819a789c425660",
-      "sourceHash": "307d6114726e418998a0dc0ab840da7112f62faf91f3f6d88e250a3e45439731"
+      "durationMs": 312240,
+      "checksum": "2aaa9e0851180dba9a9251d24d70ab0ffc5e815690ec936c042a22e4a735e02e",
+      "sourceHash": "464d486db5ec44beff08649233332b1069e4ac5685e781e7cdd6998f135c9d53"
     }
   ]
 }

@@ -4,14 +4,28 @@
   "provider": "edge-neural",
   "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
   "format": "mp3",
-  "generatedAt": "2026-09-01T02:05:59.868Z",
+  "generatedAt": "2026-09-03T12:42:27.340Z",
   "segments": [
     {
       "id": "seg-001",
       "url": "/audio/jing-ke-ci-qin/seg-001.mp3",
       "durationMs": 8256,
-      "checksum": "bd056898708f1b9156156510ef922bb9976b3469b6f8bb947a56221643530e4c",
+      "checksum": "392c7df8a2c42dcdb3f43bb59143aee936f859e8f7b3aca405b92536cc3e021a",
       "sourceHash": "baadfd79cf246f0967f11459d9a39517e0c1216a2071c38ff469980be4c60d8f"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/jing-ke-ci-qin/seg-002.mp3",
+      "durationMs": 21888,
+      "checksum": "ba5d09068ddb9576cca578858588f002254cebd57b9c19df0b694fe025e3bc98",
+      "sourceHash": "69519b8e0d25e300f612c86b4c3c7eb0a262ac36ed0bec2810417cdf6d8c81e7"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/jing-ke-ci-qin/seg-003.mp3",
+      "durationMs": 6744,
+      "checksum": "77c2405e472ad5c4e5af8decd1a34d215ca9c8eb024f5c10e9ff7bf1df92e9cc",
+      "sourceHash": "60d81f87fd8fa3834e4d22006488a73a14ad0001fe8beb2fb345287868addb31"
     }
   ]
 }
