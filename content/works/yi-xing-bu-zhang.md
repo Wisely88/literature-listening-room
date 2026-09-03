@@ -14,7 +14,7 @@ tags: [推理, 证据, 观察]
 moods: [思考, 夜读, 安静]
 ambience: [night]
 defaultAmbience: night
-sourceNote: 依据先秦两汉寓言与说苑母题整理；正文与导读为本项目整理。
+sourceNote: 已检索《说苑》《战国策》《吕氏春秋》等相关公版母题，未找到与现有原句完全匹配的篇章；为避免臆写，暂缓扩写。
 editorialNotes: []
 pronunciationOverrides: []
 ---
