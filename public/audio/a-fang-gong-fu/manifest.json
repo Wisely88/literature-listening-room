@@ -4,21 +4,77 @@
   "provider": "edge-neural",
   "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
   "format": "mp3",
-  "generatedAt": "2026-09-01T01:51:17.033Z",
+  "generatedAt": "2026-09-03T12:04:02.705Z",
   "segments": [
     {
       "id": "seg-001",
       "url": "/audio/a-fang-gong-fu/seg-001.mp3",
-      "durationMs": 11784,
-      "checksum": "62c6eab1811fd53018843cd5cc45b908f4b25c8b767fb33d4ec846a712506699",
-      "sourceHash": "39fa200964b77cc4263fb9f11d9f900f4bbf4c38f932486590ac54811a730b2d"
+      "durationMs": 11640,
+      "checksum": "9d270b5fc672b5f691fe6b77c437cc9dc1c6fe97a2df18950493f5dc0caa6392",
+      "sourceHash": "8af6794ef6eaeacb224f4d63eaef8980dfbd7052da91ac513ce9c386294e3eea"
     },
     {
       "id": "seg-002",
       "url": "/audio/a-fang-gong-fu/seg-002.mp3",
-      "durationMs": 5184,
-      "checksum": "e1c0830afb182dd20651f5cfefaf85dc2e75c9615d4d3c9aa3214cd655777cc9",
-      "sourceHash": "468af8b4ec1cf67bf3158d81d9284f28e567e34bc0818b7b0c16154c4e7e4652"
+      "durationMs": 11160,
+      "checksum": "2b1bab55bd2022fc0759fb6022c19c6210b2fa5339820868597cf543de52b21a",
+      "sourceHash": "3725aa9c5a3a24d4af1cedadbfc825bd8b2330a377874c165b8d483405c9db99"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/a-fang-gong-fu/seg-003.mp3",
+      "durationMs": 14928,
+      "checksum": "17983411eb5baf74cef9063eca02790f023f49919548111f3f8f190dbdc7bf33",
+      "sourceHash": "53fb552695eab3877b6de9806c0e8251e503438ad67f5151906396bb2bc8810d"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/a-fang-gong-fu/seg-004.mp3",
+      "durationMs": 10008,
+      "checksum": "2793df3b034a999296a4889cc7a6edc8cf421548b0a44b039e3ae12aabbf148f",
+      "sourceHash": "718966543a3991c25a3acfc7b2ece3d39bf9101f8f89715a5586278223833a5b"
+    },
+    {
+      "id": "seg-005",
+      "url": "/audio/a-fang-gong-fu/seg-005.mp3",
+      "durationMs": 24984,
+      "checksum": "eacc69b1cd62fee89d4802d6fc5931b9448b537bcb4007adf8b0e0b7391a7cf9",
+      "sourceHash": "8fc109da41b2fd3f87fa82c74d97be84419ab7fae3266455d877e124870bd364"
+    },
+    {
+      "id": "seg-006",
+      "url": "/audio/a-fang-gong-fu/seg-006.mp3",
+      "durationMs": 7944,
+      "checksum": "f728a5230f17c0b26f0275f085ccfc33f264c700cdb2e130b5ac10e97d5b15e3",
+      "sourceHash": "4484210aaa06a079fb1cb42e87225a25cb1499523f129944057b5f1592a3e7e0"
+    },
+    {
+      "id": "seg-007",
+      "url": "/audio/a-fang-gong-fu/seg-007.mp3",
+      "durationMs": 18720,
+      "checksum": "aa699a36ae585f791469be3f755487599170bce0343a0a9ff533bb005e1be6c6",
+      "sourceHash": "dea1b882d3c25c7fe71c35278dd0bd341cbe5eb15a8fbf370282009d56eab8c3"
+    },
+    {
+      "id": "seg-008",
+      "url": "/audio/a-fang-gong-fu/seg-008.mp3",
+      "durationMs": 11784,
+      "checksum": "e1e50a24e2e2787a75df7d3c90ccf02e442a7e560402aa53ff57772f62e1ff73",
+      "sourceHash": "39fa200964b77cc4263fb9f11d9f900f4bbf4c38f932486590ac54811a730b2d"
+    },
+    {
+      "id": "seg-009",
+      "url": "/audio/a-fang-gong-fu/seg-009.mp3",
+      "durationMs": 14784,
+      "checksum": "a236b040356d97056986dbc22c7f31913659a765245ca72a74ec19c15cb2527e",
+      "sourceHash": "00370d18f6ec83289ad86972937d229440c8047b6269e9dcb90e672f813720d6"
+    },
+    {
+      "id": "seg-010",
+      "url": "/audio/a-fang-gong-fu/seg-010.mp3",
+      "durationMs": 8472,
+      "checksum": "1a9c45adbc591df60a29e120465c07079e0bd8f6771d36cadb8349126ffc828c",
+      "sourceHash": "933dfd495c2f10f020db12944dbcc3a593e56ac5c3dd42879f4905b8fc0682f2"
     }
   ]
 }

@@ -4,14 +4,28 @@
   "provider": "edge-neural",
   "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
   "format": "mp3",
-  "generatedAt": "2026-09-01T01:54:04.279Z",
+  "generatedAt": "2026-09-03T12:07:46.829Z",
   "segments": [
     {
       "id": "seg-001",
       "url": "/audio/bai-yang-chao/seg-001.mp3",
-      "durationMs": 7344,
-      "checksum": "e9c410ca20de6526d8e38387433aa6e6ef6a7ef207b0f39164e652455ccb4dc3",
-      "sourceHash": "d1bb68655169f5f84dd71c158d6dfd1371b8ec53bf38f60a3c1f79b298d7aafa"
+      "durationMs": 14472,
+      "checksum": "6b643660538be29290f5c2d46c9d478e1d985f41274130624fce49eb033cbb9e",
+      "sourceHash": "ecaac1bd5be932d763335e4e99fd0505943e710e14c7b38e3b22c0d90a6799cc"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/bai-yang-chao/seg-002.mp3",
+      "durationMs": 12840,
+      "checksum": "fe423d30f29733f017bf5d063d07711cddd1fc8962a65198bd4c386f37733118",
+      "sourceHash": "867e508cfb4925fa08535623497b0ff59a48c3229b7c879b28a125ad98603318"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/bai-yang-chao/seg-003.mp3",
+      "durationMs": 9624,
+      "checksum": "882a97e24485b6dad667de7a7ba4f3839e4e20b0d13f3cde453890daff7b945c",
+      "sourceHash": "51c0eb6cc9389be0fe2395e3c2c8ab7c913885d5b6451c58b31370842d722851"
     }
   ]
 }

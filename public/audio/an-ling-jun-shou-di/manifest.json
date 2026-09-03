@@ -4,14 +4,35 @@
   "provider": "edge-neural",
   "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
   "format": "mp3",
-  "generatedAt": "2026-09-01T01:53:21.244Z",
+  "generatedAt": "2026-09-03T12:04:31.568Z",
   "segments": [
     {
       "id": "seg-001",
       "url": "/audio/an-ling-jun-shou-di/seg-001.mp3",
-      "durationMs": 7824,
-      "checksum": "00d37f50f74bc1cb4e433516a4e1c823e514670ecb216e0853b6e69c72e1ecc7",
-      "sourceHash": "03dc0fcde7709087e535fa71b929427b225f3e8595758f64ce163f1e3e98b7a8"
+      "durationMs": 22296,
+      "checksum": "92c3981f6db7fa273678cbbdde317729f87a89c332e5f939812c15beeb0d59e9",
+      "sourceHash": "808c6a473f8b2026dabc4e675db9d78f308a21ea78d787bfb8d731796aa3522a"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/an-ling-jun-shou-di/seg-002.mp3",
+      "durationMs": 32280,
+      "checksum": "a417c01a6fc994ada7cbcbc4cbb0b8a0c77f876dbc660cd80eb35c5c3804c234",
+      "sourceHash": "7642da1dab26634fb94c04af1bfe52d8013de3bc7468d45da20300a559be88c0"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/an-ling-jun-shou-di/seg-003.mp3",
+      "durationMs": 55056,
+      "checksum": "5243700f33963c85ba8e943b64f36418d007813b476af92795755582ddc357f7",
+      "sourceHash": "c54765e80191cdf5f84fb259bf3c534be5d2720a84f7d8ebbe10f07b1f33aa23"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/an-ling-jun-shou-di/seg-004.mp3",
+      "durationMs": 14064,
+      "checksum": "179cf72f5706f881ba8e09a1ed5a457c795ccd82b90dda569b005da0a9d1acef",
+      "sourceHash": "faf46a47569adcbda2e2855486d1cb86db77ef730b6f68c6d38017cfd233a626"
     }
   ]
 }
