@@ -3,40 +3,80 @@
     "id": "ann-xiang-yu-001",
     "workId": "xiang-yu",
     "segmentId": "seg-001",
-    "term": "崂山",
-    "explanation": "山名，在今山东青岛一带。崂通“劳”。",
+    "term": "耐冬",
+    "explanation": "山茶科常绿植物，冬季仍能开花。",
     "type": "word"
   },
   {
     "id": "ann-xiang-yu-002",
     "workId": "xiang-yu",
     "segmentId": "seg-001",
-    "term": "清宫",
-    "explanation": "道教宫观名。",
-    "type": "word"
+    "term": "下清宮",
+    "explanation": "崂山道教宫观名。",
+    "type": "history"
   },
   {
     "id": "ann-xiang-yu-003",
     "workId": "xiang-yu",
     "segmentId": "seg-001",
-    "term": "耐冬",
-    "explanation": "山茶一类常绿花木。",
-    "type": "word"
+    "term": "平康巷",
+    "explanation": "唐宋以来泛指妓女聚居之地。",
+    "type": "history"
   },
   {
     "id": "ann-xiang-yu-004",
     "workId": "xiang-yu",
     "segmentId": "seg-001",
-    "term": "璀璨",
-    "explanation": "光彩鲜明耀眼。",
-    "type": "word"
+    "term": "沙吒利",
+    "explanation": "传说中强夺他人爱人的人物，典出唐传奇。",
+    "type": "allusion"
   },
   {
     "id": "ann-xiang-yu-005",
     "workId": "xiang-yu",
     "segmentId": "seg-001",
-    "term": "花时",
-    "explanation": "花朵盛开的时节。",
+    "term": "古押衙",
+    "explanation": "唐传奇《无双传》中营救王仙客的义士。",
+    "type": "person"
+  },
+  {
+    "id": "ann-xiang-yu-006",
+    "workId": "xiang-yu",
+    "segmentId": "seg-001",
+    "term": "絳雪",
+    "explanation": "耐冬花妖，香玉的义姊。",
+    "type": "person"
+  },
+  {
+    "id": "ann-xiang-yu-007",
+    "workId": "xiang-yu",
+    "segmentId": "seg-001",
+    "term": "白蘞",
+    "explanation": "药用植物，根可入药，文中用以培护牡丹。",
     "type": "word"
+  },
+  {
+    "id": "ann-xiang-yu-008",
+    "workId": "xiang-yu",
+    "segmentId": "seg-001",
+    "term": "硫黃",
+    "explanation": "黄色矿物，古代常入药或炼丹。",
+    "type": "word"
+  },
+  {
+    "id": "ann-xiang-yu-009",
+    "workId": "xiang-yu",
+    "segmentId": "seg-001",
+    "term": "花神",
+    "explanation": "掌管花木生长的神灵。",
+    "type": "allusion"
+  },
+  {
+    "id": "ann-xiang-yu-010",
+    "workId": "xiang-yu",
+    "segmentId": "seg-001",
+    "term": "唐棣",
+    "explanation": "《诗经》篇名，孔子论诗时提及。",
+    "type": "allusion"
   }
 ]
