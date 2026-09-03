@@ -1,0 +1,42 @@
+[
+  {
+    "id": "ann-chen-ping-qi-ji-001",
+    "workId": "chen-ping-qi-ji",
+    "segmentId": "seg-001",
+    "term": "阳武",
+    "explanation": "古县名，今河南原阳一带。",
+    "type": "word"
+  },
+  {
+    "id": "ann-chen-ping-qi-ji-002",
+    "workId": "chen-ping-qi-ji",
+    "segmentId": "seg-002",
+    "term": "纵",
+    "explanation": "放任、听凭。",
+    "type": "word"
+  },
+  {
+    "id": "ann-chen-ping-qi-ji-003",
+    "workId": "chen-ping-qi-ji",
+    "segmentId": "seg-003",
+    "term": "糠覈",
+    "explanation": "糠皮和粗粮，泛指粗劣食物。覈同“核”。",
+    "type": "word"
+  },
+  {
+    "id": "ann-chen-ping-qi-ji-004",
+    "workId": "chen-ping-qi-ji",
+    "segmentId": "seg-003",
+    "term": "长美",
+    "explanation": "身材高大而相貌俊美。",
+    "type": "word"
+  },
+  {
+    "id": "ann-chen-ping-qi-ji-005",
+    "workId": "chen-ping-qi-ji",
+    "segmentId": "seg-003",
+    "term": "妻",
+    "explanation": "嫁女给某人，此处作动词。",
+    "type": "grammar"
+  }
+]

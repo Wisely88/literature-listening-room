@@ -1,0 +1,42 @@
+[
+  {
+    "id": "ann-gao-zu-ben-ji-001",
+    "workId": "gao-zu-ben-ji",
+    "segmentId": "seg-001",
+    "term": "隆准",
+    "explanation": "高鼻梁。隆，高。",
+    "type": "word"
+  },
+  {
+    "id": "ann-gao-zu-ben-ji-002",
+    "workId": "gao-zu-ben-ji",
+    "segmentId": "seg-002",
+    "term": "龙颜",
+    "explanation": "帝王相貌的称谓，此处写刘邦面相。",
+    "type": "word"
+  },
+  {
+    "id": "ann-gao-zu-ben-ji-003",
+    "workId": "gao-zu-ben-ji",
+    "segmentId": "seg-003",
+    "term": "狎侮",
+    "explanation": "亲近而戏弄、轻慢。",
+    "type": "word"
+  },
+  {
+    "id": "ann-gao-zu-ben-ji-004",
+    "workId": "gao-zu-ben-ji",
+    "segmentId": "seg-003",
+    "term": "亭长",
+    "explanation": "秦汉基层官职，负责管理十里左右的治安。",
+    "type": "word"
+  },
+  {
+    "id": "ann-gao-zu-ben-ji-005",
+    "workId": "gao-zu-ben-ji",
+    "segmentId": "seg-003",
+    "term": "繇",
+    "explanation": "同“徭”，服劳役。",
+    "type": "word"
+  }
+]

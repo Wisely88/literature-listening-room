@@ -1,0 +1,42 @@
+[
+  {
+    "id": "ann-bo-yi-lie-zhuan-001",
+    "workId": "bo-yi-lie-zhuan",
+    "segmentId": "seg-001",
+    "term": "孤竹君",
+    "explanation": "古代诸侯国名，其国君称孤竹君。",
+    "type": "word"
+  },
+  {
+    "id": "ann-bo-yi-lie-zhuan-002",
+    "workId": "bo-yi-lie-zhuan",
+    "segmentId": "seg-002",
+    "term": "让",
+    "explanation": "谦让、推让君位。",
+    "type": "word"
+  },
+  {
+    "id": "ann-bo-yi-lie-zhuan-003",
+    "workId": "bo-yi-lie-zhuan",
+    "segmentId": "seg-003",
+    "term": "宗周",
+    "explanation": "以周朝为宗主。",
+    "type": "word"
+  },
+  {
+    "id": "ann-bo-yi-lie-zhuan-004",
+    "workId": "bo-yi-lie-zhuan",
+    "segmentId": "seg-003",
+    "term": "薇",
+    "explanation": "一种野菜，嫩叶可食。",
+    "type": "word"
+  },
+  {
+    "id": "ann-bo-yi-lie-zhuan-005",
+    "workId": "bo-yi-lie-zhuan",
+    "segmentId": "seg-003",
+    "term": "徂",
+    "explanation": "往、离去。",
+    "type": "word"
+  }
+]
