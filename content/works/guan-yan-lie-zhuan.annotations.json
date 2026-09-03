@@ -3,40 +3,96 @@
     "id": "ann-guan-yan-lie-zhuan-001",
     "workId": "guan-yan-lie-zhuan",
     "segmentId": "seg-001",
-    "term": "游",
-    "explanation": "交游、来往。",
+    "term": "贾",
+    "explanation": "做买卖。",
     "type": "word"
   },
   {
     "id": "ann-guan-yan-lie-zhuan-002",
     "workId": "guan-yan-lie-zhuan",
     "segmentId": "seg-001",
-    "term": "欺",
-    "explanation": "占便宜、欺负。",
-    "type": "word"
+    "term": "三仕三见逐",
+    "explanation": "三次做官又三次被君主斥退。",
+    "type": "history"
   },
   {
     "id": "ann-guan-yan-lie-zhuan-003",
     "workId": "guan-yan-lie-zhuan",
     "segmentId": "seg-001",
-    "term": "善遇",
-    "explanation": "友善地对待。",
-    "type": "word"
+    "term": "一匡天下",
+    "explanation": "使天下得到匡正。",
+    "type": "allusion"
   },
   {
     "id": "ann-guan-yan-lie-zhuan-004",
     "workId": "guan-yan-lie-zhuan",
     "segmentId": "seg-001",
-    "term": "进",
-    "explanation": "推荐。",
-    "type": "word"
+    "term": "知我者鲍子",
+    "explanation": "真正了解我的人是鲍叔牙。",
+    "type": "allusion"
   },
   {
     "id": "ann-guan-yan-lie-zhuan-005",
     "workId": "guan-yan-lie-zhuan",
     "segmentId": "seg-001",
-    "term": "任政",
-    "explanation": "主持政务。",
+    "term": "仓廪实而知礼节",
+    "explanation": "粮仓充实，百姓才懂得礼节。",
+    "type": "allusion"
+  },
+  {
+    "id": "ann-guan-yan-lie-zhuan-006",
+    "workId": "guan-yan-lie-zhuan",
+    "segmentId": "seg-001",
+    "term": "三归",
+    "explanation": "管仲的三处采邑或台名，形容其富贵。",
+    "type": "history"
+  },
+  {
+    "id": "ann-guan-yan-lie-zhuan-007",
+    "workId": "guan-yan-lie-zhuan",
+    "segmentId": "seg-001",
+    "term": "衡命",
+    "explanation": "权衡形势后执行命令，不盲从。",
     "type": "word"
+  },
+  {
+    "id": "ann-guan-yan-lie-zhuan-008",
+    "workId": "guan-yan-lie-zhuan",
+    "segmentId": "seg-001",
+    "term": "缧绁",
+    "explanation": "捆绑犯人的绳索，代指牢狱。",
+    "type": "word"
+  },
+  {
+    "id": "ann-guan-yan-lie-zhuan-009",
+    "workId": "guan-yan-lie-zhuan",
+    "segmentId": "seg-001",
+    "term": "左骖",
+    "explanation": "车驾左边的马。",
+    "type": "word"
+  },
+  {
+    "id": "ann-guan-yan-lie-zhuan-010",
+    "workId": "guan-yan-lie-zhuan",
+    "segmentId": "seg-001",
+    "term": "摄衣冠",
+    "explanation": "整理衣冠，表示郑重道歉。",
+    "type": "grammar"
+  },
+  {
+    "id": "ann-guan-yan-lie-zhuan-011",
+    "workId": "guan-yan-lie-zhuan",
+    "segmentId": "seg-001",
+    "term": "窥",
+    "explanation": "从门缝偷看。",
+    "type": "word"
+  },
+  {
+    "id": "ann-guan-yan-lie-zhuan-012",
+    "workId": "guan-yan-lie-zhuan",
+    "segmentId": "seg-001",
+    "term": "执鞭",
+    "explanation": "替人赶车，表示敬慕。",
+    "type": "allusion"
   }
 ]
