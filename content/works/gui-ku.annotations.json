@@ -3,24 +3,72 @@
     "id": "ann-gui-ku-001",
     "workId": "gui-ku",
     "segmentId": "seg-001",
-    "term": "变",
-    "explanation": "变乱、变故。",
-    "type": "word"
+    "term": "谢迁之变",
+    "explanation": "明末战乱中谢迁地方兵变的历史背景。",
+    "type": "history"
   },
   {
     "id": "ann-gui-ku-002",
     "workId": "gui-ku",
     "segmentId": "seg-001",
-    "term": "相传",
-    "explanation": "相互传说。",
-    "type": "word"
+    "term": "学使",
+    "explanation": "提督学政的官员，主管地方教育与科举。",
+    "type": "history"
   },
   {
     "id": "ann-gui-ku-003",
     "workId": "gui-ku",
     "segmentId": "seg-001",
-    "term": "四野",
-    "explanation": "四面郊野。",
+    "term": "磷火",
+    "explanation": "尸骨等物在夜间产生的幽绿色火光，古人视为鬼火。",
+    "type": "allusion"
+  },
+  {
+    "id": "ann-gui-ku-004",
+    "workId": "gui-ku",
+    "segmentId": "seg-001",
+    "term": "白皋迪",
+    "explanation": "借宿王宅的王姓书生。",
+    "type": "person"
+  },
+  {
+    "id": "ann-gui-ku-005",
+    "workId": "gui-ku",
+    "segmentId": "seg-001",
+    "term": "水陆道场",
+    "explanation": "佛教为水陆众生设坛诵经、施食超度的法会。",
+    "type": "allusion"
+  },
+  {
+    "id": "ann-gui-ku-006",
+    "workId": "gui-ku",
+    "segmentId": "seg-001",
+    "term": "閽人",
+    "explanation": "守门人、门房。",
     "type": "word"
+  },
+  {
+    "id": "ann-gui-ku-007",
+    "workId": "gui-ku",
+    "segmentId": "seg-001",
+    "term": "啗噉",
+    "explanation": "吃食。",
+    "type": "word"
+  },
+  {
+    "id": "ann-gui-ku-008",
+    "workId": "gui-ku",
+    "segmentId": "seg-001",
+    "term": "鈸鐃",
+    "explanation": "法会中使用的打击乐器。",
+    "type": "word"
+  },
+  {
+    "id": "ann-gui-ku-009",
+    "workId": "gui-ku",
+    "segmentId": "seg-001",
+    "term": "异史氏",
+    "explanation": "蒲松龄在篇末使用的自称。",
+    "type": "person"
   }
 ]
