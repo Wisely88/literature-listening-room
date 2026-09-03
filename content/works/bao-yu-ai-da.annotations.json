@@ -1,0 +1,42 @@
+[
+  {
+    "id": "ann-bao-yu-ai-da-001",
+    "workId": "bao-yu-ai-da",
+    "segmentId": "seg-001",
+    "term": "五内摧伤",
+    "explanation": "内心极度悲痛。五内，五脏；摧伤，摧折伤痛。",
+    "type": "word"
+  },
+  {
+    "id": "ann-bao-yu-ai-da-002",
+    "workId": "bao-yu-ai-da",
+    "segmentId": "seg-001",
+    "term": "含羞赌气",
+    "explanation": "因羞惭和怄气而采取激烈行动。",
+    "type": "word"
+  },
+  {
+    "id": "ann-bao-yu-ai-da-003",
+    "workId": "bao-yu-ai-da",
+    "segmentId": "seg-001",
+    "term": "自尽",
+    "explanation": "自杀。",
+    "type": "word"
+  },
+  {
+    "id": "ann-bao-yu-ai-da-004",
+    "workId": "bao-yu-ai-da",
+    "segmentId": "seg-001",
+    "term": "王夫人",
+    "explanation": "贾宝玉的母亲。",
+    "type": "word"
+  },
+  {
+    "id": "ann-bao-yu-ai-da-005",
+    "workId": "bao-yu-ai-da",
+    "segmentId": "seg-001",
+    "term": "无可回说",
+    "explanation": "没有什么可以辩解回答。",
+    "type": "grammar"
+  }
+]
