@@ -14,7 +14,7 @@ tags: [恐怖, 古寺, 回声]
 moods: [夜读, 紧张, 沉浸]
 ambience: [rain, night]
 defaultAmbience: rain
-sourceNote: 依据公版志怪母题整理；正文与导读为本项目整理。
+sourceNote: 未找到与“画壁回声”标题及现有原句对应的可核验公版篇章；现有正文仅作线索保留，暂缓扩写。
 editorialNotes: []
 pronunciationOverrides: []
 ---

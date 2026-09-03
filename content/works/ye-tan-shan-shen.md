@@ -14,7 +14,7 @@ tags: [悬疑, 山村, 伪神]
 moods: [紧张, 夜读, 沉浸]
 ambience: [rain, night]
 defaultAmbience: rain
-sourceNote: 依据公版志怪与公案母题整理；正文与导读为本项目整理。
+sourceNote: 未找到与“夜坛山神”标题及现有案情对应的可核验公版篇章；现有正文仅作线索保留，暂缓扩写。
 editorialNotes: []
 pronunciationOverrides: []
 ---
