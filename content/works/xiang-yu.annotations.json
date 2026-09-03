@@ -1,0 +1,42 @@
+[
+  {
+    "id": "ann-xiang-yu-001",
+    "workId": "xiang-yu",
+    "segmentId": "seg-001",
+    "term": "崂山",
+    "explanation": "山名，在今山东青岛一带。崂通“劳”。",
+    "type": "word"
+  },
+  {
+    "id": "ann-xiang-yu-002",
+    "workId": "xiang-yu",
+    "segmentId": "seg-001",
+    "term": "清宫",
+    "explanation": "道教宫观名。",
+    "type": "word"
+  },
+  {
+    "id": "ann-xiang-yu-003",
+    "workId": "xiang-yu",
+    "segmentId": "seg-001",
+    "term": "耐冬",
+    "explanation": "山茶一类常绿花木。",
+    "type": "word"
+  },
+  {
+    "id": "ann-xiang-yu-004",
+    "workId": "xiang-yu",
+    "segmentId": "seg-001",
+    "term": "璀璨",
+    "explanation": "光彩鲜明耀眼。",
+    "type": "word"
+  },
+  {
+    "id": "ann-xiang-yu-005",
+    "workId": "xiang-yu",
+    "segmentId": "seg-001",
+    "term": "花时",
+    "explanation": "花朵盛开的时节。",
+    "type": "word"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": "ann-song-lian-song-dong-yang-ma-sheng-xu-001",
+    "workId": "song-lian-song-dong-yang-ma-sheng-xu",
+    "segmentId": "seg-001",
+    "term": "箧",
+    "explanation": "书箱。",
+    "type": "word"
+  },
+  {
+    "id": "ann-song-lian-song-dong-yang-ma-sheng-xu-002",
+    "workId": "song-lian-song-dong-yang-ma-sheng-xu",
+    "segmentId": "seg-001",
+    "term": "曳屣",
+    "explanation": "拖着鞋子行走。曳，拖；屣，鞋。",
+    "type": "word"
+  },
+  {
+    "id": "ann-song-lian-song-dong-yang-ma-sheng-xu-003",
+    "workId": "song-lian-song-dong-yang-ma-sheng-xu",
+    "segmentId": "seg-001",
+    "term": "皲裂",
+    "explanation": "皮肤因寒冷干燥而裂开。",
+    "type": "word"
+  },
+  {
+    "id": "ann-song-lian-song-dong-yang-ma-sheng-xu-004",
+    "workId": "song-lian-song-dong-yang-ma-sheng-xu",
+    "segmentId": "seg-001",
+    "term": "缊袍",
+    "explanation": "用乱麻旧絮做的袍子。",
+    "type": "word"
+  },
+  {
+    "id": "ann-song-lian-song-dong-yang-ma-sheng-xu-005",
+    "workId": "song-lian-song-dong-yang-ma-sheng-xu",
+    "segmentId": "seg-001",
+    "term": "慕艳",
+    "explanation": "羡慕华美的衣服。",
+    "type": "word"
+  },
+  {
+    "id": "ann-song-lian-song-dong-yang-ma-sheng-xu-006",
+    "workId": "song-lian-song-dong-yang-ma-sheng-xu",
+    "segmentId": "seg-001",
+    "term": "口体之奉",
+    "explanation": "饮食和衣服等物质享受。",
+    "type": "word"
+  }
+]
