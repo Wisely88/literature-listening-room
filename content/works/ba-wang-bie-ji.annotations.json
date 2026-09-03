@@ -1,0 +1,34 @@
+[
+  {
+    "id": "ann-bawang-001",
+    "workId": "ba-wang-bie-ji",
+    "segmentId": "seg-001",
+    "term": "垓下",
+    "explanation": "地名，在今安徽灵璧东南，楚汉相争末期项羽军队驻地。",
+    "type": "place"
+  },
+  {
+    "id": "ann-bawang-002",
+    "workId": "ba-wang-bie-ji",
+    "segmentId": "seg-002",
+    "term": "虞",
+    "explanation": "虞姬，项羽的宠姬。",
+    "type": "person"
+  },
+  {
+    "id": "ann-bawang-003",
+    "workId": "ba-wang-bie-ji",
+    "segmentId": "seg-004",
+    "term": "绐",
+    "explanation": "欺骗。",
+    "type": "word"
+  },
+  {
+    "id": "ann-bawang-004",
+    "workId": "ba-wang-bie-ji",
+    "segmentId": "seg-005",
+    "term": "快战",
+    "explanation": "痛快地决战。",
+    "type": "word"
+  }
+]

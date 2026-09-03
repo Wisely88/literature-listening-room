@@ -1,0 +1,34 @@
+[
+  {
+    "id": "ann-cao-001",
+    "workId": "cao-chuan-jie-jian",
+    "segmentId": "seg-001",
+    "term": "水战",
+    "explanation": "在江河湖海上进行的战斗。",
+    "type": "history"
+  },
+  {
+    "id": "ann-cao-002",
+    "workId": "cao-chuan-jie-jian",
+    "segmentId": "seg-002",
+    "term": "军令状",
+    "explanation": "接受任务时写下的保证，完不成愿受军法处分。",
+    "type": "history"
+  },
+  {
+    "id": "ann-cao-003",
+    "workId": "cao-chuan-jie-jian",
+    "segmentId": "seg-003",
+    "term": "四更",
+    "explanation": "古代夜间计时，约为凌晨一时至三时。",
+    "type": "history"
+  },
+  {
+    "id": "ann-cao-004",
+    "workId": "cao-chuan-jie-jian",
+    "segmentId": "seg-005",
+    "term": "神机妙算",
+    "explanation": "惊人的机智和精妙的谋划。",
+    "type": "word"
+  }
+]
