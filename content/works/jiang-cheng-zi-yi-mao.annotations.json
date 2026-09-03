@@ -1,0 +1,42 @@
+[
+  {
+    "id": "ann-jiang-cheng-zi-yi-mao-001",
+    "workId": "jiang-cheng-zi-yi-mao",
+    "segmentId": "seg-001",
+    "term": "茫茫",
+    "explanation": "渺茫、不可知的样子。",
+    "type": "word"
+  },
+  {
+    "id": "ann-jiang-cheng-zi-yi-mao-002",
+    "workId": "jiang-cheng-zi-yi-mao",
+    "segmentId": "seg-002",
+    "term": "千里孤坟",
+    "explanation": "妻子的坟墓远在千里之外。",
+    "type": "word"
+  },
+  {
+    "id": "ann-jiang-cheng-zi-yi-mao-003",
+    "workId": "jiang-cheng-zi-yi-mao",
+    "segmentId": "seg-003",
+    "term": "尘满面",
+    "explanation": "脸上沾满尘土，形容漂泊劳顿。",
+    "type": "word"
+  },
+  {
+    "id": "ann-jiang-cheng-zi-yi-mao-004",
+    "workId": "jiang-cheng-zi-yi-mao",
+    "segmentId": "seg-004",
+    "term": "幽梦",
+    "explanation": "隐约、深沉的梦。",
+    "type": "word"
+  },
+  {
+    "id": "ann-jiang-cheng-zi-yi-mao-005",
+    "workId": "jiang-cheng-zi-yi-mao",
+    "segmentId": "seg-004",
+    "term": "短松冈",
+    "explanation": "坟墓旁松树不高的小山冈。",
+    "type": "word"
+  }
+]

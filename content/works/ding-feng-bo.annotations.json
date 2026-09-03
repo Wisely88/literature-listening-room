@@ -1,0 +1,42 @@
+[
+  {
+    "id": "ann-ding-feng-bo-001",
+    "workId": "ding-feng-bo",
+    "segmentId": "seg-001",
+    "term": "吟啸",
+    "explanation": "吟咏长啸，表示从容自得。",
+    "type": "word"
+  },
+  {
+    "id": "ann-ding-feng-bo-002",
+    "workId": "ding-feng-bo",
+    "segmentId": "seg-002",
+    "term": "芒鞋",
+    "explanation": "用植物纤维编成的草鞋。",
+    "type": "word"
+  },
+  {
+    "id": "ann-ding-feng-bo-003",
+    "workId": "ding-feng-bo",
+    "segmentId": "seg-003",
+    "term": "料峭",
+    "explanation": "形容春寒微冷。",
+    "type": "word"
+  },
+  {
+    "id": "ann-ding-feng-bo-004",
+    "workId": "ding-feng-bo",
+    "segmentId": "seg-003",
+    "term": "萧瑟",
+    "explanation": "风雨声，也指环境冷落、心境寂寥。",
+    "type": "word"
+  },
+  {
+    "id": "ann-ding-feng-bo-005",
+    "workId": "ding-feng-bo",
+    "segmentId": "seg-003",
+    "term": "无晴",
+    "explanation": "不必执着于晴天，写超然心态。",
+    "type": "word"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "ann-huang-he-lou-song-meng-hao-ran-001",
+    "workId": "huang-he-lou-song-meng-hao-ran",
+    "segmentId": "seg-001",
+    "term": "故人",
+    "explanation": "老朋友，指孟浩然。",
+    "type": "word"
+  },
+  {
+    "id": "ann-huang-he-lou-song-meng-hao-ran-002",
+    "workId": "huang-he-lou-song-meng-hao-ran",
+    "segmentId": "seg-002",
+    "term": "烟花",
+    "explanation": "春日繁花，也形容春景绚烂。",
+    "type": "word"
+  },
+  {
+    "id": "ann-huang-he-lou-song-meng-hao-ran-003",
+    "workId": "huang-he-lou-song-meng-hao-ran",
+    "segmentId": "seg-002",
+    "term": "下扬州",
+    "explanation": "顺流而下前往扬州。",
+    "type": "word"
+  },
+  {
+    "id": "ann-huang-he-lou-song-meng-hao-ran-004",
+    "workId": "huang-he-lou-song-meng-hao-ran",
+    "segmentId": "seg-002",
+    "term": "碧空尽",
+    "explanation": "消失在碧蓝天空的尽头。",
+    "type": "word"
+  },
+  {
+    "id": "ann-huang-he-lou-song-meng-hao-ran-005",
+    "workId": "huang-he-lou-song-meng-hao-ran",
+    "segmentId": "seg-002",
+    "term": "天际",
+    "explanation": "天边。",
+    "type": "word"
+  }
+]

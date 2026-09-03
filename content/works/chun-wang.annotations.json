@@ -1,0 +1,42 @@
+[
+  {
+    "id": "ann-chun-wang-001",
+    "workId": "chun-wang",
+    "segmentId": "seg-001",
+    "term": "国破",
+    "explanation": "国都陷落，国家局势破败。",
+    "type": "word"
+  },
+  {
+    "id": "ann-chun-wang-002",
+    "workId": "chun-wang",
+    "segmentId": "seg-002",
+    "term": "烽火",
+    "explanation": "古代边防报警的烟火，此处指战争。",
+    "type": "word"
+  },
+  {
+    "id": "ann-chun-wang-003",
+    "workId": "chun-wang",
+    "segmentId": "seg-003",
+    "term": "抵",
+    "explanation": "相当、抵得上。",
+    "type": "word"
+  },
+  {
+    "id": "ann-chun-wang-004",
+    "workId": "chun-wang",
+    "segmentId": "seg-004",
+    "term": "浑欲",
+    "explanation": "简直要。浑，简直、几乎。",
+    "type": "word"
+  },
+  {
+    "id": "ann-chun-wang-005",
+    "workId": "chun-wang",
+    "segmentId": "seg-004",
+    "term": "不胜簪",
+    "explanation": "插不住簪子。胜，承受、胜任。",
+    "type": "word"
+  }
+]
