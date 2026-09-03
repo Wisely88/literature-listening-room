@@ -14,7 +14,7 @@ tags: [优秀文章, 精读, 公版]
 moods: [夜读, 思考]
 ambience: [rain]
 defaultAmbience: rain
-sourceNote: 依据公版通行本节选；白话译文与导读为本项目整理。
+sourceNote: 已检索《饮冰室自由书》目录及梁启超公版文集，未找到与现有“自由云者，非放纵之谓也”片段完全匹配的具体篇章；为避免误配，暂缓扩写。
 editorialNotes: []
 pronunciationOverrides: []
 ---
