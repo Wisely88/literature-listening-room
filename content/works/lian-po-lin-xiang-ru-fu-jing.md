@@ -14,7 +14,7 @@ tags: [司马迁, 廉颇, 蔺相如, 将相和]
 moods: [夜读, 思考, 古典]
 ambience: [rain]
 defaultAmbience: rain
-sourceNote: 原文依据《史记》或《战国策》公版通行本核对；分段译文、背景与赏析为本项目整理。
+sourceNote: 原文依据《史记·廉颇蔺相如列传》公版通行本核对；本条目收录“负荆请罪”完整故事段落，译文、背景与赏析为本项目整理。
 editorialNotes: []
 pronunciationOverrides: []
 ---
