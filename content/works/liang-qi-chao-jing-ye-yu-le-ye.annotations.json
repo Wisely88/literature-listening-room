@@ -1,0 +1,42 @@
+[
+  {
+    "id": "ann-liang-qi-chao-jing-ye-yu-le-ye-001",
+    "workId": "liang-qi-chao-jing-ye-yu-le-ye",
+    "segmentId": "seg-001",
+    "term": "不二法门",
+    "explanation": "唯一正确、不可替代的方法。",
+    "type": "word"
+  },
+  {
+    "id": "ann-liang-qi-chao-jing-ye-yu-le-ye-002",
+    "workId": "liang-qi-chao-jing-ye-yu-le-ye",
+    "segmentId": "seg-001",
+    "term": "敬业",
+    "explanation": "专心致力于所从事的职业。",
+    "type": "word"
+  },
+  {
+    "id": "ann-liang-qi-chao-jing-ye-yu-le-ye-003",
+    "workId": "liang-qi-chao-jing-ye-yu-le-ye",
+    "segmentId": "seg-001",
+    "term": "乐业",
+    "explanation": "以工作为乐，发现职业价值。",
+    "type": "word"
+  },
+  {
+    "id": "ann-liang-qi-chao-jing-ye-yu-le-ye-004",
+    "workId": "liang-qi-chao-jing-ye-yu-le-ye",
+    "segmentId": "seg-001",
+    "term": "神圣",
+    "explanation": "崇高而有价值。",
+    "type": "word"
+  },
+  {
+    "id": "ann-liang-qi-chao-jing-ye-yu-le-ye-005",
+    "workId": "liang-qi-chao-jing-ye-yu-le-ye",
+    "segmentId": "seg-001",
+    "term": "悬殊",
+    "explanation": "差别很大。",
+    "type": "word"
+  }
+]

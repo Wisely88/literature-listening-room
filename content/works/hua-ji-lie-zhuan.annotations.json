@@ -1,0 +1,42 @@
+[
+  {
+    "id": "ann-hua-ji-lie-zhuan-001",
+    "workId": "hua-ji-lie-zhuan",
+    "segmentId": "seg-001",
+    "term": "赘婿",
+    "explanation": "入赘女家的男子。",
+    "type": "word"
+  },
+  {
+    "id": "ann-hua-ji-lie-zhuan-002",
+    "workId": "hua-ji-lie-zhuan",
+    "segmentId": "seg-001",
+    "term": "滑稽",
+    "explanation": "能言善辩、言辞机智。",
+    "type": "word"
+  },
+  {
+    "id": "ann-hua-ji-lie-zhuan-003",
+    "workId": "hua-ji-lie-zhuan",
+    "segmentId": "seg-001",
+    "term": "数使诸侯",
+    "explanation": "多次出使诸侯国。数，多次。",
+    "type": "word"
+  },
+  {
+    "id": "ann-hua-ji-lie-zhuan-004",
+    "workId": "hua-ji-lie-zhuan",
+    "segmentId": "seg-001",
+    "term": "淫乐",
+    "explanation": "过度享乐。淫，过度。",
+    "type": "word"
+  },
+  {
+    "id": "ann-hua-ji-lie-zhuan-005",
+    "workId": "hua-ji-lie-zhuan",
+    "segmentId": "seg-001",
+    "term": "蜚",
+    "explanation": "同“飞”。",
+    "type": "word"
+  }
+]

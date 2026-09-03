@@ -1,0 +1,42 @@
+[
+  {
+    "id": "ann-huai-yin-hou-lie-zhuan-001",
+    "workId": "huai-yin-hou-lie-zhuan",
+    "segmentId": "seg-001",
+    "term": "布衣",
+    "explanation": "平民，未做官的人。",
+    "type": "word"
+  },
+  {
+    "id": "ann-huai-yin-hou-lie-zhuan-002",
+    "workId": "huai-yin-hou-lie-zhuan",
+    "segmentId": "seg-001",
+    "term": "无行",
+    "explanation": "没有品行声望，或指不善经营人情。",
+    "type": "word"
+  },
+  {
+    "id": "ann-huai-yin-hou-lie-zhuan-003",
+    "workId": "huai-yin-hou-lie-zhuan",
+    "segmentId": "seg-001",
+    "term": "治生",
+    "explanation": "谋生、经营生计。",
+    "type": "word"
+  },
+  {
+    "id": "ann-huai-yin-hou-lie-zhuan-004",
+    "workId": "huai-yin-hou-lie-zhuan",
+    "segmentId": "seg-001",
+    "term": "寄食",
+    "explanation": "寄居别人家求食。",
+    "type": "word"
+  },
+  {
+    "id": "ann-huai-yin-hou-lie-zhuan-005",
+    "workId": "huai-yin-hou-lie-zhuan",
+    "segmentId": "seg-001",
+    "term": "蓐食",
+    "explanation": "早起在床上吃饭。蓐，草席、床褥。",
+    "type": "word"
+  }
+]
