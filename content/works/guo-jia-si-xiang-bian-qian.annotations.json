@@ -30,5 +30,69 @@
     "term": "意识",
     "explanation": "对自身处境和共同体的自觉认识。",
     "type": "word"
+  },
+  {
+    "id": "ann-guo-jia-si-xiang-bian-qian-005",
+    "workId": "guo-jia-si-xiang-bian-qian",
+    "segmentId": "seg-002",
+    "term": "伯伦知理",
+    "explanation": "德国政治学者 Bluntschli，梁启超据其《国家学》转述国家思想变迁。",
+    "type": "person"
+  },
+  {
+    "id": "ann-guo-jia-si-xiang-bian-qian-006",
+    "workId": "guo-jia-si-xiang-bian-qian",
+    "segmentId": "seg-002",
+    "term": "神权政体",
+    "explanation": "以宗教神权作为政治最高依据的政体。",
+    "type": "word"
+  },
+  {
+    "id": "ann-guo-jia-si-xiang-bian-qian-007",
+    "workId": "guo-jia-si-xiang-bian-qian",
+    "segmentId": "seg-003",
+    "term": "公法私法",
+    "explanation": "公法调整国家公共事务，私法调整私人关系。",
+    "type": "word"
+  },
+  {
+    "id": "ann-guo-jia-si-xiang-bian-qian-008",
+    "workId": "guo-jia-si-xiang-bian-qian",
+    "segmentId": "seg-004",
+    "term": "民族主义",
+    "explanation": "以民族共同体和国家独立为核心的政治思想。",
+    "type": "word"
+  },
+  {
+    "id": "ann-guo-jia-si-xiang-bian-qian-009",
+    "workId": "guo-jia-si-xiang-bian-qian",
+    "segmentId": "seg-005",
+    "term": "平权派",
+    "explanation": "强调天赋人权、人民平等和民意的思想流派。",
+    "type": "word"
+  },
+  {
+    "id": "ann-guo-jia-si-xiang-bian-qian-010",
+    "workId": "guo-jia-si-xiang-bian-qian",
+    "segmentId": "seg-005",
+    "term": "强权派",
+    "explanation": "强调竞争、强者权利和国家力量的思想流派。",
+    "type": "word"
+  },
+  {
+    "id": "ann-guo-jia-si-xiang-bian-qian-011",
+    "workId": "guo-jia-si-xiang-bian-qian",
+    "segmentId": "seg-006",
+    "term": "民族帝国主义",
+    "explanation": "以民族国家力量向外扩张、建立支配关系的帝国主义形态。",
+    "type": "word"
+  },
+  {
+    "id": "ann-guo-jia-si-xiang-bian-qian-012",
+    "workId": "guo-jia-si-xiang-bian-qian",
+    "segmentId": "seg-004",
+    "term": "万国大同主义",
+    "explanation": "设想各国平等共存、走向世界共同体的未来理想。",
+    "type": "word"
   }
 ]
