@@ -4,7 +4,7 @@
     "workId": "lian-xiang",
     "segmentId": "seg-001",
     "term": "设帐",
-    "explanation": "设馆授徒、教书。",
+    "explanation": "设馆教书。",
     "type": "word"
   },
   {
@@ -12,31 +12,71 @@
     "workId": "lian-xiang",
     "segmentId": "seg-001",
     "term": "红花埠",
-    "explanation": "地名。",
-    "type": "word"
+    "explanation": "故事中的地名。",
+    "type": "place"
   },
   {
     "id": "ann-lian-xiang-003",
     "workId": "lian-xiang",
     "segmentId": "seg-001",
-    "term": "少孤",
-    "explanation": "年少时失去父亲。",
+    "term": "逡巡",
+    "explanation": "徘徊不前的样子。",
     "type": "word"
   },
   {
     "id": "ann-lian-xiang-004",
     "workId": "lian-xiang",
     "segmentId": "seg-001",
-    "term": "桑生",
-    "explanation": "对桑姓书生的称呼。",
+    "term": "倾国之姝",
+    "explanation": "极其美丽的女子。",
     "type": "word"
   },
   {
     "id": "ann-lian-xiang-005",
     "workId": "lian-xiang",
     "segmentId": "seg-001",
-    "term": "沂州",
-    "explanation": "古州名，今山东临沂一带。",
+    "term": "绸缪",
+    "explanation": "亲密交往。",
     "type": "word"
+  },
+  {
+    "id": "ann-lian-xiang-006",
+    "workId": "lian-xiang",
+    "segmentId": "seg-001",
+    "term": "葳蕤",
+    "explanation": "草木茂盛，此处借指女子姿质。",
+    "type": "word"
+  },
+  {
+    "id": "ann-lian-xiang-007",
+    "workId": "lian-xiang",
+    "segmentId": "seg-001",
+    "term": "縲紲",
+    "explanation": "捆绑犯人的绳索，代指牢狱。",
+    "type": "word"
+  },
+  {
+    "id": "ann-lian-xiang-008",
+    "workId": "lian-xiang",
+    "segmentId": "seg-001",
+    "term": "鬼症",
+    "explanation": "由阴气或鬼魅造成的病。",
+    "type": "allusion"
+  },
+  {
+    "id": "ann-lian-xiang-009",
+    "workId": "lian-xiang",
+    "segmentId": "seg-001",
+    "term": "精气",
+    "explanation": "人的生命元气。",
+    "type": "word"
+  },
+  {
+    "id": "ann-lian-xiang-010",
+    "workId": "lian-xiang",
+    "segmentId": "seg-001",
+    "term": "异史氏",
+    "explanation": "蒲松龄在《聊斋志异》中使用的自称。",
+    "type": "person"
   }
 ]
