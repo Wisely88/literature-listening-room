@@ -1,0 +1,34 @@
+[
+  {
+    "id": "ann-hong-001",
+    "workId": "hong-men-yan",
+    "segmentId": "seg-001",
+    "term": "意在沛公",
+    "explanation": "表面舞剑，实际想刺杀刘邦。沛公是刘邦的称号。",
+    "type": "allusion"
+  },
+  {
+    "id": "ann-hong-002",
+    "workId": "hong-men-yan",
+    "segmentId": "seg-002",
+    "term": "参乘",
+    "explanation": "车右，古代乘车时负责警卫的武士。",
+    "type": "word"
+  },
+  {
+    "id": "ann-hong-003",
+    "workId": "hong-men-yan",
+    "segmentId": "seg-003",
+    "term": "彘肩",
+    "explanation": "猪的肩部，指猪腿肉。彘，猪。",
+    "type": "word"
+  },
+  {
+    "id": "ann-hong-004",
+    "workId": "hong-men-yan",
+    "segmentId": "seg-004",
+    "term": "细说",
+    "explanation": "小人的谗言。说，同“悦”，这里指言说。",
+    "type": "word"
+  }
+]
