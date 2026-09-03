@@ -3,40 +3,80 @@
     "id": "ann-nu-er-guo-yu-001",
     "workId": "nu-er-guo-yu",
     "segmentId": "seg-001",
-    "term": "澄清",
-    "explanation": "清澈。",
-    "type": "word"
+    "term": "西梁女国",
+    "explanation": "《西游记》中只有女子的国度。",
+    "type": "place"
   },
   {
     "id": "ann-nu-er-guo-yu-002",
     "workId": "nu-er-guo-yu",
     "segmentId": "seg-001",
-    "term": "别是一番世界",
-    "explanation": "呈现出与平常不同的景象。",
-    "type": "grammar"
+    "term": "迎阳驿",
+    "explanation": "女儿国接待使者和行旅的驿站。",
+    "type": "place"
   },
   {
     "id": "ann-nu-er-guo-yu-003",
     "workId": "nu-er-guo-yu",
     "segmentId": "seg-001",
-    "term": "师徒",
-    "explanation": "唐僧师徒。",
-    "type": "word"
+    "term": "女王",
+    "explanation": "西梁女国国王，欲招唐僧为夫。",
+    "type": "person"
   },
   {
     "id": "ann-nu-er-guo-yu-004",
     "workId": "nu-er-guo-yu",
     "segmentId": "seg-001",
-    "term": "挽留",
-    "explanation": "设法留住，不让离开。",
-    "type": "word"
+    "term": "銮驾",
+    "explanation": "帝王出行的车驾仪仗。",
+    "type": "history"
   },
   {
     "id": "ann-nu-er-guo-yu-005",
     "workId": "nu-er-guo-yu",
     "segmentId": "seg-001",
-    "term": "使命",
-    "explanation": "必须完成的任务。",
-    "type": "word"
+    "term": "通关文牒",
+    "explanation": "取经队伍通行各国所需的官方文书。",
+    "type": "history"
+  },
+  {
+    "id": "ann-nu-er-guo-yu-006",
+    "workId": "nu-er-guo-yu",
+    "segmentId": "seg-001",
+    "term": "女儿国",
+    "explanation": "以女性为主的神话国度，故事中的情感试炼场。",
+    "type": "allusion"
+  },
+  {
+    "id": "ann-nu-er-guo-yu-007",
+    "workId": "nu-er-guo-yu",
+    "segmentId": "seg-001",
+    "term": "琵琶洞",
+    "explanation": "蝎子精居住的洞府。",
+    "type": "place"
+  },
+  {
+    "id": "ann-nu-er-guo-yu-008",
+    "workId": "nu-er-guo-yu",
+    "segmentId": "seg-001",
+    "term": "蝎子精",
+    "explanation": "在琵琶洞劫持唐僧的妖怪。",
+    "type": "person"
+  },
+  {
+    "id": "ann-nu-er-guo-yu-009",
+    "workId": "nu-er-guo-yu",
+    "segmentId": "seg-001",
+    "term": "昴日星官",
+    "explanation": "天庭星神，能降伏蝎子精。",
+    "type": "person"
+  },
+  {
+    "id": "ann-nu-er-guo-yu-010",
+    "workId": "nu-er-guo-yu",
+    "segmentId": "seg-001",
+    "term": "法性",
+    "explanation": "佛法本性，回目中指取经人守持本心。",
+    "type": "allusion"
   }
 ]
