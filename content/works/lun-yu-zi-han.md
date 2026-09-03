@@ -1,7 +1,7 @@
 ---
 id: lun-yu-zi-han
 slug: lun-yu-zi-han
-title: 论语·子罕
+title: 论语·子罕三则（志向与坚持）
 aliases: []
 authorId: kong-zi
 category: 思想随笔
@@ -9,12 +9,12 @@ dynasty: 春秋
 language: zh-CN
 estimatedMinutes: 4
 rightsStatus: public-domain
-summary: 孔子以“三军”与“匹夫”相对，说明人的志向不可被夺。
+summary: 《论语·子罕》第九篇中的三则完整章句，分别谈不可夺志、岁寒见节与为山贵在坚持。
 tags: [思想随笔, 精读, 公版]
 moods: [夜读, 思考]
 ambience: [rain]
 defaultAmbience: rain
-sourceNote: 原文依据公版通行本核对；分段译文、背景与赏析为本项目整理。
+sourceNote: 原文依据《论语·子罕》第九篇公版通行本核对；本条目收录三则完整章句选读，译文、背景与赏析为本项目整理。
 editorialNotes: []
 pronunciationOverrides: []
 ---
