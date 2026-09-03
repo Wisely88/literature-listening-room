@@ -3,40 +3,80 @@
     "id": "ann-bao-yu-ai-da-001",
     "workId": "bao-yu-ai-da",
     "segmentId": "seg-001",
-    "term": "五内摧伤",
-    "explanation": "内心极度悲痛。五内，五脏；摧伤，摧折伤痛。",
-    "type": "word"
+    "term": "忠顺亲王府",
+    "explanation": "清代小说中代表宗室权势的王府，来索问琪官使贾政惶恐。",
+    "type": "place"
   },
   {
     "id": "ann-bao-yu-ai-da-002",
     "workId": "bao-yu-ai-da",
     "segmentId": "seg-001",
-    "term": "含羞赌气",
-    "explanation": "因羞惭和怄气而采取激烈行动。",
-    "type": "word"
+    "term": "琪官",
+    "explanation": "忠顺王府的戏子蒋玉菡，宝玉与他交往并互赠私物。",
+    "type": "person"
   },
   {
     "id": "ann-bao-yu-ai-da-003",
     "workId": "bao-yu-ai-da",
     "segmentId": "seg-001",
-    "term": "自尽",
-    "explanation": "自杀。",
+    "term": "葳葳蕤蕤",
+    "explanation": "形容精神不振、举止懒散。",
     "type": "word"
   },
   {
     "id": "ann-bao-yu-ai-da-004",
     "workId": "bao-yu-ai-da",
     "segmentId": "seg-001",
-    "term": "王夫人",
-    "explanation": "贾宝玉的母亲。",
+    "term": "面如金纸",
+    "explanation": "脸色像金纸一样发黄，形容惊怒或病弱。",
     "type": "word"
   },
   {
     "id": "ann-bao-yu-ai-da-005",
     "workId": "bao-yu-ai-da",
     "segmentId": "seg-001",
+    "term": "笞挞",
+    "explanation": "用棍棒责打。笞，竹板；挞，鞭打。",
+    "type": "word"
+  },
+  {
+    "id": "ann-bao-yu-ai-da-006",
+    "workId": "bao-yu-ai-da",
+    "segmentId": "seg-001",
+    "term": "性起",
+    "explanation": "一时情绪冲动、发怒。",
+    "type": "word"
+  },
+  {
+    "id": "ann-bao-yu-ai-da-007",
+    "workId": "bao-yu-ai-da",
+    "segmentId": "seg-001",
     "term": "无可回说",
-    "explanation": "没有什么可以辩解回答。",
+    "explanation": "没有话可以辩解。",
     "type": "grammar"
+  },
+  {
+    "id": "ann-bao-yu-ai-da-008",
+    "workId": "bao-yu-ai-da",
+    "segmentId": "seg-001",
+    "term": "五内摧伤",
+    "explanation": "内心极度悲痛。",
+    "type": "word"
+  },
+  {
+    "id": "ann-bao-yu-ai-da-009",
+    "workId": "bao-yu-ai-da",
+    "segmentId": "seg-001",
+    "term": "堵起嘴来",
+    "explanation": "命人堵住嘴，防止辩解或呼喊。",
+    "type": "grammar"
+  },
+  {
+    "id": "ann-bao-yu-ai-da-010",
+    "workId": "bao-yu-ai-da",
+    "segmentId": "seg-001",
+    "term": "肉",
+    "explanation": "王夫人称呼宝玉的乳名，带有疼爱和哭喊意味。",
+    "type": "word"
   }
 ]
