@@ -1,0 +1,42 @@
+[
+  {
+    "id": "ann-zhuang-zi-yang-sheng-zhu-001",
+    "workId": "zhuang-zi-yang-sheng-zhu",
+    "segmentId": "seg-001",
+    "term": "砉然",
+    "explanation": "皮骨相离的声音。",
+    "type": "word"
+  },
+  {
+    "id": "ann-zhuang-zi-yang-sheng-zhu-002",
+    "workId": "zhuang-zi-yang-sheng-zhu",
+    "segmentId": "seg-002",
+    "term": "向然",
+    "explanation": "同“响然”，声音响亮的样子。",
+    "type": "word"
+  },
+  {
+    "id": "ann-zhuang-zi-yang-sheng-zhu-003",
+    "workId": "zhuang-zi-yang-sheng-zhu",
+    "segmentId": "seg-003",
+    "term": "释刀",
+    "explanation": "放下刀。释，放下。",
+    "type": "word"
+  },
+  {
+    "id": "ann-zhuang-zi-yang-sheng-zhu-004",
+    "workId": "zhuang-zi-yang-sheng-zhu",
+    "segmentId": "seg-004",
+    "term": "天理",
+    "explanation": "天然的结构。这里不是抽象的道德天理。",
+    "type": "word"
+  },
+  {
+    "id": "ann-zhuang-zi-yang-sheng-zhu-005",
+    "workId": "zhuang-zi-yang-sheng-zhu",
+    "segmentId": "seg-004",
+    "term": "硎",
+    "explanation": "磨刀石。",
+    "type": "word"
+  }
+]

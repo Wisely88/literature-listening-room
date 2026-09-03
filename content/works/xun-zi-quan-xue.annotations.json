@@ -1,0 +1,42 @@
+[
+  {
+    "id": "ann-xun-zi-quan-xue-001",
+    "workId": "xun-zi-quan-xue",
+    "segmentId": "seg-001",
+    "term": "已",
+    "explanation": "停止。",
+    "type": "word"
+  },
+  {
+    "id": "ann-xun-zi-quan-xue-002",
+    "workId": "xun-zi-quan-xue",
+    "segmentId": "seg-002",
+    "term": "须臾",
+    "explanation": "片刻。",
+    "type": "word"
+  },
+  {
+    "id": "ann-xun-zi-quan-xue-003",
+    "workId": "xun-zi-quan-xue",
+    "segmentId": "seg-003",
+    "term": "跂",
+    "explanation": "踮起脚后跟。",
+    "type": "word"
+  },
+  {
+    "id": "ann-xun-zi-quan-xue-004",
+    "workId": "xun-zi-quan-xue",
+    "segmentId": "seg-004",
+    "term": "假",
+    "explanation": "借助、凭借。",
+    "type": "word"
+  },
+  {
+    "id": "ann-xun-zi-quan-xue-005",
+    "workId": "xun-zi-quan-xue",
+    "segmentId": "seg-004",
+    "term": "绝江河",
+    "explanation": "横渡江河。绝，横渡。",
+    "type": "word"
+  }
+]

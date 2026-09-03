@@ -1,0 +1,42 @@
+[
+  {
+    "id": "ann-zhuang-zi-xiao-yao-you-001",
+    "workId": "zhuang-zi-xiao-yao-you",
+    "segmentId": "seg-001",
+    "term": "北冥",
+    "explanation": "北海。冥同“溟”，大海。",
+    "type": "word"
+  },
+  {
+    "id": "ann-zhuang-zi-xiao-yao-you-002",
+    "workId": "zhuang-zi-xiao-yao-you",
+    "segmentId": "seg-002",
+    "term": "怒而飞",
+    "explanation": "奋力鼓起翅膀飞翔。怒，奋发。",
+    "type": "word"
+  },
+  {
+    "id": "ann-zhuang-zi-xiao-yao-you-003",
+    "workId": "zhuang-zi-xiao-yao-you",
+    "segmentId": "seg-003",
+    "term": "抟扶摇",
+    "explanation": "乘着旋风盘旋上升。抟，盘旋；扶摇，旋风。",
+    "type": "word"
+  },
+  {
+    "id": "ann-zhuang-zi-xiao-yao-you-004",
+    "workId": "zhuang-zi-xiao-yao-you",
+    "segmentId": "seg-004",
+    "term": "息",
+    "explanation": "气息，此处指风。",
+    "type": "word"
+  },
+  {
+    "id": "ann-zhuang-zi-xiao-yao-you-005",
+    "workId": "zhuang-zi-xiao-yao-you",
+    "segmentId": "seg-004",
+    "term": "小知",
+    "explanation": "小的智慧。知同“智”。",
+    "type": "word"
+  }
+]
