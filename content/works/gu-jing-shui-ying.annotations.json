@@ -1,0 +1,34 @@
+[
+  {
+    "id": "ann-gu-jing-shui-ying-001",
+    "workId": "gu-jing-shui-ying",
+    "segmentId": "seg-001",
+    "term": "汲水",
+    "explanation": "从井中打水。汲，取水。",
+    "type": "word"
+  },
+  {
+    "id": "ann-gu-jing-shui-ying-002",
+    "workId": "gu-jing-shui-ying",
+    "segmentId": "seg-001",
+    "term": "止己",
+    "explanation": "只有自己。止，只。",
+    "type": "word"
+  },
+  {
+    "id": "ann-gu-jing-shui-ying-003",
+    "workId": "gu-jing-shui-ying",
+    "segmentId": "seg-001",
+    "term": "顿黑",
+    "explanation": "突然变黑。",
+    "type": "word"
+  },
+  {
+    "id": "ann-gu-jing-shui-ying-004",
+    "workId": "gu-jing-shui-ying",
+    "segmentId": "seg-001",
+    "term": "粘壁",
+    "explanation": "黏附在井壁上。",
+    "type": "word"
+  }
+]

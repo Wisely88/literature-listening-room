@@ -1,0 +1,34 @@
+[
+  {
+    "id": "ann-shi-jian-ji-001",
+    "workId": "shi-jian-ji",
+    "segmentId": "seg-001",
+    "term": "既穷",
+    "explanation": "已经探寻到尽头。穷，尽。",
+    "type": "word"
+  },
+  {
+    "id": "ann-shi-jian-ji-002",
+    "workId": "shi-jian-ji",
+    "segmentId": "seg-001",
+    "term": "土山之阴",
+    "explanation": "土山的北面。阴，山北水南。",
+    "type": "word"
+  },
+  {
+    "id": "ann-shi-jian-ji-003",
+    "workId": "shi-jian-ji",
+    "segmentId": "seg-001",
+    "term": "民又桥焉",
+    "explanation": "百姓又在这里架桥。桥，架桥。",
+    "type": "grammar"
+  },
+  {
+    "id": "ann-shi-jian-ji-004",
+    "workId": "shi-jian-ji",
+    "segmentId": "seg-001",
+    "term": "倍",
+    "explanation": "加倍。",
+    "type": "word"
+  }
+]

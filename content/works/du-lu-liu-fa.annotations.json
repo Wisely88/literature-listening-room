@@ -1,0 +1,34 @@
+[
+  {
+    "id": "ann-du-lu-liu-fa-001",
+    "workId": "du-lu-liu-fa",
+    "segmentId": "seg-001",
+    "term": "靡靡风",
+    "explanation": "萎靡不振的风气。",
+    "type": "word"
+  },
+  {
+    "id": "ann-du-lu-liu-fa-002",
+    "workId": "du-lu-liu-fa",
+    "segmentId": "seg-001",
+    "term": "兵魂",
+    "explanation": "尚武精神。",
+    "type": "word"
+  },
+  {
+    "id": "ann-du-lu-liu-fa-003",
+    "workId": "du-lu-liu-fa",
+    "segmentId": "seg-001",
+    "term": "国魂",
+    "explanation": "民族精神。",
+    "type": "word"
+  },
+  {
+    "id": "ann-du-lu-liu-fa-004",
+    "workId": "du-lu-liu-fa",
+    "segmentId": "seg-001",
+    "term": "放翁",
+    "explanation": "陆游的号。",
+    "type": "word"
+  }
+]

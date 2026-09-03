@@ -1,0 +1,26 @@
+[
+  {
+    "id": "ann-jiu-shan-wang-001",
+    "workId": "jiu-shan-wang",
+    "segmentId": "seg-001",
+    "term": "惨淡",
+    "explanation": "暗淡凄清。",
+    "type": "word"
+  },
+  {
+    "id": "ann-jiu-shan-wang-002",
+    "workId": "jiu-shan-wang",
+    "segmentId": "seg-001",
+    "term": "山径",
+    "explanation": "山间小路。",
+    "type": "word"
+  },
+  {
+    "id": "ann-jiu-shan-wang-003",
+    "workId": "jiu-shan-wang",
+    "segmentId": "seg-001",
+    "term": "灯火成行",
+    "explanation": "灯火排列成行。",
+    "type": "word"
+  }
+]

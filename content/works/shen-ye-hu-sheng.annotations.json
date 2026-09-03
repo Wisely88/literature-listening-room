@@ -1,0 +1,34 @@
+[
+  {
+    "id": "ann-shen-ye-hu-sheng-001",
+    "workId": "shen-ye-hu-sheng",
+    "segmentId": "seg-001",
+    "term": "客舍",
+    "explanation": "旅店、客房。",
+    "type": "word"
+  },
+  {
+    "id": "ann-shen-ye-hu-sheng-002",
+    "workId": "shen-ye-hu-sheng",
+    "segmentId": "seg-001",
+    "term": "叩",
+    "explanation": "敲击。",
+    "type": "word"
+  },
+  {
+    "id": "ann-shen-ye-hu-sheng-003",
+    "workId": "shen-ye-hu-sheng",
+    "segmentId": "seg-001",
+    "term": "鸡鸣",
+    "explanation": "天将明时鸡叫。",
+    "type": "word"
+  },
+  {
+    "id": "ann-shen-ye-hu-sheng-004",
+    "workId": "shen-ye-hu-sheng",
+    "segmentId": "seg-001",
+    "term": "粘壁",
+    "explanation": "黏在器壁上。",
+    "type": "word"
+  }
+]

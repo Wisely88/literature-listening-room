@@ -1,0 +1,26 @@
+[
+  {
+    "id": "ann-gui-ku-001",
+    "workId": "gui-ku",
+    "segmentId": "seg-001",
+    "term": "变",
+    "explanation": "变乱、变故。",
+    "type": "word"
+  },
+  {
+    "id": "ann-gui-ku-002",
+    "workId": "gui-ku",
+    "segmentId": "seg-001",
+    "term": "相传",
+    "explanation": "相互传说。",
+    "type": "word"
+  },
+  {
+    "id": "ann-gui-ku-003",
+    "workId": "gui-ku",
+    "segmentId": "seg-001",
+    "term": "四野",
+    "explanation": "四面郊野。",
+    "type": "word"
+  }
+]

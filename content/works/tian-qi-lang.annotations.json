@@ -1,0 +1,26 @@
+[
+  {
+    "id": "ann-tian-qi-lang-001",
+    "workId": "tian-qi-lang",
+    "segmentId": "seg-001",
+    "term": "交游",
+    "explanation": "结交朋友、往来。",
+    "type": "word"
+  },
+  {
+    "id": "ann-tian-qi-lang-002",
+    "workId": "tian-qi-lang",
+    "segmentId": "seg-001",
+    "term": "知名士",
+    "explanation": "有名望的士人。",
+    "type": "word"
+  },
+  {
+    "id": "ann-tian-qi-lang-003",
+    "workId": "tian-qi-lang",
+    "segmentId": "seg-001",
+    "term": "辽阳",
+    "explanation": "地名。",
+    "type": "word"
+  }
+]

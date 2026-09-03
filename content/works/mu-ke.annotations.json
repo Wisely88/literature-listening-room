@@ -1,0 +1,34 @@
+[
+  {
+    "id": "ann-mu-ke-001",
+    "workId": "mu-ke",
+    "segmentId": "seg-001",
+    "term": "木客",
+    "explanation": "传说中山林里的异人。",
+    "type": "word"
+  },
+  {
+    "id": "ann-mu-ke-002",
+    "workId": "mu-ke",
+    "segmentId": "seg-001",
+    "term": "形似人",
+    "explanation": "外形像人。",
+    "type": "grammar"
+  },
+  {
+    "id": "ann-mu-ke-003",
+    "workId": "mu-ke",
+    "segmentId": "seg-001",
+    "term": "多毛",
+    "explanation": "毛发很多。",
+    "type": "word"
+  },
+  {
+    "id": "ann-mu-ke-004",
+    "workId": "mu-ke",
+    "segmentId": "seg-001",
+    "term": "群啸",
+    "explanation": "成群呼啸。",
+    "type": "word"
+  }
+]

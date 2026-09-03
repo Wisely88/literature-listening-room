@@ -1,0 +1,34 @@
+[
+  {
+    "id": "ann-wang-cheng-001",
+    "workId": "wang-cheng",
+    "segmentId": "seg-001",
+    "term": "故家子",
+    "explanation": "世代富贵人家的子弟。",
+    "type": "word"
+  },
+  {
+    "id": "ann-wang-cheng-002",
+    "workId": "wang-cheng",
+    "segmentId": "seg-001",
+    "term": "性最懒",
+    "explanation": "天性非常懒惰。",
+    "type": "word"
+  },
+  {
+    "id": "ann-wang-cheng-003",
+    "workId": "wang-cheng",
+    "segmentId": "seg-001",
+    "term": "生涯日落",
+    "explanation": "生计日渐衰败。",
+    "type": "word"
+  },
+  {
+    "id": "ann-wang-cheng-004",
+    "workId": "wang-cheng",
+    "segmentId": "seg-001",
+    "term": "破屋",
+    "explanation": "破旧房屋。",
+    "type": "word"
+  }
+]
