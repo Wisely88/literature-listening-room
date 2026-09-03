@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "workId": "liu-lao-lao-jin-da-guan-yuan",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-10%|pitch=-2Hz|voiceId=story-male",
+  "voiceId": "story-male",
+  "format": "mp3",
+  "generatedAt": "2026-09-02T13:17:03.546Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/liu-lao-lao-jin-da-guan-yuan/seg-001-voice-story-male.mp3",
+      "durationMs": 7512,
+      "checksum": "b1a09013629c7c3d74187eeddb3ae10f1c3db657d90b073dc933be53a4b4f50a",
+      "sourceHash": "d7261ccff6e1d6c49203fa386a36ec929cff6463e9f1171f645a2fc164e6c5f6"
+    }
+  ]
+}

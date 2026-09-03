@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "workId": "xun-zi-quan-xue",
+  "provider": "edge-neural",
+  "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
+  "format": "mp3",
+  "generatedAt": "2026-09-01T02:37:37.704Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/xun-zi-quan-xue/seg-001.mp3",
+      "durationMs": 9528,
+      "checksum": "a52de2d7a719c812478d63480176566707bf60be190787027ba2c46dac86b822",
+      "sourceHash": "ac49b27088a2210f649d9d49f73617efc7cf82e8d3709099ba7ffbde921fbef6"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/xun-zi-quan-xue/seg-002.mp3",
+      "durationMs": 8808,
+      "checksum": "bc3fd6f14bb8ee521df8e78520cb878089ca137e17553d02242f87cab1d4248d",
+      "sourceHash": "ba465f0ef676fd3e24d8dde4255f0ec65a05f0adc803c87d4654b049af8f8371"
+    }
+  ]
+}

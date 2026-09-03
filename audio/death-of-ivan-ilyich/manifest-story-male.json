@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "workId": "death-of-ivan-ilyich",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-10%|pitch=-2Hz|voiceId=story-male",
+  "voiceId": "story-male",
+  "format": "mp3",
+  "generatedAt": "2026-09-02T12:21:11.317Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/death-of-ivan-ilyich/seg-001-voice-story-male.mp3",
+      "durationMs": 275424,
+      "checksum": "7a059196aa6839ab1d04a34d3c7b7ede5cf55e2480f0847dae710c06aa402617",
+      "sourceHash": "b024050ca54f7aa06f35ae527acca8ebdd935d69d54205e8b6ff80d6bff6eb99"
+    }
+  ]
+}

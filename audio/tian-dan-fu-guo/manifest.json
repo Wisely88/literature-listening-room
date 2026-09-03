@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "workId": "tian-dan-fu-guo",
+  "provider": "edge-neural",
+  "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
+  "format": "mp3",
+  "generatedAt": "2026-09-01T02:26:10.635Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/tian-dan-fu-guo/seg-001.mp3",
+      "durationMs": 7512,
+      "checksum": "0fde851f91b5cdee157960b3706431f9dbb1c92085e816adb15e0f477363d7cb",
+      "sourceHash": "1065110878f3a354585946b3996c533b0c8019e7eccc60afb04afbc80d3aa141"
+    }
+  ]
+}

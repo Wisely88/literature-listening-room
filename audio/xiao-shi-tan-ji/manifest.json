@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "workId": "xiao-shi-tan-ji",
+  "provider": "edge-neural",
+  "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
+  "format": "mp3",
+  "generatedAt": "2026-08-31T14:05:58.418Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/xiao-shi-tan-ji/seg-001.mp3",
+      "durationMs": 23568,
+      "checksum": "18856a2eb542859d14162ee711600dfb8849808ff5db62fd0cee597dca3bea92",
+      "sourceHash": "5e5a901c8415fcbc09119e21c478c7e8a198b27c0234fc19254439cf6022270a"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/xiao-shi-tan-ji/seg-002.mp3",
+      "durationMs": 13104,
+      "checksum": "e9d839bd32f1cc601b064a400dae8a1c8dc7f055fa082a047da689ba46decaaf",
+      "sourceHash": "902e002d7f98efca2e7a5fd66b7fc54a1e9eebb20282cf4b0e507fdeaff3f7d4"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/xiao-shi-tan-ji/seg-003.mp3",
+      "durationMs": 8376,
+      "checksum": "12f392e12d7a7c9537338d0e2bc6d379a60ac9b5d4871283b6f83c17cecb5505",
+      "sourceHash": "7c71761263eff0ec55cc909312a4c52cdc3b9993ce912bc3deaab3ca36e01d53"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/xiao-shi-tan-ji/seg-004.mp3",
+      "durationMs": 11760,
+      "checksum": "757dde44d268e4011cfcadfcf9fc19c5c17e531051c2ffb81d9181e3521a8501",
+      "sourceHash": "eaffb04d67c55405db45e03a27f770ddfbb1102a9ab32e1cb07825f053b2f38d"
+    },
+    {
+      "id": "seg-005",
+      "url": "/audio/xiao-shi-tan-ji/seg-005.mp3",
+      "durationMs": 9792,
+      "checksum": "22e2035ef136957f9f783a5edf5ac1260c3c35ab51b632a825ce4f770c5d1ce5",
+      "sourceHash": "85261b6d69a9f09abd8c967f82c9991970c36a21bd0b9b6e6ac8a3ccd73eca88"
+    }
+  ]
+}

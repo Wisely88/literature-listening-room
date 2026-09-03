@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "workId": "hong-yu",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-10%|pitch=-2Hz|voiceId=story-male",
+  "voiceId": "story-male",
+  "format": "mp3",
+  "generatedAt": "2026-09-02T12:35:38.324Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/hong-yu/seg-001-voice-story-male.mp3",
+      "durationMs": 7512,
+      "checksum": "c97777425abbf09c9f1b6a1f84f945b259ceaa4472326c9aa767266f518fd339",
+      "sourceHash": "8e171fd4439bb1561245e79ba6c8271fc0b1efbeae68a9d008b09130605ce3f4"
+    }
+  ]
+}

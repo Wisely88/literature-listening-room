@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "workId": "hong-men-yan",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-10%|pitch=-2Hz|voiceId=story-male",
+  "voiceId": "story-male",
+  "format": "mp3",
+  "generatedAt": "2026-09-02T12:35:25.526Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/hong-men-yan/seg-001-voice-story-male.mp3",
+      "durationMs": 13176,
+      "checksum": "28f75709cdbbb8a837236b39431e42dd7b417b6f6ec326687e960154ae0ab547",
+      "sourceHash": "6e38d4cdbab9b1c2eac9931274ad6e43e1670622b1729d37272a71705e45948d"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/hong-men-yan/seg-002-voice-story-male.mp3",
+      "durationMs": 6072,
+      "checksum": "f7146b1932d56860427b0664eb601d30ce364e4e1c0e4b14adc2907c5ab83ef6",
+      "sourceHash": "955c4802cecf40d3ffc9520300b057328aab3c5ed478d6b5494ee683010d25d7"
+    }
+  ]
+}

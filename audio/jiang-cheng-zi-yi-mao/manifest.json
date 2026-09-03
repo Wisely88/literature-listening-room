@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "workId": "jiang-cheng-zi-yi-mao",
+  "provider": "edge-neural",
+  "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
+  "format": "mp3",
+  "generatedAt": "2026-09-01T02:05:51.843Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/jiang-cheng-zi-yi-mao/seg-001.mp3",
+      "durationMs": 7800,
+      "checksum": "34d870fb000ecec17073b87b5d769d1797dda69ec4cec71cc411e5aad94b3121",
+      "sourceHash": "9a7c7d8e2315f2f6404be092bb8d24a7abfaad3fbed85e948e1b436ed5bfc459"
+    }
+  ]
+}

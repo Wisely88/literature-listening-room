@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "workId": "shi-zhong-shan-ji",
+  "provider": "edge-neural",
+  "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
+  "format": "mp3",
+  "generatedAt": "2026-09-01T02:16:42.066Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/shi-zhong-shan-ji/seg-001.mp3",
+      "durationMs": 10584,
+      "checksum": "d0047ada1aab0732061e5ae4671370b8afe6db422af06c5bd54c1a064109fac8",
+      "sourceHash": "49ba4f4e6357108f9860d993837206fa7852c19082a85031c1767866c491acfb"
+    }
+  ]
+}

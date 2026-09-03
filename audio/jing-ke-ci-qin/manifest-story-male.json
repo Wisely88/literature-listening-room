@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "workId": "jing-ke-ci-qin",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-10%|pitch=-2Hz|voiceId=story-male",
+  "voiceId": "story-male",
+  "format": "mp3",
+  "generatedAt": "2026-09-02T12:40:44.856Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/jing-ke-ci-qin/seg-001-voice-story-male.mp3",
+      "durationMs": 8592,
+      "checksum": "4e8ad4e9a646cbd48235347c45953239085cb2fff6a1634a9ceb2fe4753bc026",
+      "sourceHash": "6b15a75441ac0122b8492b2a23e924bd8cd9486bafba9b9d8669dff03eaa243f"
+    }
+  ]
+}

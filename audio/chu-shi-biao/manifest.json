@@ -1,0 +1,73 @@
+{
+  "version": 1,
+  "workId": "chu-shi-biao",
+  "provider": "edge-neural",
+  "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
+  "format": "mp3",
+  "generatedAt": "2026-08-31T13:57:28.566Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/chu-shi-biao/seg-001.mp3",
+      "durationMs": 28728,
+      "checksum": "4b86f633b628365d7c645f8c3ef6a2c8b27aac47bc7c2ac1b5ec2b58bbbd4c7e",
+      "sourceHash": "cec9cefbefc9da438235af57bb8290a4976464980fdcabd39970ff9edc9a2f55"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/chu-shi-biao/seg-002.mp3",
+      "durationMs": 16032,
+      "checksum": "cada793995e47b29dfd485ed6438ef0689061205ae466f5f850c0bd98d0dc3d0",
+      "sourceHash": "c8a6bef666082f85e40bbdb01df6e2c3e8069724f6e482a7f5bcc3d848eff7e3"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/chu-shi-biao/seg-003.mp3",
+      "durationMs": 18648,
+      "checksum": "5f0323bc0e929020b35ad3d05b885840c8f89cf1678a9dd6d26e436acdf8d588",
+      "sourceHash": "3a3e6f2503443c9ce396e62d3a09aeb557df2aa2ac75760ad2c665f4c9ba1f01"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/chu-shi-biao/seg-004.mp3",
+      "durationMs": 16536,
+      "checksum": "93f89f5c3a74e2a6c5855dff632332914ded9bdf392f1342e44e2d056289c6c3",
+      "sourceHash": "693e2b04feab8777db123d6400e5ac21b3deefbd9319fec4102cba197c512892"
+    },
+    {
+      "id": "seg-005",
+      "url": "/audio/chu-shi-biao/seg-005.mp3",
+      "durationMs": 27696,
+      "checksum": "d4821202547646c3c5dda6176d5b57b2e8c9af36f63d9ad8711d30a33c96b6d6",
+      "sourceHash": "f63c260e2b0b8e60804ac04d016c360d66fbc092c47918a74680362a8445e2d9"
+    },
+    {
+      "id": "seg-006",
+      "url": "/audio/chu-shi-biao/seg-006.mp3",
+      "durationMs": 25584,
+      "checksum": "9d37b789e316957a7744b064b05b946031ded1edafb82011959c6df2fdb8f7fa",
+      "sourceHash": "2a941b0838793708885e0eda152765572ca96af473b7565229ae2558b520c153"
+    },
+    {
+      "id": "seg-007",
+      "url": "/audio/chu-shi-biao/seg-007.mp3",
+      "durationMs": 35040,
+      "checksum": "c3f406b38a16574adea956b6e824ca8aa202555c21eecd02becb4912db09c14f",
+      "sourceHash": "2b6a0f799c5bf10b19933043491e5cc012720bcc584e8ce4cf84f47ba5d646ee"
+    },
+    {
+      "id": "seg-008",
+      "url": "/audio/chu-shi-biao/seg-008.mp3",
+      "durationMs": 23232,
+      "checksum": "82dada4cdcb041c164169f6d5d1fef69f97b21ff08a0140d42f07df52b482abb",
+      "sourceHash": "5fe812f8ae72554cdd99b5e179c440bdeb1e7092a9634faa33bd5084f3f7983f"
+    },
+    {
+      "id": "seg-009",
+      "url": "/audio/chu-shi-biao/seg-009.mp3",
+      "durationMs": 4368,
+      "checksum": "9edebb5c00cc4a0e0050b0266d976b08e6c9c4b2e2de57c76fe1cd5d1cb64ecc",
+      "sourceHash": "ff02d85c4e0df76b0e2a0edac012df8d98e1625f50d698ca5ff63fb8e2c3fd8a"
+    }
+  ]
+}

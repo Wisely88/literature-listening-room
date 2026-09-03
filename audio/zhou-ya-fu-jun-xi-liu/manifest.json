@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "workId": "zhou-ya-fu-jun-xi-liu",
+  "provider": "edge-neural",
+  "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
+  "format": "mp3",
+  "generatedAt": "2026-09-01T02:39:29.658Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/zhou-ya-fu-jun-xi-liu/seg-001.mp3",
+      "durationMs": 7272,
+      "checksum": "b4f5f5dd5d1a221992a9122bb0158b9327b46e3fca011de493889b821fcabbc9",
+      "sourceHash": "15f4ca3b6ec56920ee8cacdaf283d2cd4d4e6c37fb78dd9c602401f9657f545d"
+    }
+  ]
+}

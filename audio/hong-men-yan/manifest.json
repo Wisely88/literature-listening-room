@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "workId": "hong-men-yan",
+  "provider": "edge-neural",
+  "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
+  "format": "mp3",
+  "generatedAt": "2026-09-01T02:03:45.307Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/hong-men-yan/seg-001.mp3",
+      "durationMs": 12936,
+      "checksum": "61c813cff4c932f3541d7bbec617b8f217fe4a071da3983f6e04aefe5c9bd326",
+      "sourceHash": "44b83a054b55246c55760da0cbb58103bcc4a53c9b61e7bd5f0931e235f4be25"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/hong-men-yan/seg-002.mp3",
+      "durationMs": 5376,
+      "checksum": "1acdebcfc25f65ed71871daa0f83e88173d169c472a8dcdca94e56837c24cf07",
+      "sourceHash": "76bdf82e6c1ca16b2c5436d35d5e392b20bebf7895a1a421cddd84c4dde92ea4"
+    }
+  ]
+}

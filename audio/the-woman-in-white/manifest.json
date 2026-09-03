@@ -1,0 +1,87 @@
+{
+  "version": 1,
+  "workId": "the-woman-in-white",
+  "provider": "edge-neural",
+  "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
+  "format": "mp3",
+  "generatedAt": "2026-09-01T02:26:07.187Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/the-woman-in-white/seg-001.mp3",
+      "durationMs": 7560,
+      "checksum": "786ff0c55a1544d7e5cf90f1e3003887edf91669f60ae39a92bf36613575fdd9",
+      "sourceHash": "a3db9c93a19a694e90a006ab231308ce5a526b93968a5e5512c1951eb236d715"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/the-woman-in-white/seg-002.mp3",
+      "durationMs": 18120,
+      "checksum": "5ba3292916fea475af15d5438e0590e68c6aff2fb2fe4ab495387b6b961d785c",
+      "sourceHash": "310c307863f3bb4b7ce5dbf35cf3f415729522381ad63048962f3b37413f326d"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/the-woman-in-white/seg-003.mp3",
+      "durationMs": 51288,
+      "checksum": "ebe598d6efd86417b80570c7979a411b40ce5d5bffb1984e918c1108b5ac0513",
+      "sourceHash": "c653a59459df96f1a1dfae231a22c77538e4bb99b11dd7c81ed1cb3fcf454490"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/the-woman-in-white/seg-004.mp3",
+      "durationMs": 27936,
+      "checksum": "c7968f478a0c2cdfa29cd0c02a04e9b2fd0bf30263cfa3ace19db1bc1362004b",
+      "sourceHash": "d6b4e63ec72db482bc468e51142b01f375403046d32d0ca6b54d2085cd184c81"
+    },
+    {
+      "id": "seg-005",
+      "url": "/audio/the-woman-in-white/seg-005.mp3",
+      "durationMs": 7368,
+      "checksum": "c2e68566c8a00501d73cd5122f6f648e69051f829c24caae95c982f0ddb19fe1",
+      "sourceHash": "27ee73094317c616be65c1eb126a6fc46784bacdd1ef03764ca76b27faf4cb90"
+    },
+    {
+      "id": "seg-006",
+      "url": "/audio/the-woman-in-white/seg-006.mp3",
+      "durationMs": 1776,
+      "checksum": "0a1d05733abdd3aa1f2939dc4d1a1e594ed57883b40ce293b1a0cb0f67c94c3f",
+      "sourceHash": "4fe5a9f69bbeb67c4ab9726cb2100856c2eefebaf637ef4f74e5c6063a5df6cd"
+    },
+    {
+      "id": "seg-007",
+      "url": "/audio/the-woman-in-white/seg-007.mp3",
+      "durationMs": 13992,
+      "checksum": "9fae5be86570f606d931bf1f5781e1a9348299223b116325bd02c7bac87f73af",
+      "sourceHash": "e00bb80ff0cd0a6d9021c4b308ec7d5ab3819525dc3ae625a51beeb41887c718"
+    },
+    {
+      "id": "seg-008",
+      "url": "/audio/the-woman-in-white/seg-008.mp3",
+      "durationMs": 24672,
+      "checksum": "c5fa939f2eb109cfe16478a66bf2358fa3a2b79dc8f21083452c39b907ba7355",
+      "sourceHash": "be9587b3986aed7fccce533ca55b00e5480f20cb888b4de2ae9f3b413212c238"
+    },
+    {
+      "id": "seg-009",
+      "url": "/audio/the-woman-in-white/seg-009.mp3",
+      "durationMs": 38808,
+      "checksum": "685b05fcc08b3a6b7f9256d3655535ed5da728242a26c9fa885f97c2a5dcd50f",
+      "sourceHash": "96c3bcb18cddd6e7097d6bbcf78672fbf929cc41270536ec39fa868ebd6e15c2"
+    },
+    {
+      "id": "seg-010",
+      "url": "/audio/the-woman-in-white/seg-010.mp3",
+      "durationMs": 52944,
+      "checksum": "30bcc8c1965ea42fea9304f43d32a381eca75de1951976bf1c01352668ccaf4f",
+      "sourceHash": "aee720f141a594bbb64bb40959e3455e4a6f3208b5e689dbd225c48d8ab4d791"
+    },
+    {
+      "id": "seg-011",
+      "url": "/audio/the-woman-in-white/seg-011.mp3",
+      "durationMs": 29736,
+      "checksum": "44688e8846b755d72e14333bb4403ce892dda3335513263a946c660ff8689e1c",
+      "sourceHash": "4cc44238a07a967b16c2ba56d82bb2acc5a3c1f5580de43b63f24e1f92c1c9e4"
+    }
+  ]
+}

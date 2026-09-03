@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "workId": "shan-shi",
+  "provider": "edge-neural",
+  "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
+  "format": "mp3",
+  "generatedAt": "2026-08-31T14:03:37.891Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/shan-shi/seg-001.mp3",
+      "durationMs": 76728,
+      "checksum": "aedee34ec24a61098a075007e737b54cccae8ad7cae99033fb91cc5d72930a23",
+      "sourceHash": "ecef7a89add94ea1755a5fa1c42e37bec6bfe4a7b5b8b6d79c60a4fcb50fa3d7"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/shan-shi/seg-002.mp3",
+      "durationMs": 7008,
+      "checksum": "3f1be90f8a8804088b1760e467393532a29b87a860e5b7f4c7820e3d727de91c",
+      "sourceHash": "4ffde6e711e5c115ea5af1259150a61bba59466135a4e0ec19300c95c7eed887"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "workId": "lao-shan-dao-shi",
+  "provider": "edge-neural",
+  "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
+  "format": "mp3",
+  "generatedAt": "2026-08-31T14:01:38.491Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/lao-shan-dao-shi/seg-001.mp3",
+      "durationMs": 32424,
+      "checksum": "2b274d93bc3875b761c9a708b35e98e2c7fd065a241d5bcaae159425257cb222",
+      "sourceHash": "1b021243235c7c77d60888c1a974d433331ec2cb4e1e365f6a6d98b33609de84"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/lao-shan-dao-shi/seg-002.mp3",
+      "durationMs": 12432,
+      "checksum": "b54dc996bcf638ce0c90f9d03fbbaf9ceb81ddd963017bc3b7f258d53f19293c",
+      "sourceHash": "c110c9cf79103d71bd677761432db79ff93930097ea13c71006dbd15a46365ab"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/lao-shan-dao-shi/seg-003.mp3",
+      "durationMs": 108192,
+      "checksum": "82d7944078e82fe0be98986dd95f05e67cec5deb078d5b795704eec910ae687b",
+      "sourceHash": "58c2a5e9b360232ab7091f89a8ea24a4c8e9095434db7cbecf372a7b20b24ae2"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/lao-shan-dao-shi/seg-004.mp3",
+      "durationMs": 77904,
+      "checksum": "905f801abda04359418becfe9bcf8fdd822910d777610076ca9a88b1acfff239",
+      "sourceHash": "68824dc74254797722eb5411c4ebdb927f19b772bb6b2dd4f8118e5aba949e13"
+    },
+    {
+      "id": "seg-005",
+      "url": "/audio/lao-shan-dao-shi/seg-005.mp3",
+      "durationMs": 22176,
+      "checksum": "6ff740c8bd65011386db346b474760db7b5c4d5b0655f9741f25222bcc459256",
+      "sourceHash": "3ddfcc4ab475abeff37827a2d89514541ea2673cfc0bf338be19eacd527bf099"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "workId": "qiang-jin-jiu",
+  "provider": "edge-neural",
+  "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
+  "format": "mp3",
+  "generatedAt": "2026-08-31T14:03:27.552Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/qiang-jin-jiu/seg-001.mp3",
+      "durationMs": 11016,
+      "checksum": "0082b1376857ade0e7df5ee01f165e21feedba76d72400c2c5715b944e05427c",
+      "sourceHash": "f528fa572903e815cfbf04a962620c500c60b239044afbf00f1d34932cc9a566"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/qiang-jin-jiu/seg-002.mp3",
+      "durationMs": 8856,
+      "checksum": "e4b202c5a75e9645b6b512182c4eeeb2b86b35f3f14dd342fdd0f57915070be4",
+      "sourceHash": "1fdffe7f219c928a178037c4b78779d538e361af1fee9878f5606300190dfbd4"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/qiang-jin-jiu/seg-003.mp3",
+      "durationMs": 9144,
+      "checksum": "50f737734a6f75dabfe306e4c40b2075e6f7fabae5e528f15de28570dbbe70b0",
+      "sourceHash": "c5b5b129c54ab44678dfb08f9bec1350bddd617a2904ed511b597c2dc870add7"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/qiang-jin-jiu/seg-004.mp3",
+      "durationMs": 8040,
+      "checksum": "2f4ff82dd5cdf685de48d620be62deb09ad3efa2192192e9d2427f7e7cb60d2a",
+      "sourceHash": "fbfbd3739efdbdf371b3b2e47ecde1cdb35c6815880e32fea8f817d5f916d2bc"
+    },
+    {
+      "id": "seg-005",
+      "url": "/audio/qiang-jin-jiu/seg-005.mp3",
+      "durationMs": 8640,
+      "checksum": "ce63290e308aef28e3c53d0f16de0befe99974ef6c0375bb5d77401bec3eb91b",
+      "sourceHash": "d9fb3bacc9cfabe8fb6ac9468be95ce70bb81ff3226fd21b006282fc0c7b5b59"
+    },
+    {
+      "id": "seg-006",
+      "url": "/audio/qiang-jin-jiu/seg-006.mp3",
+      "durationMs": 10872,
+      "checksum": "b5f16501d56b0c888186cb0af49076e2dbebfb4869a6ecf98d691d170fc402a5",
+      "sourceHash": "7f81a90e572a6aa4b2d8edd95a3a69b279887c66a3559e0c74df1ee4050ddb82"
+    }
+  ]
+}

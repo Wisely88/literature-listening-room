@@ -1,0 +1,116 @@
+{
+  "version": 1,
+  "workId": "gift-of-the-magi",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-10%|pitch=-2Hz|voiceId=story-male",
+  "voiceId": "story-male",
+  "format": "mp3",
+  "generatedAt": "2026-09-02T12:27:37.791Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/gift-of-the-magi/seg-001-voice-story-male.mp3",
+      "durationMs": 28032,
+      "checksum": "52b32865b623d3323315f1f963c2c5d2c07f4760efd89128bdf677c0914b0318",
+      "sourceHash": "03d7939d3d16fc02e999b4d1dfef349c71987969ab008a522f5f083b6fe35900"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/gift-of-the-magi/seg-002-voice-story-male.mp3",
+      "durationMs": 16320,
+      "checksum": "469cf75619c220ce566030ebda36754e1c0282fdacd8d08f0525dfeff4ad5f48",
+      "sourceHash": "b73bcc4896ba83537385117c61ec52867e6f1695657bf39c5f2ee3595145e25f"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/gift-of-the-magi/seg-003-voice-story-male.mp3",
+      "durationMs": 17664,
+      "checksum": "d9e3d8dd782a6bf67847e0501ebfeb9b2c451396ba2a2e9e11ccca522cb01168",
+      "sourceHash": "d9ec9765e503b93eec2e2f3f04b7debec3c5ba970c90328cce07c6e3605aeff7"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/gift-of-the-magi/seg-004-voice-story-male.mp3",
+      "durationMs": 15744,
+      "checksum": "380b48fdc6b4df762648df65aa6909b6fa25aa47f10ca71450b7ff1b2714f51d",
+      "sourceHash": "7746d71bd47ce1e8b18b5b94b68c0a20fb956340e23e7c2b9ef6aaadfcbc5d95"
+    },
+    {
+      "id": "seg-005",
+      "url": "/audio/gift-of-the-magi/seg-005-voice-story-male.mp3",
+      "durationMs": 32160,
+      "checksum": "59e44d18a5c4e23b6177abe43d2656afc3268e50d744acb396221c4935d28c78",
+      "sourceHash": "963e88a41176fbe0ab32cbd7a86c5435bc5a212f4a0af2b766afa4bc98818831"
+    },
+    {
+      "id": "seg-006",
+      "url": "/audio/gift-of-the-magi/seg-006-voice-story-male.mp3",
+      "durationMs": 47496,
+      "checksum": "0f9c125035e00130485080a15e16f6bb2c4216720cf8c65ab407ccc74dbfc2f4",
+      "sourceHash": "c9d6ae0319b83201610b0d0bece0ff56225bba529a5465a975a9e3c5125b6326"
+    },
+    {
+      "id": "seg-007",
+      "url": "/audio/gift-of-the-magi/seg-007-voice-story-male.mp3",
+      "durationMs": 20664,
+      "checksum": "0923efe149bf5190b6a588028311a32229ef8abbf5f9b31ce06cd0257272ea4c",
+      "sourceHash": "6affd4a3ceed70099d7dee75a1f0e2bd94163146d70ea8262a944aeda403e75b"
+    },
+    {
+      "id": "seg-008",
+      "url": "/audio/gift-of-the-magi/seg-008-voice-story-male.mp3",
+      "durationMs": 14832,
+      "checksum": "a9dcff25334c4a8b213d0891bb7a5f0e5704a09af42a648fddf830166c6c278d",
+      "sourceHash": "efdadda15b548fc165a580bfa1098437642c168d808c6962c65fae55b91ec4a2"
+    },
+    {
+      "id": "seg-009",
+      "url": "/audio/gift-of-the-magi/seg-009-voice-story-male.mp3",
+      "durationMs": 37440,
+      "checksum": "068e39318e40dd643952f5ce406cb84dd71bc9fe766114dca611aac05c3cf60d",
+      "sourceHash": "39a5c4aecf35c15796f2c7e89f9a37d39da00d18f3391c6adbe5de41d532cfbd"
+    },
+    {
+      "id": "seg-010",
+      "url": "/audio/gift-of-the-magi/seg-010-voice-story-male.mp3",
+      "durationMs": 23376,
+      "checksum": "83cda99a858b1294fe55c579758eaeca25c9d317c93b2302b6aeab995d09f04b",
+      "sourceHash": "2aa4665bcefa1aa52f1c3e47ce5c4c9b7567cd1c3485d20d98bc21fb04bf51d6"
+    },
+    {
+      "id": "seg-011",
+      "url": "/audio/gift-of-the-magi/seg-011-voice-story-male.mp3",
+      "durationMs": 11904,
+      "checksum": "edf262c62aa99d071df66db80453d612ee62e919e517f07fb3fbb9c47169847e",
+      "sourceHash": "dc41fbb7999c51e7c04a32071de96ed785b6a1389104175b916cb3ae64113eee"
+    },
+    {
+      "id": "seg-012",
+      "url": "/audio/gift-of-the-magi/seg-012-voice-story-male.mp3",
+      "durationMs": 20544,
+      "checksum": "123ba10e7358df8ac7d0a25f5afffbf010df9a7f32d58ed50db5202264d60034",
+      "sourceHash": "9b102633a46900aa62493536d7aba26602c005449f5060334af498f635f2d0c3"
+    },
+    {
+      "id": "seg-013",
+      "url": "/audio/gift-of-the-magi/seg-013-voice-story-male.mp3",
+      "durationMs": 4464,
+      "checksum": "da54cb1be7558c4058817135db574c49e8f6a224f6534f462d25664e398bf32b",
+      "sourceHash": "09225d13adaf517636b2436544ec3a1f67567f3e1225c5e317c18df0925bb48a"
+    },
+    {
+      "id": "seg-014",
+      "url": "/audio/gift-of-the-magi/seg-014-voice-story-male.mp3",
+      "durationMs": 6624,
+      "checksum": "c176d0a74accdb253eefd15a20e688c1b8476ba4783b490e7d35d589d5a5f5e8",
+      "sourceHash": "3ca8cd8dc9d4824de89ba3cf76f6a57132cc0803e8eb621798b62c56712d7422"
+    },
+    {
+      "id": "seg-015",
+      "url": "/audio/gift-of-the-magi/seg-015-voice-story-male.mp3",
+      "durationMs": 3312,
+      "checksum": "4145b3b3c2792cb2c537569432c0fa733be5ad465896069ca5700d35fb26b5c4",
+      "sourceHash": "67dc7bff50ffd78a9c3cc11cd414c6e14f7866608aa35709c1ec82f7b836184d"
+    }
+  ]
+}

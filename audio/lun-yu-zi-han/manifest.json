@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "workId": "lun-yu-zi-han",
+  "provider": "edge-neural",
+  "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
+  "format": "mp3",
+  "generatedAt": "2026-09-01T02:10:22.846Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/lun-yu-zi-han/seg-001.mp3",
+      "durationMs": 4296,
+      "checksum": "3b31598ac9ec2847a84236d46fc9677cdd4c1777b6c72dd77db7ab479c34a58f",
+      "sourceHash": "a27521dba9835e210a05e84077d660d4b86a52e016435a26d3ab957449f29dca"
+    }
+  ]
+}

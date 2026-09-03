@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "workId": "mian-chi-zhi-hui",
+  "provider": "edge-neural",
+  "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
+  "format": "mp3",
+  "generatedAt": "2026-09-01T02:11:14.238Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/mian-chi-zhi-hui/seg-001.mp3",
+      "durationMs": 6216,
+      "checksum": "a3c62f7e8982364915dc11cf222ddb589df6ef08d996c35387167a1964171dd5",
+      "sourceHash": "a6d23ee8224e499775dc90dbee7168f4e99abcac72f66a9916ba082436ce62fb"
+    }
+  ]
+}

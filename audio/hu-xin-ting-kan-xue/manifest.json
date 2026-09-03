@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "workId": "hu-xin-ting-kan-xue",
+  "provider": "edge-neural",
+  "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
+  "format": "mp3",
+  "generatedAt": "2026-08-31T13:59:50.799Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/hu-xin-ting-kan-xue/seg-001.mp3",
+      "durationMs": 27072,
+      "checksum": "d8ee4f4563aed276354ef71e2f92e21837759fe44f2bf685a56062a51275f3f1",
+      "sourceHash": "b9cd7c411559a0874f99a96fb0060737de06cdb7363f5c2f8de3464aff601560"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/hu-xin-ting-kan-xue/seg-002.mp3",
+      "durationMs": 25032,
+      "checksum": "6fcbafd9f09477fccf8bde15c17294ca5092ef1b180b60770a5e98b05fe17360",
+      "sourceHash": "6648476f4c8eb613953fb6b6a1bbce9f4137ff7711c06e28ce8374cb0d1ba8c5"
+    }
+  ]
+}

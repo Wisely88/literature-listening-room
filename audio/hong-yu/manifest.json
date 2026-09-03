@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "workId": "hong-yu",
+  "provider": "edge-neural",
+  "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
+  "format": "mp3",
+  "generatedAt": "2026-09-01T02:03:48.750Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/hong-yu/seg-001.mp3",
+      "durationMs": 6672,
+      "checksum": "83688e39c829f6c5d38d8d94879bdcae1afea7597e1729628b0f714af8ca0c13",
+      "sourceHash": "611ff7f8a2602930ab68d1363037cbf572c14f336ffd120ffa6411f06a925a86"
+    }
+  ]
+}

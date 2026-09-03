@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "workId": "xiang-ji-xuan-zhi",
+  "provider": "edge-neural",
+  "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
+  "format": "mp3",
+  "generatedAt": "2026-08-31T14:05:21.307Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/xiang-ji-xuan-zhi/seg-001.mp3",
+      "durationMs": 49080,
+      "checksum": "ba24ef2ffce7ad162c00c3680366afb92de58298432646e300bd8824e675c0f0",
+      "sourceHash": "2212422c33d401a53700b3f4f238c95e15dcc5e7695776381321683897d5528a"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/xiang-ji-xuan-zhi/seg-002.mp3",
+      "durationMs": 82680,
+      "checksum": "07e8b2eb781b26d218faa122eb774f1f9d70494babb561365d465a3a9769ecaf",
+      "sourceHash": "ba7bcf78d2deeac4eb6e0d70dac619c2ad25673174ee6d7a23e341c74274ca7e"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/xiang-ji-xuan-zhi/seg-003.mp3",
+      "durationMs": 13104,
+      "checksum": "b793f3bc042e7807caf2c1320e57d070d54473743d712ca854dea854d5e14c8d",
+      "sourceHash": "71e267ac4e0c2a09f29c2954bee7de52c50f4a92e62b67e4067618bee664fa29"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/xiang-ji-xuan-zhi/seg-004.mp3",
+      "durationMs": 30168,
+      "checksum": "e53a61d1e903eada67690a7f75ce2163332a51d6757896d0d6b206e4a03a1682",
+      "sourceHash": "ac0e9bc07f6886d53914d326e3b1255b4640f0093667018f13dad1b674c50982"
+    },
+    {
+      "id": "seg-005",
+      "url": "/audio/xiang-ji-xuan-zhi/seg-005.mp3",
+      "durationMs": 6456,
+      "checksum": "211e0be96c3e0f0c737713ea24cfd8d4afd07b0a48ff83e5c20edc9c0d05719a",
+      "sourceHash": "ad5494e6314e8186fa4f8219d4a5ca1948894e9db0a086e42185a0278c37c747"
+    }
+  ]
+}

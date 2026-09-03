@@ -1,0 +1,10 @@
+{
+  "name": "私人文学听读馆",
+  "short_name": "文学听读馆",
+  "description": "自然朗读、原文阅读与轻环境声组成的私人文学空间。",
+  "lang": "zh-CN",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f4efe4",
+  "theme_color": "#171511"
+}

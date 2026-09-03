@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "workId": "walden-sounds",
+  "provider": "edge-neural",
+  "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
+  "format": "mp3",
+  "generatedAt": "2026-09-01T02:32:07.534Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/walden-sounds/seg-001.mp3",
+      "durationMs": 121248,
+      "checksum": "9725e7e17b6604e0b4921927e916027ebd795f61f80c2642be0baef005cc45c0",
+      "sourceHash": "629262756f1cb909ad0029b56e95772e7127e03af29d1292a61777fe12c55c46"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/walden-sounds/seg-002.mp3",
+      "durationMs": 102192,
+      "checksum": "333c4e421508f685705e06c4d80457f333e2163ae872e1758087f0db7475fa37",
+      "sourceHash": "57b790dec490a2430863a3f40e4bae856f9e3cae956080271ee046afa0c258a3"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/walden-sounds/seg-003.mp3",
+      "durationMs": 64848,
+      "checksum": "628ff9dc367ba0fd3d84bdfc57157aab5e5c845a3e674557b42899c1fda36afe",
+      "sourceHash": "0b89ebea0c06d7cfaf8e6358423224cb1f8b851474e7ab5ce5baa0cf42a24f31"
+    }
+  ]
+}

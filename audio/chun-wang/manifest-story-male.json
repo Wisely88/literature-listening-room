@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "workId": "chun-wang",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-10%|pitch=-2Hz|voiceId=story-male",
+  "voiceId": "story-male",
+  "format": "mp3",
+  "generatedAt": "2026-09-02T12:17:59.129Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/chun-wang/seg-001-voice-story-male.mp3",
+      "durationMs": 7632,
+      "checksum": "c634016c23f1827935f52b79dfa5acd234ceaebc5ac49124f2bfba2c79747d60",
+      "sourceHash": "8a7820e9b26ee4956036b6db28710eb5eab09a6c505aeba2fced2d14832d4352"
+    }
+  ]
+}

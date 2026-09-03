@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "workId": "civil-disobedience",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-10%|pitch=-2Hz|voiceId=story-male",
+  "voiceId": "story-male",
+  "format": "mp3",
+  "generatedAt": "2026-09-02T12:18:37.298Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/civil-disobedience/seg-001-voice-story-male.mp3",
+      "durationMs": 67224,
+      "checksum": "94685a9a2226dc4982f6c8603a224c238e53c07ac3ac876fa51fa78ae43e594e",
+      "sourceHash": "cf0aa4ed3cc9ff53b45654eb01ccec0025220445210ab321419fe87590c89219"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/civil-disobedience/seg-002-voice-story-male.mp3",
+      "durationMs": 106704,
+      "checksum": "6d86d8f929c302a827759a4e128503c910417fa68dfa33ee28ad6c1a982d75fc",
+      "sourceHash": "a1ee70390878b70ee0441149e3451f252e65dc12206837d635c46f289288e4a5"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/civil-disobedience/seg-003-voice-story-male.mp3",
+      "durationMs": 18264,
+      "checksum": "8edf1ff0c486934ac5c9b06c276ac33e9a4cd9d39d12694bd0e21654c19a4962",
+      "sourceHash": "72ed711d206071ceb5ed22cfdfd60cab26599dcb01e28dbce7019156edd35b79"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/civil-disobedience/seg-004-voice-story-male.mp3",
+      "durationMs": 64104,
+      "checksum": "28c7e9eaf68031fca94ba766e7079829e5e819c6dc8725318329e385c9c1333f",
+      "sourceHash": "df6c4411713ed91a420166484c2af44d2e911885cdbe006f904451edd5e64480"
+    }
+  ]
+}

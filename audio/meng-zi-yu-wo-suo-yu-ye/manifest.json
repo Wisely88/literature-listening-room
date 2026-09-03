@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "workId": "meng-zi-yu-wo-suo-yu-ye",
+  "provider": "edge-neural",
+  "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
+  "format": "mp3",
+  "generatedAt": "2026-09-01T02:11:10.162Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/meng-zi-yu-wo-suo-yu-ye/seg-001.mp3",
+      "durationMs": 8904,
+      "checksum": "dbf0de5bfc4f692a9ea64cee75edf88c09647344e2a2a4167cc21b587af29a45",
+      "sourceHash": "e430e5e1f4cfb7adf150632518f4ab39bbba4ecc090f7a1f775bea14950326bf"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/meng-zi-yu-wo-suo-yu-ye/seg-002.mp3",
+      "durationMs": 7536,
+      "checksum": "223e68bbf46c1704b48ebc98b8e82553ba3877fbc1a7063ba57f565be71c8002",
+      "sourceHash": "6dd4d6bc5df817ac8ebdb77ac630f91d55923d60f2b1c784150393b96c101d8d"
+    }
+  ]
+}

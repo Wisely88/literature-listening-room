@@ -1,0 +1,59 @@
+{
+  "version": 1,
+  "workId": "autobiography-benjamin-franklin",
+  "provider": "edge-neural",
+  "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
+  "format": "mp3",
+  "generatedAt": "2026-09-01T01:53:57.327Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/autobiography-benjamin-franklin/seg-001.mp3",
+      "durationMs": 66840,
+      "checksum": "31964266b8e56ac4ca2981437984645deee5a70f3179a10fa6624530d03e287e",
+      "sourceHash": "cc64927811c70bdcc5ae70d5c3a182daa2b157b554ccb6be42dd51d60e60a670"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/autobiography-benjamin-franklin/seg-002.mp3",
+      "durationMs": 31824,
+      "checksum": "f14ef85aba456558e4161a74e86aeba9d83a4039a6a131ace36785ac70f7b6f6",
+      "sourceHash": "cfaa87affe7f40e780c0426591678240b0532aa92ad7ecd41fbbfb57854afcc2"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/autobiography-benjamin-franklin/seg-003.mp3",
+      "durationMs": 41016,
+      "checksum": "d418f75572c4856ee52dcdf000cb42a5d80f3c4e559a9312d04aed1224be8b63",
+      "sourceHash": "573b0422ee97172d1e15fc8cb214c48860b022187027a4238084521cfa3b6a3f"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/autobiography-benjamin-franklin/seg-004.mp3",
+      "durationMs": 29472,
+      "checksum": "a22b6775e54896ed3f949a36bf7f2f828acf8d1dd7959ec3748f81ff9bed9f7c",
+      "sourceHash": "d42530ef34c3fc9bb9eb6d086fdd16d6181b7639146d5c36623f6162dbccdb81"
+    },
+    {
+      "id": "seg-005",
+      "url": "/audio/autobiography-benjamin-franklin/seg-005.mp3",
+      "durationMs": 38424,
+      "checksum": "e748df82b6b413822f9e88191cd0314e8c4f3fbac89a99da8aaabbdf88e330cc",
+      "sourceHash": "e944264f3fbeeb5066057ac66dcf4f877b9416f368f6164483f5ce384c8a2d14"
+    },
+    {
+      "id": "seg-006",
+      "url": "/audio/autobiography-benjamin-franklin/seg-006.mp3",
+      "durationMs": 19632,
+      "checksum": "c0574d21c726741f58e1532abe920e0a4dc9ae9f201dea51d456751ac1ba7e0b",
+      "sourceHash": "8709e1d53a64f8c11e7ca865be8c3cdcd0bb322c6d340f46a633c5a29412f956"
+    },
+    {
+      "id": "seg-007",
+      "url": "/audio/autobiography-benjamin-franklin/seg-007.mp3",
+      "durationMs": 14016,
+      "checksum": "b4b5bb59745618486a2a62665e563704ba901c1ddb095617d90ee3a20081358b",
+      "sourceHash": "ed3062622f1a56cf26fc28bba2990a980bbf5f78c27ed8a5d49b50ece12ee51d"
+    }
+  ]
+}

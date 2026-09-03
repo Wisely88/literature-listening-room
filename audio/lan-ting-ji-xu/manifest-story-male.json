@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "workId": "lan-ting-ji-xu",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-10%|pitch=-2Hz|voiceId=story-male",
+  "voiceId": "story-male",
+  "format": "mp3",
+  "generatedAt": "2026-09-02T12:41:56.771Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/lan-ting-ji-xu/seg-001-voice-story-male.mp3",
+      "durationMs": 27840,
+      "checksum": "d3b00136325a77b42d35f2d88f61003b6560d0dea16b333b3cd1c83c566d0355",
+      "sourceHash": "4daaa674aaf9febbc0945482831f315cba47054da5abc509fdcd4d073725cc42"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/lan-ting-ji-xu/seg-002-voice-story-male.mp3",
+      "durationMs": 13176,
+      "checksum": "d96ae9d01dfd27dc690848247e11f744d34146ee9d81bde92d7ae57e3dfeea2a",
+      "sourceHash": "ae8bc345bf53ddd226e0018c05765f1ad56de99fffa6654b6120a9ab0c5245a1"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/lan-ting-ji-xu/seg-003-voice-story-male.mp3",
+      "durationMs": 38688,
+      "checksum": "ce07a109ae1cd4a416b8fb5c1f39dc7384f261a3ee9156ea70cd568e365d8176",
+      "sourceHash": "5349426129606ebb0ebeae3e98f7953272420aa8aa8ad98c44dd3227c419c6fb"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/lan-ting-ji-xu/seg-004-voice-story-male.mp3",
+      "durationMs": 26304,
+      "checksum": "8397dd07301c2eeadefec01568a848775f5cc8dacb1ffab3873c144d866a03e7",
+      "sourceHash": "629951b1f49272584f2eaa2db204fa35a6c366fef9abcf977735dc34aae079bd"
+    }
+  ]
+}

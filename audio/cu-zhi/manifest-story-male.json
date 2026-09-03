@@ -1,0 +1,67 @@
+{
+  "version": 1,
+  "workId": "cu-zhi",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-10%|pitch=-2Hz|voiceId=story-male",
+  "voiceId": "story-male",
+  "format": "mp3",
+  "generatedAt": "2026-09-02T12:20:54.565Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/cu-zhi/seg-001-voice-story-male.mp3",
+      "durationMs": 27816,
+      "checksum": "ac0eb46b46052ae8785a5ff601e4511c1c93fa3c97c474618728cf9a26d42d43",
+      "sourceHash": "1c670ed134624d5204438d71ffb66d03be89b7054ba6c97d8137406746698c4a"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/cu-zhi/seg-002-voice-story-male.mp3",
+      "durationMs": 50280,
+      "checksum": "d79cdd60da85f67cd399803ae29adc1bcb9446521873077388cd47b217f1e611",
+      "sourceHash": "ce9903f0d9749dd9892d646981ff93f6d74bd929470967ac9fb74e6f406ee67c"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/cu-zhi/seg-003-voice-story-male.mp3",
+      "durationMs": 57744,
+      "checksum": "4d76c7b2b85b3f59e35e62b59c4f18055fe4272ec803ebf770eec2f895811650",
+      "sourceHash": "b09154771c47ca1f1ee05b4cdd605553e1ea4f3a0600b4e4d6a27f629b9989a1"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/cu-zhi/seg-004-voice-story-male.mp3",
+      "durationMs": 62880,
+      "checksum": "dcec20b05b96e6748b189d31986fe6c2cfa602dd531647a9ff33331418b9cce8",
+      "sourceHash": "031633e922888a9de8e7f92b26203318061ba233c16f36b45397848efc0292f3"
+    },
+    {
+      "id": "seg-005",
+      "url": "/audio/cu-zhi/seg-005-voice-story-male.mp3",
+      "durationMs": 118752,
+      "checksum": "b70e641c3bba8b639f58d37bdc74ffc2e305f64679633f6af8f8040d2f3ccc9c",
+      "sourceHash": "f2ad1b702adcffec5403150a7e2599fb5cc9ef901598bf86328185f8fd1a99ca"
+    },
+    {
+      "id": "seg-006",
+      "url": "/audio/cu-zhi/seg-006-voice-story-male.mp3",
+      "durationMs": 87864,
+      "checksum": "a866511d5d113a0898543a1d92acd118893954f0f083a9f40fa8b00180e9fd92",
+      "sourceHash": "65f7d41e6d72ad5706a7f214260f3e51917e508500a9afaabb1fc13ebf54fe66"
+    },
+    {
+      "id": "seg-007",
+      "url": "/audio/cu-zhi/seg-007-voice-story-male.mp3",
+      "durationMs": 67320,
+      "checksum": "3fac0571dcd9ee1419de3f4839053643099cbb0a7917cf5a62174b6a186eb95d",
+      "sourceHash": "eeacf1483dacd7b2ab1960528bd2bbc541b5417f066d209724ec425dbc46cf66"
+    },
+    {
+      "id": "seg-008",
+      "url": "/audio/cu-zhi/seg-008-voice-story-male.mp3",
+      "durationMs": 38544,
+      "checksum": "d81deefdb55349694b83a530957695e1d1dba18415c5f9b834167c67ec7cea99",
+      "sourceHash": "ba9a38bc30e02a3be9e3a980814bc7a5fad586b566c356fe42b42ea6a240d7fe"
+    }
+  ]
+}

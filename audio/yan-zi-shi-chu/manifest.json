@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "workId": "yan-zi-shi-chu",
+  "provider": "edge-neural",
+  "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
+  "format": "mp3",
+  "generatedAt": "2026-09-01T02:37:48.781Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/yan-zi-shi-chu/seg-001.mp3",
+      "durationMs": 9840,
+      "checksum": "303b9c40d5a6b54c0c2c3428b18e46036e7a79d2204a7b0fe16981356a37ba69",
+      "sourceHash": "2756e63262087454c4ccc63181836ee86b84151173c772aba5338a140978b19f"
+    }
+  ]
+}

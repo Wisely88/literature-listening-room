@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "workId": "yu-zhu-yuan-si-shu",
+  "provider": "edge-neural",
+  "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
+  "format": "mp3",
+  "generatedAt": "2026-08-31T14:06:17.678Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/yu-zhu-yuan-si-shu/seg-001.mp3",
+      "durationMs": 11640,
+      "checksum": "a1f392e333ac9448e1cef71afe29f56ba443c3ad0902e5a2d2b01d51ed7249ae",
+      "sourceHash": "613dbc36c04b9eb4f819ad61a88a32f6bf63eb1018cbef6a31f9576e239d2e47"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/yu-zhu-yuan-si-shu/seg-002.mp3",
+      "durationMs": 8928,
+      "checksum": "45ee704da836d2c17f8ce3e0e9bd220369e4320ca725875660bcb6b3a66445b0",
+      "sourceHash": "ead2e7cb06249e30f4d0dad7c470c6746d3ee5bd65a6bf7a8dedb719c8266b7c"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/yu-zhu-yuan-si-shu/seg-003.mp3",
+      "durationMs": 29400,
+      "checksum": "3928bcc0a03fdca98563e7598f3f36bee69a36972c5b4132f741d6d67c9d0add",
+      "sourceHash": "7ef13bc40a52bc04a382214825bc157b91fc2d2e15bc6db8871bbecd936fb651"
+    }
+  ]
+}

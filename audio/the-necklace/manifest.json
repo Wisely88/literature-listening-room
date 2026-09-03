@@ -1,0 +1,157 @@
+{
+  "version": 1,
+  "workId": "the-necklace",
+  "provider": "edge-neural",
+  "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
+  "format": "mp3",
+  "generatedAt": "2026-09-01T02:21:52.661Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/the-necklace/seg-001.mp3",
+      "durationMs": 24840,
+      "checksum": "c527cc93e367230c2c6b7bedcb189dd563de25d63f250d9b3c6c53017bd1b7a5",
+      "sourceHash": "4953537ccf67ae3beca730410b8fffdd75a0f22e799e9c0c890f81a3e264066b"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/the-necklace/seg-002.mp3",
+      "durationMs": 31200,
+      "checksum": "78e60374df0c8c9f836fdaecb1a3523105d4a8e39cb65e1e6a681387be386c39",
+      "sourceHash": "4cdb3ba39b6a76b1e6ac3ab700e8f44203bf0a035eab5c845d0374c5cb48d980"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/the-necklace/seg-003.mp3",
+      "durationMs": 73368,
+      "checksum": "49b13f3ebcf149f0e5a3c6c56a48b55e8ce82f270d3158b8fba82bad3f2bcc40",
+      "sourceHash": "5eda0941df38f72911d59d61fea5fdbfe20401080164913545d5a2e5722244e0"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/the-necklace/seg-004.mp3",
+      "durationMs": 39696,
+      "checksum": "474087a8c47eb376d5f923d76cc89903b813208a0f8819f18a45249d4472e42c",
+      "sourceHash": "8ff50138f5eda237a4abe5361a9ca393c4d821363bac8808dcbd06069862f8d7"
+    },
+    {
+      "id": "seg-005",
+      "url": "/audio/the-necklace/seg-005.mp3",
+      "durationMs": 18240,
+      "checksum": "b1efd961a22a0913b3b4a574eac83e621a86d14fb679affd95e031d44c2041de",
+      "sourceHash": "037f263566a983431c9adf9a92423982ac56243b82c88e1b8d7075baf55afe89"
+    },
+    {
+      "id": "seg-006",
+      "url": "/audio/the-necklace/seg-006.mp3",
+      "durationMs": 11232,
+      "checksum": "66f52f4872672ceeaf99b15a65266123e5b33f5163c1e1cff00c966581c5dac0",
+      "sourceHash": "2c9bdab7681e1462b97fd45087541dda25fdfd312b4df86c1ddefe9f5c88b09f"
+    },
+    {
+      "id": "seg-007",
+      "url": "/audio/the-necklace/seg-007.mp3",
+      "durationMs": 7752,
+      "checksum": "236b735b61944e0ec579b292d55b2fa40733eda73cd25e2bc55c57d6eeda1320",
+      "sourceHash": "8af0c72ef9e2a2afeeb7986dd37fe22784f032cfa7deaa0faa1e00af70eb08bc"
+    },
+    {
+      "id": "seg-008",
+      "url": "/audio/the-necklace/seg-008.mp3",
+      "durationMs": 3192,
+      "checksum": "03b6fd9e9b5e54c6c3918b35f4c2e6566e526ee7594b8a8e08184f4189f767be",
+      "sourceHash": "89cc991c83ba2d3c350a7efd6251617a7bf085b8e8eef129ead33f706444888c"
+    },
+    {
+      "id": "seg-009",
+      "url": "/audio/the-necklace/seg-009.mp3",
+      "durationMs": 4752,
+      "checksum": "c05a28c02c88364607795c34158930a8659503ed7a30d37f8f4f3af2421cbf6e",
+      "sourceHash": "6c663fdba16caf841bba587bf8b55d2fd2eb2810a88d4bf5910589c96944d457"
+    },
+    {
+      "id": "seg-010",
+      "url": "/audio/the-necklace/seg-010.mp3",
+      "durationMs": 12072,
+      "checksum": "4817726c031cd7ace100c16f249de1ceb4256a5d9cbf284a7ce31c79be364a23",
+      "sourceHash": "5b9e41139c232fe974944f1c224ff45dc05b8b933e41d8b0183ec885e889c482"
+    },
+    {
+      "id": "seg-011",
+      "url": "/audio/the-necklace/seg-011.mp3",
+      "durationMs": 8472,
+      "checksum": "a12fbe3eb4e3f1e6d3e0617ed96a608826f9590c7862f6836d9d0cb2aa59b74e",
+      "sourceHash": "20395c31c441a2bdb0204d5aa63cdbf15a8f398a64bc97c2c09f3a4ecb98d77d"
+    },
+    {
+      "id": "seg-012",
+      "url": "/audio/the-necklace/seg-012.mp3",
+      "durationMs": 2424,
+      "checksum": "8d3b5acfbe63021350a5d519d90ffb9d07444809dbeb69e27e0382b56a49b530",
+      "sourceHash": "1d5b6152ac78fc7a8ebac66166f584e670dd0b543dfdb66a14f1996623ec485b"
+    },
+    {
+      "id": "seg-013",
+      "url": "/audio/the-necklace/seg-013.mp3",
+      "durationMs": 19728,
+      "checksum": "0f6a31c7a37a8426fa993c976b6e54c9d218d4e30abb82af36b10021d75558ce",
+      "sourceHash": "fba2744d1ad70ac857ccc96eaedcf5dac5c293d2c09f06ad4c48c74283f3b167"
+    },
+    {
+      "id": "seg-014",
+      "url": "/audio/the-necklace/seg-014.mp3",
+      "durationMs": 4248,
+      "checksum": "b0a990c56ac1901f4fc461dfc659ddb58f286b6db0b5d6c2d1910ff8c98d8a1e",
+      "sourceHash": "e510116ae488d7d3d445e53faacc365d2fa358480974abfe2d0f975e4412db2c"
+    },
+    {
+      "id": "seg-015",
+      "url": "/audio/the-necklace/seg-015.mp3",
+      "durationMs": 2472,
+      "checksum": "e5b224ca5262c8fb6cd46596b23d81b71ba9c721bae02e55601db022088a3e8f",
+      "sourceHash": "e77d49bd722f171ecf9035d932f29ec5951613466defc827087cbd89d9702994"
+    },
+    {
+      "id": "seg-016",
+      "url": "/audio/the-necklace/seg-016.mp3",
+      "durationMs": 3720,
+      "checksum": "3d53d80f8a5ec9443adf5152fc71dfdd435c5ccdaebc953b1037d2f216e62ee4",
+      "sourceHash": "756af9213e4ba324985ffdaf98ce373257edbc85c3809857b4afd1399140b397"
+    },
+    {
+      "id": "seg-017",
+      "url": "/audio/the-necklace/seg-017.mp3",
+      "durationMs": 5136,
+      "checksum": "08aeba601f3d42aab915d461b020134b987ad910faf23b25ddb0313ae463de2c",
+      "sourceHash": "9b40474cb79fd57d8c116ee8ff08ad1cf5389153e3e5372d569853b08a9a535a"
+    },
+    {
+      "id": "seg-018",
+      "url": "/audio/the-necklace/seg-018.mp3",
+      "durationMs": 9960,
+      "checksum": "a37e6467a7640f4b99c7bec6dbaf97ed6d52b8dddc04b516228533bdf9607c28",
+      "sourceHash": "eb113b70960904c987bc8df4be3cdc062e7445f7b98f516653e64e060370ac98"
+    },
+    {
+      "id": "seg-019",
+      "url": "/audio/the-necklace/seg-019.mp3",
+      "durationMs": 4368,
+      "checksum": "9372464c39a7b8a7511078e3810a9ac0e30a641718bb3a4529599bbc7f15f964",
+      "sourceHash": "1fdf6fb16c3c69e683def17d5c6e26a7cd1535826829e4240506383270568464"
+    },
+    {
+      "id": "seg-020",
+      "url": "/audio/the-necklace/seg-020.mp3",
+      "durationMs": 6672,
+      "checksum": "ebab02df99b33878e4db510480d608d83fea68b8cdd462797b219e2924dd42e2",
+      "sourceHash": "53e1f44901aa43e7b1733d9713ffa273913e9aceebe96f32e9283202970b153f"
+    },
+    {
+      "id": "seg-021",
+      "url": "/audio/the-necklace/seg-021.mp3",
+      "durationMs": 10920,
+      "checksum": "cc007b83f1c4a40a03afaf78f6d99c5f6157040f7801021ce30c91324f372af6",
+      "sourceHash": "bd56449311df060461d431546d2ff992038b85faeb76b755edc8c36f15ed6529"
+    }
+  ]
+}

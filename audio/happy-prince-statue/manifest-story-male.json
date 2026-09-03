@@ -1,0 +1,186 @@
+{
+  "version": 1,
+  "workId": "happy-prince-statue",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-10%|pitch=-2Hz|voiceId=story-male",
+  "voiceId": "story-male",
+  "format": "mp3",
+  "generatedAt": "2026-09-02T12:33:45.337Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/happy-prince-statue/seg-001-voice-story-male.mp3",
+      "durationMs": 13944,
+      "checksum": "4d951ec185015b32bf656064c73136e72ad41042735f08f67a6afb8fd3ea680a",
+      "sourceHash": "62358de17cd60c3fbf6c42cb775f1d7365a908d72da65f71a148808c4f5badf1"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/happy-prince-statue/seg-002-voice-story-male.mp3",
+      "durationMs": 16584,
+      "checksum": "86dc1cb7b10e7dfa1a5371baac0caf45d908454518021397a5a20ac2961b0c38",
+      "sourceHash": "bb0078b32df0dbc4effa6fd5b76cb95f37e6ee084981539cf9b5bd65ea4fe83d"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/happy-prince-statue/seg-003-voice-story-male.mp3",
+      "durationMs": 11232,
+      "checksum": "4b736d9c763f0b22ad9131accb37a9a140655d3191fc42a1d67893fc82e68fdb",
+      "sourceHash": "2e7e67379c355ec3684149b12d383552a32dd655efd4fa99c1253d7c165aa5f0"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/happy-prince-statue/seg-004-voice-story-male.mp3",
+      "durationMs": 9096,
+      "checksum": "08f04cd2243c3db0704bceda46df31d51ecc99128b64b3d1217cd4b92b6cf474",
+      "sourceHash": "78cb5dbde4296bcdb4f3dca0e4326e6146abef2796f2de92406f2fbe1d1c944f"
+    },
+    {
+      "id": "seg-005",
+      "url": "/audio/happy-prince-statue/seg-005-voice-story-male.mp3",
+      "durationMs": 8280,
+      "checksum": "645808c23aa41b29aaa06eacb4346c64b983a632d7f8d2917f3d364929272fb9",
+      "sourceHash": "f1fb05dacc444e7e9b25a489d85f77562ac1fc334111e62b09c7772eef405b19"
+    },
+    {
+      "id": "seg-006",
+      "url": "/audio/happy-prince-statue/seg-006-voice-story-male.mp3",
+      "durationMs": 5832,
+      "checksum": "db14fcfaa3237868a856e75308cd876faae82e54f3e5d69186133ec0e8ea6842",
+      "sourceHash": "c132440de7757c808ea69fa2c3c5b4e5de95e6b11aecaa9a2e842db5bf7b052a"
+    },
+    {
+      "id": "seg-007",
+      "url": "/audio/happy-prince-statue/seg-007-voice-story-male.mp3",
+      "durationMs": 10272,
+      "checksum": "03a892eb8192065e3d1e7cbfa6ccd982def50a6c5f2a6e39c3cdfa2e0864e70b",
+      "sourceHash": "edcd14d47b2a3d67ec0c69f0ae88502ac21d25bda5701f82a2fe04b92853f912"
+    },
+    {
+      "id": "seg-008",
+      "url": "/audio/happy-prince-statue/seg-008-voice-story-male.mp3",
+      "durationMs": 21648,
+      "checksum": "98d28b6297999b6dc69397b10344e04947df07164dddb87e6a8fe8601b0b469d",
+      "sourceHash": "13229db104ff6484f27cf35049e1038944f9fbb320990c3dd9301acbd7cff8f5"
+    },
+    {
+      "id": "seg-009",
+      "url": "/audio/happy-prince-statue/seg-009-voice-story-male.mp3",
+      "durationMs": 18240,
+      "checksum": "0da42fbb2fd388d76de65eaa989677d7ef27b304e0a6897cc826cbf7099d9da3",
+      "sourceHash": "0a0089776539edcb6b207a9fd2c939d3f99017395d25ed4c6df5527bbbb58796"
+    },
+    {
+      "id": "seg-010",
+      "url": "/audio/happy-prince-statue/seg-010-voice-story-male.mp3",
+      "durationMs": 15096,
+      "checksum": "ef80214867aacbd01c9168f5d03940a1243fb6c83328dcd0c4d06c47f535cfde",
+      "sourceHash": "935806b3967a4835694c2ae556053ba9c22edfc8334c20bf2d1d29bdd13abca3"
+    },
+    {
+      "id": "seg-011",
+      "url": "/audio/happy-prince-statue/seg-011-voice-story-male.mp3",
+      "durationMs": 25728,
+      "checksum": "227467a57cf5dfb3ea01a76434e8775e5261e3a0e07084dde241c4eca2830862",
+      "sourceHash": "b41f39fb034923de51053e1b30448766ccfdf56fcc03569b0d68ea0fb33efa65"
+    },
+    {
+      "id": "seg-012",
+      "url": "/audio/happy-prince-statue/seg-012-voice-story-male.mp3",
+      "durationMs": 8040,
+      "checksum": "329eb77fa14914ab9693bf886d1a2fc16cf08fc6bc611b76eceebcf17c58bcf3",
+      "sourceHash": "c49eedf3ee916e3bf9f71df2698299f90a69ce4d508d65a576b00b575ddd2d1c"
+    },
+    {
+      "id": "seg-013",
+      "url": "/audio/happy-prince-statue/seg-013-voice-story-male.mp3",
+      "durationMs": 8280,
+      "checksum": "8938c6541eb383c29328dfb053436bc3cd09be246c095b0129b6a14751c1dce7",
+      "sourceHash": "30b6c2c512a25041e4122b248dbfeb405e8ba5cc5f21b0f4af11c7622b7d9865"
+    },
+    {
+      "id": "seg-014",
+      "url": "/audio/happy-prince-statue/seg-014-voice-story-male.mp3",
+      "durationMs": 11112,
+      "checksum": "d880d61b7267f9fa9412f25cefc868e59b3ae00fc5dbee3026222095cbb26f44",
+      "sourceHash": "939c83c92612590ca2e60096aef9e574ea9b6485276ec02c8c9b7c7fd53635ed"
+    },
+    {
+      "id": "seg-015",
+      "url": "/audio/happy-prince-statue/seg-015-voice-story-male.mp3",
+      "durationMs": 4632,
+      "checksum": "45d796ab8c9cd49b2c0e30774e5269d8935ed28f54b64d963bcc0793bbebaa90",
+      "sourceHash": "c95aa0cd7905818b2bf09297edb307edba61c786c6da996ea3ef36838002827f"
+    },
+    {
+      "id": "seg-016",
+      "url": "/audio/happy-prince-statue/seg-016-voice-story-male.mp3",
+      "durationMs": 9336,
+      "checksum": "278fe99f32a13e60cf27cc023b00e98c505585334d2277929c30064d3294a87b",
+      "sourceHash": "364b51b293da9c695db8bd5c5fb4869c5ebd823312f04c5fd73b74c9bd1420e8"
+    },
+    {
+      "id": "seg-017",
+      "url": "/audio/happy-prince-statue/seg-017-voice-story-male.mp3",
+      "durationMs": 27912,
+      "checksum": "4fea9509358fa3aac418f1cf1f34608ee177f30d241381d1d90b3275603575a0",
+      "sourceHash": "6f7f88e8b730fe2bf39dcee55fd030b9358d340932e8f4fc240c124453b6cf8d"
+    },
+    {
+      "id": "seg-018",
+      "url": "/audio/happy-prince-statue/seg-018-voice-story-male.mp3",
+      "durationMs": 2664,
+      "checksum": "14d2c1a0ce16d6df1a553e62cba09bef2947e5567742758afcab0ce8019e0c32",
+      "sourceHash": "78703db2814725fcbc2bfbf2f2a19c98e3f47f35238a5c8d8bf37071ba8f01a5"
+    },
+    {
+      "id": "seg-019",
+      "url": "/audio/happy-prince-statue/seg-019-voice-story-male.mp3",
+      "durationMs": 8640,
+      "checksum": "13e833418662e9642c34b752c4141b5f1048cbb7fc05cb1d88ee242966db8e62",
+      "sourceHash": "c89e0ac36332697e2e77bea229a6b162b5aa1c1cbffcd2b95ad2ed5040ab33e1"
+    },
+    {
+      "id": "seg-020",
+      "url": "/audio/happy-prince-statue/seg-020-voice-story-male.mp3",
+      "durationMs": 8688,
+      "checksum": "17ee0f002c052db597e7c0ba9eccbdc73f500e05ffdcdbe4d0ac9202cf5448c0",
+      "sourceHash": "4584e4f6edfd249b54b9d2d7661694d560c760907f2e68ed0734bbb9579add0b"
+    },
+    {
+      "id": "seg-021",
+      "url": "/audio/happy-prince-statue/seg-021-voice-story-male.mp3",
+      "durationMs": 12840,
+      "checksum": "2afe572971075282ea379cffa0be42efd71c973ab432d34d0740a2911737b46c",
+      "sourceHash": "4497c199ee40fe4c1c843d174075c868be0d1ec801077eeedf7c1b660d7e3bf1"
+    },
+    {
+      "id": "seg-022",
+      "url": "/audio/happy-prince-statue/seg-022-voice-story-male.mp3",
+      "durationMs": 3360,
+      "checksum": "a574201a18c78ea7631781243918a7f72b9aec4bb5af49d91dd7ff8ebd2b461f",
+      "sourceHash": "0d192669b5e203175676ef05aa847384bf0f3cc3b5cd4ddd62425cf54fa3aaa1"
+    },
+    {
+      "id": "seg-023",
+      "url": "/audio/happy-prince-statue/seg-023-voice-story-male.mp3",
+      "durationMs": 2232,
+      "checksum": "fd75621ccb205632b4d50086063aaca9f4bd89ed613e53d51f1c6d9613808762",
+      "sourceHash": "9b7eb3c8c3928cc369b666bf31b415cfbf53a49e9603db9eca77014bd01584fc"
+    },
+    {
+      "id": "seg-024",
+      "url": "/audio/happy-prince-statue/seg-024-voice-story-male.mp3",
+      "durationMs": 5784,
+      "checksum": "3be69336ca734c7abc556587b1d315eb6549cf43570f9875e6acbe371a85ed77",
+      "sourceHash": "5324bb02fa05fd2be7de0901f25e2eb1c1f5ef644416892c5f238d49e0ac28a3"
+    },
+    {
+      "id": "seg-025",
+      "url": "/audio/happy-prince-statue/seg-025-voice-story-male.mp3",
+      "durationMs": 43512,
+      "checksum": "7fa6f1612c629665721b81408511b34d130663375223a2e24a5a7b82d4b03d3c",
+      "sourceHash": "d3c6a939405d50734e729369d1361e00a1f9878ebdb29831bf7320fbfa38969c"
+    }
+  ]
+}

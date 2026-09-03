@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "workId": "you-xia-lie-zhuan",
+  "provider": "edge-neural",
+  "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
+  "format": "mp3",
+  "generatedAt": "2026-09-01T02:38:38.626Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/you-xia-lie-zhuan/seg-001.mp3",
+      "durationMs": 4656,
+      "checksum": "c6036f282b1e590b6b05cf8c72350b8f4d8b99bbd97f7b67be6441d8cc456566",
+      "sourceHash": "1c784c87e15473e00d27198cfe1e6816e9848c69db4f86b20d3a99a722cfac41"
+    }
+  ]
+}

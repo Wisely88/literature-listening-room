@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "workId": "jing-gong-hao-yi-zhe",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-10%|pitch=-2Hz|voiceId=story-male",
+  "voiceId": "story-male",
+  "format": "mp3",
+  "generatedAt": "2026-09-02T12:40:40.918Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/jing-gong-hao-yi-zhe/seg-001-voice-story-male.mp3",
+      "durationMs": 7512,
+      "checksum": "9b146f32a5e9d7b8d723d905cad843d67b4be4ecbc2756ab803f49cc53a622b5",
+      "sourceHash": "cacba0f00d2dd67da0dca3ce05cf1bf3af8c7d5cf033e12530ac82a8985e199e"
+    }
+  ]
+}

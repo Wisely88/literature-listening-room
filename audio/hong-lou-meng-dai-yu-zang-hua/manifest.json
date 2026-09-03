@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "workId": "hong-lou-meng-dai-yu-zang-hua",
+  "provider": "edge-neural",
+  "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
+  "format": "mp3",
+  "generatedAt": "2026-09-01T02:03:36.768Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/hong-lou-meng-dai-yu-zang-hua/seg-001.mp3",
+      "durationMs": 9288,
+      "checksum": "f2d12b29fc7ceeba3a697f56196f3541466dce22b470627442d3d8c8d701b043",
+      "sourceHash": "b21561d148cd73b6efd2b3e6a382dba35cb9fcc90470b6f216c1745c4e0152c7"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/hong-lou-meng-dai-yu-zang-hua/seg-002.mp3",
+      "durationMs": 8496,
+      "checksum": "e99fd877634252532b554e280c034cfd51911d607a778c5d221e6eb03f126247",
+      "sourceHash": "5369be420559377c7607e80562cd86bda15edf8fd72187473092f20fbd1fd03e"
+    }
+  ]
+}

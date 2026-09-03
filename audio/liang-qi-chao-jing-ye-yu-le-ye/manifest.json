@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "workId": "liang-qi-chao-jing-ye-yu-le-ye",
+  "provider": "edge-neural",
+  "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
+  "format": "mp3",
+  "generatedAt": "2026-09-01T02:08:28.762Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/liang-qi-chao-jing-ye-yu-le-ye/seg-001.mp3",
+      "durationMs": 8544,
+      "checksum": "57758668273993049f5684d63a202cad0327ab1b2041b0ef7f08aba6783af68e",
+      "sourceHash": "e61fd72ecd45a719d714e3597b6b6077058a80c2d08cb139e9552e53864a02b0"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/liang-qi-chao-jing-ye-yu-le-ye/seg-002.mp3",
+      "durationMs": 13056,
+      "checksum": "3c3f2756382fd9fed1335ac8c3b8f848356f550d2b11fe8364da524f2320a0e5",
+      "sourceHash": "1b75a762c7e0d8e60d4245f1988251851bc6a525ce07dd13a2490ee47b057cb8"
+    }
+  ]
+}

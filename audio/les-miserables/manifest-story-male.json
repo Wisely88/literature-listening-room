@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "workId": "les-miserables",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-10%|pitch=-2Hz|voiceId=story-male",
+  "voiceId": "story-male",
+  "format": "mp3",
+  "generatedAt": "2026-09-02T13:11:53.511Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/les-miserables/seg-001-voice-story-male.mp3",
+      "durationMs": 14232,
+      "checksum": "0551a3e888f0295731d7b1623aa39588a7a6e1f5de7b869baa099adc43d7179b",
+      "sourceHash": "e384011ccde301dc78e5733237f914f9adf68d59205a9b787cbcdf80dfd522a8"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/les-miserables/seg-002-voice-story-male.mp3",
+      "durationMs": 32328,
+      "checksum": "42088475cab32b255e48bc93c6498f905ad2ac8dd31a154b463fad0a8faa8687",
+      "sourceHash": "f745a071af81034cd717d0053facf779823f43b8d39002b6973d433d4ebb884d"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/les-miserables/seg-003-voice-story-male.mp3",
+      "durationMs": 32400,
+      "checksum": "a203867616806c4551f123c3c3874cf2f69f0ea68dc7f139f114577aa0f78e70",
+      "sourceHash": "98a88337cadfb014290c64524a3768d9bbfeb3f71afc21ac923a07e96a8be463"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/les-miserables/seg-004-voice-story-male.mp3",
+      "durationMs": 65616,
+      "checksum": "23a6e629a69f99c66b18a255be5ded367da55c7dde52ce83d38a4612ec087d02",
+      "sourceHash": "24f2c741c7e34d6c7a675295b71128698f31b4611d15168e4a2b8ce6e1837ce4"
+    },
+    {
+      "id": "seg-005",
+      "url": "/audio/les-miserables/seg-005-voice-story-male.mp3",
+      "durationMs": 8568,
+      "checksum": "fd2b0133b657e0df241ce7ee120d83deeed6184e2bd67de96c9ef92c5a1de68e",
+      "sourceHash": "7fbcab976718543a0ca233bdb350bab9f091172f679c8e9f234ecc7642acb8d8"
+    },
+    {
+      "id": "seg-006",
+      "url": "/audio/les-miserables/seg-006-voice-story-male.mp3",
+      "durationMs": 34608,
+      "checksum": "ec3ba7791a011fc45a8f645d2df8408d0ca1019f9ccebccbac7468bc3de7dfc5",
+      "sourceHash": "a400e6847e0f1be3f58a8718cc1647303bba3d26ab8b054f4c54d1e2b161bd75"
+    },
+    {
+      "id": "seg-007",
+      "url": "/audio/les-miserables/seg-007-voice-story-male.mp3",
+      "durationMs": 3792,
+      "checksum": "b96bc56c9f1c051fea58b9fdb8a665bd1b7880e13516c98072dbadf46205d1f8",
+      "sourceHash": "f058900f97e658de1f92a8f9464fd3fcb1c2182502f6d983ff7f24de57cfd700"
+    },
+    {
+      "id": "seg-008",
+      "url": "/audio/les-miserables/seg-008-voice-story-male.mp3",
+      "durationMs": 11520,
+      "checksum": "55fbb456b56af6b0385d6c0d015d5122a51447eb14841cab33d5eecdd2ea21c5",
+      "sourceHash": "79c4c32ecdb19bd654e947418916e7f1dab6299427e49fdf35c7446040b8736d"
+    },
+    {
+      "id": "seg-009",
+      "url": "/audio/les-miserables/seg-009-voice-story-male.mp3",
+      "durationMs": 11328,
+      "checksum": "da24a9ab0911b1a47f81e25281552b26908f96a190d7f9add356ee77e233eea7",
+      "sourceHash": "c5fc81a1030d0e45af47e8cc8db4b54fb111a0dfb9f869701d61480f8c9d3049"
+    },
+    {
+      "id": "seg-010",
+      "url": "/audio/les-miserables/seg-010-voice-story-male.mp3",
+      "durationMs": 13224,
+      "checksum": "49f37a05c17977e3706bdb05790cf590e27c793f8a02e3dffeb723bf7ecbff3a",
+      "sourceHash": "3244b13436d948925156120232037860a3d182a69883ddd6c23c3a37db474b8f"
+    },
+    {
+      "id": "seg-011",
+      "url": "/audio/les-miserables/seg-011-voice-story-male.mp3",
+      "durationMs": 34368,
+      "checksum": "dc67df6ce565942799ddb2563b43ac1ce7dd7ee676e3e39a48f453696a13e9a4",
+      "sourceHash": "e4a7f97286f191babd0ef309da01b1f2b23ced2beacc73a41f2200f93816cf8c"
+    }
+  ]
+}

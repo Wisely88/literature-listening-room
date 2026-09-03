@@ -1,0 +1,53 @@
+{
+  "version": 1,
+  "workId": "jekyll-and-hyde",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-10%|pitch=-2Hz|voiceId=story-male",
+  "voiceId": "story-male",
+  "format": "mp3",
+  "generatedAt": "2026-09-02T12:40:33.771Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/jekyll-and-hyde/seg-001-voice-story-male.mp3",
+      "durationMs": 87576,
+      "checksum": "c6c5f9995216aad5511097a009e63d475b808124cefa509fce68dde9ef4ad440",
+      "sourceHash": "867d6c95bb1f3be3daabf37171ac2524f96647b1ec597003a2cae5bce2233741"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/jekyll-and-hyde/seg-002-voice-story-male.mp3",
+      "durationMs": 76440,
+      "checksum": "82ff8565b074a5f977b7a2c5398f205e772f2e7c87874302ca87878e2ed2dc71",
+      "sourceHash": "ff11d9d7eb4dcf9e6b0aa9b4c7611217d8333a6f99b41d49d082d6ba494422d4"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/jekyll-and-hyde/seg-003-voice-story-male.mp3",
+      "durationMs": 49344,
+      "checksum": "44861162a0cfbc3b2e52983b39ad73952d432776b8c16527938fa327997058d1",
+      "sourceHash": "03fe8c93f59616a673a26b8e808124d9fe7ff78dddcd2a34a69acb043237209c"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/jekyll-and-hyde/seg-004-voice-story-male.mp3",
+      "durationMs": 47280,
+      "checksum": "f5fc48106296affb9a4c8ae138a00d956b795c0cff83a0b4b0f9e02c224323ef",
+      "sourceHash": "f72006cae85607814d840dc3841abfb6de8a4ff657807b9de1659e64fe089c04"
+    },
+    {
+      "id": "seg-005",
+      "url": "/audio/jekyll-and-hyde/seg-005-voice-story-male.mp3",
+      "durationMs": 10368,
+      "checksum": "e6bcc3dbe4a4779ac965accf85041576d323de1ce89959fb9e386dcc807c7acd",
+      "sourceHash": "e3dd10a0537bf2420ba159297ab3ed25896b5f7b57e2509e9f4584852bdcc638"
+    },
+    {
+      "id": "seg-006",
+      "url": "/audio/jekyll-and-hyde/seg-006-voice-story-male.mp3",
+      "durationMs": 12744,
+      "checksum": "b14694ef66de7a3c106a07189f531879ed5b82bc1779df4fd26f036f7a9ff7e1",
+      "sourceHash": "de4f325c1c7d5ab017c864d716b4466c0b75b3a96ea3110b12bccb339f7db1c6"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "workId": "mao-wu-wei-qiu-feng-suo-po-ge",
+  "provider": "edge-neural",
+  "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
+  "format": "mp3",
+  "generatedAt": "2026-09-01T02:10:38.297Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/mao-wu-wei-qiu-feng-suo-po-ge/seg-001.mp3",
+      "durationMs": 7032,
+      "checksum": "d29373ee78310f858329cf27e35abbb00187092a5144c0266e79a9818bd03ab0",
+      "sourceHash": "f624d2a5500ae286c2f1cf8a7dcdeb69c78b661ef33676e052b01a647c6cf6eb"
+    }
+  ]
+}

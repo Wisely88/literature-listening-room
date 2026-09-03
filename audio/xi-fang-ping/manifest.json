@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "workId": "xi-fang-ping",
+  "provider": "edge-neural",
+  "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
+  "format": "mp3",
+  "generatedAt": "2026-09-01T02:36:43.322Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/xi-fang-ping/seg-001.mp3",
+      "durationMs": 11088,
+      "checksum": "ef0fb5eaacece3784f962faa3610a3f2b1957a58647dbdcc47ef4031124fa19c",
+      "sourceHash": "02b806355003e8a201842c1b44d8f192b25530bff70b48aa0e673cd9872f3733"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "workId": "meng-zi-jin-xin",
+  "provider": "edge-neural",
+  "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
+  "format": "mp3",
+  "generatedAt": "2026-09-01T02:10:48.887Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/meng-zi-jin-xin/seg-001.mp3",
+      "durationMs": 5904,
+      "checksum": "23d724c0ca5a8e4f47eede137f0b58e2d2fe3d0eefb62dcf83a5c4ecd7a5a6c4",
+      "sourceHash": "c7198941a623212156c33b0d7fec9744c1a31cab76baa0f833fb892174a314f7"
+    }
+  ]
+}

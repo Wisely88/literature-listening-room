@@ -1,0 +1,53 @@
+{
+  "version": 1,
+  "workId": "he-zhou-ji",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-10%|pitch=-2Hz|voiceId=story-male",
+  "voiceId": "story-male",
+  "format": "mp3",
+  "generatedAt": "2026-09-02T12:34:36.486Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/he-zhou-ji/seg-001-voice-story-male.mp3",
+      "durationMs": 17304,
+      "checksum": "b765f79c6952fea9ea3f4896f22fd60268b6d549156cfe0795c742dc2fc96a6d",
+      "sourceHash": "815768b5f774bd2ca1826553073018b229ee28e9faec18b86b2da2e7a0be8945"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/he-zhou-ji/seg-002-voice-story-male.mp3",
+      "durationMs": 23808,
+      "checksum": "66773576ad500ea70e120b6edcfb323b87b447125bb9dc520f63ab46e2030887",
+      "sourceHash": "73120a7cd257ea6a6b919e2d250daf7b0ccec53c594c3a4f6b25a62bb7fb29fa"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/he-zhou-ji/seg-003-voice-story-male.mp3",
+      "durationMs": 42288,
+      "checksum": "5438944bc01a82d0ee36b441700739bb164fc84687d79e2d9edf4559713a7021",
+      "sourceHash": "1191f5285e54446eba0b085c994432661a3583c6c7d3864f3123755fbb6b99b1"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/he-zhou-ji/seg-004-voice-story-male.mp3",
+      "durationMs": 20592,
+      "checksum": "6e1dfa64f351aa1e73d83c090348452d42a52a33756a5825feebc123cd0423b4",
+      "sourceHash": "e06a0b38c763feca1f7a2ef769d184c206c70ae34b2b9240754a4182db4f57c8"
+    },
+    {
+      "id": "seg-005",
+      "url": "/audio/he-zhou-ji/seg-005-voice-story-male.mp3",
+      "durationMs": 15528,
+      "checksum": "10c6f2b38f0e400b0b9e0d76cc1638f4950f54c7906b5d3381eff5c2f6c7beec",
+      "sourceHash": "6028f252c7cf3b4037490d4826f57e4c8058855e24e3c061c35201cbe43ec835"
+    },
+    {
+      "id": "seg-006",
+      "url": "/audio/he-zhou-ji/seg-006-voice-story-male.mp3",
+      "durationMs": 23928,
+      "checksum": "c9b9641443862749a08a2d2e6b4fc57aba2af429db83eb68ed958b1c54473809",
+      "sourceHash": "c669371541a8535756867b6f06a804fdeb19ff86ed1c0ed3f3f2e8b79d324944"
+    }
+  ]
+}

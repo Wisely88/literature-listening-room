@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "workId": "ci-ke-lie-zhuan",
+  "provider": "edge-neural",
+  "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
+  "format": "mp3",
+  "generatedAt": "2026-09-01T01:55:31.819Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/ci-ke-lie-zhuan/seg-001.mp3",
+      "durationMs": 4320,
+      "checksum": "d49627f32544b7c93d4b94c76799122fd95786c860d7906533d061deae3d33c8",
+      "sourceHash": "19a2c475b4a74c6bba16c7faf6c75e0169e53e2b5d8441e69b65a1e2e97539c3"
+    }
+  ]
+}

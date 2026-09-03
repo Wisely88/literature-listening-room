@@ -1,0 +1,59 @@
+{
+  "version": 1,
+  "workId": "shi-shuo",
+  "provider": "edge-neural",
+  "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
+  "format": "mp3",
+  "generatedAt": "2026-08-31T14:04:08.444Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/shi-shuo/seg-001.mp3",
+      "durationMs": 14328,
+      "checksum": "f2e65ee452eabd7817a21e97cddcc9a21e53ced2f6960d544fd9473d63eaaebb",
+      "sourceHash": "5ac388e71526f96c8040f34874e848ce7d98a020ef020ecf975f9a683071d219"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/shi-shuo/seg-002.mp3",
+      "durationMs": 21072,
+      "checksum": "1fef5415d2b0ef509d7823a9da1e82b419cd22e51cdcef4bbe474d2a0e432841",
+      "sourceHash": "d8abc212c9f2da4ae4ccfe5c0fb50f17ba727bee6f07da43e6e99587ed4c5738"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/shi-shuo/seg-003.mp3",
+      "durationMs": 25800,
+      "checksum": "e0f9a963cd26c64524b6801249c285cfc8d2531ebd7149b4f7b43ae2f2ae81d9",
+      "sourceHash": "7e97dccfafef8cbf8578494491dd393e2a2baa4cbca0ebf0203abebede9d6da4"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/shi-shuo/seg-004.mp3",
+      "durationMs": 22608,
+      "checksum": "a409444f423b5eaeb26204205a207fcfb5020607352a2d9197d64be25597f007",
+      "sourceHash": "79c38e964b5f9f6c9a2e656c77d6924f10c757ed1741d8dde3e82d32b0a1d5a1"
+    },
+    {
+      "id": "seg-005",
+      "url": "/audio/shi-shuo/seg-005.mp3",
+      "durationMs": 29304,
+      "checksum": "715af91c4db3771ab43055a05c2d5765cf35f68d9c0b40cabc1f04a655c95081",
+      "sourceHash": "cf17c1a46e8e82a820450caf348bb732fe5670190a7d6a2280f59e080edd17c1"
+    },
+    {
+      "id": "seg-006",
+      "url": "/audio/shi-shuo/seg-006.mp3",
+      "durationMs": 22896,
+      "checksum": "8b95aee01e0c16d4e22ebabaaebcbf04ebc6d9454052bacea9aac4ba838c253b",
+      "sourceHash": "113c6fb81582a07f0f5f88ede10088ccaa69ccb1e78834906030b3bdc5b51c0a"
+    },
+    {
+      "id": "seg-007",
+      "url": "/audio/shi-shuo/seg-007.mp3",
+      "durationMs": 12744,
+      "checksum": "bf26be9b1286e605807886d2dbdc0d713448e6d32e5bc7f9d5f0a8f18480affc",
+      "sourceHash": "6ef5a0f5d938d5dbe42d73857d6d6e3fabae1521980d5be8d624368258528f76"
+    }
+  ]
+}

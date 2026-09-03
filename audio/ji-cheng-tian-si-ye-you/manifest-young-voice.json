@@ -1,0 +1,46 @@
+{
+  "version": 1,
+  "workId": "ji-cheng-tian-si-ye-you",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiaNeural|rate=-8%|pitch=+1Hz|voiceId=young-voice",
+  "voiceId": "young-voice",
+  "format": "mp3",
+  "generatedAt": "2026-09-02T02:54:57.191Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/ji-cheng-tian-si-ye-you/seg-001-voice-young-voice.mp3",
+      "durationMs": 7128,
+      "checksum": "5e1621b740655992f2627d4642b2fe09d60b1d1807d5636950d4546ec668c189",
+      "sourceHash": "17dbc86a06ad800d97c372d4442b3dea59599927ba36dbc22a7a0c049ec85873"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/ji-cheng-tian-si-ye-you/seg-002-voice-young-voice.mp3",
+      "durationMs": 5064,
+      "checksum": "a564171286e614ab0bbe45b3f975bf4686f2d357b64e1a223f8c53b8cbe0b557",
+      "sourceHash": "95385d03ec1132978bd3d5169e8773db466fc3e8f531a38ef0c96de87cf14dee"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/ji-cheng-tian-si-ye-you/seg-003-voice-young-voice.mp3",
+      "durationMs": 4272,
+      "checksum": "ea7a507ac8713fb4cbaedb0fe82a1ef028a7a55f564f16be9c16668a6fc6acb4",
+      "sourceHash": "637bd7ab6a583b06b2ad13592239d58becb6ebe741ff975ae888e67424a3bf1f"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/ji-cheng-tian-si-ye-you/seg-004-voice-young-voice.mp3",
+      "durationMs": 6504,
+      "checksum": "e39b03a1a722d3fbf82001aba1ea0a8be5ebd3ea91374030289db7958bef1b11",
+      "sourceHash": "b4ff182e7687fc11880146333a2807cc4c0fc37621351cacbc307ad06854eaff"
+    },
+    {
+      "id": "seg-005",
+      "url": "/audio/ji-cheng-tian-si-ye-you/seg-005-voice-young-voice.mp3",
+      "durationMs": 7176,
+      "checksum": "37885e1f26b314620339a75cf24c107ee8de145afbbe572f5811cfe29d3b15c4",
+      "sourceHash": "c79e5cb99210c3cccc4d1e95ab11b6fbe715d7dfc80d0429d40d25ca2d750c41"
+    }
+  ]
+}

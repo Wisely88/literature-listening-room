@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "workId": "tian-qi-lang",
+  "provider": "edge-neural",
+  "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
+  "format": "mp3",
+  "generatedAt": "2026-09-01T02:26:14.064Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/tian-qi-lang/seg-001.mp3",
+      "durationMs": 5352,
+      "checksum": "e9b7e5ec011fdc493c32200af34c72fdb0aae402874daa0fb4444954c27fac71",
+      "sourceHash": "cfe2033f4f1ef9f4fe4cc124723a6afa490826175220237e981176247918f06a"
+    }
+  ]
+}

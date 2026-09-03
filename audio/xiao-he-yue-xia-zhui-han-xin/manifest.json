@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "workId": "xiao-he-yue-xia-zhui-han-xin",
+  "provider": "edge-neural",
+  "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
+  "format": "mp3",
+  "generatedAt": "2026-09-01T02:37:10.684Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/xiao-he-yue-xia-zhui-han-xin/seg-001.mp3",
+      "durationMs": 11064,
+      "checksum": "73d5cf7a32887e4f36009a6fc262fdf50a7d4818bd04fd421758d8c89a142f73",
+      "sourceHash": "7be47596c3e1fe4480466569643bf846a4f8c8c12aecfcbfe95ffa223b069ec5"
+    }
+  ]
+}

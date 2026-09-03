@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "workId": "san-da-bai-gu-jing",
+  "provider": "edge-neural",
+  "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
+  "format": "mp3",
+  "generatedAt": "2026-09-01T02:15:52.082Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/san-da-bai-gu-jing/seg-001.mp3",
+      "durationMs": 7560,
+      "checksum": "85074431ccfd6b1c91ac49acee778a2b8b66c1344ae4e17daa92fd6411273a34",
+      "sourceHash": "d6e5d66b43348e990985708fc7d95b2b036b0b5bebdfe2d3d0a3f3854d39166f"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "workId": "jing-ke-ci-qin",
+  "provider": "edge-neural",
+  "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
+  "format": "mp3",
+  "generatedAt": "2026-09-01T02:05:59.868Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/jing-ke-ci-qin/seg-001.mp3",
+      "durationMs": 8256,
+      "checksum": "bd056898708f1b9156156510ef922bb9976b3469b6f8bb947a56221643530e4c",
+      "sourceHash": "baadfd79cf246f0967f11459d9a39517e0c1216a2071c38ff469980be4c60d8f"
+    }
+  ]
+}

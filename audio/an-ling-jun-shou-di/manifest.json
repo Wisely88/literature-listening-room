@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "workId": "an-ling-jun-shou-di",
+  "provider": "edge-neural",
+  "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
+  "format": "mp3",
+  "generatedAt": "2026-09-01T01:53:21.244Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/an-ling-jun-shou-di/seg-001.mp3",
+      "durationMs": 7824,
+      "checksum": "00d37f50f74bc1cb4e433516a4e1c823e514670ecb216e0853b6e69c72e1ecc7",
+      "sourceHash": "03dc0fcde7709087e535fa71b929427b225f3e8595758f64ce163f1e3e98b7a8"
+    }
+  ]
+}

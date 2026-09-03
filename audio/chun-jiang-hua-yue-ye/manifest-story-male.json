@@ -1,0 +1,74 @@
+{
+  "version": 1,
+  "workId": "chun-jiang-hua-yue-ye",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-10%|pitch=-2Hz|voiceId=story-male",
+  "voiceId": "story-male",
+  "format": "mp3",
+  "generatedAt": "2026-09-02T12:17:56.196Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/chun-jiang-hua-yue-ye/seg-001-voice-story-male.mp3",
+      "durationMs": 9552,
+      "checksum": "ecdb3787ef4b83911f003c8ae8252aa3cb5828f4f30fd66c056ffc9a44481d24",
+      "sourceHash": "9bf4167a4fd0bb29dd6f0e1638bc796b973a2c4beedf5379a706ba5d8cc56a25"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/chun-jiang-hua-yue-ye/seg-002-voice-story-male.mp3",
+      "durationMs": 8928,
+      "checksum": "b85f3f9a7540394f4126f961b70f0c34f43a7b05d2ce03399244f449dd782fd4",
+      "sourceHash": "9dda99a4450a003d1cf7ebd07f2a91fbd218d3574a02979025af778a012f933a"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/chun-jiang-hua-yue-ye/seg-003-voice-story-male.mp3",
+      "durationMs": 9792,
+      "checksum": "54e0c1ca4d02b67249bc61e7dc75b2a4b1c03f27df77ddb219ff8c8220ec7ea8",
+      "sourceHash": "aa82c7861db6701ad0e21f82ebe9c8f7f2e060a3637f9e37d0cbd1f12f95dc05"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/chun-jiang-hua-yue-ye/seg-004-voice-story-male.mp3",
+      "durationMs": 9360,
+      "checksum": "2a24d133b58ad0082d04d1bb46ee3204db32d7822082859047a7a7a422344de9",
+      "sourceHash": "aa353bb72bf90d73d4fd8c397956052f7a004042b0a0db5ef8e887d6b2121f90"
+    },
+    {
+      "id": "seg-005",
+      "url": "/audio/chun-jiang-hua-yue-ye/seg-005-voice-story-male.mp3",
+      "durationMs": 9384,
+      "checksum": "8da1feb5fde32130cded5fbefd2e8e1f0db2c837df283216cc0d47541f008d0b",
+      "sourceHash": "d24098dc0f37f788bd89d1e9e616e14a7292096f94ca50aa3203f7b461768707"
+    },
+    {
+      "id": "seg-006",
+      "url": "/audio/chun-jiang-hua-yue-ye/seg-006-voice-story-male.mp3",
+      "durationMs": 8904,
+      "checksum": "be7e311183087ea025b3fea28c8572ba17f35ef3945ae2d9ceb88a7c753aed7b",
+      "sourceHash": "57ad2de3175ed2339b20b330d63afd890d91c88a5f5ccbbb3d23e282e4dfad31"
+    },
+    {
+      "id": "seg-007",
+      "url": "/audio/chun-jiang-hua-yue-ye/seg-007-voice-story-male.mp3",
+      "durationMs": 9336,
+      "checksum": "aa8c2fc48dfed122491466b117af89fc1eeb80bdab7417b15b72141f4fc4ac64",
+      "sourceHash": "e21f0b54e02dcfba8c9c2e27c4c48869cb7c3705f61f3cd0c10ef99a3e64a8bf"
+    },
+    {
+      "id": "seg-008",
+      "url": "/audio/chun-jiang-hua-yue-ye/seg-008-voice-story-male.mp3",
+      "durationMs": 9816,
+      "checksum": "75262f776af05e81f7d670a272b3b8af2f74abd5046ac414b539f1afe4868cf2",
+      "sourceHash": "882ed2f6423f74c1027d1b65d9956a8e42349db7bd4e76fbc7c2f9b4af37969f"
+    },
+    {
+      "id": "seg-009",
+      "url": "/audio/chun-jiang-hua-yue-ye/seg-009-voice-story-male.mp3",
+      "durationMs": 9096,
+      "checksum": "347dec9fd578a8e71bdf130ceaef81cfbb21f3a726793bfde3728dd780193c3e",
+      "sourceHash": "1389a27933a3d01df09c64732251d249b5caaff7d57511a3aa9f9749aa030157"
+    }
+  ]
+}

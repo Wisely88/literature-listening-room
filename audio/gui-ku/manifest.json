@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "workId": "gui-ku",
+  "provider": "edge-neural",
+  "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
+  "format": "mp3",
+  "generatedAt": "2026-09-01T02:01:30.853Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/gui-ku/seg-001.mp3",
+      "durationMs": 6432,
+      "checksum": "34c5c89aa81d8ed0a1d6767da9289df4fff3b216eb44d1c696c1a593fa7f78ea",
+      "sourceHash": "9bdd7f645b17102d92098f596fa5d6d9cc064e314c7c734fb397ae2c83a4effc"
+    }
+  ]
+}

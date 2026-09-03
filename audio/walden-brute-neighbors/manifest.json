@@ -1,0 +1,38 @@
+{
+  "version": 1,
+  "workId": "walden-brute-neighbors",
+  "provider": "edge-neural",
+  "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
+  "format": "mp3",
+  "generatedAt": "2026-09-01T02:28:52.387Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/walden-brute-neighbors/seg-001.mp3",
+      "durationMs": 27312,
+      "checksum": "90dbecf8efedbaf18b6e2c78c5e7a518c70df22170f00a90fc36a74a3b952ac3",
+      "sourceHash": "62b1f4e158ca158d75416a11d117360db52aa617c10f621f9b6b1d2da7141bd4"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/walden-brute-neighbors/seg-002.mp3",
+      "durationMs": 75672,
+      "checksum": "37cd9c2d2359a976941114db9cdb1e9655934111cbb130c0933c41c6e4ee8aba",
+      "sourceHash": "2d270e9e7e623eff2f5e222a7329fe063d77df2a7fa6911fb245c3fe1e3bb34f"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/walden-brute-neighbors/seg-003.mp3",
+      "durationMs": 179952,
+      "checksum": "8256f784a69497f2614f508c9b7f2be6baadb53c423ed26cc9378de00c4ae354",
+      "sourceHash": "a23a404f75344b7779c0d29fb9a4be23fa5696a29bae3ca22aa40e1ba02cf9d7"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/walden-brute-neighbors/seg-004.mp3",
+      "durationMs": 16008,
+      "checksum": "21d8a8f770b4f5ecfc12d2b01aee28354a279bd33e5708fe6a511c2fc0ee7187",
+      "sourceHash": "33930753b8fc1842a7d744b46b4fdc965d78b65ade5cb3313eeb91d4017593f9"
+    }
+  ]
+}

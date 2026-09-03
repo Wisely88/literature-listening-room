@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "workId": "jane-eyre-red-room",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-10%|pitch=-2Hz|voiceId=story-male",
+  "voiceId": "story-male",
+  "format": "mp3",
+  "generatedAt": "2026-09-02T12:39:46.652Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/jane-eyre-red-room/seg-001-voice-story-male.mp3",
+      "durationMs": 21576,
+      "checksum": "626b19010add3da9fec251cffb55152cfc60c0ec73ae84968f8a0e2951179955",
+      "sourceHash": "517cf78cc92d8db3c3b1ca430a5129905ca72c21cf7c029d14ba58b7378b7413"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/jane-eyre-red-room/seg-002-voice-story-male.mp3",
+      "durationMs": 22920,
+      "checksum": "f329748a1040e05c487e7ba8f01670fa03fc18b0afd3b860f45e4a7c8e85f79d",
+      "sourceHash": "781ee39d24e9700b8d61d9d8cfee33ed7dcbb958b65f182a269da83330fc65fd"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/jane-eyre-red-room/seg-003-voice-story-male.mp3",
+      "durationMs": 44784,
+      "checksum": "5ec5aa4f57998555477bbe219ea2a47c52a71742bdf7db6d304043b6d01eb5ae",
+      "sourceHash": "0612d795403ac9492ca1512b5344cc47569bdf88ff26b72009fee68a6ce42ba6"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/jane-eyre-red-room/seg-004-voice-story-male.mp3",
+      "durationMs": 4200,
+      "checksum": "64e9589de99c9f0e78e96af4d35d3de53defdf978b439c87bec4db8fca917678",
+      "sourceHash": "9228ac693fe454d2f34175fb66579d2ce6551868d43bdc745ed799c2072a4e2a"
+    },
+    {
+      "id": "seg-005",
+      "url": "/audio/jane-eyre-red-room/seg-005-voice-story-male.mp3",
+      "durationMs": 15912,
+      "checksum": "18d86f53020f61e60c1fbaaf8848f10cd4532636fdf1d5ed1048cbeaa3af65e7",
+      "sourceHash": "775a87de8741805d191fa78d490912424a738bc4671d26067ee56c2673ee3742"
+    },
+    {
+      "id": "seg-006",
+      "url": "/audio/jane-eyre-red-room/seg-006-voice-story-male.mp3",
+      "durationMs": 23952,
+      "checksum": "5d2f00d19b8f15f0bfafcaf0e4e6372d6a618bebe0cf0ffc793dcd9126e1145e",
+      "sourceHash": "9be501970d4b2fb16c5abfcde9fd662bb0392a2149502070623e912a2f1bf838"
+    },
+    {
+      "id": "seg-007",
+      "url": "/audio/jane-eyre-red-room/seg-007-voice-story-male.mp3",
+      "durationMs": 28896,
+      "checksum": "7c698229e2f1b083685fa3d284bec29ab833c932743d71a7a3cda1b2a3667d92",
+      "sourceHash": "f42368a5b886a3ac4442b2dcb0d8dd6d63211846588b4d3976bfeb1b0e8f3a74"
+    },
+    {
+      "id": "seg-008",
+      "url": "/audio/jane-eyre-red-room/seg-008-voice-story-male.mp3",
+      "durationMs": 27120,
+      "checksum": "c4f04c6bd82d6ab51f32bc8c7f2c7a203159d50672b459c9c987058ab55c46fc",
+      "sourceHash": "88babbc38e286028539b03079ed3c2bbc3ce5d4d2d39c012f875218c2560e174"
+    },
+    {
+      "id": "seg-009",
+      "url": "/audio/jane-eyre-red-room/seg-009-voice-story-male.mp3",
+      "durationMs": 12648,
+      "checksum": "cd3bd782d5cb61bf9582aa21ab49fbb93105ea0a398d03e9976e28114efb712c",
+      "sourceHash": "4db0c8deaca4dfea82426a026685ccc80eec232bc5dc15b50d2e75969386e7da"
+    },
+    {
+      "id": "seg-010",
+      "url": "/audio/jane-eyre-red-room/seg-010-voice-story-male.mp3",
+      "durationMs": 28608,
+      "checksum": "a51e0d55a152154e4dca448593812a36fc0a101ad2902d863fc7a4f9c3c58328",
+      "sourceHash": "4e82171ca73131bd8ef63bafed04b9816619779caa8bb036158fd75025e7cc40"
+    },
+    {
+      "id": "seg-011",
+      "url": "/audio/jane-eyre-red-room/seg-011-voice-story-male.mp3",
+      "durationMs": 49920,
+      "checksum": "07f84b64bca403eaf88b7b326f3c70dc851442d1de2e1e60006b3bd527c8af70",
+      "sourceHash": "ce833dcc67449ec8d20c7fc18b0c66d4dd91b3140ff1e95a22c71c55866e7c63"
+    }
+  ]
+}

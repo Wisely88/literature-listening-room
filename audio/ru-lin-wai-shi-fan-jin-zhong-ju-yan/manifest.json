@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "workId": "ru-lin-wai-shi-fan-jin-zhong-ju-yan",
+  "provider": "edge-neural",
+  "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
+  "format": "mp3",
+  "generatedAt": "2026-09-01T02:15:48.488Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/ru-lin-wai-shi-fan-jin-zhong-ju-yan/seg-001.mp3",
+      "durationMs": 16656,
+      "checksum": "23fdc43d11e2cd8522ead8078c64f5ac04f55e889ccaf53aaa46f9dfe587c715",
+      "sourceHash": "446300e1dfdfd5f484882753cd157b2be325ba44e3fe83480947d3690321ec3b"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/ru-lin-wai-shi-fan-jin-zhong-ju-yan/seg-002.mp3",
+      "durationMs": 9528,
+      "checksum": "a8ecd294e97dd56b0d4811dc377b7203b07d87f34e041d16a08100904e10862e",
+      "sourceHash": "938f1c3e508b05409f74ee99de50855b0e6b9a320f43ea361094dd029a80ae61"
+    }
+  ]
+}

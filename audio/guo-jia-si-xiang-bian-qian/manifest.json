@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "workId": "guo-jia-si-xiang-bian-qian",
+  "provider": "edge-neural",
+  "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
+  "format": "mp3",
+  "generatedAt": "2026-09-01T02:01:38.424Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/guo-jia-si-xiang-bian-qian/seg-001.mp3",
+      "durationMs": 8064,
+      "checksum": "f6b3a0cab75d13435b14796b939ad3d4ef41e1df1a0990b845f7ee1acb670e0c",
+      "sourceHash": "c7b6cab6e5090e46d308031c2101c914a5fa33ac4e6c667309a417de713c494c"
+    }
+  ]
+}

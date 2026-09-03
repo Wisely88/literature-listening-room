@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "workId": "liu-lao-lao-jin-da-guan-yuan",
+  "provider": "edge-neural",
+  "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
+  "format": "mp3",
+  "generatedAt": "2026-09-01T02:09:51.292Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/liu-lao-lao-jin-da-guan-yuan/seg-001.mp3",
+      "durationMs": 8208,
+      "checksum": "c77dd8e61195134019d49e4b5f055d7eb292805d419d58492d4d8627ecee21e7",
+      "sourceHash": "08c8ea2d45bdb36eb84a53fe5b14948e8bf4ddb97fd5101989ea337c99c03b6a"
+    }
+  ]
+}

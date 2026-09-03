@@ -1,0 +1,38 @@
+{
+  "version": 1,
+  "workId": "shui-diao-ge-tou",
+  "provider": "edge-neural",
+  "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
+  "format": "mp3",
+  "generatedAt": "2026-08-31T14:04:22.934Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/shui-diao-ge-tou/seg-001.mp3",
+      "durationMs": 7704,
+      "checksum": "ee5992ee6ad095ec4428a50cf5d8ab36ff91ba28b1a4bc6a7bbe7ecaf7a514e0",
+      "sourceHash": "2d3eacd4bd27213d6ef7ea17d19d0b6b3c7b1e655d063b5b0036f9a19cf8d478"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/shui-diao-ge-tou/seg-002.mp3",
+      "durationMs": 8592,
+      "checksum": "5e044c20fbf7ac0c7a5f6569f976564370b97cb9c4ae50cac7c97e38f9981819",
+      "sourceHash": "c859d7a0484001d4f2c527e0bb52400d31d21dfe0f8855c20cd86ec890988a46"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/shui-diao-ge-tou/seg-003.mp3",
+      "durationMs": 7440,
+      "checksum": "281cc10b5f58ab318f442f0127835713911e0c5853c4f11183ddcb588902a758",
+      "sourceHash": "61085b95581cb84310a613c88c3f9d6a923fb1792068ccb496c5b5c34c4be18c"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/shui-diao-ge-tou/seg-004.mp3",
+      "durationMs": 8952,
+      "checksum": "d5cb9d170d1494f37ff5987c7ee872c2b5cc4bf7b700b66df83154ff4ac3f614",
+      "sourceHash": "0a70c43dec3f20d16a0e13f17d1475861392e65d759a3bd9c39b1e831dd6d56c"
+    }
+  ]
+}

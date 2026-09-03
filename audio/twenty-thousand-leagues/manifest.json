@@ -1,0 +1,66 @@
+{
+  "version": 1,
+  "workId": "twenty-thousand-leagues",
+  "provider": "edge-neural",
+  "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
+  "format": "mp3",
+  "generatedAt": "2026-09-01T02:26:55.060Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/twenty-thousand-leagues/seg-001.mp3",
+      "durationMs": 34272,
+      "checksum": "aee7cc443d66a61c2f579f8c408f676aa17a72a3918c68cc2a6cc120bcb70cfd",
+      "sourceHash": "5f9137e363365eaf5d3d52e937de1461fe56aff62090b369a8d740eb350658e1"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/twenty-thousand-leagues/seg-002.mp3",
+      "durationMs": 11568,
+      "checksum": "d2e79a694f2863db9a534ad8f835a953913c73cb8c5b6cd889619dfcd31885cb",
+      "sourceHash": "ebea73f9827c6feaa804625c062a3c9304f91eb731f40e8098f85710a69a926d"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/twenty-thousand-leagues/seg-003.mp3",
+      "durationMs": 67848,
+      "checksum": "80c2d951d20df1dd0ac24de9bd26c3b28d89e0564cbb579cbae018067185a177",
+      "sourceHash": "c5e2e18c5d57527cef3e6c88f73835df0a5d2d40def4f0b28799e92bfeb14b9c"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/twenty-thousand-leagues/seg-004.mp3",
+      "durationMs": 49824,
+      "checksum": "10ba9cb12baac44f20538c53cc9c568a6c26ae23d8143197d98eb62c2edec292",
+      "sourceHash": "d495db42c1bdb2ae8517272b66720e701a6b8d38c60446795e1ff2b7eaf1409b"
+    },
+    {
+      "id": "seg-005",
+      "url": "/audio/twenty-thousand-leagues/seg-005.mp3",
+      "durationMs": 29928,
+      "checksum": "9499394a9a5cc6ca8546b1bd15150ad07b338cca32ce447e167a04ab1931da03",
+      "sourceHash": "9277f1512154842ce537fcb0964a3882dd7fe41af332fb933b346a570e859737"
+    },
+    {
+      "id": "seg-006",
+      "url": "/audio/twenty-thousand-leagues/seg-006.mp3",
+      "durationMs": 40464,
+      "checksum": "461ca12415ce35ba4216731dda5e96a523d79002ca34018cd405869793ea16c2",
+      "sourceHash": "33a52190af9e2d96f32875f226ed4f1a7a4580dad243949827514a18bffdf3a9"
+    },
+    {
+      "id": "seg-007",
+      "url": "/audio/twenty-thousand-leagues/seg-007.mp3",
+      "durationMs": 15792,
+      "checksum": "2afb8cfc60c781198d80d98b498ca94863125cf192e35756c1017672b9510940",
+      "sourceHash": "b0aa6c7b76ab181537c23ff3b5cf02ba7f22fe2389b4f4bf69058f7a8b0c4130"
+    },
+    {
+      "id": "seg-008",
+      "url": "/audio/twenty-thousand-leagues/seg-008.mp3",
+      "durationMs": 36720,
+      "checksum": "b98fca05a9674e726992e2c56cedcadd090bc76fae01b2dda6b0d5e09be01c9f",
+      "sourceHash": "01dd76477719dd4c3e475ce3cee86b705781f754bc809e5e955af07dfed69524"
+    }
+  ]
+}

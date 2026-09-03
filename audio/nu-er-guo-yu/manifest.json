@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "workId": "nu-er-guo-yu",
+  "provider": "edge-neural",
+  "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
+  "format": "mp3",
+  "generatedAt": "2026-09-01T02:12:13.746Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/nu-er-guo-yu/seg-001.mp3",
+      "durationMs": 7464,
+      "checksum": "8b638989d84694aac3bacdabec4f36c1a48c7b71fcc5cf3489be3993214a0436",
+      "sourceHash": "a8a6039ce2d5b41c38e220be722e74d7520df02b0972bb15c26e0680d8b5e039"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "workId": "wan-bi-gui-zhao",
+  "provider": "edge-neural",
+  "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
+  "format": "mp3",
+  "generatedAt": "2026-09-01T02:34:27.243Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/wan-bi-gui-zhao/seg-001.mp3",
+      "durationMs": 8928,
+      "checksum": "6b033b2d7fc2efd709d075a49f7ec3651c1d87149b70077af9b50bd4f66cb154",
+      "sourceHash": "721670a615f043114e60bb7d65703d782cfe504db0b94dc738be8df1ae09c339"
+    }
+  ]
+}

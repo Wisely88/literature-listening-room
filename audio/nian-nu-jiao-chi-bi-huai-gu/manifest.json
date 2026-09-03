@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "workId": "nian-nu-jiao-chi-bi-huai-gu",
+  "provider": "edge-neural",
+  "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
+  "format": "mp3",
+  "generatedAt": "2026-09-01T02:12:10.164Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/nian-nu-jiao-chi-bi-huai-gu/seg-001.mp3",
+      "durationMs": 8952,
+      "checksum": "f28c89a37ede1714a17ac9386f414f2aeeb0d2537550aa58597c76a269b1e1a1",
+      "sourceHash": "48c2c8720d5af6e42a12f9198a04d3bffb99a3bc42dcfa06492c0163a14be3c9"
+    }
+  ]
+}

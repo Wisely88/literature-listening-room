@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "workId": "yuan-jia-ke-ji",
+  "provider": "edge-neural",
+  "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
+  "format": "mp3",
+  "generatedAt": "2026-09-01T02:38:41.979Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/yuan-jia-ke-ji/seg-001.mp3",
+      "durationMs": 6504,
+      "checksum": "7b84e98d763645f5b56fdcf0eb47568a12d8e5aba786af98f506e54eec17d97a",
+      "sourceHash": "074e76d9608f3542075c19c9b452e3b86fc526e6c9c39eca0eb9ebc6f2856d64"
+    }
+  ]
+}

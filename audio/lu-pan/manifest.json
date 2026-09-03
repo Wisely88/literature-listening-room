@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "workId": "lu-pan",
+  "provider": "edge-neural",
+  "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
+  "format": "mp3",
+  "generatedAt": "2026-09-01T02:09:54.572Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/lu-pan/seg-001.mp3",
+      "durationMs": 7968,
+      "checksum": "83a26e89ef12292007327bc46d56bed100b86ab057df09e6ee369e04d1140a09",
+      "sourceHash": "d0ad77618141dda0364d8f7479449c064c77643d87214e6fd53e0d4449716efa"
+    }
+  ]
+}

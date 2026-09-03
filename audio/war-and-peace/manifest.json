@@ -1,0 +1,115 @@
+{
+  "version": 1,
+  "workId": "war-and-peace",
+  "provider": "edge-neural",
+  "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
+  "format": "mp3",
+  "generatedAt": "2026-09-01T02:35:41.543Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/war-and-peace/seg-001.mp3",
+      "durationMs": 35280,
+      "checksum": "e5db133aee93fb20b5cc1e45e6c739cf0f31a12fade42efc07ccfccf7e6108ee",
+      "sourceHash": "ee0f823b14a5018ef946e96d5a42b590391f7f75920b185b14e8daca1002bf6d"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/war-and-peace/seg-002.mp3",
+      "durationMs": 34224,
+      "checksum": "220a51a2df07c8747b59694d0325b7a9ff468116fa49479b56add9f94d9352fd",
+      "sourceHash": "5f65c8b120d5522daf78814fd02a674053ef5418371760b295cd35c36445cc69"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/war-and-peace/seg-003.mp3",
+      "durationMs": 9432,
+      "checksum": "425a52046d2b2b26ac515a02d2803d96c3f1d55ac1785e707142976d04c315c5",
+      "sourceHash": "41de21862b0b4d9dfa271bb67e5c97802623bbc3af897b082fedb267f293c885"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/war-and-peace/seg-004.mp3",
+      "durationMs": 16968,
+      "checksum": "c42ad243146d66ca00dd7571b6f409f703b602b9c66a09c84f4ca9a595df32eb",
+      "sourceHash": "8313f1863bd754c1de60b9dfd14d1a1f65fd9d823a10ac96ad734d74d4ac7335"
+    },
+    {
+      "id": "seg-005",
+      "url": "/audio/war-and-peace/seg-005.mp3",
+      "durationMs": 40680,
+      "checksum": "31b33788f693eecf70d7265501efd6b50fcdef85dd93f42e2e5e085d025efa40",
+      "sourceHash": "7fd141e3241ccc72dccecdfb48e368225b87974bb1092b2eb0c3bbaa65e4e658"
+    },
+    {
+      "id": "seg-006",
+      "url": "/audio/war-and-peace/seg-006.mp3",
+      "durationMs": 15000,
+      "checksum": "940f6aa79ab748a11043511a78403c73ab67e95277b4df46a8e47b3836c8e935",
+      "sourceHash": "125085b37ec453d9edb2c44d66d670d8cf6356adf3a3e3af882dbb6d96a0d1f9"
+    },
+    {
+      "id": "seg-007",
+      "url": "/audio/war-and-peace/seg-007.mp3",
+      "durationMs": 13224,
+      "checksum": "5353a6e0eaadcbad868d2d3cb16fa69fb34adcf729fb9a51a3f86a919692cc0a",
+      "sourceHash": "9d8bd0f7d552fbb17e6b2364182f26aa6031162f5f911c012ab74f2937f81a4f"
+    },
+    {
+      "id": "seg-008",
+      "url": "/audio/war-and-peace/seg-008.mp3",
+      "durationMs": 10440,
+      "checksum": "fba2bb56f831d9ffc26a9686f7956bb07ab5b2f25d290208ded402b6c5565c7b",
+      "sourceHash": "c063e01988d562bf738bfc7a72eb3363a8ef8e24d0de972786e6a6ac83e3ab0d"
+    },
+    {
+      "id": "seg-009",
+      "url": "/audio/war-and-peace/seg-009.mp3",
+      "durationMs": 8328,
+      "checksum": "77414fcd519a62d1ffe25641da90d2b6c1ba89089cbbd0bbb9a93a93280d2398",
+      "sourceHash": "6e08bcad232846fa58909034745e0f2de9ffc3748e76b7cab6613a6f920966c4"
+    },
+    {
+      "id": "seg-010",
+      "url": "/audio/war-and-peace/seg-010.mp3",
+      "durationMs": 13728,
+      "checksum": "f04a8dad8914b172b1f009ae15067bca5c95afe7827060379c48ab6c6c15f341",
+      "sourceHash": "b2c9e988431300b73a642f9aaab317272fe1598efbcd6b5c1ab14ac85916bf51"
+    },
+    {
+      "id": "seg-011",
+      "url": "/audio/war-and-peace/seg-011.mp3",
+      "durationMs": 8544,
+      "checksum": "07bb81ff62475d36c2c47d35b4706eb0fbcd6084e86cb42e1e2154925fe08b8c",
+      "sourceHash": "8fbb698107cc9de493795322f979b9b61d1e1ee0caf197c6f3305c3871f207f8"
+    },
+    {
+      "id": "seg-012",
+      "url": "/audio/war-and-peace/seg-012.mp3",
+      "durationMs": 13896,
+      "checksum": "887e6321cff0da9365381165a0548326aca69cbb6e630f90ca685b23d4f685d2",
+      "sourceHash": "b97532c8d79538ebd92c9b0745697c19b198e6d0c55237d60e6b8d19f4b85cfb"
+    },
+    {
+      "id": "seg-013",
+      "url": "/audio/war-and-peace/seg-013.mp3",
+      "durationMs": 46056,
+      "checksum": "bd062e1acf9b6072816d01596431fc86b061643da7492921c502544a29ebff4b",
+      "sourceHash": "3a92eaa62d8eb27ed309a2fd51127b8eebedb598099f55fb9b58d9676410c203"
+    },
+    {
+      "id": "seg-014",
+      "url": "/audio/war-and-peace/seg-014.mp3",
+      "durationMs": 6216,
+      "checksum": "e5876775a8f53052909d1cad3fd21f32d2b205fcad3e3b02a5515baa2fc1c4c4",
+      "sourceHash": "fb92104e9454dacc5c13840a40987a85904d7a6bd57fd184c70a02537a9bb18f"
+    },
+    {
+      "id": "seg-015",
+      "url": "/audio/war-and-peace/seg-015.mp3",
+      "durationMs": 32904,
+      "checksum": "534cde5df2b42d320c5d9efb63db0fdc7078d8f147012068e0a6d6af3247537d",
+      "sourceHash": "d1b15dddc509cd8d8a8dc974616515cc489f56fec16eb5e0fd79874cdd365117"
+    }
+  ]
+}

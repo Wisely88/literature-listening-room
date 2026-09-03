@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "workId": "xi-you-ji-da-sheng-nao-tian-gong",
+  "provider": "edge-neural",
+  "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
+  "format": "mp3",
+  "generatedAt": "2026-09-01T02:36:55.011Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/xi-you-ji-da-sheng-nao-tian-gong/seg-001.mp3",
+      "durationMs": 13248,
+      "checksum": "b930b72d1e3d0d57a2d07e4a3f1fb7e5b58d938d9d314025acd767b3fb547917",
+      "sourceHash": "a35d5b4ab38b363055fa5060ac3e78ad4bf9b8f21a15f49ef88f03b47b0e004d"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/xi-you-ji-da-sheng-nao-tian-gong/seg-002.mp3",
+      "durationMs": 9528,
+      "checksum": "7592644c822ba9f248e6446efb5505ed4a08948c2c0a8c6e8b3e8ca1de3b4beb",
+      "sourceHash": "e592a9e35dc3637fc9bfb7a81028a9a03689dee3b41489c833c0b797eff590b5"
+    }
+  ]
+}

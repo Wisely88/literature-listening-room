@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "workId": "xiang-yu-ben-ji",
+  "provider": "edge-neural",
+  "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
+  "format": "mp3",
+  "generatedAt": "2026-09-01T02:37:02.427Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/xiang-yu-ben-ji/seg-001.mp3",
+      "durationMs": 8376,
+      "checksum": "93f0acefe70fbba220febfecda0df27ad649d2806e9bbbad519aec35ebecf71e",
+      "sourceHash": "c30a7840eefa74b6fd321ef1e30f05c0495beac21e617381239ba6dc96d0d576"
+    }
+  ]
+}

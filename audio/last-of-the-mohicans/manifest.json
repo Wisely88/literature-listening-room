@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "workId": "last-of-the-mohicans",
+  "provider": "edge-neural",
+  "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
+  "format": "mp3",
+  "generatedAt": "2026-09-01T02:06:44.440Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/last-of-the-mohicans/seg-001.mp3",
+      "durationMs": 60264,
+      "checksum": "17728e05962a46fed491c16ae2a66cf77694db3e48d97e63110772aad31f7331",
+      "sourceHash": "355c79fbe692ddeba7a5f7fe314d1161cd98fc26633554b98418dccb47d9f47f"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/last-of-the-mohicans/seg-002.mp3",
+      "durationMs": 15672,
+      "checksum": "68a44b622a225a8f86c1725d1023e0d1ae9fd90fd5b48706255918a9f39dba53",
+      "sourceHash": "7a69806683bc3fcf89626ddc7af685214f1b90b6c58509cb120508b0721fe798"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/last-of-the-mohicans/seg-003.mp3",
+      "durationMs": 57120,
+      "checksum": "cdb4f656c1289218f0757f5368ab2214d13a690fc6abb47d830e902ddf28f635",
+      "sourceHash": "39e8ca223e8912ab1c7420b292269f4d66ef535ec5873c57ca4cc2d3a8e5e855"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/last-of-the-mohicans/seg-004.mp3",
+      "durationMs": 38808,
+      "checksum": "20e416c0cd54deb9a70e9d67e2e1e884b7de603449aed46142ac12f19b4f3137",
+      "sourceHash": "fc7417f11854ad566e6b70a821cf12c9ff757a331705bd317e536df73b2d59fb"
+    },
+    {
+      "id": "seg-005",
+      "url": "/audio/last-of-the-mohicans/seg-005.mp3",
+      "durationMs": 28272,
+      "checksum": "5d1018c9b63d405b34fbae751690347cb5979f6288387dc18021b506f0220503",
+      "sourceHash": "f84dca78f575f79e86b2e88b12b36a2aec5ab0551446dafaee07b8e424753134"
+    },
+    {
+      "id": "seg-006",
+      "url": "/audio/last-of-the-mohicans/seg-006.mp3",
+      "durationMs": 85368,
+      "checksum": "3cafe162f539aae9f1e758ae547b7a13c216bf35a0fd80e8e0ff6cbf0fb01e95",
+      "sourceHash": "e5993d024d914d4680ce81c23e782299c60c0a077f465380a0e1143eef5053cd"
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "version": 1,
+  "workId": "great-expectations-marshes",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-10%|pitch=-2Hz|voiceId=story-male",
+  "voiceId": "story-male",
+  "format": "mp3",
+  "generatedAt": "2026-09-02T12:29:58.070Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/great-expectations-marshes/seg-001-voice-story-male.mp3",
+      "durationMs": 13320,
+      "checksum": "5a06cfb38f89aee83b31b5552f1db649e0cb4d82e983dd01706663da11eefeb9",
+      "sourceHash": "4b799b9b7c3ced2813dc163c8bd74b887d69003ebd2ccedbbed5c93d838083bf"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/great-expectations-marshes/seg-002-voice-story-male.mp3",
+      "durationMs": 67392,
+      "checksum": "2d293530078f9e9eea4d564a7c40930c733335393e2b73eba95539b281cfe159",
+      "sourceHash": "4bed5653cd1cc13d4fdee26b7598f4d422e2c4e3552dd5d0fa0bb80837acd9d0"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/great-expectations-marshes/seg-003-voice-story-male.mp3",
+      "durationMs": 60192,
+      "checksum": "3496d9adf34fc0c627d3708b06b14a0bedbba6115ae8d1fc4ea138ca9da65504",
+      "sourceHash": "fa7b6e9c38faee6b9bf50a61f6d554fe466b793be69ae58bda1853192b713fdf"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/great-expectations-marshes/seg-004-voice-story-male.mp3",
+      "durationMs": 13152,
+      "checksum": "6425cf425f82ada906d17668d9c7e4d336bc76b4fd980454a4797790f4d5de81",
+      "sourceHash": "c17bb43306cdc7ff1f92e2dc9f44253da8bc24b39d0fc2764f5b7e4d4b94a203"
+    },
+    {
+      "id": "seg-005",
+      "url": "/audio/great-expectations-marshes/seg-005-voice-story-male.mp3",
+      "durationMs": 29496,
+      "checksum": "87a070873d481f8ee616046ba4c7154305e0d31be921a0f142041bb3b688b266",
+      "sourceHash": "d0e7b19a42d8f1f9d887fac5dfb6f124caa463daf78b79dfd630d8dd44cea11e"
+    },
+    {
+      "id": "seg-006",
+      "url": "/audio/great-expectations-marshes/seg-006-voice-story-male.mp3",
+      "durationMs": 7632,
+      "checksum": "ccc39c482d3bfe069cc6792cfe91f1ebdc5cf98c804d147a83bfc3c17f5aa444",
+      "sourceHash": "7601c5b3fdad60c7d0093f8b1c8a114d5109dbf93b437dc9b51b328954905e3b"
+    },
+    {
+      "id": "seg-007",
+      "url": "/audio/great-expectations-marshes/seg-007-voice-story-male.mp3",
+      "durationMs": 4584,
+      "checksum": "9b0834c3d48dbe18607fc78fd0fbf208246f545ebf44827e81ef8199b715068b",
+      "sourceHash": "44a0460ea63bbc09bf88a7e988fea9e18c4bb577c687d2284ce7abea3188ed85"
+    },
+    {
+      "id": "seg-008",
+      "url": "/audio/great-expectations-marshes/seg-008-voice-story-male.mp3",
+      "durationMs": 2448,
+      "checksum": "91b7bdaf19b568b5d9347800805f71d38b44d3bbf8b8433cd33ea0729ca6cf14",
+      "sourceHash": "fc04e410ad0304373a81674e9d605b302e036860d1b2696246aef3028a512a99"
+    },
+    {
+      "id": "seg-009",
+      "url": "/audio/great-expectations-marshes/seg-009-voice-story-male.mp3",
+      "durationMs": 4632,
+      "checksum": "ad1d4b06ad862c94eb4af4c28353a8787ce827428e6ad67c624179787b6fbb88",
+      "sourceHash": "a259d6ad52f13b0d50604ade9b1583fb0488625661b5c933b6296ca0439850bb"
+    },
+    {
+      "id": "seg-010",
+      "url": "/audio/great-expectations-marshes/seg-010-voice-story-male.mp3",
+      "durationMs": 2448,
+      "checksum": "a840b0453cfa08c024c474027e98195257f61f6cf8fcc738e05e1e17a62501b5",
+      "sourceHash": "fc04e410ad0304373a81674e9d605b302e036860d1b2696246aef3028a512a99"
+    },
+    {
+      "id": "seg-011",
+      "url": "/audio/great-expectations-marshes/seg-011-voice-story-male.mp3",
+      "durationMs": 4848,
+      "checksum": "eb080ccb08c00aee093ded1883678d61bf886f5a9dad5aa6940a03fb9771f472",
+      "sourceHash": "0519798d82dd8aa078a6446c0f1b18050d1616cc9cdfe0e531420a4858705720"
+    },
+    {
+      "id": "seg-012",
+      "url": "/audio/great-expectations-marshes/seg-012-voice-story-male.mp3",
+      "durationMs": 9480,
+      "checksum": "afca00b869d6e64d7c1e0c6ed0d96e4758161a407158128d5a757e38b4bcf513",
+      "sourceHash": "a8575f4e78d836d5ae8f5a7f04742620a10283e69ce10875a242ca2578c549a6"
+    },
+    {
+      "id": "seg-013",
+      "url": "/audio/great-expectations-marshes/seg-013-voice-story-male.mp3",
+      "durationMs": 26304,
+      "checksum": "dec7bdbcaa94cb43746cc62d0dced03d2748c36bb0495a6e57edfebee27e780c",
+      "sourceHash": "ebe888cc701aed927005f4bd55ae97ba17992bde96ba9cc97502aa172c58124f"
+    },
+    {
+      "id": "seg-014",
+      "url": "/audio/great-expectations-marshes/seg-014-voice-story-male.mp3",
+      "durationMs": 5808,
+      "checksum": "19a618405333a3b8eb5ac7cc5a2bb20426240d746abcb02d1252577b7dada82f",
+      "sourceHash": "5a253302a816093714b205fde3f1209ca9d4d473293fe7b5126c6b385e425640"
+    },
+    {
+      "id": "seg-015",
+      "url": "/audio/great-expectations-marshes/seg-015-voice-story-male.mp3",
+      "durationMs": 6960,
+      "checksum": "69eb640d8cc1024e44f8b1566eaddd42c8c6c768e8d4524ad97c8051ae6f185e",
+      "sourceHash": "56e48e1b361c0fa84a58d68ba8d3c441c39c4c386759858423f3314e543119cd"
+    },
+    {
+      "id": "seg-016",
+      "url": "/audio/great-expectations-marshes/seg-016-voice-story-male.mp3",
+      "durationMs": 7536,
+      "checksum": "b0157682ba145c44a651aaaf9602b2388fcc521c79236e40f9960e599040f278",
+      "sourceHash": "040756ddae92a116a29b9a9cb2446de34078d7e22f4f1f2060156485cb8f9013"
+    },
+    {
+      "id": "seg-017",
+      "url": "/audio/great-expectations-marshes/seg-017-voice-story-male.mp3",
+      "durationMs": 13728,
+      "checksum": "f6bf0feb0874748d72d73ecce7e23412cfd6311d07992357c641cb6a090b8cc4",
+      "sourceHash": "c059fcd62102e09ace17470c70d5c0a3d1bac1783c18c4fe528c47bd13cb708e"
+    },
+    {
+      "id": "seg-018",
+      "url": "/audio/great-expectations-marshes/seg-018-voice-story-male.mp3",
+      "durationMs": 4704,
+      "checksum": "ced9e654d4b7148d7634b74148db505cadbc93a4f09c7a9f3f933cd4be596282",
+      "sourceHash": "c87431e1449cdc4801922162bb79baae66db1068655165406767284504a371b8"
+    }
+  ]
+}

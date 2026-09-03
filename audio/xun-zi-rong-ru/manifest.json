@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "workId": "xun-zi-rong-ru",
+  "provider": "edge-neural",
+  "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
+  "format": "mp3",
+  "generatedAt": "2026-09-01T02:37:41.123Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/xun-zi-rong-ru/seg-001.mp3",
+      "durationMs": 6288,
+      "checksum": "ad7e134722bbbc664a6d470e4448ec6fa055729ea975276c8fecd54f9497876b",
+      "sourceHash": "eaa01a8e9326a8d8925bc0e8374c285557bb4350841771410efd4b479638fd12"
+    }
+  ]
+}

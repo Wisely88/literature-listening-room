@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "workId": "bu-she-zhe-shuo",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-10%|pitch=-2Hz|voiceId=story-male",
+  "voiceId": "story-male",
+  "format": "mp3",
+  "generatedAt": "2026-09-02T11:45:53.561Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/bu-she-zhe-shuo/seg-001-voice-story-male.mp3",
+      "durationMs": 8688,
+      "checksum": "3ffbc42f5c537588869a4ac43775b6ea4fff4dfbae9507654ada3740e829eddb",
+      "sourceHash": "5bbacc21aa72594bc1c428483d2fdc137cf7180b0dacb237076c2700a07b8c4d"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "workId": "meng-zi-fu-gui-bu-neng-yin",
+  "provider": "edge-neural",
+  "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
+  "format": "mp3",
+  "generatedAt": "2026-09-01T02:10:45.454Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/meng-zi-fu-gui-bu-neng-yin/seg-001.mp3",
+      "durationMs": 6768,
+      "checksum": "9312f989abd874fd0111760190f0ee88eac4e110e28b499c3d8b0a9ba4465c55",
+      "sourceHash": "11b322911d53ea4d8ed76f5c5128b40053f436f33cda932d261f40fae6a5e10b"
+    }
+  ]
+}

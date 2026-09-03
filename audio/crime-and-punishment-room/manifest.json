@@ -1,0 +1,59 @@
+{
+  "version": 1,
+  "workId": "crime-and-punishment-room",
+  "provider": "edge-neural",
+  "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
+  "format": "mp3",
+  "generatedAt": "2026-09-01T01:56:34.464Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/crime-and-punishment-room/seg-001.mp3",
+      "durationMs": 12336,
+      "checksum": "089b453f7b16222f9eff699ef1783a8c1bfa612101d893982e256278b04f2ab3",
+      "sourceHash": "dc01ccd840789e047e3f5da9b5e2c444b03b2b2a64e90f8418d78afbf79f939d"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/crime-and-punishment-room/seg-002.mp3",
+      "durationMs": 34440,
+      "checksum": "710f7bf230b5c87526ff77bb340908c16dc000bdb134261662cb088f85f94a30",
+      "sourceHash": "b6a744dd0f1ef6003ff8f8c80b3ce1b0ae375884904089d5a0123b6eb9007331"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/crime-and-punishment-room/seg-003.mp3",
+      "durationMs": 54768,
+      "checksum": "e04b0dcd3a528affd131d123b389bfa9ec8f4a2317dc11c379c5761076f92c0e",
+      "sourceHash": "0f21c76859c6f18f2ba2320da589736a797015efc0d8850f33cb9cb5c15e0a8e"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/crime-and-punishment-room/seg-004.mp3",
+      "durationMs": 6744,
+      "checksum": "98a9f0e7461c71d7bac412fe3b4a9016beb71d7bb8099345da919274ed420ae7",
+      "sourceHash": "f71fec4b1006dd0fe71bd0f94c22eb7a67dadbeef131b8ae71f18e0c909e805a"
+    },
+    {
+      "id": "seg-005",
+      "url": "/audio/crime-and-punishment-room/seg-005.mp3",
+      "durationMs": 68112,
+      "checksum": "88fe966b90901b36c00613f551a78eedf571b2634db12a36c593d46dfea38504",
+      "sourceHash": "c3ece7087658d2fc307433289b77541d8286ab932d0419b04aa4d0cba57a8a7a"
+    },
+    {
+      "id": "seg-006",
+      "url": "/audio/crime-and-punishment-room/seg-006.mp3",
+      "durationMs": 82152,
+      "checksum": "898c38e51d294580af93878a2a52447d3d2cc50cf603c607d8a2102995c7290c",
+      "sourceHash": "01bfeb6fbe7b6bf251703fe078e65b197e5ebe30cccc0eeaf99cfbe4e068b50f"
+    },
+    {
+      "id": "seg-007",
+      "url": "/audio/crime-and-punishment-room/seg-007.mp3",
+      "durationMs": 97608,
+      "checksum": "05a558dd5ff593819c423eeeac24442ec20ee1c557a218897e7af1f1246c9301",
+      "sourceHash": "3a9b7ff47427ee193983760206c16de4f7ce50d7baf72fae89335c8b07640359"
+    }
+  ]
+}

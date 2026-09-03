@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "workId": "huang-he-lou-song-meng-hao-ran",
+  "provider": "edge-neural",
+  "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
+  "format": "mp3",
+  "generatedAt": "2026-09-01T02:04:02.808Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/huang-he-lou-song-meng-hao-ran/seg-001.mp3",
+      "durationMs": 8976,
+      "checksum": "a11819596d5fa88c2da6b78079b8a2352efe2fe882d1402dc828dcc0409c2d7c",
+      "sourceHash": "3882d160bdbbc5a8661331ac73fb5ddb6266b4e73585de5da66142a86fc458be"
+    }
+  ]
+}

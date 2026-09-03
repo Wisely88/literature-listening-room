@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "workId": "san-ren-cheng-hu",
+  "provider": "edge-neural",
+  "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
+  "format": "mp3",
+  "generatedAt": "2026-09-01T02:16:07.840Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/san-ren-cheng-hu/seg-001.mp3",
+      "durationMs": 4560,
+      "checksum": "b1aeb90d322b7deaa03c5a81e99010a06bbb7da69a02db967d6988013d474694",
+      "sourceHash": "6c0a7a882b58f8d4544754cd7906683b7b19a16bd6eda43289870225c19260ee"
+    }
+  ]
+}

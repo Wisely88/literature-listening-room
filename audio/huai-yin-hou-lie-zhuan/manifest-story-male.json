@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "workId": "huai-yin-hou-lie-zhuan",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-10%|pitch=-2Hz|voiceId=story-male",
+  "voiceId": "story-male",
+  "format": "mp3",
+  "generatedAt": "2026-09-02T12:37:21.615Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/huai-yin-hou-lie-zhuan/seg-001-voice-story-male.mp3",
+      "durationMs": 8280,
+      "checksum": "0f2208e832cc0e48a815fce2b8819721f774069e309c2337b78b1bd22aa3968f",
+      "sourceHash": "bd262ff69adfaa11574ac25f09859a4336ac6bc2c47ced1bb65a18459d08477e"
+    }
+  ]
+}

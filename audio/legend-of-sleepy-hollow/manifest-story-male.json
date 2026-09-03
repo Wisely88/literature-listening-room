@@ -1,0 +1,46 @@
+{
+  "version": 1,
+  "workId": "legend-of-sleepy-hollow",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-10%|pitch=-2Hz|voiceId=story-male",
+  "voiceId": "story-male",
+  "format": "mp3",
+  "generatedAt": "2026-09-02T12:44:15.661Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/legend-of-sleepy-hollow/seg-001-voice-story-male.mp3",
+      "durationMs": 66264,
+      "checksum": "c835f260b07efa9831a5e4efced994b5ce15fc6519bd55ff5ff9c69854b64cfd",
+      "sourceHash": "24e66d9c06a5f2726d817d6a08d951a3a03e93780a7e49000f90b67613ab361e"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/legend-of-sleepy-hollow/seg-002-voice-story-male.mp3",
+      "durationMs": 29256,
+      "checksum": "091e50ae556b0302dce951a67ac475ba2948420423da884675389f371bbcd913",
+      "sourceHash": "5728cd3f568203b32912f89b68e496822672817c2a2072decd47eccb14e6e230"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/legend-of-sleepy-hollow/seg-003-voice-story-male.mp3",
+      "durationMs": 41904,
+      "checksum": "890ff055c6ac2e96edf7538649d1b2a8b1492c7a9846ff523d18e13bb716bddc",
+      "sourceHash": "e63cadfa059c2ec3db0dd01700b5261f066c64dc45f492db20e0b20e4f1563aa"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/legend-of-sleepy-hollow/seg-004-voice-story-male.mp3",
+      "durationMs": 38664,
+      "checksum": "073ff59bcb2c380f683e700f310e51059783afd34d956cb737fd1ea686994144",
+      "sourceHash": "40a3d5e095447ed19c0e64da7e30ece4a03ff288c6e9ea88c241c440d6ced95b"
+    },
+    {
+      "id": "seg-005",
+      "url": "/audio/legend-of-sleepy-hollow/seg-005-voice-story-male.mp3",
+      "durationMs": 58320,
+      "checksum": "4866a103bee5dc5a7f0f1e9189b30091ff49e6f66a2c0cc977fadd51f3c8676c",
+      "sourceHash": "737c4d147a2a0c2e0995c4135f1dcdd851743d52f299102ab5f1288dd95e5658"
+    }
+  ]
+}

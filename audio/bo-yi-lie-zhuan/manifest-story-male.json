@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "workId": "bo-yi-lie-zhuan",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-10%|pitch=-2Hz|voiceId=story-male",
+  "voiceId": "story-male",
+  "format": "mp3",
+  "generatedAt": "2026-09-02T11:45:45.877Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/bo-yi-lie-zhuan/seg-001-voice-story-male.mp3",
+      "durationMs": 8256,
+      "checksum": "4dfd6def5495e2807158859f6d854aeb5c17c8fe2cf5a43d02dd2fe4619de5c4",
+      "sourceHash": "0686020f2453b20ee0e8f79b2e3c60d9a2e172c7cc5a7f152bf2c6c2a8347bc7"
+    }
+  ]
+}

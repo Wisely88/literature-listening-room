@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "workId": "feng-le-ting-ji",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-10%|pitch=-2Hz|voiceId=story-male",
+  "voiceId": "story-male",
+  "format": "mp3",
+  "generatedAt": "2026-09-02T12:25:08.716Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/feng-le-ting-ji/seg-001-voice-story-male.mp3",
+      "durationMs": 9168,
+      "checksum": "6f0c4a20894b172b924eade82fee54e89c1ee1fbd4bf8d8ce0cc186a6352fc25",
+      "sourceHash": "3bc8be4a39ebd28fb4b6b06fb823031d3116259ccba606836208212653be3a88"
+    }
+  ]
+}

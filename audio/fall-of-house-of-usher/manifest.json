@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "workId": "fall-of-house-of-usher",
+  "provider": "edge-neural",
+  "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
+  "format": "mp3",
+  "generatedAt": "2026-09-01T01:57:59.494Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/fall-of-house-of-usher/seg-001.mp3",
+      "durationMs": 152448,
+      "checksum": "2d8c4c5cd65ab470fbd00c5e129a606fbb95997e406c181bf9ebd9c1549cbd7f",
+      "sourceHash": "1e586c53aed47b2a7db82b16827ef28438ae88e999c634e35d144edd7f03af86"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/fall-of-house-of-usher/seg-002.mp3",
+      "durationMs": 57024,
+      "checksum": "2243f8647393f9016649345b66866c04ba9f5797464e2c87aaca5d2514d8db7f",
+      "sourceHash": "6e5bf4b66209955053fcbff8ba2a818cb7ccd989c90b9b630ea2d54dc15b8eb8"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/fall-of-house-of-usher/seg-003.mp3",
+      "durationMs": 92520,
+      "checksum": "29720484b5601fa1e829f1bfea6fed0afcfb1a8d6b452a2355f7fcee20897c6c",
+      "sourceHash": "79bd160c3f353b50b4a349027d2c80531811b9fddd5c56f528fd6747075facb4"
+    }
+  ]
+}

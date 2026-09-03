@@ -1,0 +1,59 @@
+{
+  "version": 1,
+  "workId": "nie-xiao-qian",
+  "provider": "edge-neural",
+  "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
+  "format": "mp3",
+  "generatedAt": "2026-08-31T14:02:42.880Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/nie-xiao-qian/seg-001.mp3",
+      "durationMs": 79992,
+      "checksum": "8ca6800a3dd61b5f9ea8945f4ca96b22c7c76068c89f6d42af2502d30602bcea",
+      "sourceHash": "9705501fc698ab691fe3da69c22ec809b47006f5eb880e6d3f9c8202ca603bf0"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/nie-xiao-qian/seg-002.mp3",
+      "durationMs": 114216,
+      "checksum": "de216cb55efde7d2c435d4b91b0f82fbc19c992f90b7466838238c9016573d0c",
+      "sourceHash": "325d15697bfb20f95dfbe885b83ff09c3935ee06357f0c18bf9e57b8a53191b7"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/nie-xiao-qian/seg-003.mp3",
+      "durationMs": 105336,
+      "checksum": "a0965dbaeaba6c6b78fa87e9ef3b6f659d9ff86c4c81d294de47985cab5d76b2",
+      "sourceHash": "6957cbc0a14e22efe671fb44e01e7a777bb03c7be4fbb630c2655561dfe69e6c"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/nie-xiao-qian/seg-004.mp3",
+      "durationMs": 324768,
+      "checksum": "6b2ac5685857c1e4c57d56a033c2500a40a16ca64545b328ec14de7fee296f15",
+      "sourceHash": "8f3e8448c6a77b0447a8406ad506e1f8acc36eb9955e0069775fa9402789b10e"
+    },
+    {
+      "id": "seg-005",
+      "url": "/audio/nie-xiao-qian/seg-005.mp3",
+      "durationMs": 83952,
+      "checksum": "eafa847125a80c3936d358b75ea79d1eca16f69b31bc5fde2cc5422466b482a3",
+      "sourceHash": "7b88a121cfe6a06edd38a65ff68797496b10a922be448f1495b0b9cd5895b838"
+    },
+    {
+      "id": "seg-006",
+      "url": "/audio/nie-xiao-qian/seg-006.mp3",
+      "durationMs": 82368,
+      "checksum": "0a79a2db91b2b6e932c4c665da9963240b2c5d290455b4d2055b8b0861d77645",
+      "sourceHash": "19495f39a9afea6d761e802dbffaeba08b6c69d44d99e4d408021fb75d812ba2"
+    },
+    {
+      "id": "seg-007",
+      "url": "/audio/nie-xiao-qian/seg-007.mp3",
+      "durationMs": 9024,
+      "checksum": "4cd096e1430c4b37516b73ce66628a806080746e5d8868592bea5eace58fddf8",
+      "sourceHash": "acf230dac3856715504a6ad48791e0e8662129dd29b37b5fd98652b37696c0bd"
+    }
+  ]
+}

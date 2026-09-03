@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "workId": "kong-cheng-ji",
+  "provider": "edge-neural",
+  "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
+  "format": "mp3",
+  "generatedAt": "2026-09-01T02:06:07.458Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/kong-cheng-ji/seg-001.mp3",
+      "durationMs": 9696,
+      "checksum": "4a7a0b51a0af550d4e1ec3c129eb99f30f044d0c6fd57bbd7aaeaca190bcf87d",
+      "sourceHash": "d1aec2c9807a6a8b01deac56e2af3bb6c8d65f5fa4b9f6363bd36873b7a4cf22"
+    }
+  ]
+}

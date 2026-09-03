@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "workId": "zhuang-zi-yang-sheng-zhu",
+  "provider": "edge-neural",
+  "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
+  "format": "mp3",
+  "generatedAt": "2026-09-01T02:39:43.769Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/zhuang-zi-yang-sheng-zhu/seg-001.mp3",
+      "durationMs": 7944,
+      "checksum": "eb3f8f006ff81d4c9f6e2653fc9dd7d1f5eb816ca9c02c616c84aa3cd52abc58",
+      "sourceHash": "8262060401a1f39c6d90b3bce544cd7e334fa280883b3393ca48436d58566401"
+    }
+  ]
+}

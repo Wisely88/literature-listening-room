@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "workId": "gui-qu-lai-xi-ci",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-10%|pitch=-2Hz|voiceId=story-male",
+  "voiceId": "story-male",
+  "format": "mp3",
+  "generatedAt": "2026-09-02T12:30:33.454Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/gui-qu-lai-xi-ci/seg-001-voice-story-male.mp3",
+      "durationMs": 7824,
+      "checksum": "7949cc0a0552e5cd4f30720dbb300a301394f5e8692e846b7dc68e6ede9247e3",
+      "sourceHash": "8fc5e57219801f41b0634808a85a49efa57e5e624934b0abddd4b345d6d9914d"
+    }
+  ]
+}

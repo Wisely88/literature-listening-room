@@ -1,0 +1,3 @@
+:HL["/literature-listening-room/_next/static/css/eb5768d5eaa26ab7.css","style"]
+:HL["/literature-listening-room/_next/static/css/c76c2a39d50bbf66.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"work","param":null,"prefetchHints":4192,"slots":{"children":{"name":"slug","param":{"type":"d","key":"tao-hua-yuan-ji","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"J0ouzUGW2No2SeIAVThRT"}

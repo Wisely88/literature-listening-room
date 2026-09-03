@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "workId": "mao-sui-zi-jian",
+  "provider": "edge-neural",
+  "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
+  "format": "mp3",
+  "generatedAt": "2026-09-01T02:10:34.598Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/mao-sui-zi-jian/seg-001.mp3",
+      "durationMs": 9744,
+      "checksum": "3d8117ee465822b000bed22b3e5d66d8782523f63777caca7f330c1155761c67",
+      "sourceHash": "d3e2edeeef00aa56032b193960ef5aea7d625527dcf6f71063dccacf94b50941"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "version": 1,
+  "workId": "walden-winter-animals",
+  "provider": "edge-neural",
+  "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
+  "format": "mp3",
+  "generatedAt": "2026-09-01T02:34:23.492Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/walden-winter-animals/seg-001.mp3",
+      "durationMs": 110016,
+      "checksum": "aba58f2db1af3b1549c955f296d345759b51915ad9e4e5c348b78481e7d0e3c2",
+      "sourceHash": "9942144544bee5cd52661ef0382f1d254ea3bc35843fd1e7ba45011ec930df77"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/walden-winter-animals/seg-002.mp3",
+      "durationMs": 123648,
+      "checksum": "a4564080990f5ab2048a4b011b4891f6ac67839eb30e1064a6da754153be35d5",
+      "sourceHash": "bc822cbedd66c370a62ca4b1411db8406556f6de1a3e609ea377e59b9cdf129a"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/walden-winter-animals/seg-003.mp3",
+      "durationMs": 27552,
+      "checksum": "6212d9bc8ed09920c706c7f62edd358beaefddf31570075c7eaa0ce3edefb6dc",
+      "sourceHash": "541c903ff90f314acc6bdd305b18f06227fce29e0e8f97c6c391635afef5fe90"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/walden-winter-animals/seg-004.mp3",
+      "durationMs": 48480,
+      "checksum": "fc6124b98e4963308aefaccc2e8417f3ce085e28876f10702cc4e598a9999d02",
+      "sourceHash": "10e591279a81305f8f4e33d857cd9a2e90760e46a5ecc9b2c0b98a1f47e87569"
+    }
+  ]
+}

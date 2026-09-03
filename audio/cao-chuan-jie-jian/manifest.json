@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "workId": "cao-chuan-jie-jian",
+  "provider": "edge-neural",
+  "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
+  "format": "mp3",
+  "generatedAt": "2026-09-01T01:54:18.666Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/cao-chuan-jie-jian/seg-001.mp3",
+      "durationMs": 5592,
+      "checksum": "7a8771a8e5dc8ff66211030af47518bff20544917ca3e2105ae1095c1312e8e9",
+      "sourceHash": "00d0dbe6a5018effa24b0cd355366c68b5c72879c9848d633c00472a7f87b056"
+    }
+  ]
+}

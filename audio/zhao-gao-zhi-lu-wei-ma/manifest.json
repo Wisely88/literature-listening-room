@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "workId": "zhao-gao-zhi-lu-wei-ma",
+  "provider": "edge-neural",
+  "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
+  "format": "mp3",
+  "generatedAt": "2026-09-01T02:39:10.898Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/zhao-gao-zhi-lu-wei-ma/seg-001.mp3",
+      "durationMs": 7488,
+      "checksum": "277b0053c62d8ba4ffe6374445fccbcedfd3e66dcb222b0edcbf36fa41902ce2",
+      "sourceHash": "864d8a35a8e83fbdeb2c853dfe90cc01fc99e2e2f5d3ebd0755d6ad20f3b501e"
+    }
+  ]
+}

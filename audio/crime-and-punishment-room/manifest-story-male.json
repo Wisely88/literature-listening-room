@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "workId": "crime-and-punishment-room",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-10%|pitch=-2Hz|voiceId=story-male",
+  "voiceId": "story-male",
+  "format": "mp3",
+  "generatedAt": "2026-09-02T12:19:32.546Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/crime-and-punishment-room/seg-001-voice-story-male.mp3",
+      "durationMs": 11280,
+      "checksum": "adbe83f09207e77a13b19949570e4ceacb6f94e29c7a5c95752ebabafaee6e34",
+      "sourceHash": "17b2b9f57d981c6ab75240d4eca7c6c747025878a6568d59dfd39a14644322af"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/crime-and-punishment-room/seg-002-voice-story-male.mp3",
+      "durationMs": 31704,
+      "checksum": "3e073665571919b81b97e242424ad0c0787f4e3ef47eb9cc92bdc103d8384e68",
+      "sourceHash": "e2f8cb92d5949ed77414da8a91f40b7e1334c9280eb8e3c45c52a2102dd6f781"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/crime-and-punishment-room/seg-003-voice-story-male.mp3",
+      "durationMs": 50016,
+      "checksum": "63bdb724ef1718d61fc886b7353d5a006de9638baf7e5d607bbca6cb1246b67b",
+      "sourceHash": "df1d8d8da49d209f154ce344a52405daef95fb31bde07b5f1d0d648fb441fb69"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/crime-and-punishment-room/seg-004-voice-story-male.mp3",
+      "durationMs": 6840,
+      "checksum": "1fb357ec7c3460fbd6668ed6b6cb40f0780d9c95bb40cffe79b2b1d92c0c55f6",
+      "sourceHash": "a9ed272da0475ccb77c55dd3e3fbf661e932faa527702f93980fbbdbe9bef5c9"
+    },
+    {
+      "id": "seg-005",
+      "url": "/audio/crime-and-punishment-room/seg-005-voice-story-male.mp3",
+      "durationMs": 64512,
+      "checksum": "a4cea1a53a99526d374e50ce66400edd2879c11e8839fc6d5e5502839dd74906",
+      "sourceHash": "a52c444bae8652daf768a68f462d097500cc5a46c7841609a49ac66fb6b12275"
+    },
+    {
+      "id": "seg-006",
+      "url": "/audio/crime-and-punishment-room/seg-006-voice-story-male.mp3",
+      "durationMs": 74856,
+      "checksum": "15306598b8bce1412f06f1efc71b66e5884c9447dcd94d7a9de6227eff5527af",
+      "sourceHash": "aa8b0b56b1b9408a3061aa97bdcaa4ee32553b7d4634884947cc59b854ee95dd"
+    },
+    {
+      "id": "seg-007",
+      "url": "/audio/crime-and-punishment-room/seg-007-voice-story-male.mp3",
+      "durationMs": 89064,
+      "checksum": "86d6c36892fd4b85709d5099037b6567f4af3a09ea18bae88a8ba89c4f302f59",
+      "sourceHash": "fe6b285daca1a2db850adde665baf317ed96d4d2103139f9173a5e85ab123851"
+    }
+  ]
+}

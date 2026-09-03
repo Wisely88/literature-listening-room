@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "workId": "chu-ren-you-she",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-10%|pitch=-2Hz|voiceId=story-male",
+  "voiceId": "story-male",
+  "format": "mp3",
+  "generatedAt": "2026-09-02T11:48:06.172Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/chu-ren-you-she/seg-001-voice-story-male.mp3",
+      "durationMs": 8256,
+      "checksum": "96520c9af428ac53987e3eed3b0c7e25491f2f85a5e0add9d4765c6df94be408",
+      "sourceHash": "5002d86821dc80ba6446acbce63f4bc023076c8daaec11771c13f26cd9161125"
+    }
+  ]
+}

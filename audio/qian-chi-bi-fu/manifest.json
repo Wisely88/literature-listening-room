@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "workId": "qian-chi-bi-fu",
+  "provider": "edge-neural",
+  "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
+  "format": "mp3",
+  "generatedAt": "2026-08-31T14:03:05.106Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/qian-chi-bi-fu/seg-001.mp3",
+      "durationMs": 33816,
+      "checksum": "01363a658872920dd7c738ff57f9398310dd5e16935b2ab0dc1b52baae0e5025",
+      "sourceHash": "4997fde4fbdeeacfedfc0d3a7085a3c0629041e14bafe64974d945416fa48aad"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/qian-chi-bi-fu/seg-002.mp3",
+      "durationMs": 26496,
+      "checksum": "7070a95e7659dc6fcd9fd8fdfce12fe7611837af7fdefe5c1ae2b2dd90757f2d",
+      "sourceHash": "df06cf683ab01fa60150c5c80e1f96bbc771208f8e50fdd7a647d749915c4085"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/qian-chi-bi-fu/seg-003.mp3",
+      "durationMs": 56712,
+      "checksum": "80529a305ab90f132e0f3f6d6d48acfe6856e5b42c98ee855a1f5d1b5a626748",
+      "sourceHash": "21ac98caf5476bd4e55e959de62dd55fe8e25176924be00de0b11c5121ac2fad"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/qian-chi-bi-fu/seg-004.mp3",
+      "durationMs": 43056,
+      "checksum": "208500598908fadbc7c8fc0fc9fe960ae2cd20cbd6362a07ab22ad0f0053e5dd",
+      "sourceHash": "785aff742065b8e42dcd4e92084fd08c4ee26c1c70d09c772f8809468ac515f1"
+    },
+    {
+      "id": "seg-005",
+      "url": "/audio/qian-chi-bi-fu/seg-005.mp3",
+      "durationMs": 10464,
+      "checksum": "051cc919c28e5522ac533a48d0a1d58785f44862dac876e14c806c893ca7e6a7",
+      "sourceHash": "d17de0cf237bd35d6e8953bf15b9cf0565e18769914319bdeeeb045a2a7ce739"
+    }
+  ]
+}
