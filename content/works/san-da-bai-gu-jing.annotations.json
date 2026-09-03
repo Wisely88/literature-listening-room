@@ -3,40 +3,80 @@
     "id": "ann-san-da-bai-gu-jing-001",
     "workId": "san-da-bai-gu-jing",
     "segmentId": "seg-001",
-    "term": "月貌花容",
-    "explanation": "形容女子容貌美丽。",
-    "type": "word"
+    "term": "白虎岭",
+    "explanation": "白骨精居住的山岭。",
+    "type": "place"
   },
   {
     "id": "ann-san-da-bai-gu-jing-002",
     "workId": "san-da-bai-gu-jing",
     "segmentId": "seg-001",
-    "term": "摇身一变",
-    "explanation": "迅速改变形貌。",
-    "type": "word"
+    "term": "尸魔",
+    "explanation": "以尸体和变化迷惑人的妖魔，白骨精的称谓。",
+    "type": "allusion"
   },
   {
     "id": "ann-san-da-bai-gu-jing-003",
     "workId": "san-da-bai-gu-jing",
     "segmentId": "seg-001",
-    "term": "白骨精",
-    "explanation": "《西游记》中由白骨修炼成精的妖怪。",
-    "type": "word"
+    "term": "火眼金睛",
+    "explanation": "孙悟空能辨妖魔真形的神通。",
+    "type": "allusion"
   },
   {
     "id": "ann-san-da-bai-gu-jing-004",
     "workId": "san-da-bai-gu-jing",
     "segmentId": "seg-001",
-    "term": "护持",
-    "explanation": "保护、扶持。",
-    "type": "word"
+    "term": "白骨夫人",
+    "explanation": "白骨精自称或尸骨显出的称号。",
+    "type": "person"
   },
   {
     "id": "ann-san-da-bai-gu-jing-005",
     "workId": "san-da-bai-gu-jing",
     "segmentId": "seg-001",
-    "term": "妖形",
-    "explanation": "妖怪的真实形态。",
+    "term": "哭丧棒",
+    "explanation": "孙悟空所用铁棒的俗称。",
     "type": "word"
+  },
+  {
+    "id": "ann-san-da-bai-gu-jing-006",
+    "workId": "san-da-bai-gu-jing",
+    "segmentId": "seg-001",
+    "term": "谗言",
+    "explanation": "挑拨离间、诬陷他人的话。",
+    "type": "word"
+  },
+  {
+    "id": "ann-san-da-bai-gu-jing-007",
+    "workId": "san-da-bai-gu-jing",
+    "segmentId": "seg-001",
+    "term": "紧箍咒",
+    "explanation": "唐僧约束孙悟空的咒语。",
+    "type": "allusion"
+  },
+  {
+    "id": "ann-san-da-bai-gu-jing-008",
+    "workId": "san-da-bai-gu-jing",
+    "segmentId": "seg-001",
+    "term": "贬书",
+    "explanation": "写明逐出门下的文书。",
+    "type": "history"
+  },
+  {
+    "id": "ann-san-da-bai-gu-jing-009",
+    "workId": "san-da-bai-gu-jing",
+    "segmentId": "seg-001",
+    "term": "宝象国",
+    "explanation": "唐僧后续取经途中到达的国度。",
+    "type": "place"
+  },
+  {
+    "id": "ann-san-da-bai-gu-jing-010",
+    "workId": "san-da-bai-gu-jing",
+    "segmentId": "seg-001",
+    "term": "三打白骨精",
+    "explanation": "孙悟空三次识破并击杀白骨精的故事。",
+    "type": "allusion"
   }
 ]
