@@ -3,9 +3,48 @@
     "id": "ann-shi-zhong-shan-ji-001",
     "workId": "shi-zhong-shan-ji",
     "segmentId": "seg-001",
-    "term": "《水经》云：彭蠡",
-    "explanation": "本条注释提示读者结合上下文理解句意；白话译文见正文下方。",
-    "pronunciation": "见正文",
-    "type": "grammar"
+    "term": "鼓浪",
+    "explanation": "鼓动波浪，使波浪翻涌。",
+    "type": "word"
+  },
+  {
+    "id": "ann-shi-zhong-shan-ji-002",
+    "workId": "shi-zhong-shan-ji",
+    "segmentId": "seg-002",
+    "term": "函胡",
+    "explanation": "同“含糊”，声音浑厚而不清亮。",
+    "type": "word"
+  },
+  {
+    "id": "ann-shi-zhong-shan-ji-003",
+    "workId": "shi-zhong-shan-ji",
+    "segmentId": "seg-003",
+    "term": "枹止响腾",
+    "explanation": "鼓槌停止后，声音仍在空中回荡升腾。",
+    "type": "word"
+  },
+  {
+    "id": "ann-shi-zhong-shan-ji-004",
+    "workId": "shi-zhong-shan-ji",
+    "segmentId": "seg-004",
+    "term": "磔磔",
+    "explanation": "鸟鸣声，此处写鹘鸟惊起的叫声。",
+    "type": "word"
+  },
+  {
+    "id": "ann-shi-zhong-shan-ji-005",
+    "workId": "shi-zhong-shan-ji",
+    "segmentId": "seg-004",
+    "term": "噌吰",
+    "explanation": "形容钟鼓宏大悠长的声音。",
+    "type": "word"
+  },
+  {
+    "id": "ann-shi-zhong-shan-ji-006",
+    "workId": "shi-zhong-shan-ji",
+    "segmentId": "seg-004",
+    "term": "臆断",
+    "explanation": "凭主观猜测而下判断。",
+    "type": "allusion"
   }
 ]
