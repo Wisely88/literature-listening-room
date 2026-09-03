@@ -1,0 +1,42 @@
+[
+  {
+    "id": "ann-lu-ti-xia-quan-da-zhen-guan-xi-001",
+    "workId": "lu-ti-xia-quan-da-zhen-guan-xi",
+    "segmentId": "seg-001",
+    "term": "提辖",
+    "explanation": "宋代军职名，鲁达原任提辖。",
+    "type": "word"
+  },
+  {
+    "id": "ann-lu-ti-xia-quan-da-zhen-guan-xi-002",
+    "workId": "lu-ti-xia-quan-da-zhen-guan-xi",
+    "segmentId": "seg-001",
+    "term": "太阳",
+    "explanation": "面部额头，此处指拳打面门。",
+    "type": "word"
+  },
+  {
+    "id": "ann-lu-ti-xia-quan-da-zhen-guan-xi-003",
+    "workId": "lu-ti-xia-quan-da-zhen-guan-xi",
+    "segmentId": "seg-001",
+    "term": "水陆道场",
+    "explanation": "佛教法会，借喻声势巨大。",
+    "type": "word"
+  },
+  {
+    "id": "ann-lu-ti-xia-quan-da-zhen-guan-xi-004",
+    "workId": "lu-ti-xia-quan-da-zhen-guan-xi",
+    "segmentId": "seg-001",
+    "term": "镇关西",
+    "explanation": "郑屠的绰号，称其横行一方。",
+    "type": "word"
+  },
+  {
+    "id": "ann-lu-ti-xia-quan-da-zhen-guan-xi-005",
+    "workId": "lu-ti-xia-quan-da-zhen-guan-xi",
+    "segmentId": "seg-001",
+    "term": "拳打",
+    "explanation": "用拳击打。",
+    "type": "word"
+  }
+]

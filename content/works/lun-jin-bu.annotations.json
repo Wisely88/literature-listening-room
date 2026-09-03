@@ -1,0 +1,42 @@
+[
+  {
+    "id": "ann-lun-jin-bu-001",
+    "workId": "lun-jin-bu",
+    "segmentId": "seg-001",
+    "term": "自新",
+    "explanation": "自我更新、改进。",
+    "type": "word"
+  },
+  {
+    "id": "ann-lun-jin-bu-002",
+    "workId": "lun-jin-bu",
+    "segmentId": "seg-001",
+    "term": "非复",
+    "explanation": "不再是。复，再。",
+    "type": "word"
+  },
+  {
+    "id": "ann-lun-jin-bu-003",
+    "workId": "lun-jin-bu",
+    "segmentId": "seg-001",
+    "term": "昨日之我",
+    "explanation": "过去的自己。",
+    "type": "word"
+  },
+  {
+    "id": "ann-lun-jin-bu-004",
+    "workId": "lun-jin-bu",
+    "segmentId": "seg-001",
+    "term": "进步",
+    "explanation": "不断改变和提升。",
+    "type": "word"
+  },
+  {
+    "id": "ann-lun-jin-bu-005",
+    "workId": "lun-jin-bu",
+    "segmentId": "seg-001",
+    "term": "日日",
+    "explanation": "每天，强调持续性。",
+    "type": "word"
+  }
+]

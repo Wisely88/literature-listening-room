@@ -1,0 +1,42 @@
+[
+  {
+    "id": "ann-liu-lao-lao-jin-da-guan-yuan-001",
+    "workId": "liu-lao-lao-jin-da-guan-yuan",
+    "segmentId": "seg-001",
+    "term": "咯当咯当",
+    "explanation": "形容器物碰撞发出的连续声响。",
+    "type": "word"
+  },
+  {
+    "id": "ann-liu-lao-lao-jin-da-guan-yuan-002",
+    "workId": "liu-lao-lao-jin-da-guan-yuan",
+    "segmentId": "seg-001",
+    "term": "箩柜",
+    "explanation": "用来筛、盛放粮食的器具。",
+    "type": "word"
+  },
+  {
+    "id": "ann-liu-lao-lao-jin-da-guan-yuan-003",
+    "workId": "liu-lao-lao-jin-da-guan-yuan",
+    "segmentId": "seg-001",
+    "term": "筛面",
+    "explanation": "筛选面粉。",
+    "type": "word"
+  },
+  {
+    "id": "ann-liu-lao-lao-jin-da-guan-yuan-004",
+    "workId": "liu-lao-lao-jin-da-guan-yuan",
+    "segmentId": "seg-001",
+    "term": "东瞧西望",
+    "explanation": "四处张望。",
+    "type": "word"
+  },
+  {
+    "id": "ann-liu-lao-lao-jin-da-guan-yuan-005",
+    "workId": "liu-lao-lao-jin-da-guan-yuan",
+    "segmentId": "seg-001",
+    "term": "大观园",
+    "explanation": "《红楼梦》中贾府为元春省亲修建的园林。",
+    "type": "word"
+  }
+]
