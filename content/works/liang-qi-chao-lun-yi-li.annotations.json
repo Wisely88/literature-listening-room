@@ -3,40 +3,80 @@
     "id": "ann-liang-qi-chao-lun-yi-li-001",
     "workId": "liang-qi-chao-lun-yi-li",
     "segmentId": "seg-001",
-    "term": "莽然",
-    "explanation": "纷杂、茫然没有头绪的样子。",
+    "term": "弘毅",
+    "explanation": "志向远大而意志坚强。",
     "type": "word"
   },
   {
     "id": "ann-liang-qi-chao-lun-yi-li-002",
     "workId": "liang-qi-chao-lun-yi-li",
     "segmentId": "seg-001",
-    "term": "要其",
-    "explanation": "概括其要点。要，概括。",
-    "type": "grammar"
+    "term": "逆水行舟",
+    "explanation": "在逆流中行船，比喻进步必须持续用力。",
+    "type": "allusion"
   },
   {
     "id": "ann-liang-qi-chao-lun-yi-li-003",
     "workId": "liang-qi-chao-lun-yi-li",
     "segmentId": "seg-001",
-    "term": "操舟",
-    "explanation": "驾船。",
+    "term": "拂戾",
+    "explanation": "违逆、不顺的处境。",
     "type": "word"
   },
   {
     "id": "ann-liang-qi-chao-lun-yi-li-004",
     "workId": "liang-qi-chao-lun-yi-li",
     "segmentId": "seg-001",
-    "term": "阻风",
-    "explanation": "遇到逆风阻挡。",
-    "type": "word"
+    "term": "盘根错节",
+    "explanation": "事情复杂、阻力交错。",
+    "type": "allusion"
   },
   {
     "id": "ann-liang-qi-chao-lun-yi-li-005",
     "workId": "liang-qi-chao-lun-yi-li",
     "segmentId": "seg-001",
-    "term": "停泊",
-    "explanation": "船停靠岸边。",
+    "term": "一簣",
+    "explanation": "一筐土。簣，盛土的竹筐。",
+    "type": "word"
+  },
+  {
+    "id": "ann-liang-qi-chao-lun-yi-li-006",
+    "workId": "liang-qi-chao-lun-yi-li",
+    "segmentId": "seg-001",
+    "term": "九仞",
+    "explanation": "九丈，形容工程已接近完成。",
+    "type": "word"
+  },
+  {
+    "id": "ann-liang-qi-chao-lun-yi-li-007",
+    "workId": "liang-qi-chao-lun-yi-li",
+    "segmentId": "seg-001",
+    "term": "摩西",
+    "explanation": "《圣经》中带领犹太人出埃及的领袖。",
+    "type": "person"
+  },
+  {
+    "id": "ann-liang-qi-chao-lun-yi-li-008",
+    "workId": "liang-qi-chao-lun-yi-li",
+    "segmentId": "seg-001",
+    "term": "哥侖布",
+    "explanation": "哥伦布，远航发现美洲的航海家。",
+    "type": "person"
+  },
+  {
+    "id": "ann-liang-qi-chao-lun-yi-li-009",
+    "workId": "liang-qi-chao-lun-yi-li",
+    "segmentId": "seg-001",
+    "term": "毅力稍不足",
+    "explanation": "如果毅力稍有不足，便会在任一关口失败。",
+    "type": "grammar"
+  },
+  {
+    "id": "ann-liang-qi-chao-lun-yi-li-010",
+    "workId": "liang-qi-chao-lun-yi-li",
+    "segmentId": "seg-001",
+    "term": "沉毅",
+    "explanation": "深沉坚定、坚忍不拔。",
     "type": "word"
   }
 ]
