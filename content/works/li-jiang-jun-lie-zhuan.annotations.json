@@ -3,40 +3,96 @@
     "id": "ann-li-jiang-jun-lie-zhuan-001",
     "workId": "li-jiang-jun-lie-zhuan",
     "segmentId": "seg-001",
-    "term": "没镞",
-    "explanation": "箭头没入石中。镞，箭头。",
-    "type": "word"
+    "term": "陇西成纪",
+    "explanation": "李广故里，今甘肃天水一带。",
+    "type": "place"
   },
   {
     "id": "ann-li-jiang-jun-lie-zhuan-002",
     "workId": "li-jiang-jun-lie-zhuan",
     "segmentId": "seg-001",
-    "term": "廉",
-    "explanation": "清廉。",
-    "type": "word"
+    "term": "飞将军",
+    "explanation": "匈奴对李广的称呼，因其勇猛善战而畏惧。",
+    "type": "person"
   },
   {
     "id": "ann-li-jiang-jun-lie-zhuan-003",
     "workId": "li-jiang-jun-lie-zhuan",
     "segmentId": "seg-001",
-    "term": "麾下",
-    "explanation": "部下、属下。麾，指挥旗。",
-    "type": "word"
+    "term": "骑郎将",
+    "explanation": "汉代掌管骑兵的武官。",
+    "type": "history"
   },
   {
     "id": "ann-li-jiang-jun-lie-zhuan-004",
     "workId": "li-jiang-jun-lie-zhuan",
     "segmentId": "seg-001",
-    "term": "与士共之",
-    "explanation": "和士卒共同享用。",
-    "type": "grammar"
+    "term": "吴楚七国之乱",
+    "explanation": "汉景帝时期的诸侯叛乱。",
+    "type": "history"
   },
   {
     "id": "ann-li-jiang-jun-lie-zhuan-005",
     "workId": "li-jiang-jun-lie-zhuan",
     "segmentId": "seg-001",
-    "term": "终不能复入石",
-    "explanation": "再也不能射入石中。",
-    "type": "grammar"
+    "term": "郡太守",
+    "explanation": "汉代地方郡的最高行政长官。",
+    "type": "history"
+  },
+  {
+    "id": "ann-li-jiang-jun-lie-zhuan-006",
+    "workId": "li-jiang-jun-lie-zhuan",
+    "segmentId": "seg-001",
+    "term": "军候",
+    "explanation": "军中负责侦察、传令等事务的属官。",
+    "type": "history"
+  },
+  {
+    "id": "ann-li-jiang-jun-lie-zhuan-007",
+    "workId": "li-jiang-jun-lie-zhuan",
+    "segmentId": "seg-001",
+    "term": "圜视",
+    "explanation": "四面环视、观察周围。",
+    "type": "word"
+  },
+  {
+    "id": "ann-li-jiang-jun-lie-zhuan-008",
+    "workId": "li-jiang-jun-lie-zhuan",
+    "segmentId": "seg-001",
+    "term": "刀笔吏",
+    "explanation": "掌文书刑狱的官吏，含贬义。",
+    "type": "history"
+  },
+  {
+    "id": "ann-li-jiang-jun-lie-zhuan-009",
+    "workId": "li-jiang-jun-lie-zhuan",
+    "segmentId": "seg-001",
+    "term": "失道",
+    "explanation": "行军迷路。道，路线。",
+    "type": "word"
+  },
+  {
+    "id": "ann-li-jiang-jun-lie-zhuan-010",
+    "workId": "li-jiang-jun-lie-zhuan",
+    "segmentId": "seg-001",
+    "term": "刀自刭",
+    "explanation": "用刀割颈自杀。",
+    "type": "word"
+  },
+  {
+    "id": "ann-li-jiang-jun-lie-zhuan-011",
+    "workId": "li-jiang-jun-lie-zhuan",
+    "segmentId": "seg-001",
+    "term": "冯唐易老",
+    "explanation": "借冯唐晚年才被重用的典故，比喻时运不济。",
+    "type": "allusion"
+  },
+  {
+    "id": "ann-li-jiang-jun-lie-zhuan-012",
+    "workId": "li-jiang-jun-lie-zhuan",
+    "segmentId": "seg-001",
+    "term": "李广难封",
+    "explanation": "李广战功卓著却始终未封侯的典故。",
+    "type": "allusion"
   }
 ]
