@@ -14,7 +14,7 @@ tags: [思想随笔, 精读, 公版]
 moods: [夜读, 思考]
 ambience: [rain]
 defaultAmbience: rain
-sourceNote: 依据公版通行本节选；白话译文与导读为本项目整理。
+sourceNote: 原文依据维基文库《荀子·荣辱篇》公版全文核对；当前为篇中完整章句节选，待补入全文后更新。
 editorialNotes: []
 pronunciationOverrides: []
 ---
