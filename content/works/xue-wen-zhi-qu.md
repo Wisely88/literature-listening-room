@@ -14,7 +14,7 @@ tags: [优秀文章, 精读, 公版]
 moods: [夜读, 思考]
 ambience: [rain]
 defaultAmbience: rain
-sourceNote: 依据公版通行本节选；白话译文与导读为本项目整理。
+sourceNote: 已确认当前片段见梁启超《学问之趣味》公版全文；当前条目尚未完成章节级扩写，已列入待补全队列。
 editorialNotes: []
 pronunciationOverrides: []
 ---
