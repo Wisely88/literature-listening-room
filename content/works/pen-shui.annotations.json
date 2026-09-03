@@ -1,0 +1,42 @@
+[
+  {
+    "id": "ann-pen-shui-001",
+    "workId": "pen-shui",
+    "segmentId": "seg-001",
+    "term": "部曹",
+    "explanation": "清代中央各部的官员。",
+    "type": "word"
+  },
+  {
+    "id": "ann-pen-shui-002",
+    "workId": "pen-shui",
+    "segmentId": "seg-001",
+    "term": "僦第",
+    "explanation": "租赁住宅。僦，租赁；第，宅院。",
+    "type": "word"
+  },
+  {
+    "id": "ann-pen-shui-003",
+    "workId": "pen-shui",
+    "segmentId": "seg-001",
+    "term": "荒落",
+    "explanation": "荒凉破败。",
+    "type": "word"
+  },
+  {
+    "id": "ann-pen-shui-004",
+    "workId": "pen-shui",
+    "segmentId": "seg-001",
+    "term": "喷水声",
+    "explanation": "水流喷涌的声音。",
+    "type": "word"
+  },
+  {
+    "id": "ann-pen-shui-005",
+    "workId": "pen-shui",
+    "segmentId": "seg-001",
+    "term": "所僦",
+    "explanation": "所租住的房屋。",
+    "type": "grammar"
+  }
+]

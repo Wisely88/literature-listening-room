@@ -1,0 +1,42 @@
+[
+  {
+    "id": "ann-nu-er-guo-yu-001",
+    "workId": "nu-er-guo-yu",
+    "segmentId": "seg-001",
+    "term": "澄清",
+    "explanation": "清澈。",
+    "type": "word"
+  },
+  {
+    "id": "ann-nu-er-guo-yu-002",
+    "workId": "nu-er-guo-yu",
+    "segmentId": "seg-001",
+    "term": "别是一番世界",
+    "explanation": "呈现出与平常不同的景象。",
+    "type": "grammar"
+  },
+  {
+    "id": "ann-nu-er-guo-yu-003",
+    "workId": "nu-er-guo-yu",
+    "segmentId": "seg-001",
+    "term": "师徒",
+    "explanation": "唐僧师徒。",
+    "type": "word"
+  },
+  {
+    "id": "ann-nu-er-guo-yu-004",
+    "workId": "nu-er-guo-yu",
+    "segmentId": "seg-001",
+    "term": "挽留",
+    "explanation": "设法留住，不让离开。",
+    "type": "word"
+  },
+  {
+    "id": "ann-nu-er-guo-yu-005",
+    "workId": "nu-er-guo-yu",
+    "segmentId": "seg-001",
+    "term": "使命",
+    "explanation": "必须完成的任务。",
+    "type": "word"
+  }
+]

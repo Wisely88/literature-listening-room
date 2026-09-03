@@ -1,0 +1,42 @@
+[
+  {
+    "id": "ann-qi-ren-you-hao-lie-zhe-001",
+    "workId": "qi-ren-you-hao-lie-zhe",
+    "segmentId": "seg-001",
+    "term": "好猎",
+    "explanation": "喜欢打猎。好，喜好。",
+    "type": "word"
+  },
+  {
+    "id": "ann-qi-ren-you-hao-lie-zhe-002",
+    "workId": "qi-ren-you-hao-lie-zhe",
+    "segmentId": "seg-001",
+    "term": "旷日持久",
+    "explanation": "耗费很长时间。",
+    "type": "word"
+  },
+  {
+    "id": "ann-qi-ren-you-hao-lie-zhe-003",
+    "workId": "qi-ren-you-hao-lie-zhe",
+    "segmentId": "seg-001",
+    "term": "家室",
+    "explanation": "家人、妻子。",
+    "type": "word"
+  },
+  {
+    "id": "ann-qi-ren-you-hao-lie-zhe-004",
+    "workId": "qi-ren-you-hao-lie-zhe",
+    "segmentId": "seg-001",
+    "term": "知友",
+    "explanation": "知心朋友。",
+    "type": "word"
+  },
+  {
+    "id": "ann-qi-ren-you-hao-lie-zhe-005",
+    "workId": "qi-ren-you-hao-lie-zhe",
+    "segmentId": "seg-001",
+    "term": "不得兽",
+    "explanation": "没有捕获野兽。",
+    "type": "grammar"
+  }
+]

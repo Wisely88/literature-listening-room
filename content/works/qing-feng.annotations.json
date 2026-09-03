@@ -1,0 +1,42 @@
+[
+  {
+    "id": "ann-qing-feng-001",
+    "workId": "qing-feng",
+    "segmentId": "seg-001",
+    "term": "大家",
+    "explanation": "世代显贵的家族。",
+    "type": "word"
+  },
+  {
+    "id": "ann-qing-feng-002",
+    "workId": "qing-feng",
+    "segmentId": "seg-001",
+    "term": "第宅",
+    "explanation": "宅院。第，大宅。",
+    "type": "word"
+  },
+  {
+    "id": "ann-qing-feng-003",
+    "workId": "qing-feng",
+    "segmentId": "seg-001",
+    "term": "宏阔",
+    "explanation": "宏大宽阔。",
+    "type": "word"
+  },
+  {
+    "id": "ann-qing-feng-004",
+    "workId": "qing-feng",
+    "segmentId": "seg-001",
+    "term": "凌夷",
+    "explanation": "衰落、衰败。",
+    "type": "word"
+  },
+  {
+    "id": "ann-qing-feng-005",
+    "workId": "qing-feng",
+    "segmentId": "seg-001",
+    "term": "连亘",
+    "explanation": "绵延相接。",
+    "type": "word"
+  }
+]
