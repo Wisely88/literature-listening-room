@@ -3,40 +3,80 @@
     "id": "ann-shao-nian-zhong-guo-shuo-001",
     "workId": "shao-nian-zhong-guo-shuo",
     "segmentId": "seg-001",
-    "term": "智",
-    "explanation": "智慧。",
+    "term": "老大帝国",
+    "explanation": "当时日本及西方对衰弱中国的贬称。",
     "type": "word"
   },
   {
     "id": "ann-shao-nian-zhong-guo-shuo-002",
     "workId": "shao-nian-zhong-guo-shuo",
-    "segmentId": "seg-001",
-    "term": "富",
-    "explanation": "富足、富强。",
+    "segmentId": "seg-002",
+    "term": "破格",
+    "explanation": "突破旧例，不拘成法。",
     "type": "word"
   },
   {
     "id": "ann-shao-nian-zhong-guo-shuo-003",
     "workId": "shao-nian-zhong-guo-shuo",
-    "segmentId": "seg-001",
-    "term": "独立",
-    "explanation": "自主自立。",
+    "segmentId": "seg-003",
+    "term": "衾寒于铁",
+    "explanation": "被子冷得像铁一样，形容孤苦凄凉。",
     "type": "word"
   },
   {
     "id": "ann-shao-nian-zhong-guo-shuo-004",
     "workId": "shao-nian-zhong-guo-shuo",
-    "segmentId": "seg-001",
-    "term": "伏流",
-    "explanation": "潜藏地下的水流。",
+    "segmentId": "seg-004",
+    "term": "完全成立之国",
+    "explanation": "具备土地、人民、法律、主权等要素的现代国家。",
     "type": "word"
   },
   {
     "id": "ann-shao-nian-zhong-guo-shuo-005",
     "workId": "shao-nian-zhong-guo-shuo",
-    "segmentId": "seg-001",
-    "term": "鳞爪飞扬",
-    "explanation": "龙鳞龙爪飞舞，象征奋发。",
+    "segmentId": "seg-005",
+    "term": "民贼",
+    "explanation": "阻碍国家生机、损害人民利益的人。",
     "type": "word"
+  },
+  {
+    "id": "ann-shao-nian-zhong-guo-shuo-006",
+    "workId": "shao-nian-zhong-guo-shuo",
+    "segmentId": "seg-007",
+    "term": "马志尼",
+    "explanation": "意大利民族统一运动先驱。",
+    "type": "person"
+  },
+  {
+    "id": "ann-shao-nian-zhong-guo-shuo-007",
+    "workId": "shao-nian-zhong-guo-shuo",
+    "segmentId": "seg-008",
+    "term": "老朽",
+    "explanation": "年老昏庸、思想僵化的人。",
+    "type": "word"
+  },
+  {
+    "id": "ann-shao-nian-zhong-guo-shuo-008",
+    "workId": "shao-nian-zhong-guo-shuo",
+    "segmentId": "seg-009",
+    "term": "少年智则国智",
+    "explanation": "以排比说明青少年成长与国家命运相连。",
+    "type": "grammar"
+  },
+  {
+    "id": "ann-shao-nian-zhong-guo-shuo-009",
+    "workId": "shao-nian-zhong-guo-shuo",
+    "segmentId": "seg-010",
+    "term": "矞矞皇皇",
+    "explanation": "形容草木初生、光彩盛大的样子。",
+    "type": "word"
+  },
+  {
+    "id": "ann-shao-nian-zhong-guo-shuo-010",
+    "workId": "shao-nian-zhong-guo-shuo",
+    "segmentId": "seg-011",
+    "term": "哀时客",
+    "explanation": "梁启超自称的忧时伤世者，文末宣布改名。",
+    "type": "allusion"
   }
 ]
