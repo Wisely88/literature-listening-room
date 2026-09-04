@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "workId": "qian-zhi-lv",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-8%|pitch=-1Hz|voiceId=young-voice",
+  "voiceId": "young-voice",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T02:20:51.504Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/qian-zhi-lv/seg-001-voice-young-voice.mp3",
+      "durationMs": 44400,
+      "checksum": "f201ca1c68ad210163405cb66505fe7551eb174f06a6ece3489826b959164e8a",
+      "sourceHash": "472ce0aac7d69e97263158ebef248adf5603f7eb8c84590225ae460476161c7a"
+    }
+  ]
+}

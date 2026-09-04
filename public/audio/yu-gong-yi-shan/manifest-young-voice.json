@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "workId": "yu-gong-yi-shan",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-8%|pitch=-1Hz|voiceId=young-voice",
+  "voiceId": "young-voice",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T02:21:33.774Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/yu-gong-yi-shan/seg-001-voice-young-voice.mp3",
+      "durationMs": 59616,
+      "checksum": "0148250d40752bc7bd1ea58de1fe023786bfe9eba1b9fb7524b67854727bad8e",
+      "sourceHash": "f87f173f0e7639a70f1c51d0fb681f60ebe0c6bd41e2e06afe30075eabf0461d"
+    }
+  ]
+}

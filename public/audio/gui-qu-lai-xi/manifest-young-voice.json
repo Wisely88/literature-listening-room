@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "workId": "gui-qu-lai-xi",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-8%|pitch=-1Hz|voiceId=young-voice",
+  "voiceId": "young-voice",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T02:20:08.212Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/gui-qu-lai-xi/seg-001-voice-young-voice.mp3",
+      "durationMs": 33336,
+      "checksum": "38a50f9e97686bbb81efec423b2d60c1eab90a6ef7b3565e30c71fbd416eab5a",
+      "sourceHash": "55620d0b01853d4dada75ef17587de33ae4a9e50ada8db9d063cf5f7edca4c55"
+    }
+  ]
+}

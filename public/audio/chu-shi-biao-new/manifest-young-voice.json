@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "workId": "chu-shi-biao-new",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-8%|pitch=-1Hz|voiceId=young-voice",
+  "voiceId": "young-voice",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T02:19:54.974Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/chu-shi-biao-new/seg-001-voice-young-voice.mp3",
+      "durationMs": 40320,
+      "checksum": "edb6d8170bef9990f1e139436ec36a885c1dc911926bf2f191d0769d797cc574",
+      "sourceHash": "dad6fc5faed6db58216027505c87f81c1681c05769d43be621ee81e004025573"
+    }
+  ]
+}

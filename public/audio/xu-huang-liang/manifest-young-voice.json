@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "workId": "xu-huang-liang",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-8%|pitch=-1Hz|voiceId=young-voice",
+  "voiceId": "young-voice",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T02:21:15.779Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/xu-huang-liang/seg-001-voice-young-voice.mp3",
+      "durationMs": 36504,
+      "checksum": "33ccdc606b6d99d6942e883444f3c6554dd7c96e1e804c819f2ea8c01a9c6a12",
+      "sourceHash": "b938eaefc728523e007630525ad38c08bca2e2f44def48c2faac3a6a1cc55a79"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "workId": "xin-shi",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-8%|pitch=-1Hz|voiceId=young-voice",
+  "voiceId": "young-voice",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T02:21:10.364Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/xin-shi/seg-001-voice-young-voice.mp3",
+      "durationMs": 23808,
+      "checksum": "76ce198638ce414d5fc0ce6343a6795e950cecb26769a798a307c7d8e7964577",
+      "sourceHash": "ad8ddcb089d79cfc6d7e3215da3dad511633e836da7bbec4a6a6af02263f219a"
+    }
+  ]
+}

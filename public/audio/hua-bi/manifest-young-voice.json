@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "workId": "hua-bi",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-8%|pitch=-1Hz|voiceId=young-voice",
+  "voiceId": "young-voice",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T02:20:21.465Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/hua-bi/seg-001-voice-young-voice.mp3",
+      "durationMs": 24936,
+      "checksum": "970ac3e4f57650d0ea02eeb888e03eba8483674d60c5e7c52ec9979b40e02c52",
+      "sourceHash": "f4941a7d3c62c7dc0552e134541eaac64939176c705a02e5230f72f3e0bd702e"
+    }
+  ]
+}

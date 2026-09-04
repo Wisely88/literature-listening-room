@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "workId": "qi-ren-you-tian",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-8%|pitch=-1Hz|voiceId=young-voice",
+  "voiceId": "young-voice",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T02:20:46.992Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/qi-ren-you-tian/seg-001-voice-young-voice.mp3",
+      "durationMs": 33720,
+      "checksum": "5c55e31fec2473a50e9359e4ab9f18fd09c586611c37ee95a7dabb39c0a182f5",
+      "sourceHash": "96299487b8e8314672a44416ca3c8da09479b2123e248c7a220822b78869f189"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "workId": "shou-zhu-dai-tu",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-8%|pitch=-1Hz|voiceId=young-voice",
+  "voiceId": "young-voice",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T02:20:55.379Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/shou-zhu-dai-tu/seg-001-voice-young-voice.mp3",
+      "durationMs": 13080,
+      "checksum": "dc92f494bc14a0d404abe6fc62facfd5cb1b6745dad35f6ca2fe6efdaeba5bef",
+      "sourceHash": "61239cbcd29bc6dc0a4cb0e21da967a7440b89c94496936e13dbf35507c36132"
+    }
+  ]
+}

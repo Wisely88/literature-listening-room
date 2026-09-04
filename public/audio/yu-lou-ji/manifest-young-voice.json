@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "workId": "yu-lou-ji",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-8%|pitch=-1Hz|voiceId=young-voice",
+  "voiceId": "young-voice",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T02:21:38.413Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/yu-lou-ji/seg-001-voice-young-voice.mp3",
+      "durationMs": 39384,
+      "checksum": "48ea9dfc7ab515e32c08cdcdd07d4c0526cf11fba580237212d4684697132ef1",
+      "sourceHash": "6f802191254672b48b93bb53d192f411c540356981e78922c5c051569c787679"
+    }
+  ]
+}

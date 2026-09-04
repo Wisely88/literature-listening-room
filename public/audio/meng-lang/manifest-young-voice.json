@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "workId": "meng-lang",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-8%|pitch=-1Hz|voiceId=young-voice",
+  "voiceId": "young-voice",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T02:20:39.850Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/meng-lang/seg-001-voice-young-voice.mp3",
+      "durationMs": 13896,
+      "checksum": "4165c6d9a9384f8d6c0e13d91279d5ffe215dc84fe6b759fe91b8b695a3e551f",
+      "sourceHash": "294bfa9d446dabb8539750448e396054bfaaee837ac5906f54d1ebcff67f0055"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "workId": "mai-du-huan-zhu",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-8%|pitch=-1Hz|voiceId=young-voice",
+  "voiceId": "young-voice",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T02:20:34.854Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/mai-du-huan-zhu/seg-001-voice-young-voice.mp3",
+      "durationMs": 16632,
+      "checksum": "2718761d7d6d9cbf5d03039c6dc2fd38f04f1f4ffceb250f4df3072e7bb68186",
+      "sourceHash": "e111cb897a1ffffbd9c26e516fc4bf65b9dba2bb7dad727ec8b71256443a7ca5"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "workId": "zou-ji-feng-qi-wang-na-jian",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-8%|pitch=-1Hz|voiceId=young-voice",
+  "voiceId": "young-voice",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T02:21:43.768Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/zou-ji-feng-qi-wang-na-jian/seg-001-voice-young-voice.mp3",
+      "durationMs": 86760,
+      "checksum": "63ff875c947d9165a538a0a239736ac242e39f742a4b9bffd55dfcc56925c702",
+      "sourceHash": "0b716efe70438979e7b462a2197e9630aa786e699a903e1cdb77e12a824a1234"
+    }
+  ]
+}

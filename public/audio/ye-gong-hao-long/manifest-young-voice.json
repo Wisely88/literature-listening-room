@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "workId": "ye-gong-hao-long",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-8%|pitch=-1Hz|voiceId=young-voice",
+  "voiceId": "young-voice",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T02:21:21.934Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/ye-gong-hao-long/seg-001-voice-young-voice.mp3",
+      "durationMs": 21912,
+      "checksum": "631cf48f39e0293158c49beb32884acd711ba6fdad8545d46f93904c208268ad",
+      "sourceHash": "8a9177f92382a03eaf54895e1da5194652761dcdf183e35bea98b6aac130001e"
+    }
+  ]
+}

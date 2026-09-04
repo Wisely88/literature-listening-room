@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "workId": "ma-ya",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-8%|pitch=-1Hz|voiceId=young-voice",
+  "voiceId": "young-voice",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T02:20:31.042Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/ma-ya/seg-001-voice-young-voice.mp3",
+      "durationMs": 22608,
+      "checksum": "d4df58b65c0edc9299248ab160013325c50535f9b51fab44057b783375a8db50",
+      "sourceHash": "efd33c5013d3623a92160ab927111ecfb4b2232ef68ee476f3d36b7b04c23e35"
+    }
+  ]
+}

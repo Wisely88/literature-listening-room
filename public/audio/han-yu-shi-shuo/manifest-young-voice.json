@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "workId": "han-yu-shi-shuo",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-8%|pitch=-1Hz|voiceId=young-voice",
+  "voiceId": "young-voice",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T02:20:17.225Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/han-yu-shi-shuo/seg-001-voice-young-voice.mp3",
+      "durationMs": 40296,
+      "checksum": "1bcb8edb0e228026cf2dc50724b1c048a9a6fc9cbea3814971f5c9e3f8ae286f",
+      "sourceHash": "eddb0bd5adacbcb6e7f7370d6ae793c5fd6c36ee7a53b80f617abbc83ca6cafd"
+    }
+  ]
+}

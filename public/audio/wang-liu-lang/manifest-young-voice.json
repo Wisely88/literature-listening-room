@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "workId": "wang-liu-lang",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-8%|pitch=-1Hz|voiceId=young-voice",
+  "voiceId": "young-voice",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T02:21:03.789Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/wang-liu-lang/seg-001-voice-young-voice.mp3",
+      "durationMs": 28800,
+      "checksum": "1f938ff7571075e670aca06b07013c7fee38bec4f4ff6fda454f729046347ee6",
+      "sourceHash": "14b6d46c976c019ee7d5b6b96295fdf9c917bcc237b47a5ada24d3daaea5f135"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "workId": "si-wen-lang",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-8%|pitch=-1Hz|voiceId=young-voice",
+  "voiceId": "young-voice",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T02:20:59.408Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/si-wen-lang/seg-001-voice-young-voice.mp3",
+      "durationMs": 24240,
+      "checksum": "65d1e6618a3104a5f91e03fb7f62cc34c9ce75f9b3b1519d8e6d8c5474d35daa",
+      "sourceHash": "da28aa01db47833c0676b9fd18e2a439d8fec5aacf7f9540c12d91e737fc9165"
+    }
+  ]
+}
