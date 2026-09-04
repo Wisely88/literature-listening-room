@@ -178,8 +178,6 @@ export function PlayerProvider({
 
     audio.pause();
     audio.src = source.url;
-    audio.playbackRate = state.rate;
-    audio.volume = state.volume;
     if (pendingTimeRef.current > 0 && audio.readyState >= 1) {
       audio.currentTime = pendingTimeRef.current;
       pendingTimeRef.current = 0;
