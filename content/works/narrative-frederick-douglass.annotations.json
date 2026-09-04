@@ -1,0 +1,34 @@
+[
+  {
+    "id": "ann-narrative-frederick-douglass-001",
+    "workId": "narrative-frederick-douglass",
+    "segmentId": "seg-001",
+    "term": "弗雷德里克·道格拉斯自述",
+    "explanation": "作品标题所指的核心人物、事件或意象，需结合本段原文理解。",
+    "type": "allusion"
+  },
+  {
+    "id": "ann-narrative-frederick-douglass-002",
+    "workId": "narrative-frederick-douglass",
+    "segmentId": "seg-001",
+    "term": "弗雷德里克·道格拉斯",
+    "explanation": "本篇作品作者（弗雷德里克·道格拉斯），可参见作者页了解创作背景。",
+    "type": "person"
+  },
+  {
+    "id": "ann-narrative-frederick-douglass-003",
+    "workId": "narrative-frederick-douglass",
+    "segmentId": "seg-001",
+    "term": "传记 / 自传",
+    "explanation": "本篇的体裁分类，提示其叙事或论述方式。",
+    "type": "history"
+  },
+  {
+    "id": "ann-narrative-frederick-douglass-004",
+    "workId": "narrative-frederick-douglass",
+    "segmentId": "seg-001",
+    "term": "公版原文",
+    "explanation": "依据项目记录的公版来源整理；中文译文为本项目配套译文。",
+    "type": "history"
+  }
+]

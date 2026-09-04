@@ -1,0 +1,34 @@
+[
+  {
+    "id": "ann-twenty-thousand-leagues-001",
+    "workId": "twenty-thousand-leagues",
+    "segmentId": "seg-001",
+    "term": "海底两万里·海中异象",
+    "explanation": "作品标题所指的核心人物、事件或意象，需结合本段原文理解。",
+    "type": "allusion"
+  },
+  {
+    "id": "ann-twenty-thousand-leagues-002",
+    "workId": "twenty-thousand-leagues",
+    "segmentId": "seg-001",
+    "term": "儒勒·凡尔纳",
+    "explanation": "本篇作品作者（儒勒·凡尔纳），可参见作者页了解创作背景。",
+    "type": "person"
+  },
+  {
+    "id": "ann-twenty-thousand-leagues-003",
+    "workId": "twenty-thousand-leagues",
+    "segmentId": "seg-001",
+    "term": "科幻文学",
+    "explanation": "本篇的体裁分类，提示其叙事或论述方式。",
+    "type": "history"
+  },
+  {
+    "id": "ann-twenty-thousand-leagues-004",
+    "workId": "twenty-thousand-leagues",
+    "segmentId": "seg-001",
+    "term": "公版原文",
+    "explanation": "依据项目记录的公版来源整理；中文译文为本项目配套译文。",
+    "type": "history"
+  }
+]

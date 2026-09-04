@@ -1,0 +1,34 @@
+[
+  {
+    "id": "ann-autobiography-benjamin-franklin-001",
+    "workId": "autobiography-benjamin-franklin",
+    "segmentId": "seg-001",
+    "term": "富兰克林自传·写给儿子",
+    "explanation": "作品标题所指的核心人物、事件或意象，需结合本段原文理解。",
+    "type": "allusion"
+  },
+  {
+    "id": "ann-autobiography-benjamin-franklin-002",
+    "workId": "autobiography-benjamin-franklin",
+    "segmentId": "seg-001",
+    "term": "本杰明·富兰克林",
+    "explanation": "本篇作品作者（本杰明·富兰克林），可参见作者页了解创作背景。",
+    "type": "person"
+  },
+  {
+    "id": "ann-autobiography-benjamin-franklin-003",
+    "workId": "autobiography-benjamin-franklin",
+    "segmentId": "seg-001",
+    "term": "传记 / 自传",
+    "explanation": "本篇的体裁分类，提示其叙事或论述方式。",
+    "type": "history"
+  },
+  {
+    "id": "ann-autobiography-benjamin-franklin-004",
+    "workId": "autobiography-benjamin-franklin",
+    "segmentId": "seg-001",
+    "term": "公版原文",
+    "explanation": "依据项目记录的公版来源整理；中文译文为本项目配套译文。",
+    "type": "history"
+  }
+]

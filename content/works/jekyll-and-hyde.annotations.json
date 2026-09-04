@@ -1,0 +1,34 @@
+[
+  {
+    "id": "ann-jekyll-and-hyde-001",
+    "workId": "jekyll-and-hyde",
+    "segmentId": "seg-001",
+    "term": "化身博士·一道怪门",
+    "explanation": "作品标题所指的核心人物、事件或意象，需结合本段原文理解。",
+    "type": "allusion"
+  },
+  {
+    "id": "ann-jekyll-and-hyde-002",
+    "workId": "jekyll-and-hyde",
+    "segmentId": "seg-001",
+    "term": "罗伯特·路易斯·史蒂文森",
+    "explanation": "本篇作品作者（罗伯特·路易斯·史蒂文森），可参见作者页了解创作背景。",
+    "type": "person"
+  },
+  {
+    "id": "ann-jekyll-and-hyde-003",
+    "workId": "jekyll-and-hyde",
+    "segmentId": "seg-001",
+    "term": "恐怖惊悚",
+    "explanation": "本篇的体裁分类，提示其叙事或论述方式。",
+    "type": "history"
+  },
+  {
+    "id": "ann-jekyll-and-hyde-004",
+    "workId": "jekyll-and-hyde",
+    "segmentId": "seg-001",
+    "term": "公版原文",
+    "explanation": "依据项目记录的公版来源整理；中文译文为本项目配套译文。",
+    "type": "history"
+  }
+]

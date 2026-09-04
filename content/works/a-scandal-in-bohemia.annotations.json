@@ -1,0 +1,34 @@
+[
+  {
+    "id": "ann-a-scandal-in-bohemia-001",
+    "workId": "a-scandal-in-bohemia",
+    "segmentId": "seg-001",
+    "term": "波希米亚丑闻",
+    "explanation": "作品标题所指的核心人物、事件或意象，需结合本段原文理解。",
+    "type": "allusion"
+  },
+  {
+    "id": "ann-a-scandal-in-bohemia-002",
+    "workId": "a-scandal-in-bohemia",
+    "segmentId": "seg-001",
+    "term": "阿瑟·柯南·道尔",
+    "explanation": "本篇作品作者（阿瑟·柯南·道尔），可参见作者页了解创作背景。",
+    "type": "person"
+  },
+  {
+    "id": "ann-a-scandal-in-bohemia-003",
+    "workId": "a-scandal-in-bohemia",
+    "segmentId": "seg-001",
+    "term": "推理探案",
+    "explanation": "本篇的体裁分类，提示其叙事或论述方式。",
+    "type": "history"
+  },
+  {
+    "id": "ann-a-scandal-in-bohemia-004",
+    "workId": "a-scandal-in-bohemia",
+    "segmentId": "seg-001",
+    "term": "公版原文",
+    "explanation": "依据项目记录的公版来源整理；中文译文为本项目配套译文。",
+    "type": "history"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "id": "ann-little-match-girl-001",
+    "workId": "little-match-girl",
+    "segmentId": "seg-001",
+    "term": "卖火柴的小女孩",
+    "explanation": "作品标题所指的核心人物、事件或意象，需结合本段原文理解。",
+    "type": "allusion"
+  },
+  {
+    "id": "ann-little-match-girl-002",
+    "workId": "little-match-girl",
+    "segmentId": "seg-001",
+    "term": "汉斯·克里斯蒂安·安徒生",
+    "explanation": "本篇作品作者（汉斯·克里斯蒂安·安徒生），可参见作者页了解创作背景。",
+    "type": "person"
+  },
+  {
+    "id": "ann-little-match-girl-003",
+    "workId": "little-match-girl",
+    "segmentId": "seg-001",
+    "term": "奇幻文学",
+    "explanation": "本篇的体裁分类，提示其叙事或论述方式。",
+    "type": "history"
+  },
+  {
+    "id": "ann-little-match-girl-004",
+    "workId": "little-match-girl",
+    "segmentId": "seg-001",
+    "term": "公版原文",
+    "explanation": "依据项目记录的公版来源整理；中文译文为本项目配套译文。",
+    "type": "history"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "id": "ann-pride-and-prejudice-opening-001",
+    "workId": "pride-and-prejudice-opening",
+    "segmentId": "seg-001",
+    "term": "傲慢与偏见·初来乍到",
+    "explanation": "作品标题所指的核心人物、事件或意象，需结合本段原文理解。",
+    "type": "allusion"
+  },
+  {
+    "id": "ann-pride-and-prejudice-opening-002",
+    "workId": "pride-and-prejudice-opening",
+    "segmentId": "seg-001",
+    "term": "简·奥斯汀",
+    "explanation": "本篇作品作者（简·奥斯汀），可参见作者页了解创作背景。",
+    "type": "person"
+  },
+  {
+    "id": "ann-pride-and-prejudice-opening-003",
+    "workId": "pride-and-prejudice-opening",
+    "segmentId": "seg-001",
+    "term": "经典小说",
+    "explanation": "本篇的体裁分类，提示其叙事或论述方式。",
+    "type": "history"
+  },
+  {
+    "id": "ann-pride-and-prejudice-opening-004",
+    "workId": "pride-and-prejudice-opening",
+    "segmentId": "seg-001",
+    "term": "公版原文",
+    "explanation": "依据项目记录的公版来源整理；中文译文为本项目配套译文。",
+    "type": "history"
+  }
+]

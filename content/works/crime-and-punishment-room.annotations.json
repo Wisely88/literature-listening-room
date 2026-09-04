@@ -1,0 +1,34 @@
+[
+  {
+    "id": "ann-crime-and-punishment-room-001",
+    "workId": "crime-and-punishment-room",
+    "segmentId": "seg-001",
+    "term": "罪与罚·炎热黄昏",
+    "explanation": "作品标题所指的核心人物、事件或意象，需结合本段原文理解。",
+    "type": "allusion"
+  },
+  {
+    "id": "ann-crime-and-punishment-room-002",
+    "workId": "crime-and-punishment-room",
+    "segmentId": "seg-001",
+    "term": "费奥多尔·陀思妥耶夫斯基",
+    "explanation": "本篇作品作者（费奥多尔·陀思妥耶夫斯基），可参见作者页了解创作背景。",
+    "type": "person"
+  },
+  {
+    "id": "ann-crime-and-punishment-room-003",
+    "workId": "crime-and-punishment-room",
+    "segmentId": "seg-001",
+    "term": "推理探案",
+    "explanation": "本篇的体裁分类，提示其叙事或论述方式。",
+    "type": "history"
+  },
+  {
+    "id": "ann-crime-and-punishment-room-004",
+    "workId": "crime-and-punishment-room",
+    "segmentId": "seg-001",
+    "term": "公版原文",
+    "explanation": "依据项目记录的公版来源整理；中文译文为本项目配套译文。",
+    "type": "history"
+  }
+]

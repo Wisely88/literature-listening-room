@@ -1,0 +1,34 @@
+[
+  {
+    "id": "ann-walden-village-001",
+    "workId": "walden-village",
+    "segmentId": "seg-001",
+    "term": "瓦尔登湖·村庄",
+    "explanation": "作品标题所指的核心人物、事件或意象，需结合本段原文理解。",
+    "type": "allusion"
+  },
+  {
+    "id": "ann-walden-village-002",
+    "workId": "walden-village",
+    "segmentId": "seg-001",
+    "term": "亨利·戴维·梭罗",
+    "explanation": "本篇作品作者（亨利·戴维·梭罗），可参见作者页了解创作背景。",
+    "type": "person"
+  },
+  {
+    "id": "ann-walden-village-003",
+    "workId": "walden-village",
+    "segmentId": "seg-001",
+    "term": "散文随笔",
+    "explanation": "本篇的体裁分类，提示其叙事或论述方式。",
+    "type": "history"
+  },
+  {
+    "id": "ann-walden-village-004",
+    "workId": "walden-village",
+    "segmentId": "seg-001",
+    "term": "公版原文",
+    "explanation": "依据项目记录的公版来源整理；中文译文为本项目配套译文。",
+    "type": "history"
+  }
+]
