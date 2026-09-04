@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "workId": "walden-solitude",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-8%|pitch=-1Hz|voiceId=young-voice",
+  "voiceId": "young-voice",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T01:42:55.809Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/walden-solitude/seg-001-voice-young-voice.mp3",
+      "durationMs": 73992,
+      "checksum": "ee121c7baa8d75d00077730505b2428e1d05e74d6e2d636d768c3d14daa4744f",
+      "sourceHash": "5a15947cd4e2d02dfcc45d556a1925f6a8a418f78aa7e4066cd8a7e23beddf9b"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/walden-solitude/seg-002-voice-young-voice.mp3",
+      "durationMs": 216960,
+      "checksum": "bf1e25aa50ef030ec50fb8088f6233e1e5fc9b2a4e8f6103deb133f45c213a98",
+      "sourceHash": "01c6617f52ceb3e47ff3d493005482c537d469f587ed22f15868342c4176d871"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "workId": "qing-feng",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-8%|pitch=-1Hz|voiceId=young-voice",
+  "voiceId": "young-voice",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T01:07:59.540Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/qing-feng/seg-001-voice-young-voice.mp3",
+      "durationMs": 217920,
+      "checksum": "27d7d9c008b5fe8893ebe2889890db921b9239032b46a69ae06d3256a80fcd9d",
+      "sourceHash": "219c9aebc301292d3e0ade2858a6902ef436781b68a5d8f9b7b6d7b04bc18308"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/qing-feng/seg-002-voice-young-voice.mp3",
+      "durationMs": 194208,
+      "checksum": "5c7240e28f2bb61155e3d32cfa9fd1affb60534f9ce8d91a90fd2ae134987cdb",
+      "sourceHash": "3aadb645a423195c5123a586fdebbd7c1786709640bca69f892e7349252b6e87"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/qing-feng/seg-003-voice-young-voice.mp3",
+      "durationMs": 128112,
+      "checksum": "069452cd5556776e9dff8cefd0a16e690abc33f3162f64893076588f5f8924ce",
+      "sourceHash": "701c16f679684570da3fde7f80bbfe22fd8dc9b1a06f5c67c4edfabe35071e04"
+    }
+  ]
+}

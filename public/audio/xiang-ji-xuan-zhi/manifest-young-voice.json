@@ -1,0 +1,46 @@
+{
+  "version": 1,
+  "workId": "xiang-ji-xuan-zhi",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-8%|pitch=-1Hz|voiceId=young-voice",
+  "voiceId": "young-voice",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T01:56:33.300Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/xiang-ji-xuan-zhi/seg-001-voice-young-voice.mp3",
+      "durationMs": 49632,
+      "checksum": "0163b72756fbabe9638faf18939e0919eb758fa4b612d4cddad06a4544536d76",
+      "sourceHash": "14dd11e208096fbb93cb601d52bf20f14539636cd201506c59f9c665fa704cd4"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/xiang-ji-xuan-zhi/seg-002-voice-young-voice.mp3",
+      "durationMs": 84672,
+      "checksum": "b16d1ca3537c48e7687ca17c4e6ab09324e76f51b4d04fc0e48e7f98942af208",
+      "sourceHash": "7ada5749c721bcb13c0ea04c4279ac3794a20ffb9244f04ddfb9b5d5a469ab30"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/xiang-ji-xuan-zhi/seg-003-voice-young-voice.mp3",
+      "durationMs": 13872,
+      "checksum": "36376074327a6bd474598586b94405ad68a3d0255cdb369bf792b04cc637c266",
+      "sourceHash": "97bb4eb1343582b2583d5423f39c0a0b9c680000f4044a54fbf72f9f00299795"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/xiang-ji-xuan-zhi/seg-004-voice-young-voice.mp3",
+      "durationMs": 30000,
+      "checksum": "0c9419fd9c1f6969810b3acdf841d63c89f0d773187440fcb872d8dca71becc6",
+      "sourceHash": "cd8bd687a76c365094b55d0ce377ceeafbad185dfb2b1a3a664f23af1f24aa8d"
+    },
+    {
+      "id": "seg-005",
+      "url": "/audio/xiang-ji-xuan-zhi/seg-005-voice-young-voice.mp3",
+      "durationMs": 6600,
+      "checksum": "009aaa848c28def0e1770df1087dc332c875170fd0d3efa12026aa6f71771f7c",
+      "sourceHash": "2c4e78b77b05c96bdacf1172d9329134379bead4810e68338423347bd74cda60"
+    }
+  ]
+}

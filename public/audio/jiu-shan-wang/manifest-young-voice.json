@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "workId": "jiu-shan-wang",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-8%|pitch=-1Hz|voiceId=young-voice",
+  "voiceId": "young-voice",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T00:39:24.659Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/jiu-shan-wang/seg-001-voice-young-voice.mp3",
+      "durationMs": 306960,
+      "checksum": "0a0a6e060b934a2d836615fc18eb389f5669713b03502b0ae1d8d626449916ef",
+      "sourceHash": "1a08b53c8d78420708790c14641b955411b564f5fd145cb99272c436d3d51cd4"
+    }
+  ]
+}

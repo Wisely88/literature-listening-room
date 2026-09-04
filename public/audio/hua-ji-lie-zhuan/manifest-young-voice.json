@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "workId": "hua-ji-lie-zhuan",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-8%|pitch=-1Hz|voiceId=young-voice",
+  "voiceId": "young-voice",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T00:35:33.576Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/hua-ji-lie-zhuan/seg-001-voice-young-voice.mp3",
+      "durationMs": 23328,
+      "checksum": "47b1c55875b7f0493dcb42e6bc10347e5d0270527a9e3eca42f20e80715131ab",
+      "sourceHash": "48d1f2848f4484afa1eab3588750462c106de5d4061928694c5c4f5f646d01ca"
+    }
+  ]
+}

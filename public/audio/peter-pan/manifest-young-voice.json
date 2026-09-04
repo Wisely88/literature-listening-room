@@ -1,0 +1,95 @@
+{
+  "version": 1,
+  "workId": "peter-pan",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-8%|pitch=-1Hz|voiceId=young-voice",
+  "voiceId": "young-voice",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T01:03:47.779Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/peter-pan/seg-001-voice-young-voice.mp3",
+      "durationMs": 41880,
+      "checksum": "f6ecdeaef3ce88872908937a149005a09c1afc3b91fa30870e28e3b7da1cc6d8",
+      "sourceHash": "d4690512af860f6efc3daebee4a930e8d9ac1af9896fc482b328f297dc994b18"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/peter-pan/seg-002-voice-young-voice.mp3",
+      "durationMs": 30624,
+      "checksum": "798c0d559e8a00d68ad276f106f8767bc6af80fb0a58a9f6bd442fe95cc0211b",
+      "sourceHash": "d8a9f3616d5b72edd38272f8912b1649602438fb6788fc26e2e5531aa2f7592d"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/peter-pan/seg-003-voice-young-voice.mp3",
+      "durationMs": 34944,
+      "checksum": "e3dbbc2d66fa18e24d5e9c9882f713d9cccbe0924013e74f8c0aa210fe8509a9",
+      "sourceHash": "e9fae85e862bdac3395317e2f504ae100a6325bd76bb7c4da591ede4343c3158"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/peter-pan/seg-004-voice-young-voice.mp3",
+      "durationMs": 21336,
+      "checksum": "be468eecc22a355ae23b0a97bf75f6812d341abb59a3d14a916306c38832e6d6",
+      "sourceHash": "c44dbd3d61c96648e3bff59e1c20120e68daa9ee195bf5bf582172827868c54f"
+    },
+    {
+      "id": "seg-005",
+      "url": "/audio/peter-pan/seg-005-voice-young-voice.mp3",
+      "durationMs": 23496,
+      "checksum": "8317f5f3905d005ecd4b5cbfef0683ffb4f3f4dd7600ec471d8aa6ded42b676f",
+      "sourceHash": "9a8f2fc00071fa3c0882dc91bc162b8461cc83e698c06e1c65b05d8dff876466"
+    },
+    {
+      "id": "seg-006",
+      "url": "/audio/peter-pan/seg-006-voice-young-voice.mp3",
+      "durationMs": 4560,
+      "checksum": "627d3d23efa73870079a9d9ed0990f2f71c6cd74e7e95c6b56d2d7355f5db719",
+      "sourceHash": "882f73f7cd563e67e94be5c842ce12c8af70e69dde13eed7b869c34d887fefcc"
+    },
+    {
+      "id": "seg-007",
+      "url": "/audio/peter-pan/seg-007-voice-young-voice.mp3",
+      "durationMs": 30984,
+      "checksum": "fc0a8895735111374a4f36f593cecd3fa1653efa568e0e1282dfdf110e5d628e",
+      "sourceHash": "3d5df8ed681e32bddefc0a59ac0fcb90861d2f8d31ce9d11e501980e594b8b51"
+    },
+    {
+      "id": "seg-008",
+      "url": "/audio/peter-pan/seg-008-voice-young-voice.mp3",
+      "durationMs": 3504,
+      "checksum": "a6a782e155039c1f4006b05af482ad86ccd33ceeb37f175ff3b2dba32f6d1e6c",
+      "sourceHash": "a2f652636e0f230fae810bb80050001c6a4b2e969ad39cb679b71e301c65a82b"
+    },
+    {
+      "id": "seg-009",
+      "url": "/audio/peter-pan/seg-009-voice-young-voice.mp3",
+      "durationMs": 45768,
+      "checksum": "60eade4f3b6d25146f50985cfbdfa5e6d44a77fc4ff7b00f3c3182b8ffb843e6",
+      "sourceHash": "cd9ec6b9e02513e8b3bbe67969760db8d2d3bbc77072b973d23847c2c0de4568"
+    },
+    {
+      "id": "seg-010",
+      "url": "/audio/peter-pan/seg-010-voice-young-voice.mp3",
+      "durationMs": 9408,
+      "checksum": "9cdd7f3d5ffa72e20c38ab5d2774f83a19a914f4d91c744109d07967d1d043bb",
+      "sourceHash": "9d64adae6d9704f04141467039c09f67ea971c47a6560256a6707f4b401316f9"
+    },
+    {
+      "id": "seg-011",
+      "url": "/audio/peter-pan/seg-011-voice-young-voice.mp3",
+      "durationMs": 35208,
+      "checksum": "90968cdd9562bc11226187cc0d7ca45e214161d79aaf5b6d827316dd880130b7",
+      "sourceHash": "f9a008a590b9f5b85402a3272e1a255a922ad16f10ada638c9464c7b1274d1b1"
+    },
+    {
+      "id": "seg-012",
+      "url": "/audio/peter-pan/seg-012-voice-young-voice.mp3",
+      "durationMs": 16224,
+      "checksum": "896234ff7e0c9ed4b5177dd342bfb7ef14a81061f700ac3bd9579970919ea963",
+      "sourceHash": "efe45b1827ce3ebe677f34f038394359d00a7847fe7be9d2f78771b81fd24c7b"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "workId": "zhuang-zi-yang-sheng-zhu",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-8%|pitch=-1Hz|voiceId=young-voice",
+  "voiceId": "young-voice",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T02:13:53.060Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/zhuang-zi-yang-sheng-zhu/seg-001-voice-young-voice.mp3",
+      "durationMs": 17184,
+      "checksum": "72fed698f72ef607bcd078ca0513af9d3e02c12c4e44079584eff0cb9e8e72f9",
+      "sourceHash": "e276c5f1e2b10d30dc90baf6e4984c4cf8e42c16b1451772730c1951738691ef"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/zhuang-zi-yang-sheng-zhu/seg-002-voice-young-voice.mp3",
+      "durationMs": 18144,
+      "checksum": "15fe1883f0f20b21eb75ce61acd61346f607b51a9cc80ce40de53122fc1edc40",
+      "sourceHash": "e6c5c4586cea4dd3033533c783011165f316c6a6ef6f370798c031d1f0fab56b"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/zhuang-zi-yang-sheng-zhu/seg-003-voice-young-voice.mp3",
+      "durationMs": 15072,
+      "checksum": "d54fa6867b553cf9c20e40495169028b80b7b94ddafa09f5b0c611a55bfa88fd",
+      "sourceHash": "397069875c893c4c7abbcd9865b9b3da67bea270cf22fd3acf912690aa8c7c21"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/zhuang-zi-yang-sheng-zhu/seg-004-voice-young-voice.mp3",
+      "durationMs": 11640,
+      "checksum": "9d1cb7b8e3cf0d4f64313a9e66575e029adb5f659df0c383204c34a6312df9c3",
+      "sourceHash": "9171c173a0085bd481867a5ad8a24bf4e15e9a5a256bc2b285b8aca2a8aab557"
+    }
+  ]
+}

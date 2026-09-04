@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "workId": "ya-tou",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-8%|pitch=-1Hz|voiceId=young-voice",
+  "voiceId": "young-voice",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T02:05:13.076Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/ya-tou/seg-001-voice-young-voice.mp3",
+      "durationMs": 226848,
+      "checksum": "416a8979d9a1c1339fb5a3994344ee8818acaea079889e0d1b018f34fd4e1217",
+      "sourceHash": "616d691813081c412a453fd654090c982fd555cff9080846d6aea0fcc60dab56"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/ya-tou/seg-002-voice-young-voice.mp3",
+      "durationMs": 151272,
+      "checksum": "2fd342b8bb2783c7db573db20403221260b74ca970c438652ad18f357dd98b14",
+      "sourceHash": "1c2a95c1126178cded0c1b1156018ad0fddad5e18e9dbbfac322e1c7d2b0a382"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/ya-tou/seg-003-voice-young-voice.mp3",
+      "durationMs": 262224,
+      "checksum": "d4448cfbf95912677b4c3f3bf4c76cf3b7fd4ae5ce81a49210ec7fa9ca715d0e",
+      "sourceHash": "19360129623d97a6e67706e8195916420c21f9793a54daa0cd4df6a1f193dba7"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/ya-tou/seg-004-voice-young-voice.mp3",
+      "durationMs": 21552,
+      "checksum": "3d596446247fb39d4857266d6daa6a04d9f9c74613eff11d4708c62460d2407c",
+      "sourceHash": "665b9e13c44621493f31894ff2db26ad9a474d4aa70c606c08cd801a4171ed6b"
+    }
+  ]
+}

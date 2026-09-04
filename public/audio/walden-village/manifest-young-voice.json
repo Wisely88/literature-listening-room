@@ -1,0 +1,53 @@
+{
+  "version": 1,
+  "workId": "walden-village",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-8%|pitch=-1Hz|voiceId=young-voice",
+  "voiceId": "young-voice",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T01:44:27.908Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/walden-village/seg-001-voice-young-voice.mp3",
+      "durationMs": 13824,
+      "checksum": "9183a4a7a54212244fb7d9e0e053424fd0afd0d9592c63b3d6ef9d998c2ffd85",
+      "sourceHash": "0a55c727f19d1bb018cd51721e11e8cd5312b03eb6c6b9a55e241cacd48d74c8"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/walden-village/seg-002-voice-young-voice.mp3",
+      "durationMs": 10992,
+      "checksum": "6d3116c563e754f485600925f04563f108721f617b043ba9f69a18ec8c99bfd9",
+      "sourceHash": "85ace344e148a1a167e772b7066c5ba97bed65aea3425fbb6c62ecbd1c5909b2"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/walden-village/seg-003-voice-young-voice.mp3",
+      "durationMs": 13032,
+      "checksum": "d73e3a43d49a37f0a80e6bb8816c8c94d6411cce19d3d2966f4017546dba05d6",
+      "sourceHash": "7202c6890f0817605fb0e25d001d5923730c8f12906a902374d11cfa37373497"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/walden-village/seg-004-voice-young-voice.mp3",
+      "durationMs": 11952,
+      "checksum": "7475e0f9748736fc86d93eaf5510bddc475ec893d4ab955dce7537dadc60b27b",
+      "sourceHash": "420a1f01db7053fad957198443f2f30700080db0159387b096c2ec09dc94f0a9"
+    },
+    {
+      "id": "seg-005",
+      "url": "/audio/walden-village/seg-005-voice-young-voice.mp3",
+      "durationMs": 12840,
+      "checksum": "30d183dcf3d87e648c57d39233bd3c4490c27b597d365ee1e7bbb3d21f0664a5",
+      "sourceHash": "8bb3a12b88706cff6361ebac59b3f9fbb347a9e9baf6bdc481828de6e60188a5"
+    },
+    {
+      "id": "seg-006",
+      "url": "/audio/walden-village/seg-006-voice-young-voice.mp3",
+      "durationMs": 54360,
+      "checksum": "f127af8fb0536a6d88dce2284349375c96199f93fada92f9f293765233619d14",
+      "sourceHash": "e516744649e91ef78408a109d60c88ccc5d74a8d86e55b2eadfe793b925e4dff"
+    }
+  ]
+}

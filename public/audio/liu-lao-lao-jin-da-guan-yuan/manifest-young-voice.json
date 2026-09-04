@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "workId": "liu-lao-lao-jin-da-guan-yuan",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-8%|pitch=-1Hz|voiceId=young-voice",
+  "voiceId": "young-voice",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T00:51:21.933Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/liu-lao-lao-jin-da-guan-yuan/seg-001-voice-young-voice.mp3",
+      "durationMs": 347712,
+      "checksum": "ca4ece2f08b8a0886f5c41fae7c5ee29921ce5bfe095b339ef910b13cb0f8929",
+      "sourceHash": "cb47dde813b8177d51577ec9e16fc6ce92eabe384dc349fb0fb77ad073ce968c"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/liu-lao-lao-jin-da-guan-yuan/seg-002-voice-young-voice.mp3",
+      "durationMs": 325056,
+      "checksum": "04e2aaea0d19747beec6d48712323450f77cfe87b611aec36e346cea02e3e67e",
+      "sourceHash": "a9a5dcd36a6cd4717ea0b27b9a078c59a88af47b3d0a6fddbbed8c75bcb67991"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/liu-lao-lao-jin-da-guan-yuan/seg-003-voice-young-voice.mp3",
+      "durationMs": 311616,
+      "checksum": "ecf76c69e0a0790ebc0f503566fb4289556e857370c91d804339feff246afad7",
+      "sourceHash": "82407b8d42f85bf3aebb490124674991a3e5b331708a3dcf1e73221cde9914ed"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/liu-lao-lao-jin-da-guan-yuan/seg-004-voice-young-voice.mp3",
+      "durationMs": 292344,
+      "checksum": "404088c646980ff32c6f3eaebd7621918bd77a76246bc1bc5b2c787e7cb08844",
+      "sourceHash": "0d132d2a2cd8b72b059f3271be7674580e56758325a06905847a3af29053329a"
+    },
+    {
+      "id": "seg-005",
+      "url": "/audio/liu-lao-lao-jin-da-guan-yuan/seg-005-voice-young-voice.mp3",
+      "durationMs": 276048,
+      "checksum": "f2b93abe55033f94bbce7ead8c83ab6868ec5836bd7a65ccecbe33f1e4b7a948",
+      "sourceHash": "f3c2ab70ac8bbf155cf1e2487f14b1a959ecf7e66cbe715cb4f2ca20271d7c7c"
+    },
+    {
+      "id": "seg-006",
+      "url": "/audio/liu-lao-lao-jin-da-guan-yuan/seg-006-voice-young-voice.mp3",
+      "durationMs": 234672,
+      "checksum": "f5c5057edd50049278e6cb6f355e75b24fdae6efde4b6beef234e2706a8c7c52",
+      "sourceHash": "d324ca93046afcd99dc996f854e4b23fad43cec6201841d608c410c003bc7484"
+    },
+    {
+      "id": "seg-007",
+      "url": "/audio/liu-lao-lao-jin-da-guan-yuan/seg-007-voice-young-voice.mp3",
+      "durationMs": 155424,
+      "checksum": "ac644b2d127420c9a88ebb6e22b6aaf86e32b5d94e939079fcddec3b785bbd99",
+      "sourceHash": "7a55c60e4686735d0a85f695e79b23071e4a4a5815bedc59f33b144c0fddc3c5"
+    }
+  ]
+}

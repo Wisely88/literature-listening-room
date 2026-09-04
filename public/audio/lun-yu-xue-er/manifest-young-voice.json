@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "workId": "lun-yu-xue-er",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-8%|pitch=-1Hz|voiceId=young-voice",
+  "voiceId": "young-voice",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T00:55:04.500Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/lun-yu-xue-er/seg-001-voice-young-voice.mp3",
+      "durationMs": 10944,
+      "checksum": "8c7ef27f5d39dbd6ab4b18125bd752bf103edabce3f5fe4e55a25195f7e91fab",
+      "sourceHash": "d2ba771a3e5d5c754ea43c29c370131e26bec70252e401f2aa6630bfd8246ea0"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/lun-yu-xue-er/seg-002-voice-young-voice.mp3",
+      "durationMs": 16296,
+      "checksum": "cc1b0b1670da903c91bb8828cba1fe51107466c098da92d53dac73721fb76806",
+      "sourceHash": "f63d539d0afe209b5983e7cc20a8a80e1d83318efc0bbf9c0ee78e7ad257d6d6"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/lun-yu-xue-er/seg-003-voice-young-voice.mp3",
+      "durationMs": 4296,
+      "checksum": "2efc6fc55545c815270b8c9ff3f18b7e775cb6fcb59b500adb8f0c795f804c46",
+      "sourceHash": "fb84bd86b18f5d0a54486ecf5e5dd4b3f4bd4721e296f2e890eb3f60b82b64cd"
+    }
+  ]
+}

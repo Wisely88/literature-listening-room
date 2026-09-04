@@ -1,0 +1,67 @@
+{
+  "version": 1,
+  "workId": "walden-spring",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-8%|pitch=-1Hz|voiceId=young-voice",
+  "voiceId": "young-voice",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T01:43:57.154Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/walden-spring/seg-001-voice-young-voice.mp3",
+      "durationMs": 122184,
+      "checksum": "589de81c034d62547b60c5612963a23453d36d46a1cb4cf8cb36b017dcc9da1a",
+      "sourceHash": "2dbd9833b535a8dc6bb4d827491b4b62d0363ad8bfb0c225435ea2c373d1ab93"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/walden-spring/seg-002-voice-young-voice.mp3",
+      "durationMs": 43104,
+      "checksum": "fa8eda425ac6945999ea5dfc172e86e4359d7db0845b435b6279c6a8d313e9c9",
+      "sourceHash": "9979ec1eda2a76be7464f25ccf76d54e2666b6cfe1a1a5c0bf50548feaf3352e"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/walden-spring/seg-003-voice-young-voice.mp3",
+      "durationMs": 52584,
+      "checksum": "3b0859cbe6124fb27542a3165bd04f7834d344edeacec474710f7b3449e56309",
+      "sourceHash": "7c0d071e922a68da986a584ac7e0860d45b0bb0ff5ff228454ced1a4d4de6ca6"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/walden-spring/seg-004-voice-young-voice.mp3",
+      "durationMs": 9312,
+      "checksum": "c884329b086293ce921c689998d905ad753f1f6cf447f563b6fbc9bf6ca542df",
+      "sourceHash": "382fcfaa55da2e1d45869adfcf2687affeab13bc0a0e270f4e59c644455bfe08"
+    },
+    {
+      "id": "seg-005",
+      "url": "/audio/walden-spring/seg-005-voice-young-voice.mp3",
+      "durationMs": 2376,
+      "checksum": "d5d162985e6d18ae511df88d6f003cf12c37fe84ffd1886417c114c164073be8",
+      "sourceHash": "7dfc87cdc59e520f1c7708ec660782e4dbf2c1fceb7d2a5d84e9bf2ec0209501"
+    },
+    {
+      "id": "seg-006",
+      "url": "/audio/walden-spring/seg-006-voice-young-voice.mp3",
+      "durationMs": 7416,
+      "checksum": "6a363a6b2ef97f4251f55a65aa924e9b0460c62d54c3c658ddffc5a3bb71e2b0",
+      "sourceHash": "fc0a9f2129af88cc7228890ed09a36e86db5401dead25ec9c8838bd30fab4ee5"
+    },
+    {
+      "id": "seg-007",
+      "url": "/audio/walden-spring/seg-007-voice-young-voice.mp3",
+      "durationMs": 16056,
+      "checksum": "d9064a9b1937606abf159e90381493ce503c39dad886f5beb3612fae52e2d0b5",
+      "sourceHash": "c6f7e849b4e8f1fa71491dd00312ab61f6a0815ecb88cf3a1f1dc67582d5ca10"
+    },
+    {
+      "id": "seg-008",
+      "url": "/audio/walden-spring/seg-008-voice-young-voice.mp3",
+      "durationMs": 10368,
+      "checksum": "5ce7defd13a1079e7fb65ed2da410b4e6e6e779a781d68568b555745922996f6",
+      "sourceHash": "be9b45435f0ad734acff06bda37251faa6085631e15a7f005a4546162f8cf435"
+    }
+  ]
+}

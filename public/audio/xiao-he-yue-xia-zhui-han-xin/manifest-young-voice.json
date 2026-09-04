@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "workId": "xiao-he-yue-xia-zhui-han-xin",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-8%|pitch=-1Hz|voiceId=young-voice",
+  "voiceId": "young-voice",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T01:57:30.658Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/xiao-he-yue-xia-zhui-han-xin/seg-001-voice-young-voice.mp3",
+      "durationMs": 11400,
+      "checksum": "0c4701dddefd1c169f2a2b644f540643da86cbae8a40ee79e3a74f66a1ec0f4a",
+      "sourceHash": "1cd624a31c46be16920e8304943b911504b09919ec87297aa546fa042ddc9ce0"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/xiao-he-yue-xia-zhui-han-xin/seg-002-voice-young-voice.mp3",
+      "durationMs": 22560,
+      "checksum": "75fb31f833a911020f8184c158179a3af8ddd0c1546135b2fc37464f48376812",
+      "sourceHash": "9a6faf9a265334ec918be8079cef5c0f823a4df4145a950ed07b25f41d8eb956"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/xiao-he-yue-xia-zhui-han-xin/seg-003-voice-young-voice.mp3",
+      "durationMs": 25968,
+      "checksum": "f9792558b25578fe6eeef04037ee710929d4df7404221ece9a8b7dab1b3f0e0f",
+      "sourceHash": "602fd1dfe7c5ccb57ea4776f171adbaf90f390b9dcc1d61abf5dbc118549155f"
+    }
+  ]
+}

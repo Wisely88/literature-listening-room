@@ -1,0 +1,46 @@
+{
+  "version": 1,
+  "workId": "zheng-ban-qiao-zhi-zhu",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-8%|pitch=-1Hz|voiceId=young-voice",
+  "voiceId": "young-voice",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T02:10:09.056Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/zheng-ban-qiao-zhi-zhu/seg-001-voice-young-voice.mp3",
+      "durationMs": 19752,
+      "checksum": "15b2ba7c475af47243c3d399e29cda0d20b25ee0d9aa70ef6eb0ab0f81c536e6",
+      "sourceHash": "acfd895ebb14c8beea64874e26f76099966742044907c340fa2a912c9207f806"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/zheng-ban-qiao-zhi-zhu/seg-002-voice-young-voice.mp3",
+      "durationMs": 17136,
+      "checksum": "5e570bc28d9175fd1521ff2a91b8d3ea8a6dea4b2ac101dec5cdcf38770902b4",
+      "sourceHash": "f44293267620d00e09eedac89cc6bb2c1ca6ec63e375ef1975355cc2cf84c8cb"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/zheng-ban-qiao-zhi-zhu/seg-003-voice-young-voice.mp3",
+      "durationMs": 109032,
+      "checksum": "4fd261df6dca1799da5f934f6119f49b2f7b15440c5b28eacd54072cc04b0ab7",
+      "sourceHash": "498a72898a4f81683d13895e97d36872e54ff8d800fc33c49659b4b7080b8a10"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/zheng-ban-qiao-zhi-zhu/seg-004-voice-young-voice.mp3",
+      "durationMs": 24264,
+      "checksum": "1bf11b16c7a2ca62950403a661ec5aeda67b169c0e5397703ea1ec5fded1e592",
+      "sourceHash": "223c029477c934af0aaebfbf67fc35372645b4d06485b823b04f2ba34f221f9a"
+    },
+    {
+      "id": "seg-005",
+      "url": "/audio/zheng-ban-qiao-zhi-zhu/seg-005-voice-young-voice.mp3",
+      "durationMs": 3720,
+      "checksum": "93439f7b76b3ef01e0026a4357c37888a66a7d9ef143404e3a653116dc9cbc91",
+      "sourceHash": "18968722d1c3a9ab813ce28636f61bbbe19c36b941dfdf9c39483899ffe2b8f0"
+    }
+  ]
+}

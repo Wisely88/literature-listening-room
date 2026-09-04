@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "workId": "shui-hu-chuan-wu-song-da-hu",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-8%|pitch=-1Hz|voiceId=young-voice",
+  "voiceId": "young-voice",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T01:20:47.373Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/shui-hu-chuan-wu-song-da-hu/seg-001-voice-young-voice.mp3",
+      "durationMs": 18984,
+      "checksum": "36e60f008ffc4d8d53bd20b74f5a09c03ceb357367954fb68307a97852a67c66",
+      "sourceHash": "148390a64af7adeac9030a6948bd353375e15886d7615e44b78959b9f7e853b5"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/shui-hu-chuan-wu-song-da-hu/seg-002-voice-young-voice.mp3",
+      "durationMs": 17040,
+      "checksum": "bc49f0b70b2a9bfc610a11f8237aa9177c879071493f7a9c47651f924c8dd302",
+      "sourceHash": "ecf24febad5be083dd8a412890706bb5a29919a6da503800a3effe3071fa7e67"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/shui-hu-chuan-wu-song-da-hu/seg-003-voice-young-voice.mp3",
+      "durationMs": 22056,
+      "checksum": "2beab724950c3632804e00f7de9c665d9e8936c254a53af107a0a5db1a484179",
+      "sourceHash": "98b1c402cab3e8b4bb99002e2083c6ce52cca2a7faee12f255afa6e3268598b1"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/shui-hu-chuan-wu-song-da-hu/seg-004-voice-young-voice.mp3",
+      "durationMs": 16368,
+      "checksum": "7a1b718ceebe94436f0376ed541e9c3fbd38cf62ccc64ba59d590ecea3aa4917",
+      "sourceHash": "c3859972f2b36a304925cc0a6825e2898574c1ac005d648b5a8b59c2584120ce"
+    },
+    {
+      "id": "seg-005",
+      "url": "/audio/shui-hu-chuan-wu-song-da-hu/seg-005-voice-young-voice.mp3",
+      "durationMs": 20544,
+      "checksum": "92e56e97944284d704b9a33bed5dcdc20eb61d3ff9961f098093cd6cabef9a3f",
+      "sourceHash": "5f9a242faf75f7d9b5457ef6f9055532016c8064c7c026f779ef18ddb1635e6f"
+    },
+    {
+      "id": "seg-006",
+      "url": "/audio/shui-hu-chuan-wu-song-da-hu/seg-006-voice-young-voice.mp3",
+      "durationMs": 22104,
+      "checksum": "218f4c462e2f625ed66266959e978a3bc7fa909e9892e0b2c52f750df8bd3767",
+      "sourceHash": "a53a5d8cbc24c3fce7e0cfdd40344adee8d4f89a1248da76c39b90fdfab0aead"
+    },
+    {
+      "id": "seg-007",
+      "url": "/audio/shui-hu-chuan-wu-song-da-hu/seg-007-voice-young-voice.mp3",
+      "durationMs": 25392,
+      "checksum": "3603f87f2d444fc7db2651b31affb95bd24b3bb1d82748262672b36da1cefade",
+      "sourceHash": "e9dda09cd3a7f85f2d34e0ab01720578e360424d14c727b50e4a1e10bd7e82b0"
+    },
+    {
+      "id": "seg-008",
+      "url": "/audio/shui-hu-chuan-wu-song-da-hu/seg-008-voice-young-voice.mp3",
+      "durationMs": 28656,
+      "checksum": "187020afe1737f697388ebdb953a89f0b0f0b74607f3d25869f1c771d1863ca1",
+      "sourceHash": "6da8ccf752c67904146fd32268fe9d063a3e955be54d9d6a8470d6ff9620742e"
+    },
+    {
+      "id": "seg-009",
+      "url": "/audio/shui-hu-chuan-wu-song-da-hu/seg-009-voice-young-voice.mp3",
+      "durationMs": 28608,
+      "checksum": "911bc4b308401db2a726988b13b23dd204b7a826b9e3e7c02ea9c70ed2dc087d",
+      "sourceHash": "e7f9271c638be63f59d92eb4651558b8f2359063a8c3c0ebca19fc55fa8a46bf"
+    },
+    {
+      "id": "seg-010",
+      "url": "/audio/shui-hu-chuan-wu-song-da-hu/seg-010-voice-young-voice.mp3",
+      "durationMs": 25320,
+      "checksum": "7490b2acbcfc3e2f440ed131b63abb4367b101ac97d16a5f9f8ff2d8f07d5bcd",
+      "sourceHash": "1e081ce4188b0f3e3a7185498017be3c731c8bf48fe5a8aa4bd05e1f716e22f0"
+    },
+    {
+      "id": "seg-011",
+      "url": "/audio/shui-hu-chuan-wu-song-da-hu/seg-011-voice-young-voice.mp3",
+      "durationMs": 20736,
+      "checksum": "ff20b237bf2a0fe836e5e7f3b056bd8953c7474f94ba4b75ff7ec4fabcf4c65a",
+      "sourceHash": "bddf09098e6460f64bf9c0037793bc5a961241736d57139313b0603e557582a3"
+    }
+  ]
+}

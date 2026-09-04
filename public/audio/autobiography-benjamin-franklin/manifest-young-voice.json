@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "workId": "autobiography-benjamin-franklin",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-8%|pitch=-1Hz|voiceId=young-voice",
+  "voiceId": "young-voice",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T00:15:13.590Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/autobiography-benjamin-franklin/seg-001-voice-young-voice.mp3",
+      "durationMs": 59808,
+      "checksum": "aeab3e4e90f715508f9c652aa8a81399be12d6fd7668a98cd492b5cb94bb805d",
+      "sourceHash": "30a935838d4655005093f8bc70384b3b81932a61a903d7764845eb634f8a36fd"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/autobiography-benjamin-franklin/seg-002-voice-young-voice.mp3",
+      "durationMs": 29112,
+      "checksum": "718f91e698680af77d0ab29e63a599e140f1080c267f9c2c3da18ffd12697892",
+      "sourceHash": "8b02f4ebf0f7eaab533c1156c03985bbd062e2cd84f9908f3c306880ef8469eb"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/autobiography-benjamin-franklin/seg-003-voice-young-voice.mp3",
+      "durationMs": 35496,
+      "checksum": "f22cfd21953b1be8006982fcd505da6faeceb2849e3bd04f89e7f22eedd871be",
+      "sourceHash": "d251546eec3b3d69ab32ed25961edda0c383218fc64bdd0e4c22158a804c5bbf"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/autobiography-benjamin-franklin/seg-004-voice-young-voice.mp3",
+      "durationMs": 27288,
+      "checksum": "e14c4646e5e8133e1408815a14757abe439fa077c41650f3a7e729ed803afeb3",
+      "sourceHash": "2b3bd928a08c5d107bacbad0854ae146226ae1278a2a0e0a1a39a169f0dcf82b"
+    },
+    {
+      "id": "seg-005",
+      "url": "/audio/autobiography-benjamin-franklin/seg-005-voice-young-voice.mp3",
+      "durationMs": 33528,
+      "checksum": "17110e1a05c5304a0569bbab3b1e43800bbcf52dbedd95d8b4c598f0ffd811e8",
+      "sourceHash": "75e3474511a734259682031466eed70c4b5e1fc38da70c7514ecc480f9619007"
+    },
+    {
+      "id": "seg-006",
+      "url": "/audio/autobiography-benjamin-franklin/seg-006-voice-young-voice.mp3",
+      "durationMs": 18264,
+      "checksum": "e4966637d8c162596463c8beb99ea4a790c9a91286ef59f9c628bf466fdf0e63",
+      "sourceHash": "9e99415b754805b3e4f1e035aea4f4b5c34edf1ed1cdedb5c07d3be00ea430d3"
+    },
+    {
+      "id": "seg-007",
+      "url": "/audio/autobiography-benjamin-franklin/seg-007-voice-young-voice.mp3",
+      "durationMs": 12480,
+      "checksum": "406ab600a45c624e949356026707e4b360aa18ab79cf4ba8131bb3eb9df87a7e",
+      "sourceHash": "40e1615e896a7a2e59940265c9e817ca50999155564ffd2f9fdbeb21938d5d85"
+    }
+  ]
+}

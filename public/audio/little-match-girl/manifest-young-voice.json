@@ -1,0 +1,81 @@
+{
+  "version": 1,
+  "workId": "little-match-girl",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-8%|pitch=-1Hz|voiceId=young-voice",
+  "voiceId": "young-voice",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T00:49:05.240Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/little-match-girl/seg-001-voice-young-voice.mp3",
+      "durationMs": 58056,
+      "checksum": "c84ecdc948e5c673db1eecddaeed8cef7a6377f40ca8dc049b68c9c84e839710",
+      "sourceHash": "88d4eb40754a9d6ef9787524f08845e29bfe124cc943a3821bed143a69556905"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/little-match-girl/seg-002-voice-young-voice.mp3",
+      "durationMs": 6840,
+      "checksum": "a4e52c148b990a780e053fc8c461e6c9d5bf38e44b27fb3f07c93ef38468e0a1",
+      "sourceHash": "c407d589382b2fb80b2da3bdc98e2bd71ab235ce2e5681805552d134e1d90670"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/little-match-girl/seg-003-voice-young-voice.mp3",
+      "durationMs": 19896,
+      "checksum": "9f19229da9968f5673c7d7d8199430157ab9cffa1dd4537c965b72f3f780990e",
+      "sourceHash": "18cc103f29adb6523de75078ca55febdfe43c44a8ab26c0044433b9d1699a71a"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/little-match-girl/seg-004-voice-young-voice.mp3",
+      "durationMs": 26736,
+      "checksum": "272daef91ac1e32fd11cc031e702773d05357610a59293e36658103eadb481f0",
+      "sourceHash": "41c56c655dbb456b2ee69286cd5c5580473ce0f65f2b76136a3057dc1e47ac8a"
+    },
+    {
+      "id": "seg-005",
+      "url": "/audio/little-match-girl/seg-005-voice-young-voice.mp3",
+      "durationMs": 44808,
+      "checksum": "13b76ed64bf9520a6f0616801cb0574e73269a82d1203a79d52e74269bf57eed",
+      "sourceHash": "b54296f72ad56bd9fecb8c1ba217619e4f74058807607c4c5466e111427fc5b8"
+    },
+    {
+      "id": "seg-006",
+      "url": "/audio/little-match-girl/seg-006-voice-young-voice.mp3",
+      "durationMs": 36168,
+      "checksum": "5111b79892935378ab7c33da1697d33232dd53caf7ee17f4213ba9357c594f5e",
+      "sourceHash": "79d566cbadabf48d79015cc4e251030a07469617afa5682bf4c761bbe7bb1ee4"
+    },
+    {
+      "id": "seg-007",
+      "url": "/audio/little-match-girl/seg-007-voice-young-voice.mp3",
+      "durationMs": 11712,
+      "checksum": "dd0c4c9069d91d0f0866c074d77e9973e752121741d9ae5252956f3b429145fa",
+      "sourceHash": "d83baf9a2c43e97ff515ed7c4690fb49bc2af2b086305731a6751302af80b34a"
+    },
+    {
+      "id": "seg-008",
+      "url": "/audio/little-match-girl/seg-008-voice-young-voice.mp3",
+      "durationMs": 21504,
+      "checksum": "273d01447f1471ebd81f93c940939c99512fd988b11e6cf76489b3e2d1357d40",
+      "sourceHash": "42d9561dd668b8dc8575155107ba8a1e9d757203cc9b9b35840480c483c6e0c3"
+    },
+    {
+      "id": "seg-009",
+      "url": "/audio/little-match-girl/seg-009-voice-young-voice.mp3",
+      "durationMs": 13560,
+      "checksum": "add39037524b40081c07abd7caba6b06ae433416bc965695797598fd63407149",
+      "sourceHash": "7fdb2824d73243e943941cdcbb93bdbb3fd4edfc1d2fb9bd53a1873cd637847e"
+    },
+    {
+      "id": "seg-010",
+      "url": "/audio/little-match-girl/seg-010-voice-young-voice.mp3",
+      "durationMs": 12984,
+      "checksum": "0b32db853f98cf86436c90d01445bf2b6ba46fd78f084793f0a9a5d43dcb8fac",
+      "sourceHash": "246cbe98b280e58fabf210fc00617bdbe88262605aef44b95dbf6ee5018135d0"
+    }
+  ]
+}

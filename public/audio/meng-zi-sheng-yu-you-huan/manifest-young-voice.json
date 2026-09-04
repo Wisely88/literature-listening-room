@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "workId": "meng-zi-sheng-yu-you-huan",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-8%|pitch=-1Hz|voiceId=young-voice",
+  "voiceId": "young-voice",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T00:57:33.744Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/meng-zi-sheng-yu-you-huan/seg-001-voice-young-voice.mp3",
+      "durationMs": 10800,
+      "checksum": "bb579e996dc43c83b7e1ab7fe791c5ee917ed2b4fcae39197ebf69be188d9118",
+      "sourceHash": "3cfe123660a3a7b13b30481fb829bb89b9f79dfde5e36a62a61e7e5782b94ab4"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/meng-zi-sheng-yu-you-huan/seg-002-voice-young-voice.mp3",
+      "durationMs": 13200,
+      "checksum": "432879e8296d395c34cf0b3bbeb438c07070f35abaa11fe6babb068f324a9fb1",
+      "sourceHash": "7e53aa64f53ed6ae4376c153507a2e9115af51835ed9b1653636674d32e1c9f7"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/meng-zi-sheng-yu-you-huan/seg-003-voice-young-voice.mp3",
+      "durationMs": 15216,
+      "checksum": "1a4ceef13ccd55078a4984d509bfd2be4324150d09d1abceb5aafee26a64cf49",
+      "sourceHash": "578ad40b41c2e13d42051875519d45d7750a104e62eea6237ea2dd14f9f3d4ae"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/meng-zi-sheng-yu-you-huan/seg-004-voice-young-voice.mp3",
+      "durationMs": 3984,
+      "checksum": "b59d81d76851cf00f7ad03f9fb8c7b21de536130557e6a23532d0e644e4e24bd",
+      "sourceHash": "7b710cc75f0ac38be1baba4ef2ab4bfe466eb8660d4c622ba133f683d1472e97"
+    }
+  ]
+}

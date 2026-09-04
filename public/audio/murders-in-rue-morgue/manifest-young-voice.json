@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "workId": "murders-in-rue-morgue",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-8%|pitch=-1Hz|voiceId=young-voice",
+  "voiceId": "young-voice",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T00:58:30.547Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/murders-in-rue-morgue/seg-001-voice-young-voice.mp3",
+      "durationMs": 48672,
+      "checksum": "710d04d13c59f91d211fa8fbb91bfa608963ac7f5117df4db72e8d1ab36512ce",
+      "sourceHash": "ec8ac5b174511394836efee42b85c7a986f5e5ac7a51fbcb7711edb3baaef280"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/murders-in-rue-morgue/seg-002-voice-young-voice.mp3",
+      "durationMs": 121080,
+      "checksum": "d7b169cfec054ae534238a36766b3863a4ec361252fbed80288c4c7357a0b53b",
+      "sourceHash": "9465837d4dc7f0cf11127ada9a74c0626be752d14bc44bb05aa53d029c472749"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/murders-in-rue-morgue/seg-003-voice-young-voice.mp3",
+      "durationMs": 63216,
+      "checksum": "a3d16e196864aae993f3bc98c151036470754a5f18dbae88079efeb23143f30f",
+      "sourceHash": "1a4d79f87822ff45095d1253318c3de45bef3f6ddfa7d01ebacdc16b8782c524"
+    }
+  ]
+}

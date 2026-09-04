@@ -1,0 +1,74 @@
+{
+  "version": 1,
+  "workId": "chu-shi-biao",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-8%|pitch=-1Hz|voiceId=young-voice",
+  "voiceId": "young-voice",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T00:20:38.607Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/chu-shi-biao/seg-001-voice-young-voice.mp3",
+      "durationMs": 27168,
+      "checksum": "29d5e6184ed6bc00d3b92e63158ecc972278320d2f46d7d0ecb98946dcbd6dce",
+      "sourceHash": "1ad51c0d95ad2b00d8bf9b28d75fd964e3928569146263b21d62115dd39eb240"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/chu-shi-biao/seg-002-voice-young-voice.mp3",
+      "durationMs": 15432,
+      "checksum": "b6c849eefc0f5c5b3604f8e5598c3c46527f7353d27d02155c67c535cd204764",
+      "sourceHash": "f53ced91fad915759bd827329a5b9b6e7aba210b3bcac550f3885c85bdebffd0"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/chu-shi-biao/seg-003-voice-young-voice.mp3",
+      "durationMs": 18528,
+      "checksum": "33b25e737722b8ab489cfd175285a4dc87913e1bc82e4faf73199ff5b6be2bf0",
+      "sourceHash": "46ba0f02b4b07c4919b14869141d0a47ca66f435c3ec7894c00aacf9a7a0f071"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/chu-shi-biao/seg-004-voice-young-voice.mp3",
+      "durationMs": 15816,
+      "checksum": "e73c85e6e7cbe68b145eacd6ac83225bd48165d593e31c9ea3b7de62f4a672b6",
+      "sourceHash": "e8cf29a99b93b3e078cbb77206f925195fd60f9109294104e5e1313d1775a5aa"
+    },
+    {
+      "id": "seg-005",
+      "url": "/audio/chu-shi-biao/seg-005-voice-young-voice.mp3",
+      "durationMs": 26688,
+      "checksum": "697ce2fae5ce6c8894e428f07fce980364851b96524cb46c51c382da1ff6bc42",
+      "sourceHash": "66a01d242eecc6f60d3d0a461b1dae2d023ff56ba2fdf25ad9d8a9be0fe840e8"
+    },
+    {
+      "id": "seg-006",
+      "url": "/audio/chu-shi-biao/seg-006-voice-young-voice.mp3",
+      "durationMs": 24720,
+      "checksum": "41f73a02659b1cf3481015faac007fa66a177ef29f82cc7a8a495df33068b568",
+      "sourceHash": "e81dd7a02e4bc45488db4e7d48b7da74e98a91c774fe6e55e2601274ff7ba1d2"
+    },
+    {
+      "id": "seg-007",
+      "url": "/audio/chu-shi-biao/seg-007-voice-young-voice.mp3",
+      "durationMs": 35376,
+      "checksum": "e36defa390844c9d05f15c683ddf71c5545d6a85967a517711e0de60faf48fec",
+      "sourceHash": "c042614797ca8b13f9889c8d7ba0ad1e55d4f00f4765ae5e8e2a9b24a9ac832f"
+    },
+    {
+      "id": "seg-008",
+      "url": "/audio/chu-shi-biao/seg-008-voice-young-voice.mp3",
+      "durationMs": 23832,
+      "checksum": "d3c3602aef2c1448eaf0d52d7725356992a3843a318d8bf330bc74b9a31f4e60",
+      "sourceHash": "595781f35ef29b40419244c60b04b1e19f4859146f3e24d20bbc5d66505fc066"
+    },
+    {
+      "id": "seg-009",
+      "url": "/audio/chu-shi-biao/seg-009-voice-young-voice.mp3",
+      "durationMs": 4608,
+      "checksum": "efe80871a04afd2c77637c912b614933ebab9be238e6949c0b766e4baef74250",
+      "sourceHash": "2168edfa76cfb8239e5e7517cc415b337b1afc56e7f80e656895a9e48d3aa387"
+    }
+  ]
+}

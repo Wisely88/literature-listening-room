@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "workId": "zao-fa-bai-di-cheng",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-8%|pitch=-1Hz|voiceId=young-voice",
+  "voiceId": "young-voice",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T02:09:11.075Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/zao-fa-bai-di-cheng/seg-001-voice-young-voice.mp3",
+      "durationMs": 4440,
+      "checksum": "2f96a42753e3df46a7fe79e17a29f2e342e823c4d1779d5e0ec6f3ed965648a5",
+      "sourceHash": "809e2481a37b50ac2ef50776fd3d3cd87d02a6861bc1bfbe642d64e8c0326c60"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/zao-fa-bai-di-cheng/seg-002-voice-young-voice.mp3",
+      "durationMs": 4656,
+      "checksum": "4978ae9b2433ae674f5b5ee80869a0ee42353b0e6a713b336f31cee861811b8c",
+      "sourceHash": "b2315dba155dadd7a4cda5b59d2d2b7c5e902e99fc090167f2ae0d2b3a0bb53f"
+    }
+  ]
+}

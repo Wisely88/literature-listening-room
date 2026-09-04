@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "workId": "nan-yuan-bei-zhe",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-8%|pitch=-1Hz|voiceId=young-voice",
+  "voiceId": "young-voice",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T00:58:38.545Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/nan-yuan-bei-zhe/seg-001-voice-young-voice.mp3",
+      "durationMs": 7632,
+      "checksum": "396bb5cb61ecee265911a99fe2a67c611e8c714187cc84bb79d23ee5fbb793d8",
+      "sourceHash": "21c2dac2c9264ee78727c1265a4279eb6c7b16e12dddfb9726832f7a14b6bac7"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/nan-yuan-bei-zhe/seg-002-voice-young-voice.mp3",
+      "durationMs": 23112,
+      "checksum": "f7545366f3712593baea6b04df77a5b098bc77e301a4a82382cf405810e8746a",
+      "sourceHash": "626c22b0b6d2d4b495ef0be6f4e9a428c64714b0228614c1787697a7349c29b2"
+    }
+  ]
+}

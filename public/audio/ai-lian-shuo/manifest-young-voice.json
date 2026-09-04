@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "workId": "ai-lian-shuo",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-8%|pitch=-1Hz|voiceId=young-voice",
+  "voiceId": "young-voice",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T00:13:32.309Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/ai-lian-shuo/seg-001-voice-young-voice.mp3",
+      "durationMs": 9792,
+      "checksum": "5ab1bebef6b637e45aa75635d7b7cbb88acd026901e42c6a71e315ac6dcdc4fd",
+      "sourceHash": "c725cb0b9792c8b1b63c99c0b052e825d3775d063738fe5478ec274727e73def"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/ai-lian-shuo/seg-002-voice-young-voice.mp3",
+      "durationMs": 11832,
+      "checksum": "382774083f6d0ee3440e861a7f415462ea574b5a0a6615b25a1799c0f36f4d44",
+      "sourceHash": "901954eeb90c8ceab66a8ba70a7cd92eeab0e0ae3035119e9cc68c74284e35c1"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/ai-lian-shuo/seg-003-voice-young-voice.mp3",
+      "durationMs": 18672,
+      "checksum": "616fd3b51bcdb2c4d5be62f5b0dc0c266d870a74b02797935489c50d3de4d1af",
+      "sourceHash": "aebb46cb4667d8e88e24e4432bda87c51e71fcb35b3dede1b3bf119864d01554"
+    }
+  ]
+}

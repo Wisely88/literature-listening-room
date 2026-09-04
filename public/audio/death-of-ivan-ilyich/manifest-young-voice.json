@@ -1,0 +1,53 @@
+{
+  "version": 1,
+  "workId": "death-of-ivan-ilyich",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-8%|pitch=-1Hz|voiceId=young-voice",
+  "voiceId": "young-voice",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T00:23:51.736Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/death-of-ivan-ilyich/seg-001-voice-young-voice.mp3",
+      "durationMs": 15624,
+      "checksum": "593cbc12cc7cb0e0b2c68e64bb6efd0718ade7c81625a804f3aeb490127a5388",
+      "sourceHash": "55147adfc7c4751852c71bab594b9c39dc9f35c40b41bb5c3b5d47f32f85e644"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/death-of-ivan-ilyich/seg-002-voice-young-voice.mp3",
+      "durationMs": 14136,
+      "checksum": "e76d5c7e43117921ebc28e4114b445dd7b718eade1d44b537eb70c85a8add704",
+      "sourceHash": "1d0f7636a4ce813f32b69e2d67ab8892b676dc99cb6728d78b545f3132e35d1c"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/death-of-ivan-ilyich/seg-003-voice-young-voice.mp3",
+      "durationMs": 14088,
+      "checksum": "ce08ae6e420e8aac80bc6ca5ec35f91d9fad9a309dcaae64581d3df06b216732",
+      "sourceHash": "93451ba40ef1b74b348c9b951a7b629d822a8da21aa1cfb4bc41394c7c230e60"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/death-of-ivan-ilyich/seg-004-voice-young-voice.mp3",
+      "durationMs": 13968,
+      "checksum": "cac3a83c6d9f4973374a01257a616a556308374fd45da2ddbb03f7a39d8580ec",
+      "sourceHash": "846725c3853590df8a3f0c827c9225ffe344a1795ca45081d3ca686f2b9c6b8d"
+    },
+    {
+      "id": "seg-005",
+      "url": "/audio/death-of-ivan-ilyich/seg-005-voice-young-voice.mp3",
+      "durationMs": 12504,
+      "checksum": "d8bf78a6c53a6efd70f8db287c5adb8bcfbd442b55a71f531c4f8057fe05ca3b",
+      "sourceHash": "0b50dc8f9bec1e964c1bfadde1c0ec7e860d03b44a1c689ca16694dee8b6386e"
+    },
+    {
+      "id": "seg-006",
+      "url": "/audio/death-of-ivan-ilyich/seg-006-voice-young-voice.mp3",
+      "durationMs": 46296,
+      "checksum": "dfcaeb9cfa308e1dba1f399844686efc22292f3d8714b3ab157e926000286423",
+      "sourceHash": "6ebe96e0ee05befbb49b2dc28dcea00f774809af9dee6dac09cc7112532ea289"
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "workId": "the-moonstone",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-8%|pitch=-1Hz|voiceId=young-voice",
+  "voiceId": "young-voice",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T01:28:39.268Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/the-moonstone/seg-001-voice-young-voice.mp3",
+      "durationMs": 6984,
+      "checksum": "a2f6ed39263bc39e3142f0db585563abca725915c20ddb7d67e861ed3259ee80",
+      "sourceHash": "9ce35ff7f7e81ba14b44b8d0e4b3690fb487aab961b10fd2b2a878467a80c0b2"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/the-moonstone/seg-002-voice-young-voice.mp3",
+      "durationMs": 7416,
+      "checksum": "5fda378d014787d078d0eea327ecd41ba6cf0e3141f0e57d474e050c12726925",
+      "sourceHash": "04ba665b7516ed1cc8cb4206b56fd280acbe0cb9ee1d956a81895584f709df07"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/the-moonstone/seg-003-voice-young-voice.mp3",
+      "durationMs": 16848,
+      "checksum": "1976a85e22455f643ce684afb1937314abc8ab7f0d4f718e58863bb4ad3cf0c4",
+      "sourceHash": "63f606407749406c61f4f5e13f570a81a59effe86ae962a1e3ec29f0d718d3b8"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/the-moonstone/seg-004-voice-young-voice.mp3",
+      "durationMs": 20568,
+      "checksum": "1191014dd5adbe0df8908d81174a91a74997b9b286183563635c57c7e3704cbf",
+      "sourceHash": "713f0db8b16f1d070ea530319bb2350157ab81f2a1517d782fee4021f07873ea"
+    },
+    {
+      "id": "seg-005",
+      "url": "/audio/the-moonstone/seg-005-voice-young-voice.mp3",
+      "durationMs": 11136,
+      "checksum": "76cc57fd1db578f43dd228f649889c5c98b6b35dccfaa634530e0980e2cf47a4",
+      "sourceHash": "5754904ff38ef3de06fdd8c198f0946e25da4d973bf3658526e24518c8b01685"
+    },
+    {
+      "id": "seg-006",
+      "url": "/audio/the-moonstone/seg-006-voice-young-voice.mp3",
+      "durationMs": 26928,
+      "checksum": "41196beff3986c0aa2818907a08d2a907a30b0340011aa74d71b86829a056168",
+      "sourceHash": "ee38466fe7812b2c38d634f3170671692e7daab28dc392cf7d4fc16a18de3794"
+    },
+    {
+      "id": "seg-007",
+      "url": "/audio/the-moonstone/seg-007-voice-young-voice.mp3",
+      "durationMs": 8472,
+      "checksum": "7b2ea623656be99ecdf2dacbaf2c937baed5b2dbfabf647301631404003fc6e0",
+      "sourceHash": "0175ad3669d8abc75cb2a21ba63ebc19023a63b772ace2edc6fce9cf398f96fb"
+    },
+    {
+      "id": "seg-008",
+      "url": "/audio/the-moonstone/seg-008-voice-young-voice.mp3",
+      "durationMs": 55008,
+      "checksum": "19092fffc5e5f02dd2534e3094340378e91f17c1ee3b1588e435340eb85ec54f",
+      "sourceHash": "1d660c610bfbad2cdbe67c0d68bd3dfb5596f4df89f11fcfbb1702dd875093d9"
+    },
+    {
+      "id": "seg-009",
+      "url": "/audio/the-moonstone/seg-009-voice-young-voice.mp3",
+      "durationMs": 36744,
+      "checksum": "b9a3bc6622dd5399b363d1e0592a7e5a65378a667ddc495c8d8429e9d4f58d5f",
+      "sourceHash": "fd7dbb5adeb7bb18ff408d1e87105c02ac0a2d28ec9f465b2e0d765cb25f3b4b"
+    },
+    {
+      "id": "seg-010",
+      "url": "/audio/the-moonstone/seg-010-voice-young-voice.mp3",
+      "durationMs": 36336,
+      "checksum": "457f241e1c90c6c107721672d19f185f3d562af3e653130dd4e4eba40a2887ea",
+      "sourceHash": "430aeeb9ee9661f5991fdbb29ae375297371b95f88eccb8f44c656dc2b175de5"
+    },
+    {
+      "id": "seg-011",
+      "url": "/audio/the-moonstone/seg-011-voice-young-voice.mp3",
+      "durationMs": 65136,
+      "checksum": "95cb4a46b41e8c742edaa51d2c8eaedfb76c3a496a232ab7d6e4daeab6b9f612",
+      "sourceHash": "e5c62faf7890422c8fd118c4b5afb6ad1bea628306f6be79a236080f53a8690c"
+    }
+  ]
+}

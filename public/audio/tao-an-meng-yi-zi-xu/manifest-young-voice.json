@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "workId": "tao-an-meng-yi-zi-xu",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-8%|pitch=-1Hz|voiceId=young-voice",
+  "voiceId": "young-voice",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T01:24:45.958Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/tao-an-meng-yi-zi-xu/seg-001-voice-young-voice.mp3",
+      "durationMs": 143448,
+      "checksum": "55f8cc424970dd9b1c4e308bcd437cc9ee083dec44fd87a02b09ec71bc2b7044",
+      "sourceHash": "b1a348e66389fe969476b78033777e2f71b067c4da594a606e50c55d81c23886"
+    }
+  ]
+}

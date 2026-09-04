@@ -1,0 +1,46 @@
+{
+  "version": 1,
+  "workId": "ying-ning",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-8%|pitch=-1Hz|voiceId=young-voice",
+  "voiceId": "young-voice",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T02:07:11.745Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/ying-ning/seg-001-voice-young-voice.mp3",
+      "durationMs": 313656,
+      "checksum": "b3c7af9057a4b95a10ef7da0e19d4e5cbbaa6b5ee40318ac9a40c7eeac052b82",
+      "sourceHash": "5bee3bc6510f7047d10b49bfb8622b4a24f30071bc197f7079a9d1c95c0f4142"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/ying-ning/seg-002-voice-young-voice.mp3",
+      "durationMs": 272664,
+      "checksum": "b5f86ebeb667bf53050cf5df8efd075828fedfd0b018c24b44680a7921fbfd66",
+      "sourceHash": "d046371d937777196a8f60db8bbc0a844f06d7222b6157f9d138452643647c93"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/ying-ning/seg-003-voice-young-voice.mp3",
+      "durationMs": 249432,
+      "checksum": "58979f64f4160b835edb08b35cd647976e88151e29cbb33d15169ad916f62b1f",
+      "sourceHash": "d64f3bcd5500f71e28ded80eba14ec7d42fe660188ddb0a2b5b081d8a5c3c738"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/ying-ning/seg-004-voice-young-voice.mp3",
+      "durationMs": 208320,
+      "checksum": "0479fdbf445db2532503207ea165f26b75b81f9ed0380b4bbae7b0eb51e9559b",
+      "sourceHash": "cf6d82ac8482b171b999becf85467d2aceba605c6af555b7abd9276daa879307"
+    },
+    {
+      "id": "seg-005",
+      "url": "/audio/ying-ning/seg-005-voice-young-voice.mp3",
+      "durationMs": 23592,
+      "checksum": "b195eb4ffea95e58cdb17ce1671335b609b5b78f28a842844515511058715184",
+      "sourceHash": "0b240900c61f4f3fdd7b009a0b55a0fdc94ab7b3e70c5ef73abeea0693d113d8"
+    }
+  ]
+}

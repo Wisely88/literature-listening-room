@@ -1,0 +1,186 @@
+{
+  "version": 1,
+  "workId": "happy-prince-statue",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-8%|pitch=-1Hz|voiceId=young-voice",
+  "voiceId": "young-voice",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T00:32:08.383Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/happy-prince-statue/seg-001-voice-young-voice.mp3",
+      "durationMs": 13632,
+      "checksum": "8231023fdae6cdbf70b25d9675a20138754e911dd0e63eced6c7713e6c2c8b14",
+      "sourceHash": "ccd0d82529aca8f08d99bbf1fc1749debacacdc89a04a64c3e9461138a10ab25"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/happy-prince-statue/seg-002-voice-young-voice.mp3",
+      "durationMs": 16224,
+      "checksum": "bdd45398685cc1f123c48e10bd5f46b66c6f1a2831f1007b2ffd893dfae66828",
+      "sourceHash": "a8b7c065254e15066e102240c187fc3ebd9f7023264e9af4bac0edccaa6ca727"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/happy-prince-statue/seg-003-voice-young-voice.mp3",
+      "durationMs": 10992,
+      "checksum": "2546e607b9453bd665a468115366c3dafceb467bb5528f11b81b2579194a76f4",
+      "sourceHash": "7f4c11e8556a9f0b40f607159cbf9ff68b8296ec78464f96aa12bdd8ff7f06d8"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/happy-prince-statue/seg-004-voice-young-voice.mp3",
+      "durationMs": 8904,
+      "checksum": "41ca0889d03a55f5dcd34081ac30f36e2a6544dc721448fe70a61f6c84439ffe",
+      "sourceHash": "f5297f648eca92a667353bc3ec0fe760c7705d9abdf1b6d4c641a1a8836db18b"
+    },
+    {
+      "id": "seg-005",
+      "url": "/audio/happy-prince-statue/seg-005-voice-young-voice.mp3",
+      "durationMs": 8112,
+      "checksum": "14f861a1ad0e1c3efdc3c874105dfdb16b0a933c54e537e17e9d0a2a92eca3fd",
+      "sourceHash": "0418b683348e17452bb2ca2947dfeb41dd79fc95edc31f9d15d816888b9e4dc4"
+    },
+    {
+      "id": "seg-006",
+      "url": "/audio/happy-prince-statue/seg-006-voice-young-voice.mp3",
+      "durationMs": 5688,
+      "checksum": "f306ca242b82eae9cab9c9d53a75a8d4475c4d0c426f4eac27af34e59308f3e3",
+      "sourceHash": "8ae88b1d5ab5f8b2cbd7c9ee1b37c233b3eff7651c504db34ba39ee7acb54475"
+    },
+    {
+      "id": "seg-007",
+      "url": "/audio/happy-prince-statue/seg-007-voice-young-voice.mp3",
+      "durationMs": 10056,
+      "checksum": "a987c87ce0b6509ba628eb6d2f850305e73a364b598e91e18c75146b6849d74b",
+      "sourceHash": "bbe19f264f5147c8b20ef2d0dd646c9bcedaf0f710c447b0ca3296cccc97fbff"
+    },
+    {
+      "id": "seg-008",
+      "url": "/audio/happy-prince-statue/seg-008-voice-young-voice.mp3",
+      "durationMs": 21168,
+      "checksum": "62f0a79264079c802d374d06334ae05fae5e7203fe1615b9862eb18ce14ed615",
+      "sourceHash": "4ccd056c3c1608d853b9c1091022a3608786bbc329f5be5dba474ec1f773325f"
+    },
+    {
+      "id": "seg-009",
+      "url": "/audio/happy-prince-statue/seg-009-voice-young-voice.mp3",
+      "durationMs": 17832,
+      "checksum": "53a9d673be1f1a62885fea5e66fd6b642f542498fe6718e41bb115ed95d1c74a",
+      "sourceHash": "e494f5b4e7dd1f1c3a1d3477b0abd117acff0cbaec993cd27101af65aad00394"
+    },
+    {
+      "id": "seg-010",
+      "url": "/audio/happy-prince-statue/seg-010-voice-young-voice.mp3",
+      "durationMs": 14784,
+      "checksum": "ca3a3a2a1b7b3acdca38f94ae28dd5c1bd07d24082a55b993d9c81c1dbf90e34",
+      "sourceHash": "4ecaecef36ae3f4ac72fa7fc2a84d4c7f0b45da32604d8230dd900952ecf1360"
+    },
+    {
+      "id": "seg-011",
+      "url": "/audio/happy-prince-statue/seg-011-voice-young-voice.mp3",
+      "durationMs": 25176,
+      "checksum": "39cca9ffff9d23631d38f64f2b4cfd7eb828106e61ae07b7ebc22d3f4a3a9b98",
+      "sourceHash": "5ed00a04b7d590151e5d3d8ef5100e7185fe7aafa45e725a17fc2755766cb74e"
+    },
+    {
+      "id": "seg-012",
+      "url": "/audio/happy-prince-statue/seg-012-voice-young-voice.mp3",
+      "durationMs": 7872,
+      "checksum": "2f022aa8278cca0ff5274885366a30d5183797e5e3b8cbe590e738fc942547fe",
+      "sourceHash": "359c5b878e8b9b0f328e2ab74a5ca39f508afcba1b82f66c19b66a2904714103"
+    },
+    {
+      "id": "seg-013",
+      "url": "/audio/happy-prince-statue/seg-013-voice-young-voice.mp3",
+      "durationMs": 8088,
+      "checksum": "4f52a11027eecbd7d760c1d25ca624437efd5c7510d5d8445f8fa75ad372ac44",
+      "sourceHash": "0593a180884c5205ffafd040bd7c2891e9e96ec4cde7ce10c442707d4007c707"
+    },
+    {
+      "id": "seg-014",
+      "url": "/audio/happy-prince-statue/seg-014-voice-young-voice.mp3",
+      "durationMs": 10872,
+      "checksum": "a9433213ffe076354b14c05e2fc2c2a99381939116339fd5d59e4246a1de4a74",
+      "sourceHash": "995df65779262c2cb0b5c899b0178b20dfbf5ab63610ecf1e686471e01d5f2de"
+    },
+    {
+      "id": "seg-015",
+      "url": "/audio/happy-prince-statue/seg-015-voice-young-voice.mp3",
+      "durationMs": 4536,
+      "checksum": "97269d945692aa2fdc69527706334c5d92c32fa6c9cc894b5474093b7b67c3d3",
+      "sourceHash": "7b2f4480137a26b2998b687c83bfc55358491f65c36d27d60d18ecca60937c26"
+    },
+    {
+      "id": "seg-016",
+      "url": "/audio/happy-prince-statue/seg-016-voice-young-voice.mp3",
+      "durationMs": 9120,
+      "checksum": "ff5b40894efe0542302056c05011ee3b74ff654f230e1ce5df201f9f5c0645d8",
+      "sourceHash": "4d12a6f0957f9217e937088175f2d58d3f6912b6c9d3fc5707b5eaffc15a4172"
+    },
+    {
+      "id": "seg-017",
+      "url": "/audio/happy-prince-statue/seg-017-voice-young-voice.mp3",
+      "durationMs": 27312,
+      "checksum": "5a64313a21d6f124c4207309b2484d706c58b2993953bf2262560f3c973cc000",
+      "sourceHash": "f897c3a71297ca189ddefcc6b04a02ea16c0d57e74b93eefa4804b41ca094d07"
+    },
+    {
+      "id": "seg-018",
+      "url": "/audio/happy-prince-statue/seg-018-voice-young-voice.mp3",
+      "durationMs": 2592,
+      "checksum": "151db728ad8a7032ce4c3bff3c6296968103f39523778cf645899c22b01abc2f",
+      "sourceHash": "3a4fc2aabcae4125e161e3ee37a1ce67e3861d84f3ead3cecf619fee81d10e6f"
+    },
+    {
+      "id": "seg-019",
+      "url": "/audio/happy-prince-statue/seg-019-voice-young-voice.mp3",
+      "durationMs": 8448,
+      "checksum": "f2a13973677e705beece5b87f6ee4d0856442a3e08662f43b714e8756b254e68",
+      "sourceHash": "2a30e401d3a4f298463df81ccef3ba9d5d09496ed90f7573e1e2f5bc0cb04614"
+    },
+    {
+      "id": "seg-020",
+      "url": "/audio/happy-prince-statue/seg-020-voice-young-voice.mp3",
+      "durationMs": 8520,
+      "checksum": "7affa2bdd02a470737c7eecafafdafff0537ce534033f05a6a5bfd71d0992360",
+      "sourceHash": "c3ecf9942a2358a882cb1f03b47800bcb3d6899a0f7d3a17d814e115a9fc9544"
+    },
+    {
+      "id": "seg-021",
+      "url": "/audio/happy-prince-statue/seg-021-voice-young-voice.mp3",
+      "durationMs": 12576,
+      "checksum": "e10e4bef2dbacdd3ad99091e1e259445e239f12624a4025a18e32f51fc50ab49",
+      "sourceHash": "20de863c3a983fa614bf6d47c168a081a946a3c8185b6a18c1564750ec4ace98"
+    },
+    {
+      "id": "seg-022",
+      "url": "/audio/happy-prince-statue/seg-022-voice-young-voice.mp3",
+      "durationMs": 3288,
+      "checksum": "9a418a44475a9cd8962610e3cd62d69bdfaf8122f5a1cf059cca944747c020af",
+      "sourceHash": "5a089fd33bb6ae87c669825aa514d14985198feeb523488f4eabfc751f936c70"
+    },
+    {
+      "id": "seg-023",
+      "url": "/audio/happy-prince-statue/seg-023-voice-young-voice.mp3",
+      "durationMs": 2184,
+      "checksum": "09fed986130bbe936ad523e6a4a355a2ccc76d28b447b425bcef284e62e6d5fb",
+      "sourceHash": "d60a93c16b1ed06ece26938b575af39819f967783de566e842cb2d208c23ed0b"
+    },
+    {
+      "id": "seg-024",
+      "url": "/audio/happy-prince-statue/seg-024-voice-young-voice.mp3",
+      "durationMs": 5664,
+      "checksum": "b5c9bd610d128486a3d2f3c23757eefe905d1c4df985374d05eda830502877ec",
+      "sourceHash": "9d0d82c07e47e2e88f18d42853f0e35a5e8d65019ae1c1f91929398a1f770d5d"
+    },
+    {
+      "id": "seg-025",
+      "url": "/audio/happy-prince-statue/seg-025-voice-young-voice.mp3",
+      "durationMs": 42576,
+      "checksum": "54100bc21fb6a8e12f7dae8cdbd854c287dd79dd3dfc388bc2683742954b182a",
+      "sourceHash": "7b964913ac5c0ccf0dd58f461a2a80e656b952c3675a89b27e8d5a197c7b8c80"
+    }
+  ]
+}

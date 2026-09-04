@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "workId": "walden-sounds",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-8%|pitch=-1Hz|voiceId=young-voice",
+  "voiceId": "young-voice",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T01:43:16.700Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/walden-sounds/seg-001-voice-young-voice.mp3",
+      "durationMs": 106128,
+      "checksum": "98e8dc9ab74cb7ef5c526d542df52d04ecfd48a44f782aab3a54ff834c4bebca",
+      "sourceHash": "c6772f379f9faea09514433cd3846524011a3f80de1bc9de578973fd81806450"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/walden-sounds/seg-002-voice-young-voice.mp3",
+      "durationMs": 92496,
+      "checksum": "e9d79117efdd7a15042da571578a9a1316990999a84a8c0706547c46bd567a38",
+      "sourceHash": "4d09c8f9dda47af2e9d2af3aa1a049c752ab163109898cf88378573f84589b70"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/walden-sounds/seg-003-voice-young-voice.mp3",
+      "durationMs": 57600,
+      "checksum": "572ef6f456b589e641e212dd7da048685218b350828620529e46d112c54b915a",
+      "sourceHash": "81c74a9c47c131cefe2cbf13372cc384c274fcb3e4845cec9c814b02037a6d6a"
+    }
+  ]
+}

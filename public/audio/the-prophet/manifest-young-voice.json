@@ -1,0 +1,326 @@
+{
+  "version": 1,
+  "workId": "the-prophet",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-8%|pitch=-1Hz|voiceId=young-voice",
+  "voiceId": "young-voice",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T01:33:02.548Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/the-prophet/seg-001-voice-young-voice.mp3",
+      "durationMs": 12648,
+      "checksum": "f2bc782cef270b5a03a910f593f5cc497317dc51ed2aba46b5a20e9be9dd06f4",
+      "sourceHash": "f0fff8793de3e06ebb00f4cb2b19bc108020eae1bfaa51cc3b12b27adab966f3"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/the-prophet/seg-002-voice-young-voice.mp3",
+      "durationMs": 10728,
+      "checksum": "bc917fcb3ab6f98dbb2606b72d056c74872cdabf6ceaeb5a30111765f30811fb",
+      "sourceHash": "f0e5e01e967eb0ac72230c57ae20c30a86d796f1ae33b1b3f57afe3d592521ba"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/the-prophet/seg-003-voice-young-voice.mp3",
+      "durationMs": 8232,
+      "checksum": "632089df4e52dbe38a9ca07c6b913170f4fc33f0e4f739394f5923f4054dcf4a",
+      "sourceHash": "edb966cf7a6f56f4208c6fcd941cc2d5d2bbbcedaccf5399ab429f5828cb93bd"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/the-prophet/seg-004-voice-young-voice.mp3",
+      "durationMs": 5568,
+      "checksum": "dedb9a532ca173235c52f766b75fd358e6b1783588250312d2abde5a11315d44",
+      "sourceHash": "f1c0f7737705e227d587c04fc660ba9ae3941323078b936a8cd81bb0baff3596"
+    },
+    {
+      "id": "seg-005",
+      "url": "/audio/the-prophet/seg-005-voice-young-voice.mp3",
+      "durationMs": 9168,
+      "checksum": "d0b926cf3db1ac25a4bdd1e02a27218de59b66ce21d6755a0c5fb047d71de12d",
+      "sourceHash": "8dfe8c9011c1cfea1b1be417501893c37c0ff2cbee64dc482c35cf25e17967e6"
+    },
+    {
+      "id": "seg-006",
+      "url": "/audio/the-prophet/seg-006-voice-young-voice.mp3",
+      "durationMs": 10584,
+      "checksum": "3ab04c66e4136745434e19247ee0c12094728d3a33e75f303e9a769f3ae8fc01",
+      "sourceHash": "7305b02b01fb8e1207cd3324658735f3e50856232d4cf52d6a647460585d7524"
+    },
+    {
+      "id": "seg-007",
+      "url": "/audio/the-prophet/seg-007-voice-young-voice.mp3",
+      "durationMs": 11328,
+      "checksum": "10eece505b1e72d880752a2deeafc41d1d9a45f68126aad487f9b4043fd1597b",
+      "sourceHash": "dcd6aa50feb430a8078c2c6a6abffba0122553530eca89b25a5cd9ef2639b689"
+    },
+    {
+      "id": "seg-008",
+      "url": "/audio/the-prophet/seg-008-voice-young-voice.mp3",
+      "durationMs": 7176,
+      "checksum": "0dba53448c7f3ec89a6e74b352d6fcada6ac1865a3c9c21787e2a65101ae9834",
+      "sourceHash": "c88fc0590e78d4f6393a4acf4070ff05c3dc1208f3f91ce246c72c3bfaaf5a50"
+    },
+    {
+      "id": "seg-009",
+      "url": "/audio/the-prophet/seg-009-voice-young-voice.mp3",
+      "durationMs": 7104,
+      "checksum": "dbb0890e92b6191a0dd3f771235c0ae96386c9ed53c177ca75e493f8908ae08d",
+      "sourceHash": "64e40c91a5198585861813cf3fd1c6336d3d90b1113a10a7d489ccc7b3da14f5"
+    },
+    {
+      "id": "seg-010",
+      "url": "/audio/the-prophet/seg-010-voice-young-voice.mp3",
+      "durationMs": 3600,
+      "checksum": "1da3171dfdc2fe36fedd0a343edefc8e67398744b4debeb1d4214d9a1375abe0",
+      "sourceHash": "8e30c398ae1d04decd742ddcbbdc2bf470515bad0dbd220e0422e8d1808c714f"
+    },
+    {
+      "id": "seg-011",
+      "url": "/audio/the-prophet/seg-011-voice-young-voice.mp3",
+      "durationMs": 5136,
+      "checksum": "db799497f99bcb0f568dbb5d42f865a1cd5b9a0e55f93b55104cef79819779eb",
+      "sourceHash": "50dc83fe38e0dee774fa3ce5cd24baaba49fce579bce6d6cc5f64bfc39d1420e"
+    },
+    {
+      "id": "seg-012",
+      "url": "/audio/the-prophet/seg-012-voice-young-voice.mp3",
+      "durationMs": 8088,
+      "checksum": "cea379ec412500420503d7de9bd0a1990da8e3364ba10fbe5c92b58724284bd4",
+      "sourceHash": "cf3fc2a7f3c19035846b5a3f414a9266106f15bc8e38d656cca62b562b9ef6c8"
+    },
+    {
+      "id": "seg-013",
+      "url": "/audio/the-prophet/seg-013-voice-young-voice.mp3",
+      "durationMs": 4008,
+      "checksum": "f0ee7674966c604b564feaef38b0e9f6e8811eddbd0aa95bd424cf3c7b730c30",
+      "sourceHash": "b4c2fe3acce604adc91b5db3391aa7887f8054ba790401f5d6b5da28bbc127f0"
+    },
+    {
+      "id": "seg-014",
+      "url": "/audio/the-prophet/seg-014-voice-young-voice.mp3",
+      "durationMs": 6960,
+      "checksum": "1cff55ec5184c1ec568f0164ec09c306cada332a4c2f983f052aafe51e36e774",
+      "sourceHash": "5c5743608d3582a4b3e487b564f1e24069a21197c64bbdd409218099014ebc30"
+    },
+    {
+      "id": "seg-015",
+      "url": "/audio/the-prophet/seg-015-voice-young-voice.mp3",
+      "durationMs": 4632,
+      "checksum": "3760ffee4d095ad360a9cf5915322f047c6f347702dd97612e6c49caf6c1b577",
+      "sourceHash": "2ca4c13e81bdd9ea40d72d39b6c02ed8691259a65f1d3425544923fae805e675"
+    },
+    {
+      "id": "seg-016",
+      "url": "/audio/the-prophet/seg-016-voice-young-voice.mp3",
+      "durationMs": 10056,
+      "checksum": "3940cbe2871d6bce13a589c2fcfbb2ac1d67fab5c3daca0e391e6d2a5357b028",
+      "sourceHash": "a4b6aca1d1f949b442b23d80f369977fd9dc66b6b19a81804bf39dffa9f2830e"
+    },
+    {
+      "id": "seg-017",
+      "url": "/audio/the-prophet/seg-017-voice-young-voice.mp3",
+      "durationMs": 3624,
+      "checksum": "a982f3b1bcbcc8870629004042cbe55547d6a97244179ec888ee7f51d3ab8e72",
+      "sourceHash": "b576e6d0b0bf59b85e5e7802ad2fc5bb38ac5aa769ea9446ce5aaad2159d3e55"
+    },
+    {
+      "id": "seg-018",
+      "url": "/audio/the-prophet/seg-018-voice-young-voice.mp3",
+      "durationMs": 4608,
+      "checksum": "50bb5b926ffb2d75915603e0429d5fe2a9577304bcef7fe8cb2a709f5cbbc0ee",
+      "sourceHash": "1460ad35e325880b2c1317d9091510d084036b34f4c5d5235b6a9d34edf1a4f8"
+    },
+    {
+      "id": "seg-019",
+      "url": "/audio/the-prophet/seg-019-voice-young-voice.mp3",
+      "durationMs": 7920,
+      "checksum": "2dbc79b25d7fb8b384d3e390a4e1111ce52efd3f27833f00f2f03250d8bfac47",
+      "sourceHash": "ba4925888eece0b571ee33fdc50b247a3893014fc9191f14c46a3b0250b786b0"
+    },
+    {
+      "id": "seg-020",
+      "url": "/audio/the-prophet/seg-020-voice-young-voice.mp3",
+      "durationMs": 6000,
+      "checksum": "208a7b08b04854dc9baece9e41796284759c3aecf2cfd9b97a4ce3f1207aef1d",
+      "sourceHash": "d873e7dbcc02ee6038ab3d58dcf336a4c52c14f32d700af5c805da746fe0abe5"
+    },
+    {
+      "id": "seg-021",
+      "url": "/audio/the-prophet/seg-021-voice-young-voice.mp3",
+      "durationMs": 6792,
+      "checksum": "c7fc0e3d2b97ba5dc066855ed8282da797f80b5d1bad1537b653fe5077fe39bb",
+      "sourceHash": "ea3e51be3470c534822df5cedf708bbb6f5e6a4cb25716a5199e41ffca78316a"
+    },
+    {
+      "id": "seg-022",
+      "url": "/audio/the-prophet/seg-022-voice-young-voice.mp3",
+      "durationMs": 4872,
+      "checksum": "2706a803d6e21d57e467853ae2997abcdc1ec9bdb70944454aadc68b6dbbf2d7",
+      "sourceHash": "a8df0d894a6b798b2b8f89d9c0841414628d7976b8bea736349ec405302c99a4"
+    },
+    {
+      "id": "seg-023",
+      "url": "/audio/the-prophet/seg-023-voice-young-voice.mp3",
+      "durationMs": 4152,
+      "checksum": "02f5c931d33bf149ba41f9388e2598971e0192f76b1ccc10c30d110593ca593a",
+      "sourceHash": "1d2fe10f0f881e2d068ad507a134e7b4a56938411df3d0fdfd2b06237459823a"
+    },
+    {
+      "id": "seg-024",
+      "url": "/audio/the-prophet/seg-024-voice-young-voice.mp3",
+      "durationMs": 4248,
+      "checksum": "ff4a8356bd3d4553a281a8a6a7912cde096796f9c04e8c2423dce70abb7304aa",
+      "sourceHash": "c140aa7d03196b3ec1bc70f426d97e404e35016ece5700c0d7c803e20ab98e8d"
+    },
+    {
+      "id": "seg-025",
+      "url": "/audio/the-prophet/seg-025-voice-young-voice.mp3",
+      "durationMs": 5448,
+      "checksum": "573f2bc12252fd91f6a1fcc7c5f5814d2e2a2c5fe3d36a12175599c0bd036d21",
+      "sourceHash": "d31e7a69cc507dc1b4f6c714500483b9ae653a25d066852de2cf93eef83ef429"
+    },
+    {
+      "id": "seg-026",
+      "url": "/audio/the-prophet/seg-026-voice-young-voice.mp3",
+      "durationMs": 5808,
+      "checksum": "b0b425ad517dd64b66071df32af48bfdab23a766a9e115f14aaa1cdd0a93ab93",
+      "sourceHash": "f3fd420ccf635805677c8fadc2515315e483689966250f368ad5854f57e59a31"
+    },
+    {
+      "id": "seg-027",
+      "url": "/audio/the-prophet/seg-027-voice-young-voice.mp3",
+      "durationMs": 7008,
+      "checksum": "1002768b5354400169253f9232d5859129ce3110652f33f3352f85eec8444521",
+      "sourceHash": "45aa4e08889ece6b80add4ea867597e3400a95336d34c933710b21c17e24fc40"
+    },
+    {
+      "id": "seg-028",
+      "url": "/audio/the-prophet/seg-028-voice-young-voice.mp3",
+      "durationMs": 8304,
+      "checksum": "c428286841732afe7a9590d55e87c38b057538bb98e936f0bbc3d1b8874ad789",
+      "sourceHash": "5c50f62d2d9bc9dd05001885339051ef144765277ec1cad183ab644b8500a59d"
+    },
+    {
+      "id": "seg-029",
+      "url": "/audio/the-prophet/seg-029-voice-young-voice.mp3",
+      "durationMs": 2064,
+      "checksum": "a4bc9cc839492f2dbe99435b9aeb26ab48f5d13c1eb075c451f0681ab11e9df0",
+      "sourceHash": "35154ec104e5e8cdfa23d189d0870e62323a4233acbc1a986108cd175fc72b6d"
+    },
+    {
+      "id": "seg-030",
+      "url": "/audio/the-prophet/seg-030-voice-young-voice.mp3",
+      "durationMs": 4080,
+      "checksum": "baa0a69ce8e3c7e8e109c8c2e2ca80fc7c6b086376d99a572fab7647f038fc3c",
+      "sourceHash": "86ac623a4de11e0f3e3239e3651c318231aa9a8ddb66627e8e4ebd50a96f5fb7"
+    },
+    {
+      "id": "seg-031",
+      "url": "/audio/the-prophet/seg-031-voice-young-voice.mp3",
+      "durationMs": 4704,
+      "checksum": "8366840a03e7191f14aa0f20c2eff56aa245af42a44c8c66e37783be8a73bd19",
+      "sourceHash": "1336066b356edef241e5c8e66da347098bfe0d66f0894d449724af107e698908"
+    },
+    {
+      "id": "seg-032",
+      "url": "/audio/the-prophet/seg-032-voice-young-voice.mp3",
+      "durationMs": 6384,
+      "checksum": "ad1a25b947b9a592540e06e8f1c78ea7abad7065731ab2019e3aa9306152c744",
+      "sourceHash": "09ec1ae8b806379daf44b1442b1c941e57dab711cf84ed630bfc76076e283077"
+    },
+    {
+      "id": "seg-033",
+      "url": "/audio/the-prophet/seg-033-voice-young-voice.mp3",
+      "durationMs": 6408,
+      "checksum": "b687624a442f3a206c7d6f2383e841c8734796ba674c067fc90db21252bab906",
+      "sourceHash": "0c29e6e1a11f8d1428ae90eee4f281e497bcaa5e00322a20438f7f43667c4637"
+    },
+    {
+      "id": "seg-034",
+      "url": "/audio/the-prophet/seg-034-voice-young-voice.mp3",
+      "durationMs": 6360,
+      "checksum": "5c67bfc53c52b8d3e3b9f77aeeac17a59a4c36b8d5c2c737330f93667028156a",
+      "sourceHash": "1ff467a1ceccdbf7259f9415e156ecb225c813372eea0b29978ec6558d3433ee"
+    },
+    {
+      "id": "seg-035",
+      "url": "/audio/the-prophet/seg-035-voice-young-voice.mp3",
+      "durationMs": 7896,
+      "checksum": "e43a88d533c035865d1b8f211033ecfa9c477ae406928dc23be774fcd1cc0b22",
+      "sourceHash": "5b87b4f324a735775a42eef1872037e7c44da89744bb87fabaaf35c088940c32"
+    },
+    {
+      "id": "seg-036",
+      "url": "/audio/the-prophet/seg-036-voice-young-voice.mp3",
+      "durationMs": 6600,
+      "checksum": "f4d113215351f54e70706581b1ac7051ac7fc303373f708a603250b31cd59218",
+      "sourceHash": "a64016353d85d888f8c80d79082e6affac48abc196e92c369873fad04a2f5df9"
+    },
+    {
+      "id": "seg-037",
+      "url": "/audio/the-prophet/seg-037-voice-young-voice.mp3",
+      "durationMs": 7560,
+      "checksum": "d579959857d1b31f4f17fe496612694e5952f3b6de615f9eadcd2484dd718453",
+      "sourceHash": "25686021d27b6074ac872b5bada5eb0d843c7e0f5c6986caddc8056019184a83"
+    },
+    {
+      "id": "seg-038",
+      "url": "/audio/the-prophet/seg-038-voice-young-voice.mp3",
+      "durationMs": 7104,
+      "checksum": "a1204f25f8b5c14cf0992eaab91d04e9aac1daa736e3482fb44e5ef9bb88680f",
+      "sourceHash": "8982809d32a05e1071359f12eaaef9fc3020fdda058223919e5324851ade5cf4"
+    },
+    {
+      "id": "seg-039",
+      "url": "/audio/the-prophet/seg-039-voice-young-voice.mp3",
+      "durationMs": 4608,
+      "checksum": "c7c0a2b7dafb69373c4efc10cf2f53651d462e322ecb96981e46d9cde72532d3",
+      "sourceHash": "771ab6c0171848fea51b1df22e5972b9ff323d3d607ace88723ce5a0c1fcbe61"
+    },
+    {
+      "id": "seg-040",
+      "url": "/audio/the-prophet/seg-040-voice-young-voice.mp3",
+      "durationMs": 4848,
+      "checksum": "53deb36ee554d4149c42007553d1c7edd86783d5b73b573da9932a9d07099058",
+      "sourceHash": "8c3eef2d3cde1d0f5c96cc8f14185263da757f46eeb79af0d0289c3c8bece16c"
+    },
+    {
+      "id": "seg-041",
+      "url": "/audio/the-prophet/seg-041-voice-young-voice.mp3",
+      "durationMs": 8832,
+      "checksum": "9cd0183c38d3fa1ea2abfa5a5866daf72ee3ed0a738737390847f427aee6b24c",
+      "sourceHash": "35e70ff95c9131f76e465afe3acf2d53a721c137d3ca257465296dceac220751"
+    },
+    {
+      "id": "seg-042",
+      "url": "/audio/the-prophet/seg-042-voice-young-voice.mp3",
+      "durationMs": 7488,
+      "checksum": "525ea6562c914222f3c762259aba4eba9e02377dc45089af9b196ae6e14c9eb7",
+      "sourceHash": "719c51bb6c207a35fca29b73fd5b8b8e3347da277c42cceabedc058222b52964"
+    },
+    {
+      "id": "seg-043",
+      "url": "/audio/the-prophet/seg-043-voice-young-voice.mp3",
+      "durationMs": 3432,
+      "checksum": "71af79c4ff4524b421f0aa07cd9c36733662cefd72ae6ff784d7d298d1f0b96f",
+      "sourceHash": "a5a20be38c59516b250a296ef97c35fccd3659a315903c5d10d83f2666d2c3e3"
+    },
+    {
+      "id": "seg-044",
+      "url": "/audio/the-prophet/seg-044-voice-young-voice.mp3",
+      "durationMs": 2400,
+      "checksum": "4d280d5db332c7e40c23444c4bef9632213e1123eb150f20dd57faeed9aaaa03",
+      "sourceHash": "ea37619db7b89b986945ae17249bd66a50570ebf590463afbf8b0721ca6151cd"
+    },
+    {
+      "id": "seg-045",
+      "url": "/audio/the-prophet/seg-045-voice-young-voice.mp3",
+      "durationMs": 6000,
+      "checksum": "f5012d4d2f31a1043ed0cf2b6a2a0c78be28a51c9b7f132e318f0015cf215eb6",
+      "sourceHash": "70dfe3524e7cdb5bcb1df58fa0a1af0b8475578972bf574d88332522df388cbc"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "workId": "song-lian-song-dong-yang-ma-sheng-xu",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-8%|pitch=-1Hz|voiceId=young-voice",
+  "voiceId": "young-voice",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T01:21:21.300Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/song-lian-song-dong-yang-ma-sheng-xu/seg-001-voice-young-voice.mp3",
+      "durationMs": 53304,
+      "checksum": "c0d918a33946246da7199f5c756b806e866352ff2c26c3446db883bd333f9b8e",
+      "sourceHash": "8d5c4e8d4bedecbc47d24b87bf694f1b27f89ae2d3300e4325ca2e8f4149b0b0"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/song-lian-song-dong-yang-ma-sheng-xu/seg-002-voice-young-voice.mp3",
+      "durationMs": 39528,
+      "checksum": "419d003bd567ec4e58701a79190d6aac1c6e4afc59e54d9d09af8a45322d367f",
+      "sourceHash": "94181a077ace48966c6b2a87c4aca50d92075d6a052ea3b37782820a8a902f27"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/song-lian-song-dong-yang-ma-sheng-xu/seg-003-voice-young-voice.mp3",
+      "durationMs": 45768,
+      "checksum": "b36d294141029f332abd23aa34c737827183fe432492c7840d6b8f2197b91884",
+      "sourceHash": "c270d2bc3d73c9710c575b6a260887679e22d08799cd8ec3ca5232927b3e853d"
+    }
+  ]
+}

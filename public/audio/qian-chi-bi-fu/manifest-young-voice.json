@@ -1,0 +1,46 @@
+{
+  "version": 1,
+  "workId": "qian-chi-bi-fu",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-8%|pitch=-1Hz|voiceId=young-voice",
+  "voiceId": "young-voice",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T01:06:39.844Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/qian-chi-bi-fu/seg-001-voice-young-voice.mp3",
+      "durationMs": 33432,
+      "checksum": "5fdc8c638aea2c9e697152c13b8e83059bd962cd4cfa523db03f5722ae6bae36",
+      "sourceHash": "a1e8bfec5ba201afa23b5a9cc18c41786add2e7b142df77c39611744b4599d8a"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/qian-chi-bi-fu/seg-002-voice-young-voice.mp3",
+      "durationMs": 26688,
+      "checksum": "d417b42bcace2d932dbb4734fff2a0481d12bc3f72499f8d8e32b360ad19df36",
+      "sourceHash": "0f4bcfa8d1bac8a323d61afbed421c74d13b35ac8a3a22dfc08617649169ed1c"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/qian-chi-bi-fu/seg-003-voice-young-voice.mp3",
+      "durationMs": 56160,
+      "checksum": "1e02ae2e0f3e6a425a8d79cd8f66745c79ff0a806761ef3ace487860f6a652f3",
+      "sourceHash": "c7ec5b9fa009219dd22b32d1f364083fca492a4d2d2a5e63d3528e3ef7aa1c00"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/qian-chi-bi-fu/seg-004-voice-young-voice.mp3",
+      "durationMs": 41640,
+      "checksum": "6ec41a921aab37ad0d0ac06fe28e8a89e4367e82ac1bb64f9c46de2bd2f5fc14",
+      "sourceHash": "a7702572cb4772a081ae063df32fe7492d5dd7bcc476a6267f2da4929c0e84e4"
+    },
+    {
+      "id": "seg-005",
+      "url": "/audio/qian-chi-bi-fu/seg-005-voice-young-voice.mp3",
+      "durationMs": 10680,
+      "checksum": "a509c81d476ae42e1907ffeeccba69d9dfc068c0c8fc9e64819e32e194ed0cd0",
+      "sourceHash": "0d86e2e08950494b2e2c1f3398b04e22d32ecd8a72041f199f6cee957f604ff4"
+    }
+  ]
+}

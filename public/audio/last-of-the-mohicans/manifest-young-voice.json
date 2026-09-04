@@ -1,0 +1,53 @@
+{
+  "version": 1,
+  "workId": "last-of-the-mohicans",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-8%|pitch=-1Hz|voiceId=young-voice",
+  "voiceId": "young-voice",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T00:42:07.769Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/last-of-the-mohicans/seg-001-voice-young-voice.mp3",
+      "durationMs": 52536,
+      "checksum": "d8e1e93867a4a804c03461a5c2890ffd9d8c1538f6d8d91442026433d90414fe",
+      "sourceHash": "0a730f96cfb93d86c1691f37ebcd45ed1de20708115c903b1ade737f071d87e0"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/last-of-the-mohicans/seg-002-voice-young-voice.mp3",
+      "durationMs": 14184,
+      "checksum": "99e72cf6865f6f11ea7bbc0d2f5119023b1d5a547e9de4edbb8c1d59017959ad",
+      "sourceHash": "f8e128559eec511082df4b22cf4a1afab739630ad42fb04d0e416edce1a17cf1"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/last-of-the-mohicans/seg-003-voice-young-voice.mp3",
+      "durationMs": 51072,
+      "checksum": "3ea47119ad92d8a9a397ce824119a3a0833722b318370adecf8bd29c4c207222",
+      "sourceHash": "af207a41fd4c3a717aebf6cb1948523ee6a7e4fced1236abdcded09502f2bf37"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/last-of-the-mohicans/seg-004-voice-young-voice.mp3",
+      "durationMs": 35352,
+      "checksum": "bc82fa817e40b6303b147c1f04514a6eb7d8ce439c34af352d9108164c71d4cf",
+      "sourceHash": "e6cfa29fe797cd8487d15d46ef1d152229f2e74d2441ef9b95f29b3573d93dda"
+    },
+    {
+      "id": "seg-005",
+      "url": "/audio/last-of-the-mohicans/seg-005-voice-young-voice.mp3",
+      "durationMs": 25800,
+      "checksum": "8f6de3ed9926d84a073ee3391c77706dbc6809e34ec540f0792288f582a76f3c",
+      "sourceHash": "3915f51443fc161b3d2d6b779623af5556b0415b00d23324e4d0e81412684f80"
+    },
+    {
+      "id": "seg-006",
+      "url": "/audio/last-of-the-mohicans/seg-006-voice-young-voice.mp3",
+      "durationMs": 75888,
+      "checksum": "b79b4b6efd63ce3c55887939e0e354fb0cf3bd2e5c1ca117f75b57f2bbc9d3a0",
+      "sourceHash": "dadc1d612f73ca93c65320f156ed39e61a206ca6bfce08b59b9a71d9d5efc313"
+    }
+  ]
+}

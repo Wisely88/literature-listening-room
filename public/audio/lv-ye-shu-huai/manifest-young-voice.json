@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "workId": "lv-ye-shu-huai",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-8%|pitch=-1Hz|voiceId=young-voice",
+  "voiceId": "young-voice",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T00:55:34.249Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/lv-ye-shu-huai/seg-001-voice-young-voice.mp3",
+      "durationMs": 3840,
+      "checksum": "7b371d410b108b1e1e25fe76cab0521733cc599b1607439edc8ce40ac898d483",
+      "sourceHash": "a7a1b8723063b3711d4343f6a9c2aa4a649f57b0950d7ef883cde0be740cb19b"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/lv-ye-shu-huai/seg-002-voice-young-voice.mp3",
+      "durationMs": 3984,
+      "checksum": "7a85d5aae95663879b94ca321ea2c16364f45e6ace108a5e8bec701404be2a4d",
+      "sourceHash": "fc0fe6d14abd39166f26c41c41742412ca3d950ca9bd2ddcc8c8d41fc253cef4"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/lv-ye-shu-huai/seg-003-voice-young-voice.mp3",
+      "durationMs": 3888,
+      "checksum": "adda5c56c4d7c00a1560694d1ed85039fff2939e1780a793ca4a07dee2616aac",
+      "sourceHash": "7ecb039e5576ad96d894582fef53dc500ed6104ed0e26ab71ce8f5f496297a59"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/lv-ye-shu-huai/seg-004-voice-young-voice.mp3",
+      "durationMs": 3744,
+      "checksum": "e29d5b03907be9bf047b98047a51bb307653c263284b9aafc1bae9e129579c1e",
+      "sourceHash": "ab06c51d8b7a62928489eb63e42948f5a60ed9f52fb2cbcd9d8642e583ea140b"
+    }
+  ]
+}

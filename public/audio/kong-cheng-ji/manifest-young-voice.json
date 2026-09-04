@@ -1,0 +1,46 @@
+{
+  "version": 1,
+  "workId": "kong-cheng-ji",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-8%|pitch=-1Hz|voiceId=young-voice",
+  "voiceId": "young-voice",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T00:40:45.146Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/kong-cheng-ji/seg-001-voice-young-voice.mp3",
+      "durationMs": 359448,
+      "checksum": "214d006d4a841a1767ac15546ea0ae7db81adea9651456d23384eac5c6d42526",
+      "sourceHash": "90e3bf7b4195e4b96509cc047377eef9029827d0a810c72d603549db51f5e90e"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/kong-cheng-ji/seg-002-voice-young-voice.mp3",
+      "durationMs": 331248,
+      "checksum": "ff56ebdf33e813bb811905c48529b662a5025d246b0adbb0b0aa8b780e4dfc72",
+      "sourceHash": "c52ba2ced9babc53531ffd4dc4755d57a7087544ef19821a9dfcfc7ae731a25a"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/kong-cheng-ji/seg-003-voice-young-voice.mp3",
+      "durationMs": 302808,
+      "checksum": "f76c027c6f8606ddd005fe2cb1a1b17b2c1db1e4cd27731728734a9a5a8ea7d2",
+      "sourceHash": "8ee9038d5c230e92fd2ed0cfaa269b6cce2fb0128b54396ac564481011140100"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/kong-cheng-ji/seg-004-voice-young-voice.mp3",
+      "durationMs": 264744,
+      "checksum": "f0d1f8654c5e881fb8f6892daa3bc27a1e508696fca2412e99d903da13416484",
+      "sourceHash": "50ded4fad96b4d1be5049d7b37f9e3a35772e0af140aeb87dda36168054d7fe8"
+    },
+    {
+      "id": "seg-005",
+      "url": "/audio/kong-cheng-ji/seg-005-voice-young-voice.mp3",
+      "durationMs": 170184,
+      "checksum": "67727c84ffaabf1f508bd1817523a6f42334fd5fde34357a5676c1b6ae7875f5",
+      "sourceHash": "f6ce1347dc6d9dabfc86fbda3d407f003550ce538846d678c507820558626e58"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "workId": "shi-zhong-shan-ji",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-8%|pitch=-1Hz|voiceId=young-voice",
+  "voiceId": "young-voice",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T01:19:41.457Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/shi-zhong-shan-ji/seg-001-voice-young-voice.mp3",
+      "durationMs": 14304,
+      "checksum": "6f2b9c50386b6e44039b35a4a2e01223004b797c56b2ab2dfb6fa3b2e81b36c2",
+      "sourceHash": "885368800799b59d70d6e1f0c7a8fe581de991700ec624c1c2ba49eafa2893be"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/shi-zhong-shan-ji/seg-002-voice-young-voice.mp3",
+      "durationMs": 28848,
+      "checksum": "462c58ed2097e44bb459087f8e6001335775129a826e1329e7d123841dfc2f2e",
+      "sourceHash": "39a51306d85a6b6205ddebb98006bc06834c9981ab8cdc58bc7d7ca7f4106bb8"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/shi-zhong-shan-ji/seg-003-voice-young-voice.mp3",
+      "durationMs": 81912,
+      "checksum": "e81ffaa2890946206be020c01cf5f5d78fd4466d0925e88da76c4fcd211ed112",
+      "sourceHash": "e45fdf4aecc238e4e81dff79f5870929020646cb633c59ff9557ab14930f3cc1"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/shi-zhong-shan-ji/seg-004-voice-young-voice.mp3",
+      "durationMs": 30024,
+      "checksum": "965861e2f7ad1d3ba75a8f191d49d9f1e8b322b6f6c572681d618b795e0b9afd",
+      "sourceHash": "20508d6bb61888115ef7c23d0ad5ff17cca9097663b2a7bd13d3aebfaf4b61c4"
+    }
+  ]
+}

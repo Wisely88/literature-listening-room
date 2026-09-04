@@ -1,0 +1,46 @@
+{
+  "version": 1,
+  "workId": "zhi-qu-sheng-chen-gang",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-8%|pitch=-1Hz|voiceId=young-voice",
+  "voiceId": "young-voice",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T02:12:52.605Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/zhi-qu-sheng-chen-gang/seg-001-voice-young-voice.mp3",
+      "durationMs": 425232,
+      "checksum": "68706da65a74bdb05ce34fad01117885077712f8bdf7f413e4365999f00ea6a0",
+      "sourceHash": "fef566b90d589568e87a0b581fc8d04b9065d0cd65b210bdcc60339d7efc4cb5"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/zhi-qu-sheng-chen-gang/seg-002-voice-young-voice.mp3",
+      "durationMs": 442056,
+      "checksum": "d993f583d8be30e395afdf40fea25c40923fba16873344065303b193d7948659",
+      "sourceHash": "d088b8901376166927e8060d00eaf04ce2de8b319ead31508c801f211739d005"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/zhi-qu-sheng-chen-gang/seg-003-voice-young-voice.mp3",
+      "durationMs": 405960,
+      "checksum": "944f38de6701db4e0feef42136e08d8313052ac4947ac7c9efa598c0af63108c",
+      "sourceHash": "74d3411222bf8509c29a43bfc7030416a6b63ab1136f9a1ae159b5632d35e6fe"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/zhi-qu-sheng-chen-gang/seg-004-voice-young-voice.mp3",
+      "durationMs": 372840,
+      "checksum": "fda09564adb23e971e9db4ccd62cb23aed25c67b7315d741cc8633995011c693",
+      "sourceHash": "e6a23d707fe9fdcc08a5b6f1250bcb8459a807af9ed253470482b5c35e517e6b"
+    },
+    {
+      "id": "seg-005",
+      "url": "/audio/zhi-qu-sheng-chen-gang/seg-005-voice-young-voice.mp3",
+      "durationMs": 437904,
+      "checksum": "dc30d43161fead72ad5d71260457769d3a8b1de01b36b02773f0c20c476316da",
+      "sourceHash": "c30ab45d24be55b775ac4c5c409e47ef01a83c80d30640c7b0acd70234a43217"
+    }
+  ]
+}

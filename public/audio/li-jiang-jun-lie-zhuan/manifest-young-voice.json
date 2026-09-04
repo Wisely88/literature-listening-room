@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "workId": "li-jiang-jun-lie-zhuan",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-8%|pitch=-1Hz|voiceId=young-voice",
+  "voiceId": "young-voice",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T00:44:00.549Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/li-jiang-jun-lie-zhuan/seg-001-voice-young-voice.mp3",
+      "durationMs": 266880,
+      "checksum": "d055f8b549eec57046f627b7a67d17903f12061cbba4189afa97a0eb51ec86c9",
+      "sourceHash": "1814086fbd9663a3304096e0a969615a5c1b130c52063fe79c47755c72a6278b"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/li-jiang-jun-lie-zhuan/seg-002-voice-young-voice.mp3",
+      "durationMs": 250584,
+      "checksum": "e400546aaa7378fb216126f64272b0836c53a28ada272a95dd09a04cc23ae5dd",
+      "sourceHash": "5ec22c40deeddab9b2aca4e5a3b96775ce42abd01a42738fe6bfdde65e0d3fda"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/li-jiang-jun-lie-zhuan/seg-003-voice-young-voice.mp3",
+      "durationMs": 205512,
+      "checksum": "a2642f5f7b1580e8be744d8a45c03c0363fdeef6f2ffe0782b4a462420cc2f91",
+      "sourceHash": "b94532e94247b405a6f74276636eb859f5868ed82878b0258456878aa345e522"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/li-jiang-jun-lie-zhuan/seg-004-voice-young-voice.mp3",
+      "durationMs": 137136,
+      "checksum": "d0101c9186bd0144083e7d953b15cff2673ef9fb45c5ff2879aaed34e609e326",
+      "sourceHash": "5192390b197400265e6b3656e547455a846363268e65b9b0fcc419fa2c7a4cb6"
+    }
+  ]
+}

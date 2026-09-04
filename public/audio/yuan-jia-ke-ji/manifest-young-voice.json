@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "workId": "yuan-jia-ke-ji",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-8%|pitch=-1Hz|voiceId=young-voice",
+  "voiceId": "young-voice",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T02:08:20.199Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/yuan-jia-ke-ji/seg-001-voice-young-voice.mp3",
+      "durationMs": 19728,
+      "checksum": "c77fb636c5e2029fa1e0d0135e58f8512101f18daa4adaa3aa37fa7096b83011",
+      "sourceHash": "d25abc0187665f78d6249e188e3539891d8c97b118a21eb9f0b131beedd723a8"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/yuan-jia-ke-ji/seg-002-voice-young-voice.mp3",
+      "durationMs": 21000,
+      "checksum": "c92a3e675c5935d544829dcb5ca0ac8e2a7490d74e764d98289d2087c1503836",
+      "sourceHash": "d55c808aea725751b109ed6fd1bcb5a9fa8c63ab1a795a83722e349de36c9634"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/yuan-jia-ke-ji/seg-003-voice-young-voice.mp3",
+      "durationMs": 21456,
+      "checksum": "10d8bcd401d6f0be3fd3b6617390e2a622643187ef19f7010ea23a79e7311a77",
+      "sourceHash": "1495734446262bc5f9404f3a884a7e3c9075ae531a7771ed830d0ca6686695c3"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/yuan-jia-ke-ji/seg-004-voice-young-voice.mp3",
+      "durationMs": 25752,
+      "checksum": "f8cca2dfb7e17f7205ea4038b22b1249243dcf9f471261437196023d015b05bf",
+      "sourceHash": "ef40aaf32e79067ad646d41c30c50d20bebf52c47c3d975ae667cbe81326425c"
+    }
+  ]
+}

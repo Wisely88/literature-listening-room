@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "workId": "walden-winter-animals",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-8%|pitch=-1Hz|voiceId=young-voice",
+  "voiceId": "young-voice",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T01:45:50.406Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/walden-winter-animals/seg-001-voice-young-voice.mp3",
+      "durationMs": 97704,
+      "checksum": "2aad09426eecdb2796f4a6c6edbb7b3a29e43e887654817751a10e34997d5e7d",
+      "sourceHash": "d94195b21c8ebafb747a072f524d24c38a27e7c2c77e8babaf59c0f57ae7a1be"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/walden-winter-animals/seg-002-voice-young-voice.mp3",
+      "durationMs": 109704,
+      "checksum": "c5d9c2948c1f2f1e8f639c2d1c07eabb8740c620e1ee8b027e7b1e1c1c6339f5",
+      "sourceHash": "aecbee532a1935e44f5530f98fb484581b0fd47128c17213d3d9f4d77ba502a3"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/walden-winter-animals/seg-003-voice-young-voice.mp3",
+      "durationMs": 23736,
+      "checksum": "377f7c7656325a2d3af5628eacda731f0843a0fa7a1febaf420853e2f57f9841",
+      "sourceHash": "6a1b3de1414008dee78b15c85be819afc1bd094b13a615a2dab70c3aa6fd6374"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/walden-winter-animals/seg-004-voice-young-voice.mp3",
+      "durationMs": 42408,
+      "checksum": "e9ab86a6af394255adbe793eca61ec5dc4b543465cda07b767a8c095e5b2bf7c",
+      "sourceHash": "17d63d8bc5bf2e948fe47ee3e25eb1ee347d5f70f1865d63d227505a8921f1d7"
+    }
+  ]
+}

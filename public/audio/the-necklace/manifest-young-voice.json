@@ -1,0 +1,158 @@
+{
+  "version": 1,
+  "workId": "the-necklace",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-8%|pitch=-1Hz|voiceId=young-voice",
+  "voiceId": "young-voice",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T01:30:14.180Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/the-necklace/seg-001-voice-young-voice.mp3",
+      "durationMs": 22440,
+      "checksum": "04b471bd63aef35e0ab39baa39136ccb750185a95792519d21894cf88effce57",
+      "sourceHash": "9c3d12be98c2f0eec33ad0d169ea8bc7c1be5b02412efc1cb8dafb484b0e9f19"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/the-necklace/seg-002-voice-young-voice.mp3",
+      "durationMs": 28320,
+      "checksum": "f5f18f5a41b5a5ed2c79c9f4c8691316cbca578a27989fc57bba86fe39d2fe13",
+      "sourceHash": "dd94fdeac276ba24b249496a7a00b845f7dc5878c045402a10d7472a8ca23e93"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/the-necklace/seg-003-voice-young-voice.mp3",
+      "durationMs": 66528,
+      "checksum": "9f7d62970f7029d3b2373ca78b5c87512b1e184bc18efaf52ed4e1175dabcd18",
+      "sourceHash": "f856e766c76df850ee0161b21a844fe2858fbc0ca0759d150fd2c2b81fed0304"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/the-necklace/seg-004-voice-young-voice.mp3",
+      "durationMs": 34656,
+      "checksum": "bdfe3535ee58125954b81069f2d127652a3e543e78f1de0c9392eb1b4930b5f3",
+      "sourceHash": "56d3de968dbd5e2f1942100397ca19859aff5d41dc8e708a021cc9de47df6f8c"
+    },
+    {
+      "id": "seg-005",
+      "url": "/audio/the-necklace/seg-005-voice-young-voice.mp3",
+      "durationMs": 17256,
+      "checksum": "195067f017cdf20c90c9fa2162282a74f350289761ab40f5413ceda72548c0e0",
+      "sourceHash": "085f1ea66ebb4508dd4518094a58745b53844dc28804859480499a5de76f9807"
+    },
+    {
+      "id": "seg-006",
+      "url": "/audio/the-necklace/seg-006-voice-young-voice.mp3",
+      "durationMs": 10104,
+      "checksum": "ad2f8a6606c58864a9a1f2814815bea924d5e150b1a01b66d10dd1f8c5962c1e",
+      "sourceHash": "f42fd95329786510d60a35ac2a7fad9794c507038de388eba10248962bd63344"
+    },
+    {
+      "id": "seg-007",
+      "url": "/audio/the-necklace/seg-007-voice-young-voice.mp3",
+      "durationMs": 7224,
+      "checksum": "191bf10f5fab31b0d8b6084a1fcc059b0c1641aafc17211480f8e26d07cb8120",
+      "sourceHash": "55b07b15200ebf43c0f743452efffa5e4d504e857115edc27e784845d63042a3"
+    },
+    {
+      "id": "seg-008",
+      "url": "/audio/the-necklace/seg-008-voice-young-voice.mp3",
+      "durationMs": 3696,
+      "checksum": "088a82926ca4a01225cbf44e32c7dd7a3f45abfe3e43cf02e2a55eae606b88b7",
+      "sourceHash": "a88f88d5aac529f151fc1bbf42a208ae0ad3a4203bb50401a3e2bd04968b532d"
+    },
+    {
+      "id": "seg-009",
+      "url": "/audio/the-necklace/seg-009-voice-young-voice.mp3",
+      "durationMs": 4608,
+      "checksum": "bbf895efd7f291b6479797fcc252832fa185433fd522f9c651ea0a97872cd278",
+      "sourceHash": "fad4598cc6cd898261acc7414412a7eb92aa766ca956177ce50bcd0c19020c6b"
+    },
+    {
+      "id": "seg-010",
+      "url": "/audio/the-necklace/seg-010-voice-young-voice.mp3",
+      "durationMs": 11496,
+      "checksum": "428321278148bce2196663e2d0232a5c9122df1db1bdc69a81f04bd7554b6931",
+      "sourceHash": "afa9417bf024e18a23aad50b5aa10b4b7e308c92541cedb35ece6d6f417d2f74"
+    },
+    {
+      "id": "seg-011",
+      "url": "/audio/the-necklace/seg-011-voice-young-voice.mp3",
+      "durationMs": 8232,
+      "checksum": "0ffd1dc5e78feb0dcdcf234c0fb57ac5fbe5e625d19e170ab98ee1452e8a528e",
+      "sourceHash": "9e5b1538750aca293b1c8d908c08d0c9dd950c907b2cce09766cf904f4fd0b73"
+    },
+    {
+      "id": "seg-012",
+      "url": "/audio/the-necklace/seg-012-voice-young-voice.mp3",
+      "durationMs": 2472,
+      "checksum": "4d0d1e5c91862e7f920a92f26d0bf04b6f436da2947bef1d7be79abcd97c7ed7",
+      "sourceHash": "3410dae76a11fa23b648053431dee948f25ee8dec97b8eac740092aec9d681f3"
+    },
+    {
+      "id": "seg-013",
+      "url": "/audio/the-necklace/seg-013-voice-young-voice.mp3",
+      "durationMs": 17760,
+      "checksum": "a20e5e3843372a606b5800957e358269f645a55c2333436fae089ff6abf9569f",
+      "sourceHash": "d9f9eb37d4a80f16bcb86a560e7381b362b120710e615d0fa3ad45f36bcc334a"
+    },
+    {
+      "id": "seg-014",
+      "url": "/audio/the-necklace/seg-014-voice-young-voice.mp3",
+      "durationMs": 4248,
+      "checksum": "c4579ef2b21aab2d91a367b1c642712e0cccb35e3c83383aa625e985719bc7e2",
+      "sourceHash": "6112cb535b904eb07340b5b63028d7ebc9b04d739b0d95d15ff80d6885320ed1"
+    },
+    {
+      "id": "seg-015",
+      "url": "/audio/the-necklace/seg-015-voice-young-voice.mp3",
+      "durationMs": 2544,
+      "checksum": "b6b2d846d969a500439ff6aee53118d5ea5d9ab0b1c37173da6271335f4b4e5b",
+      "sourceHash": "81a431ad6768ff4520d300cde37237fab28ef8d4311eb8263985e5d1e4ef719d"
+    },
+    {
+      "id": "seg-016",
+      "url": "/audio/the-necklace/seg-016-voice-young-voice.mp3",
+      "durationMs": 3744,
+      "checksum": "ef07eafbc72208b809ac4ea3eec568ea07b590f8c6497c1de429b7896d686305",
+      "sourceHash": "62968025aa5ab7efde80087e645300bd100f9c57334c85a318692915fde3f7b2"
+    },
+    {
+      "id": "seg-017",
+      "url": "/audio/the-necklace/seg-017-voice-young-voice.mp3",
+      "durationMs": 5112,
+      "checksum": "bdfd23eed778e70413fed849999aaecac7ea0c02fc25cd6486ce788755be3074",
+      "sourceHash": "9477247f2931133c89621ba67598ac32aee44bffb70fb25b937695e89d5fffdb"
+    },
+    {
+      "id": "seg-018",
+      "url": "/audio/the-necklace/seg-018-voice-young-voice.mp3",
+      "durationMs": 9624,
+      "checksum": "a33cdbdf58263240febda6a731d532c2e3539bbb5e2a07bc2de8f0053a350f54",
+      "sourceHash": "a25df96a583bacc740079d747d3d919f0249b5ab7748549f1e9711dfd3659871"
+    },
+    {
+      "id": "seg-019",
+      "url": "/audio/the-necklace/seg-019-voice-young-voice.mp3",
+      "durationMs": 4272,
+      "checksum": "8a5e3baba1182821fe2489876e91fa659034824e704d9556c937045ebf7f7894",
+      "sourceHash": "ac20b84dd7b6468086aabf3b556943f5e9e6c96f8dc04da5e28741facf1eb466"
+    },
+    {
+      "id": "seg-020",
+      "url": "/audio/the-necklace/seg-020-voice-young-voice.mp3",
+      "durationMs": 6312,
+      "checksum": "ce343d78555c5f931de0b362559bd45bdbc90e093eb6e4f0198e0eb6eca5aab6",
+      "sourceHash": "f3040e79cc5f26dfded64224396a26641927132e13bf032a0788223a71a93b8a"
+    },
+    {
+      "id": "seg-021",
+      "url": "/audio/the-necklace/seg-021-voice-young-voice.mp3",
+      "durationMs": 10200,
+      "checksum": "b3ce9c8729e182da086d2dcda68fba7243e31f5be358c20c87ccde77a70f4c5f",
+      "sourceHash": "2a35a9cec841adc3b4fff452b906a80a08e680c59bcca94ac83eb4f7188ae044"
+    }
+  ]
+}

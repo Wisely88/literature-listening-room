@@ -1,0 +1,53 @@
+{
+  "version": 1,
+  "workId": "he-zhou-ji",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-8%|pitch=-1Hz|voiceId=young-voice",
+  "voiceId": "young-voice",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T00:32:33.858Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/he-zhou-ji/seg-001-voice-young-voice.mp3",
+      "durationMs": 16920,
+      "checksum": "1812f580491ac0ad594741a3081dc990431a6f908c2b63c77bb05b78822a41a3",
+      "sourceHash": "94f6e1e721c9d57798c2771ab4e4c79c3c4d5effa18dff955d51f52436a519b3"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/he-zhou-ji/seg-002-voice-young-voice.mp3",
+      "durationMs": 23304,
+      "checksum": "d925df042bf0d99b0cb7b1306abb25f469386b42037ce37f4cf9c63034d36ea3",
+      "sourceHash": "4fab877c2ea83e766eb21c48999ab7c64e9edd6a3b07805b304fd503c08b98f2"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/he-zhou-ji/seg-003-voice-young-voice.mp3",
+      "durationMs": 41376,
+      "checksum": "3f4984a3efad807177fbb5bd82d7b8a659c30a1a6f1d3acdfd037bcd3a757874",
+      "sourceHash": "35ae104c1b427e2723922b34ecebfca8aef39758e2110266bff863f6a79f1248"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/he-zhou-ji/seg-004-voice-young-voice.mp3",
+      "durationMs": 20136,
+      "checksum": "97b59b3d222cb9e51d5a660864f98da2d1ae9444509225211f41759228f2d72d",
+      "sourceHash": "13b9c63cd8ac5507889245b5a346300e26911cf78609195e80d0a0e17ba67b83"
+    },
+    {
+      "id": "seg-005",
+      "url": "/audio/he-zhou-ji/seg-005-voice-young-voice.mp3",
+      "durationMs": 15192,
+      "checksum": "afe837f394a3090ffbdcb3561d5196838dc74a4d9a5422cb49dfbf6ee819634c",
+      "sourceHash": "6e717b6716a01568fa10e973bd9a94b22a12709e1974b72cec07d7e51ecf8b1f"
+    },
+    {
+      "id": "seg-006",
+      "url": "/audio/he-zhou-ji/seg-006-voice-young-voice.mp3",
+      "durationMs": 23424,
+      "checksum": "29d71a8d113fd1f0683cbe41e3b77c5df61d14920a0da2f34f875f2ad69a345f",
+      "sourceHash": "ac15d8847959fda9c352ad6378a333aa33ecf9400c8b0fa720f82cd9213a5989"
+    }
+  ]
+}

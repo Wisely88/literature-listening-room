@@ -1,0 +1,186 @@
+{
+  "version": 1,
+  "workId": "xue-wen-zhi-qu",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-8%|pitch=-1Hz|voiceId=young-voice",
+  "voiceId": "young-voice",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T02:03:17.980Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/xue-wen-zhi-qu/seg-001-voice-young-voice.mp3",
+      "durationMs": 44616,
+      "checksum": "962b193d2e131979f7e540ac83a288187cafdd0df9211ac5bb09d0179878c964",
+      "sourceHash": "d771463cf03b4f084ce2dbf0b0f38c7b911fce40bdd855c36da1d7a86d36b9db"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/xue-wen-zhi-qu/seg-002-voice-young-voice.mp3",
+      "durationMs": 20544,
+      "checksum": "4c02f60a350d9b6e231d46cb7e409086ca3ce9767fec215b7f534db14f535849",
+      "sourceHash": "5338315d0cc2d8ef04d3660e5af4cc9ef89090b9ef85d2bfc33ea237026a972a"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/xue-wen-zhi-qu/seg-003-voice-young-voice.mp3",
+      "durationMs": 6360,
+      "checksum": "e3c9ce61ccd0f167118be020ed05ab7f8970bc0a0dc0801982e52057bbd730fb",
+      "sourceHash": "79f94f46dac7ebb3d26fcaff5d06adaf0ded87f9ec80ebcd6111f08cc59b1ae4"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/xue-wen-zhi-qu/seg-004-voice-young-voice.mp3",
+      "durationMs": 19296,
+      "checksum": "5ee184152222d5eff0fd2db03782b22ca10e27d9f777533bd5a65e73da0da761",
+      "sourceHash": "273127036aeae0e6b0042d0a55f0641d60d509391a526b68f89ea9c466b6f049"
+    },
+    {
+      "id": "seg-005",
+      "url": "/audio/xue-wen-zhi-qu/seg-005-voice-young-voice.mp3",
+      "durationMs": 19056,
+      "checksum": "300ec804870f52140eb4de7e8dc15cd270878f688a597eb8121498a311704b21",
+      "sourceHash": "61e764d1b77b68133d62b62b0452e9e0590fe3a855e97f600c3e487ab5226301"
+    },
+    {
+      "id": "seg-006",
+      "url": "/audio/xue-wen-zhi-qu/seg-006-voice-young-voice.mp3",
+      "durationMs": 30672,
+      "checksum": "19b87004424b463cd39f3985d39ba626ebfa55ef2d570c439ede4c8ab5488a72",
+      "sourceHash": "8ad2985a7c42ea13920fd9fb2b62c70e9feb0b09815518cab151c0529589c334"
+    },
+    {
+      "id": "seg-007",
+      "url": "/audio/xue-wen-zhi-qu/seg-007-voice-young-voice.mp3",
+      "durationMs": 16056,
+      "checksum": "6164b1bfde0e056815ba7217b88a440b4a0ad5d03043857fc73d15bfc81e24f1",
+      "sourceHash": "b015d89138536fa2046a35104e49a51b31086585a7f5ad47db65dd8168a9ce2c"
+    },
+    {
+      "id": "seg-008",
+      "url": "/audio/xue-wen-zhi-qu/seg-008-voice-young-voice.mp3",
+      "durationMs": 20424,
+      "checksum": "53449c41caea70dfdd769b544f39363e32b4db4593e46bf09701be96623c77c6",
+      "sourceHash": "927c0b430ddc3fba2502f12c177955c1138cec0cb789d629f6e89b6ee52c6f2f"
+    },
+    {
+      "id": "seg-009",
+      "url": "/audio/xue-wen-zhi-qu/seg-009-voice-young-voice.mp3",
+      "durationMs": 25680,
+      "checksum": "59c765fbe05f3e1a7800397f51312104547118865e9a411b9b61edc9869c05ab",
+      "sourceHash": "56e2db82ad8bb467bf5707e3ebeb3a9d83f3ed91c9b89cd894e49e3c75e8dd53"
+    },
+    {
+      "id": "seg-010",
+      "url": "/audio/xue-wen-zhi-qu/seg-010-voice-young-voice.mp3",
+      "durationMs": 17400,
+      "checksum": "b820bfc6324dc51b745b07c2576aa1967a9c89b4f5bf17b94d2ab050ad4e0ed8",
+      "sourceHash": "ff7b580c9a8df7eb11f936037c38c2df070c9e6dd8867f80b6e64a366c97f0fa"
+    },
+    {
+      "id": "seg-011",
+      "url": "/audio/xue-wen-zhi-qu/seg-011-voice-young-voice.mp3",
+      "durationMs": 16776,
+      "checksum": "7dfb814b0d314644fa5fae6c19a22308adcac628f6f1f35ef83e9bf7125ab89e",
+      "sourceHash": "f954784697b2683cc6287faeff8739c7466fcc72e4f92007f887913f9eda792a"
+    },
+    {
+      "id": "seg-012",
+      "url": "/audio/xue-wen-zhi-qu/seg-012-voice-young-voice.mp3",
+      "durationMs": 14232,
+      "checksum": "5f500f274440dac40b01132dd47e608448acce4b9bea45ed12df62c20535d5ce",
+      "sourceHash": "bc2846fd425f841886f7046d2b9a41c7c3cd4be67347f339fab62e6b95850d99"
+    },
+    {
+      "id": "seg-013",
+      "url": "/audio/xue-wen-zhi-qu/seg-013-voice-young-voice.mp3",
+      "durationMs": 11712,
+      "checksum": "1457208281dd8088978e52355a4879aa866726db45e3b4432d2ca6c2a6539595",
+      "sourceHash": "035071b47962431895177e89b72d4f7385f8b7d59401b3a58b7c562c60eb5d60"
+    },
+    {
+      "id": "seg-014",
+      "url": "/audio/xue-wen-zhi-qu/seg-014-voice-young-voice.mp3",
+      "durationMs": 19632,
+      "checksum": "0598cc16ad65d347e98974484568dba87fb7604ba7211946b95dd9afd405ed74",
+      "sourceHash": "108d1f1ab8962898dbcdf8ed240780d3943fee9270290100e82fe8a4a83bdf4a"
+    },
+    {
+      "id": "seg-015",
+      "url": "/audio/xue-wen-zhi-qu/seg-015-voice-young-voice.mp3",
+      "durationMs": 10320,
+      "checksum": "c82512d7c7bf83a135e068bf2b8ce86289c672fd1ac898ab968951cd53417bb0",
+      "sourceHash": "b69c4dbaff7ad88c15f2e5431e3337a3f59288b75e4b3ac2de08f41de703b422"
+    },
+    {
+      "id": "seg-016",
+      "url": "/audio/xue-wen-zhi-qu/seg-016-voice-young-voice.mp3",
+      "durationMs": 18264,
+      "checksum": "bbbd6cc1cf06384732729bff624ef380692fc5b84a7c211298ebd40928483893",
+      "sourceHash": "8f179f61d6659e25230104394c3b220d7ef76027be25dfcfe9ffb2441b1b4486"
+    },
+    {
+      "id": "seg-017",
+      "url": "/audio/xue-wen-zhi-qu/seg-017-voice-young-voice.mp3",
+      "durationMs": 18864,
+      "checksum": "ca46b73569516616cd3454738d62ceb26cbb83b583f215eca06e4ae749b218e6",
+      "sourceHash": "68dbf2d033d9759d3bc8c6273e31b770e7219723d8773d1c4fa2b8783dba1bde"
+    },
+    {
+      "id": "seg-018",
+      "url": "/audio/xue-wen-zhi-qu/seg-018-voice-young-voice.mp3",
+      "durationMs": 15552,
+      "checksum": "a1237ba94313eea0a77b8763e31155d45f8ba204787c3a6b47c29ebc834b23d6",
+      "sourceHash": "fc31d89697358b84fc01ec146d409237069729fda986adc27993ca601dbeb8ff"
+    },
+    {
+      "id": "seg-019",
+      "url": "/audio/xue-wen-zhi-qu/seg-019-voice-young-voice.mp3",
+      "durationMs": 22608,
+      "checksum": "8f0bd7277262d2bdede756aa7b2d19c961944af9b94d24c0ee0e7c498f27ef8a",
+      "sourceHash": "60f19c7db287162bbe06e62909ad63a5d21f164d9db67fd4944b88fb7a397491"
+    },
+    {
+      "id": "seg-020",
+      "url": "/audio/xue-wen-zhi-qu/seg-020-voice-young-voice.mp3",
+      "durationMs": 16992,
+      "checksum": "5f9f53f71ae61b77ad2f4bf329c95af3300cd9bc1f8b211d7549088f20c23c69",
+      "sourceHash": "f1b54d09a6f9489d5f165448f83198fc27774aa8b5ce9b1034a2a7caf9aae685"
+    },
+    {
+      "id": "seg-021",
+      "url": "/audio/xue-wen-zhi-qu/seg-021-voice-young-voice.mp3",
+      "durationMs": 13968,
+      "checksum": "d648bdc57f23c8cd9fa3f75272f5d7c70c61c6ca038fb3432190215b40e1e277",
+      "sourceHash": "e4d79a4a206080940872a28d9fa1b694fb726a8f23b7d8a1d1c6bea9e9442cde"
+    },
+    {
+      "id": "seg-022",
+      "url": "/audio/xue-wen-zhi-qu/seg-022-voice-young-voice.mp3",
+      "durationMs": 20352,
+      "checksum": "71d12003ab3876376601859c6105271bf911471f9d45694b367ec46735e4a711",
+      "sourceHash": "a4af4b3fd8e50f7173c0e67f36d264cc930d99904df4c4f10fade28811ba38fd"
+    },
+    {
+      "id": "seg-023",
+      "url": "/audio/xue-wen-zhi-qu/seg-023-voice-young-voice.mp3",
+      "durationMs": 8640,
+      "checksum": "47f8f46de50441127d1b97b2117fd6dce71c3a7002b24fb401aaffc9c7217141",
+      "sourceHash": "cf9001374f6020cfb5c5079f55aa04a45822fb698a47788dac32c8cc498d36d8"
+    },
+    {
+      "id": "seg-024",
+      "url": "/audio/xue-wen-zhi-qu/seg-024-voice-young-voice.mp3",
+      "durationMs": 18072,
+      "checksum": "2ce200715d86a8fe6b0792877a3774a68aed511144509c91de8cb622734c53d0",
+      "sourceHash": "950493ece84b3969821747077d511de31c2802e0c26d0783ecc050378a120f96"
+    },
+    {
+      "id": "seg-025",
+      "url": "/audio/xue-wen-zhi-qu/seg-025-voice-young-voice.mp3",
+      "durationMs": 20064,
+      "checksum": "623a966d5340ec906e32dfe23e94d1e0196a6008b3fd4a876ceaaa8e62a73ce7",
+      "sourceHash": "295392e1fa13b74c33180d55e33ee719e00e551aab1dd374c3943759c3fc5a20"
+    }
+  ]
+}

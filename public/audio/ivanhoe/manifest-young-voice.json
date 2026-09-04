@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "workId": "ivanhoe",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-8%|pitch=-1Hz|voiceId=young-voice",
+  "voiceId": "young-voice",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T00:36:43.239Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/ivanhoe/seg-001-voice-young-voice.mp3",
+      "durationMs": 38760,
+      "checksum": "5adc9a9ff15443da905cff35262abc868608fac0ef5465817b3c723d7440018f",
+      "sourceHash": "7bd70a01b6f58926eb5d1ec1bc04b19abcf520712c09b3b39549dee493290a80"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/ivanhoe/seg-002-voice-young-voice.mp3",
+      "durationMs": 47616,
+      "checksum": "5599d475a66b6387f9c1e1a10ae75978112f0b3ce29f1f0af78a741084e210a2",
+      "sourceHash": "d337ad942708ddd0979760861c29cb599d697a054c525fe76891cc4f2c4e2be4"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/ivanhoe/seg-003-voice-young-voice.mp3",
+      "durationMs": 58680,
+      "checksum": "85f44c749bdf62a55a0d154a1f36fcc7784fd70ca1b39f2ddb4e65d7ff4b9ea2",
+      "sourceHash": "814a2dadffa787bcd540f635be5442306c4795bed9ca428e611515702a23a311"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/ivanhoe/seg-004-voice-young-voice.mp3",
+      "durationMs": 65952,
+      "checksum": "c95be334df16dfb670911953628b2e03f49def7304269caab3ad0612baa5299b",
+      "sourceHash": "4dedbd16dcee525fd25e4b3ed22ad7ce10988b7251c42a8c7b827b8a94acdcc7"
+    }
+  ]
+}

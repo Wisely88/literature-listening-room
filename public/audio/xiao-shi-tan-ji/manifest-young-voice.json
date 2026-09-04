@@ -1,0 +1,46 @@
+{
+  "version": 1,
+  "workId": "xiao-shi-tan-ji",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-8%|pitch=-1Hz|voiceId=young-voice",
+  "voiceId": "young-voice",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T01:57:48.666Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/xiao-shi-tan-ji/seg-001-voice-young-voice.mp3",
+      "durationMs": 24312,
+      "checksum": "a237e44e62798a1d7e7ee0c81dcbac5723450a178e731f4d8295187f28eeb541",
+      "sourceHash": "c9450ba133b9a97b1ac65c65c4d61f0ac4e16242f612d170223665ba307fede7"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/xiao-shi-tan-ji/seg-002-voice-young-voice.mp3",
+      "durationMs": 13416,
+      "checksum": "a81ac57d6372ba211fe6b425e2b02a19910018ea3774d3465ecdb13f7cc07531",
+      "sourceHash": "be7aacc8433b7e7e2bbc69830ac7e6fff1a993448cc412ca2579f4016497f82f"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/xiao-shi-tan-ji/seg-003-voice-young-voice.mp3",
+      "durationMs": 8448,
+      "checksum": "ecb8304d1b9ad14206cf361f22374b06a6a5c527d78eeb6b3de260cf7f53d3f1",
+      "sourceHash": "88fe75d4f308c5de974fd79c9ee693a2e239d16300c6fffeee728d28370c9dee"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/xiao-shi-tan-ji/seg-004-voice-young-voice.mp3",
+      "durationMs": 12240,
+      "checksum": "0b2730ecf98a9e1ecafc8b066d7c91752f51ba73924c465617b00ff0f8970ebf",
+      "sourceHash": "b1aa38e67e58a009a5ec8aa00e7c7a8bb86e412aaee7bd389e0d617a943e7665"
+    },
+    {
+      "id": "seg-005",
+      "url": "/audio/xiao-shi-tan-ji/seg-005-voice-young-voice.mp3",
+      "durationMs": 10488,
+      "checksum": "0e3d0487067e44a5d2bc9564f629ef8655caa55dd15106c92d3fe6747b9a9ab2",
+      "sourceHash": "065893c55b94f89847af6a607be3709554dd147d9670006c0be9b5b01a088daa"
+    }
+  ]
+}

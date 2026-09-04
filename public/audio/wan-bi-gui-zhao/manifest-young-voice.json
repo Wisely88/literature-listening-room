@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "workId": "wan-bi-gui-zhao",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-8%|pitch=-1Hz|voiceId=young-voice",
+  "voiceId": "young-voice",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T01:46:08.626Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/wan-bi-gui-zhao/seg-001-voice-young-voice.mp3",
+      "durationMs": 8952,
+      "checksum": "7f0194f530f6d701f9f8445ff68389ef919eeba6a261bebe5e644c0a716ba0c6",
+      "sourceHash": "a1d61ad2dd4c7a594dbc07303a47c5d487d8a8916c9c11db599dabb57e7e8dd0"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/wan-bi-gui-zhao/seg-002-voice-young-voice.mp3",
+      "durationMs": 14688,
+      "checksum": "9ea06c632fa72e34a684a17d637128dba4ea0c978a1a4d41a8ac69a501f87945",
+      "sourceHash": "aa362f6f5e70e3c2e7df73a3ad499d3f9a23b7471ad10f8917ed37200a2d2c26"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/wan-bi-gui-zhao/seg-003-voice-young-voice.mp3",
+      "durationMs": 24792,
+      "checksum": "18f7d6015ff42a6ed638aab1aef0ac788b317353434fe079c958b7455b8ae76b",
+      "sourceHash": "7d00dc5f794f66faa70129077f4d65ef86642054685803c109d6f3a3054ce78c"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/wan-bi-gui-zhao/seg-004-voice-young-voice.mp3",
+      "durationMs": 23208,
+      "checksum": "4afd3f0808a36b33fde7b572333aeba9a722cc093eeec2bdaef60b0a24bf7161",
+      "sourceHash": "93319fd9e2f9d7691eaa5d8d4a0f915faa345c37b63fcb19ba85db9355c5b9d8"
+    }
+  ]
+}

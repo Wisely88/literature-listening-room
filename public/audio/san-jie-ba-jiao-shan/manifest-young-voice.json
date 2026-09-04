@@ -1,0 +1,46 @@
+{
+  "version": 1,
+  "workId": "san-jie-ba-jiao-shan",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-8%|pitch=-1Hz|voiceId=young-voice",
+  "voiceId": "young-voice",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T01:14:43.628Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/san-jie-ba-jiao-shan/seg-001-voice-young-voice.mp3",
+      "durationMs": 355776,
+      "checksum": "c943f3aa368ea3f5e6714c61cb23f6535d3ea1310b62d48d44295a528ffaa6ef",
+      "sourceHash": "0a9461b358c2d85319dd5b5ceef7ce44d7bd9d95aab4fad2e34c1c8f0eefbc31"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/san-jie-ba-jiao-shan/seg-002-voice-young-voice.mp3",
+      "durationMs": 340584,
+      "checksum": "de6a16eb8eacb6fd63d7151c166d86331c8bde78f2c3b202f67438d8bef2373d",
+      "sourceHash": "34db265b5ca1db39fdae831050609144e71e71102782a88da38dce718d2033fd"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/san-jie-ba-jiao-shan/seg-003-voice-young-voice.mp3",
+      "durationMs": 354600,
+      "checksum": "533b65c0dcd76b0f95eabb6c8f884464738844d53dfba278496027141ac9f352",
+      "sourceHash": "ff94a68e12c3ae2bdec518b6fd5fb47093e6d2e1a4f65ffd596f915ff410f2cc"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/san-jie-ba-jiao-shan/seg-004-voice-young-voice.mp3",
+      "durationMs": 354336,
+      "checksum": "f3fc4ef14b76754ae184a591409c79f9f42314e36607c01322c41ddba2ae3ddb",
+      "sourceHash": "925be96331fdaef81b93ce398baf97969817e52b08e721d874b800924d49fddf"
+    },
+    {
+      "id": "seg-005",
+      "url": "/audio/san-jie-ba-jiao-shan/seg-005-voice-young-voice.mp3",
+      "durationMs": 350304,
+      "checksum": "b1f66f269b09d4b3579a8efdd54f38be5da705239e78590efbb540c37d43f8eb",
+      "sourceHash": "1c9b45b4c3b6db63d98f41e3af9182c94e10f687aee45b229b5e12691a5152e5"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "version": 1,
+  "workId": "shao-nian-zhong-guo-shuo",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-8%|pitch=-1Hz|voiceId=young-voice",
+  "voiceId": "young-voice",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T01:18:03.674Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/shao-nian-zhong-guo-shuo/seg-001-voice-young-voice.mp3",
+      "durationMs": 272088,
+      "checksum": "7e0a0b6fcf76b69a4e9e393e50e879fcd2b8813262d55b250ab5ddf05ffbf716",
+      "sourceHash": "13bc32b8b9be704be3b4689e5c186ee8b0cb131c1465e480839be45235a6ea1d"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/shao-nian-zhong-guo-shuo/seg-002-voice-young-voice.mp3",
+      "durationMs": 264720,
+      "checksum": "218dea21603a2b7f10b36b34313d5e312f191b766d9051b9301292e10e848614",
+      "sourceHash": "baa26e8970ea6e71710cf2b2d280cb5ceb5b3d65289127e575ee7218104a3a40"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/shao-nian-zhong-guo-shuo/seg-003-voice-young-voice.mp3",
+      "durationMs": 214272,
+      "checksum": "eff638d7d49cce82ce16916d8e3f5596db64d1e5e85caa47c86edc9710eefaab",
+      "sourceHash": "6d532f076307607b17daa822eefae65bd8a18fc41fb16b615c6560cf5cffecb7"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/shao-nian-zhong-guo-shuo/seg-004-voice-young-voice.mp3",
+      "durationMs": 184536,
+      "checksum": "60d665e31b16260e2dfeb844ad9c2706215c6b0ae521d3cf608ee6d80c1d7efb",
+      "sourceHash": "b6eb91bdd02c34c3e5ce02493aeadb2228d630b3e2d4a9a06822bd7de6c023bb"
+    },
+    {
+      "id": "seg-005",
+      "url": "/audio/shao-nian-zhong-guo-shuo/seg-005-voice-young-voice.mp3",
+      "durationMs": 8520,
+      "checksum": "76c3ab8d0e3bcc26ec40f27953f88e5367790e8c4937c1c17ecd16b69401a640",
+      "sourceHash": "3c4b96d14db8301155f309a086cb8df91c6045fe2c3ac36d4415986d2f230349"
+    }
+  ]
+}

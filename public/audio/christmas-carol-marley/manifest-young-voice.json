@@ -1,0 +1,81 @@
+{
+  "version": 1,
+  "workId": "christmas-carol-marley",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-8%|pitch=-1Hz|voiceId=young-voice",
+  "voiceId": "young-voice",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T00:19:51.983Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/christmas-carol-marley/seg-001-voice-young-voice.mp3",
+      "durationMs": 20040,
+      "checksum": "a8c089fbcd4e6145b31e885387205bed27f46320401d22ccbfa07922a27aad26",
+      "sourceHash": "2b388714b41142a6ee08ecf4047914aa2891c6c4003595409dbc26f9770e86f0"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/christmas-carol-marley/seg-002-voice-young-voice.mp3",
+      "durationMs": 24984,
+      "checksum": "c6e2cffcfba234c7c6d02e5099e3983547d096a6e626a2d4600a161cc1f00aac",
+      "sourceHash": "5d619c854125bd1770ef82b3cdf96847a9a24584837cd84623823c717c4e6830"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/christmas-carol-marley/seg-003-voice-young-voice.mp3",
+      "durationMs": 31656,
+      "checksum": "06e706d607f2addc8cd49ea0925a354b6cc36749df1eee8cddc47102e078b183",
+      "sourceHash": "968b2082fe13a7348d52438ee5466cf942a2472a1758ca8856ee5dc2e314d3bd"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/christmas-carol-marley/seg-004-voice-young-voice.mp3",
+      "durationMs": 31680,
+      "checksum": "e52a0526f4e1ad762c9c3c0f85defc438d0ccaf30f03afb79802a6fc5272880b",
+      "sourceHash": "6dda22ca5d723cf95882e66bc63abba89c2399537c8df08f15f384cc1fe5e2ee"
+    },
+    {
+      "id": "seg-005",
+      "url": "/audio/christmas-carol-marley/seg-005-voice-young-voice.mp3",
+      "durationMs": 23064,
+      "checksum": "a038a201e09f11c5c991baf3fbc49bd6f44ad3cea9f159f7bce55319d63e58ce",
+      "sourceHash": "02297dbc70324134887b9fbe102217cc17da965d313bdab11786da1190ff2247"
+    },
+    {
+      "id": "seg-006",
+      "url": "/audio/christmas-carol-marley/seg-006-voice-young-voice.mp3",
+      "durationMs": 50592,
+      "checksum": "9cf908ac46c6241ff4722e66373bdd6028e8a695968f1ee61bfbf06455377eaf",
+      "sourceHash": "2878631f2f2cf41cee4f00ae994d42e2d5b9cacdc7cb1d1ed0866830993bba56"
+    },
+    {
+      "id": "seg-007",
+      "url": "/audio/christmas-carol-marley/seg-007-voice-young-voice.mp3",
+      "durationMs": 32376,
+      "checksum": "d52aba4fa4b5d06e9e2e4742f78b44b96ec8b9259ba462a5deac8cf58fc3a13d",
+      "sourceHash": "9c0d7ee2be224b427c8dc2e73b77a15e44f7e4082c33af5a6c6f91be6234a4a5"
+    },
+    {
+      "id": "seg-008",
+      "url": "/audio/christmas-carol-marley/seg-008-voice-young-voice.mp3",
+      "durationMs": 33000,
+      "checksum": "a108378b21e348a83f7e64309756c45eb55453fe8cf61b6908604fd84e598a7a",
+      "sourceHash": "bb3f8d9d1006c6b89ae5bc7bde6660599ac338b8098987ffc916b126a52dfe94"
+    },
+    {
+      "id": "seg-009",
+      "url": "/audio/christmas-carol-marley/seg-009-voice-young-voice.mp3",
+      "durationMs": 13344,
+      "checksum": "d39384f961d86acbeaa0b418b2e9126506a07eacf4fed7782205dfb7a6c1fc20",
+      "sourceHash": "c123169db272d84cd3b58202b8b36a6e82c7d18364f538a23c262594cac11fc8"
+    },
+    {
+      "id": "seg-010",
+      "url": "/audio/christmas-carol-marley/seg-010-voice-young-voice.mp3",
+      "durationMs": 51168,
+      "checksum": "473e153c9a3c741f7d850fc177733dc0e76ec2242b92c12af9a6272afa8f88e4",
+      "sourceHash": "97a50afc56735dd25e1bc95e3c4971b3c11e5ae498399c93541852754fbdefda"
+    }
+  ]
+}

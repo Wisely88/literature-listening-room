@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "workId": "jing-ye-si",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-8%|pitch=-1Hz|voiceId=young-voice",
+  "voiceId": "young-voice",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T00:39:08.699Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/jing-ye-si/seg-001-voice-young-voice.mp3",
+      "durationMs": 3936,
+      "checksum": "5bb57c9ad9155ec3bbecb1423c9d52d39309d37b8b1cfe6fe11e0e437f054ce7",
+      "sourceHash": "9cec722453c72a7a70ed95061b0f18c7473036686644b34fede6edc71a5ab52b"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/jing-ye-si/seg-002-voice-young-voice.mp3",
+      "durationMs": 3672,
+      "checksum": "8a0a9841d9f68187e1b61dc342d7ef906c8256cba0cbcab292eb921280521370",
+      "sourceHash": "0e851e941413f2c02f61d0b843ac6f6bc4f03e73e8f83ffc858bf145aee0f77b"
+    }
+  ]
+}

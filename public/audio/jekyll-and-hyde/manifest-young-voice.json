@@ -1,0 +1,53 @@
+{
+  "version": 1,
+  "workId": "jekyll-and-hyde",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-8%|pitch=-1Hz|voiceId=young-voice",
+  "voiceId": "young-voice",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T00:38:05.769Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/jekyll-and-hyde/seg-001-voice-young-voice.mp3",
+      "durationMs": 85680,
+      "checksum": "8a16acdc1247a05003e4e6cb95e5a4dc0d11f3ad834113b7654d5287fa8c6f16",
+      "sourceHash": "9a001b39d1ec1d05a1a9dc06da7cd1b15533d049305636a6b7d1aebeede42baa"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/jekyll-and-hyde/seg-002-voice-young-voice.mp3",
+      "durationMs": 74784,
+      "checksum": "7a55839ba8e7cfd5e4c0e575d5370cee4692ce0350bf92891bec9218c7b25a1d",
+      "sourceHash": "dba13cbcc17f0a21695ac0e11e75cf7af452f77f6d023938d7b60bd639eedd23"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/jekyll-and-hyde/seg-003-voice-young-voice.mp3",
+      "durationMs": 48264,
+      "checksum": "9ce20a665cdb92df8bea6c5b7c5884d16f674b2dacd366fb7450876fbdd75326",
+      "sourceHash": "48b902040d85cc8c1a472a458b35d2ea3b1cf2d8ab4e3dc02f15efc959782846"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/jekyll-and-hyde/seg-004-voice-young-voice.mp3",
+      "durationMs": 46272,
+      "checksum": "68ee88f7a3f0e78e83cb8ad352df0f099bbbbe7086312b9784c3b21859e241c5",
+      "sourceHash": "94349a199e4f4c27fe12cecd81d897cb60cc0ddbf8a5b7493aa83bee581a7924"
+    },
+    {
+      "id": "seg-005",
+      "url": "/audio/jekyll-and-hyde/seg-005-voice-young-voice.mp3",
+      "durationMs": 10152,
+      "checksum": "048f6174a8f1d311a83a23222374736eb4e798c650a0cc0271e51d0a5a27569d",
+      "sourceHash": "05ca671b0acc77da9664571fc8ba09a291c9b17e13aa6fd451893107737234a2"
+    },
+    {
+      "id": "seg-006",
+      "url": "/audio/jekyll-and-hyde/seg-006-voice-young-voice.mp3",
+      "durationMs": 12456,
+      "checksum": "8ef1ee551f56722c37302aac29440c429d54de8a1b06ffe0febba67da2257b67",
+      "sourceHash": "ecbcd10a571f775e2d15bc62f41fb69bcc3b9dbb2341d9e7f8f6c4fe9b44765f"
+    }
+  ]
+}

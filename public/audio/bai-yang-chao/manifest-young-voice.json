@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "workId": "bai-yang-chao",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-8%|pitch=-1Hz|voiceId=young-voice",
+  "voiceId": "young-voice",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T00:15:48.630Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/bai-yang-chao/seg-001-voice-young-voice.mp3",
+      "durationMs": 15240,
+      "checksum": "082c0dd5be3fac28fc3c1139166142f7274b976572cef2a0af109ef58c2528aa",
+      "sourceHash": "1e495cbc3b9c196085b76d4f4620026efe29d8bbe4b893730a1cbd518ea9af31"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/bai-yang-chao/seg-002-voice-young-voice.mp3",
+      "durationMs": 12504,
+      "checksum": "b3df1e70899755bab27571f136a440f2ed2256ae194bb5635f589216805cc71b",
+      "sourceHash": "9c3856e0e62fd5f4ca71aefb8dbe23c65ee6716aeff1d2821587c81c900d8b1a"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/bai-yang-chao/seg-003-voice-young-voice.mp3",
+      "durationMs": 10248,
+      "checksum": "cd43beca9dc7f84f9b00dd0879473559f5afe9523d9ce9d53111856b2c90bbab",
+      "sourceHash": "3fd21a427f4dd329a3ca21ad280d860f9f07a0a047cb0ea89b710d9ad0fd503b"
+    }
+  ]
+}

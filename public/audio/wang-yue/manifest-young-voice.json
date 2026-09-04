@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "workId": "wang-yue",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-8%|pitch=-1Hz|voiceId=young-voice",
+  "voiceId": "young-voice",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T01:47:15.923Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/wang-yue/seg-001-voice-young-voice.mp3",
+      "durationMs": 7608,
+      "checksum": "1170381d71c15650075dbec81df4ca52d6797fb1b44897ac7b700692de5564c1",
+      "sourceHash": "b25d58086719cf42d4763e75b1ef9a9294a3c5794bb92279d1eae815781ed9c7"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/wang-yue/seg-002-voice-young-voice.mp3",
+      "durationMs": 4224,
+      "checksum": "1c22da3f1f3003b61d01518aa6b7966a6622b903a53f18a1363031af86e5773d",
+      "sourceHash": "18021612fdc411c53316f197c09e89d96f4cfdf7a5581d7c60e4ebd35016837c"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/wang-yue/seg-003-voice-young-voice.mp3",
+      "durationMs": 3816,
+      "checksum": "1df646c07bf63043bb39ff60bd02910c786d331fa990a7ec5b815c48f2327abc",
+      "sourceHash": "b6711597c43886afd6c49ad392e82913a227e8309bf884722cad9e0e686578de"
+    }
+  ]
+}

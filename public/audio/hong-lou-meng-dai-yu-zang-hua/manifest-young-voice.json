@@ -1,0 +1,102 @@
+{
+  "version": 1,
+  "workId": "hong-lou-meng-dai-yu-zang-hua",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-8%|pitch=-1Hz|voiceId=young-voice",
+  "voiceId": "young-voice",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T00:33:21.448Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/hong-lou-meng-dai-yu-zang-hua/seg-001-voice-young-voice.mp3",
+      "durationMs": 9024,
+      "checksum": "47fe71ac3fc5f7b8b061113e8eb5fd13ba47026b903d95a6c8e8db67ca9aca75",
+      "sourceHash": "5b524afd42c6591e1e9acdda215eaa4b29082dc10747f6a94b84c97359950720"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/hong-lou-meng-dai-yu-zang-hua/seg-002-voice-young-voice.mp3",
+      "durationMs": 8328,
+      "checksum": "6c5b9e166e5bdf31c7939d8f5530b29e1014908757ba3a9578b2f69a78e45a44",
+      "sourceHash": "6c1cf0792007e7bf303e1f05f7f27051dbef7166a8ae1cc66fe933bd7e2cb751"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/hong-lou-meng-dai-yu-zang-hua/seg-003-voice-young-voice.mp3",
+      "durationMs": 7944,
+      "checksum": "5c80d6db2df0b6624e4871d9f7843560d53f851be6e56c1d932ae59ac9e0e538",
+      "sourceHash": "2f5ff818c115fffb8e72c2a46df020665b8b35cadd87309257f9e76c282263ab"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/hong-lou-meng-dai-yu-zang-hua/seg-004-voice-young-voice.mp3",
+      "durationMs": 9264,
+      "checksum": "50e6bc9bb12c4ffdbfe36422fbd99cfadbe459a6d1099e403311a3494117f0e8",
+      "sourceHash": "a00b636ffbf4716017e54799879f759286192d923248eced1db750901dad35bb"
+    },
+    {
+      "id": "seg-005",
+      "url": "/audio/hong-lou-meng-dai-yu-zang-hua/seg-005-voice-young-voice.mp3",
+      "durationMs": 8472,
+      "checksum": "285579e6b182c5de8c8edcb26dfc5f37dc403e36710b3f12d2ce3a2e142df952",
+      "sourceHash": "87fd4d0fd1c3cb894eed06198bca9a0adcdd0dd7c6c4799a3c0c95a1e9fdd902"
+    },
+    {
+      "id": "seg-006",
+      "url": "/audio/hong-lou-meng-dai-yu-zang-hua/seg-006-voice-young-voice.mp3",
+      "durationMs": 8808,
+      "checksum": "90030a8e5191316cda5407c66634dfabdf1928563be5b3326cd8431507a57bcc",
+      "sourceHash": "7aa07e899613ad4f9668686ac42940b7e4e7b6fd2611516d86ff1ba0068dc566"
+    },
+    {
+      "id": "seg-007",
+      "url": "/audio/hong-lou-meng-dai-yu-zang-hua/seg-007-voice-young-voice.mp3",
+      "durationMs": 8424,
+      "checksum": "9860b18e7254d08184eb2f5c1fc3bac96add71e41920b606de42f08a4a0a3f85",
+      "sourceHash": "70ef6912545a3ffd0b6a0d24c8ec17266e88691f5ea2780ce254889550897b11"
+    },
+    {
+      "id": "seg-008",
+      "url": "/audio/hong-lou-meng-dai-yu-zang-hua/seg-008-voice-young-voice.mp3",
+      "durationMs": 8808,
+      "checksum": "6b2b3f287fc00677226a29826d1f8bdb6d665a6a875b3f4f6057a88764f9a56f",
+      "sourceHash": "fe3ac71f8cb2854c390d7d2851877ca4f8146fabf6845e457a53f0073612e9a2"
+    },
+    {
+      "id": "seg-009",
+      "url": "/audio/hong-lou-meng-dai-yu-zang-hua/seg-009-voice-young-voice.mp3",
+      "durationMs": 8808,
+      "checksum": "5c6d76d068da471fb0dcb91426cc8c0d630cf4cadad765d7a68dd9a2531a6e0f",
+      "sourceHash": "78d58967fe4f86c73b3e1b330b474851e13ec5820e0912929cb4a98ab5067e39"
+    },
+    {
+      "id": "seg-010",
+      "url": "/audio/hong-lou-meng-dai-yu-zang-hua/seg-010-voice-young-voice.mp3",
+      "durationMs": 7824,
+      "checksum": "9a047a5de9ed6535d0dbabe9c355c878ed5c6780f84cacf9775be670cf32eb5c",
+      "sourceHash": "340e08d956205fb2ad2f77ecf1da2f4b17f5cee5c91190a764d8d883a1afc1eb"
+    },
+    {
+      "id": "seg-011",
+      "url": "/audio/hong-lou-meng-dai-yu-zang-hua/seg-011-voice-young-voice.mp3",
+      "durationMs": 8520,
+      "checksum": "dc8505ad25d4f0bc0a9c63938da5c9c63bbe55688893a1ebb97dedd9ed331ea1",
+      "sourceHash": "5ad66e3405a0d7de1dfbf8a98f619813e7a15bdf9261381c5509fa6e9aaa967d"
+    },
+    {
+      "id": "seg-012",
+      "url": "/audio/hong-lou-meng-dai-yu-zang-hua/seg-012-voice-young-voice.mp3",
+      "durationMs": 8856,
+      "checksum": "f7c3a16fb35d7a9115e87fbb8ab216c0802f0a1496d3927e073cc78dbbd5a123",
+      "sourceHash": "f28044d3675866544bd0d1f46ef17646e28320b3f0d5caca907bcf243f2e163d"
+    },
+    {
+      "id": "seg-013",
+      "url": "/audio/hong-lou-meng-dai-yu-zang-hua/seg-013-voice-young-voice.mp3",
+      "durationMs": 8568,
+      "checksum": "a67761497ea424871306708adb7108b2f7c4ea29f38ffa38d3e118f1a23c4320",
+      "sourceHash": "9a5fa33bab5bffb91d10e87ad248b7fee31de7a6e4e3b8b979b23b94612ef0f1"
+    }
+  ]
+}

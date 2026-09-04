@@ -1,0 +1,137 @@
+{
+  "version": 1,
+  "workId": "the-last-leaf",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-8%|pitch=-1Hz|voiceId=young-voice",
+  "voiceId": "young-voice",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T01:27:41.550Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/the-last-leaf/seg-001-voice-young-voice.mp3",
+      "durationMs": 32280,
+      "checksum": "81fd2ed6d7a921fe43a157140acdae5f43fcd768dbe810cced3796d139623879",
+      "sourceHash": "c6904f1c8dbe4327be5f809449214779524e7990059f76b7e768e1a3c5a524d4"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/the-last-leaf/seg-002-voice-young-voice.mp3",
+      "durationMs": 22752,
+      "checksum": "a8a1178111cf6352aca92290029054ab3789bb30b159ea907d157ff01459aa58",
+      "sourceHash": "448faf47c4c5448a4a459b3605519eec33d98fd1aba4bae8e4971765c9eb216f"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/the-last-leaf/seg-003-voice-young-voice.mp3",
+      "durationMs": 25032,
+      "checksum": "c83f3f2eaf032f23c7482fe50da45c3ed44cca11476db780e384669c8a70c0da",
+      "sourceHash": "5703d49a8dbaec462d146eca4dbfe50dd72337834e8adb19a23933bb463eb49e"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/the-last-leaf/seg-004-voice-young-voice.mp3",
+      "durationMs": 25536,
+      "checksum": "532fcc49b176469821a19bf08419c207d2d8699e714c126e6d633a3dbaab03fe",
+      "sourceHash": "175365c207cacf782bdea9bd259e90485d7f490f535b6941286744557b2ae0f9"
+    },
+    {
+      "id": "seg-005",
+      "url": "/audio/the-last-leaf/seg-005-voice-young-voice.mp3",
+      "durationMs": 26136,
+      "checksum": "257c2d16ce682f75c417e47ffc57c6618aa0cddd06cdde2edb608278998df793",
+      "sourceHash": "587317b6745049a96a4ee9aee40cfd5928f7c7d0aa1a89cf3284c734cbdfada4"
+    },
+    {
+      "id": "seg-006",
+      "url": "/audio/the-last-leaf/seg-006-voice-young-voice.mp3",
+      "durationMs": 6624,
+      "checksum": "38b53f27343f35b29f17491d6ce777cc0f9468b8f054402766cbfd499ef81eb3",
+      "sourceHash": "34ee1e7ec89760d54aa19c8dbd16e70a43772c349c3b7b9941310e16a6aafd1f"
+    },
+    {
+      "id": "seg-007",
+      "url": "/audio/the-last-leaf/seg-007-voice-young-voice.mp3",
+      "durationMs": 21720,
+      "checksum": "fdc6a2934b45ebe454f49284c81f6695e7db9e588d390a65f22dcabcd1c5be07",
+      "sourceHash": "bd374dcef3af8acd8ae5bcf42f5f9af83c1a85731aa2131913da13bdcde4a0e6"
+    },
+    {
+      "id": "seg-008",
+      "url": "/audio/the-last-leaf/seg-008-voice-young-voice.mp3",
+      "durationMs": 6288,
+      "checksum": "9e27d0fd7fe62c70392b06604b307990612233d81a501dd2668e934832f4097b",
+      "sourceHash": "e19df6d3e2f8e2057a1bdfc45f7723da59abf08245b76cd111f5d035878e504c"
+    },
+    {
+      "id": "seg-009",
+      "url": "/audio/the-last-leaf/seg-009-voice-young-voice.mp3",
+      "durationMs": 8520,
+      "checksum": "ee233d500a433580a0c56a3eec6adc88d12d5c1e0169d9af1b5550bc33169408",
+      "sourceHash": "86e7e222fda2cc3c07254968c5b5a77aa569bd17bb48633396022b8d31aa5a05"
+    },
+    {
+      "id": "seg-010",
+      "url": "/audio/the-last-leaf/seg-010-voice-young-voice.mp3",
+      "durationMs": 9696,
+      "checksum": "a32f4b801f2f1c71607cb8ce9f242a08017634043024acadd8ae219ade03f1ff",
+      "sourceHash": "b1211a42d590661207b55635040531185aa10962ee04483a64deb2a3d8787434"
+    },
+    {
+      "id": "seg-011",
+      "url": "/audio/the-last-leaf/seg-011-voice-young-voice.mp3",
+      "durationMs": 24672,
+      "checksum": "16e12e7cfcd42213754892b72cfec44ae349546d094ceb254c7d8c798b149033",
+      "sourceHash": "450dc521275e3d9ba804b010ae927cf523baf01d490ca88e7ffcb85d895d59e4"
+    },
+    {
+      "id": "seg-012",
+      "url": "/audio/the-last-leaf/seg-012-voice-young-voice.mp3",
+      "durationMs": 11112,
+      "checksum": "b6f25dcbadda384d7c96ab11806248eac4cce534a256be4415b0b12ff367979f",
+      "sourceHash": "324efe1a74887b7c71e712f78114359e38fd3482024d1de322eddf083594e6e0"
+    },
+    {
+      "id": "seg-013",
+      "url": "/audio/the-last-leaf/seg-013-voice-young-voice.mp3",
+      "durationMs": 9168,
+      "checksum": "8a05f179b612c19c9b0f24135813e49be76447fecb043ac58b5b92c38b06df46",
+      "sourceHash": "9af42849366be20813bf75f0976a356773f84f7cf47761518c7e04f27f39f8d2"
+    },
+    {
+      "id": "seg-014",
+      "url": "/audio/the-last-leaf/seg-014-voice-young-voice.mp3",
+      "durationMs": 16752,
+      "checksum": "21e759079c634bca5f04243b1f733c57f1a1ad716b18861cde9445cdd39dae8e",
+      "sourceHash": "a3c32f647df34be2030ee733c884927f17520524cb8affbcff2902821c0585dc"
+    },
+    {
+      "id": "seg-015",
+      "url": "/audio/the-last-leaf/seg-015-voice-young-voice.mp3",
+      "durationMs": 12624,
+      "checksum": "aefa46adf8849b75697fc4e1ba6712ced0adac62221eceb806b5afc900e96c3b",
+      "sourceHash": "15de972c634dd441977bd527768c61b241498c08d9123bb74ce9bbd257804254"
+    },
+    {
+      "id": "seg-016",
+      "url": "/audio/the-last-leaf/seg-016-voice-young-voice.mp3",
+      "durationMs": 6264,
+      "checksum": "fbf57f35da058b0dafc182b7e031bf5f67fb79b9655f758de2a2dad99414e636",
+      "sourceHash": "3493c5e0cf30c0a8d5a93965a77cbee406f6e79005d50cfb3384de6051bb6580"
+    },
+    {
+      "id": "seg-017",
+      "url": "/audio/the-last-leaf/seg-017-voice-young-voice.mp3",
+      "durationMs": 8832,
+      "checksum": "c5bad2c91403bdcb10fa1e240dbc4c21d5967797ad42c840a4456f40522336fb",
+      "sourceHash": "a48fe66ed08ba0e8d70500ba82546ed609bf8ee7cca16892d00629659e254102"
+    },
+    {
+      "id": "seg-018",
+      "url": "/audio/the-last-leaf/seg-018-voice-young-voice.mp3",
+      "durationMs": 25584,
+      "checksum": "9fa71c59391bd5d262a225b237e7a4ed48be3d84340777e8a443c2e85ded6181",
+      "sourceHash": "15801cadbc198f7476f238cc79ba78e1b4208e76f1fab13f20533f67770dc405"
+    }
+  ]
+}

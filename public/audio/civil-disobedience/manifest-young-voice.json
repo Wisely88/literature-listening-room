@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "workId": "civil-disobedience",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-8%|pitch=-1Hz|voiceId=young-voice",
+  "voiceId": "young-voice",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T00:21:50.199Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/civil-disobedience/seg-001-voice-young-voice.mp3",
+      "durationMs": 65760,
+      "checksum": "1f701295193a82cd1db317e973ff2aef19d1cb953aeb9d417034885f213562d3",
+      "sourceHash": "985563f32fdd55616e56ff95a6068c242b9dbd298df9e53bf9f27122b82cf213"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/civil-disobedience/seg-002-voice-young-voice.mp3",
+      "durationMs": 104376,
+      "checksum": "5778f947dbd1efb148e57f4b938a0c6962446c048204526f851c654381f12125",
+      "sourceHash": "11587a7f7c380ccc257c6b83a81c1c014447a712876381841c673ba58890f7d5"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/civil-disobedience/seg-003-voice-young-voice.mp3",
+      "durationMs": 17880,
+      "checksum": "3c532350eefda9ed2e7f1a8eb3ca60d5e8a2497c8cfdafd2f0932484ae10c497",
+      "sourceHash": "66ce1c5bba3f0a0babc42ba8890a5a4f16eac242d6a9621ac2aacac7b02042e2"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/civil-disobedience/seg-004-voice-young-voice.mp3",
+      "durationMs": 62688,
+      "checksum": "3eccabd767257c1fe6f46055ed3547a284169556daa0b7892f16afa3d55f25ec",
+      "sourceHash": "cec60394ab7a0eb6cf264914cbced034fce424805b7102e07aca92c3e63f0cf6"
+    }
+  ]
+}

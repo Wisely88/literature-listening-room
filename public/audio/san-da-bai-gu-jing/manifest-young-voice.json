@@ -1,0 +1,46 @@
+{
+  "version": 1,
+  "workId": "san-da-bai-gu-jing",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-8%|pitch=-1Hz|voiceId=young-voice",
+  "voiceId": "young-voice",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T01:12:09.712Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/san-da-bai-gu-jing/seg-001-voice-young-voice.mp3",
+      "durationMs": 319536,
+      "checksum": "0d274ed4d4a2b0d99c18d2b60192823d6817c141e51560cc317dfb1e3951b963",
+      "sourceHash": "8112dd224c10d7d0274e9a9354c2e78c038e43a7d59b080dc15313374f6ea2fc"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/san-da-bai-gu-jing/seg-002-voice-young-voice.mp3",
+      "durationMs": 331368,
+      "checksum": "4879e7b934924f05ec9fb27fad20130da06f6084391fd05218ff3dfc92bbd63e",
+      "sourceHash": "9a477d73d13e2f94a5071fa998d1b9df75f4e2282db222898ec2bfba0a047c72"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/san-da-bai-gu-jing/seg-003-voice-young-voice.mp3",
+      "durationMs": 318600,
+      "checksum": "c460f423b1c34aea1e7b7454b9e1a8779203c0fff07295efb2663d9ba70f50cd",
+      "sourceHash": "493a6b795c7755e45e4a0c5c72d0f8f5f3687252826b82d3974e5640addc6fcc"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/san-da-bai-gu-jing/seg-004-voice-young-voice.mp3",
+      "durationMs": 316968,
+      "checksum": "629bdfd6789019fefc7ef5dbb55f6721de21e8a2712b32f0e87940814371a93b",
+      "sourceHash": "a5e4467c56e29bede82e249caa9d822fa7bb1896afee56c9bb036ff648340ae8"
+    },
+    {
+      "id": "seg-005",
+      "url": "/audio/san-da-bai-gu-jing/seg-005-voice-young-voice.mp3",
+      "durationMs": 343920,
+      "checksum": "1d343ea864a601fbc5b337d210d675a3a9eeb2c406ae1fa38eb36b3613d8d73d",
+      "sourceHash": "ffa9b2f2dfab725757291f42188c728064196a01c17017b1ef54c43eae7bc517"
+    }
+  ]
+}

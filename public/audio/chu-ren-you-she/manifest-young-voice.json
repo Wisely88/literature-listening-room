@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "workId": "chu-ren-you-she",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-8%|pitch=-1Hz|voiceId=young-voice",
+  "voiceId": "young-voice",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T00:19:58.599Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/chu-ren-you-she/seg-001-voice-young-voice.mp3",
+      "durationMs": 8088,
+      "checksum": "a1b64a9e742d21e2bcb19489d19baffd8819a172b52db0c3c7a6a5e348a8affd",
+      "sourceHash": "1518dbbb7326104459d5df27df220afcf9bc0adfa1c716247c1d38fbbe4e60bd"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/chu-ren-you-she/seg-002-voice-young-voice.mp3",
+      "durationMs": 9984,
+      "checksum": "d6e3d6b2f063ae290f1318e952852d1d37611c0449c311a6f287ef366b527946",
+      "sourceHash": "e2cb1bdedfb6f17b763e495661bc3f085edd7ed68fc1392f60b155696d90305d"
+    }
+  ]
+}

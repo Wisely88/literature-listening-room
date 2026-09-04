@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "workId": "meng-zi-de-dao-duo-zhu",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-8%|pitch=-1Hz|voiceId=young-voice",
+  "voiceId": "young-voice",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T00:56:40.533Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/meng-zi-de-dao-duo-zhu/seg-001-voice-young-voice.mp3",
+      "durationMs": 4008,
+      "checksum": "d1f9c7c8b079ca13ffe893556ca349843eb4bd2cb0d89f89b950ab4aba299881",
+      "sourceHash": "256d4c737a8d354653990f19a21c909e235a5ffc6152f7c7c0874aa4504ef785"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/meng-zi-de-dao-duo-zhu/seg-002-voice-young-voice.mp3",
+      "durationMs": 11928,
+      "checksum": "ac88ff13517fb34adcf5fe94d58208c9b5af39d23626998f59abd87adc2322da",
+      "sourceHash": "43aa3539612c1e01f77ec5c9925d7c6ec131415069cf42d4a3a1e2e6b3ea1a1d"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/meng-zi-de-dao-duo-zhu/seg-003-voice-young-voice.mp3",
+      "durationMs": 9888,
+      "checksum": "6787c1d659a61393446864ee646edc97ce31fc86d83dd4e2baa670134e42dd6d",
+      "sourceHash": "a8c824aea554315b8289bb7206c87ff1e3f74dc3dc0627a0b7fb8bb4b146dd79"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/meng-zi-de-dao-duo-zhu/seg-004-voice-young-voice.mp3",
+      "durationMs": 16752,
+      "checksum": "c4f8ddad02643a210ffb9ad675bd349d9665efea81a4a3a3b0bef5f9b73ec2ac",
+      "sourceHash": "f3270f5bfffaf5a7d5e807b5bbca2d13ac3b071a0b299f9e786363eadcaec3d3"
+    }
+  ]
+}

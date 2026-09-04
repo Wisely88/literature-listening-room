@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "workId": "meng-zi-fu-gui-bu-neng-yin",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-8%|pitch=-1Hz|voiceId=young-voice",
+  "voiceId": "young-voice",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T00:56:53.211Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/meng-zi-fu-gui-bu-neng-yin/seg-001-voice-young-voice.mp3",
+      "durationMs": 9288,
+      "checksum": "0f4bad8b42a759aa79ad8c490aa23c2e37b65057a4058f5cfc47e54ec49ce033",
+      "sourceHash": "df0923cf000b259217282e9b7d42b0275728d9266da5dbfd330308ffc6825a8d"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/meng-zi-fu-gui-bu-neng-yin/seg-002-voice-young-voice.mp3",
+      "durationMs": 20832,
+      "checksum": "76ef396179afcd5b10c42552ca2e01022c814166d9886f901985483171c76592",
+      "sourceHash": "cef525f03039af9b6c4092ae4d16b33abe5004bd8ef2f0f45d31e84b5f8071c9"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/meng-zi-fu-gui-bu-neng-yin/seg-003-voice-young-voice.mp3",
+      "durationMs": 17376,
+      "checksum": "082b33e010e39249b57569fc4824d5d654a0c54454c01906931b550c154021b3",
+      "sourceHash": "ddc7189c46272c5a1ce06e756fd2450ccee3972b82d0f4c4dedc8e5ea53b512c"
+    }
+  ]
+}

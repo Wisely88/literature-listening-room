@@ -1,0 +1,46 @@
+{
+  "version": 1,
+  "workId": "lian-xiang",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-8%|pitch=-1Hz|voiceId=young-voice",
+  "voiceId": "young-voice",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T00:46:13.575Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/lian-xiang/seg-001-voice-young-voice.mp3",
+      "durationMs": 313392,
+      "checksum": "795db9c2074a94d1452ea7cdfa9e8e813d1d714003f4432d3cae2119022eb78d",
+      "sourceHash": "0a9266c4ea28f88644bd0d9cbd5e90880729ad4e79d70c810b4d76ea09f9e24f"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/lian-xiang/seg-002-voice-young-voice.mp3",
+      "durationMs": 280752,
+      "checksum": "5d0378d762ce250032babf4b1b219cc82f72aaece9f107a36caa83a5527e2b51",
+      "sourceHash": "65dc6b06b403d4eec2f69cfda8c141e510c9d8f5ff60eb54f7563ff6fff0fa67"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/lian-xiang/seg-003-voice-young-voice.mp3",
+      "durationMs": 264600,
+      "checksum": "8b5d697b5c015712db467b76e9882193200b4f6c552223f582d000f4db396f49",
+      "sourceHash": "28e13c37f0e06e9ac35ab92c7739eac2eebd79e6194c538c67230730e3686515"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/lian-xiang/seg-004-voice-young-voice.mp3",
+      "durationMs": 217128,
+      "checksum": "85df3a3a2ba631435a31ea4ad849c255d8f5504140d39be6f4136db5150c9052",
+      "sourceHash": "62c648a1ce0d5f9513e78268dcf5dbd712dcbb7c84974f2abe102e614cc7fcb9"
+    },
+    {
+      "id": "seg-005",
+      "url": "/audio/lian-xiang/seg-005-voice-young-voice.mp3",
+      "durationMs": 43176,
+      "checksum": "739255c2e15eac7739b9d655fc6d4cafa15d9f42feaf0b41970209d16e5162ca",
+      "sourceHash": "d8909ef49fe1ffda6d5a620a04d742f9c83a59f8e5677eee95c96c1feafd5335"
+    }
+  ]
+}

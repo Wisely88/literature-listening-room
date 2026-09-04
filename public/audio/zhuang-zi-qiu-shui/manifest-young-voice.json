@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "workId": "zhuang-zi-qiu-shui",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-8%|pitch=-1Hz|voiceId=young-voice",
+  "voiceId": "young-voice",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T02:13:17.737Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/zhuang-zi-qiu-shui/seg-001-voice-young-voice.mp3",
+      "durationMs": 13176,
+      "checksum": "7d01009fb753b1119631aea09831b69002a020a562a7971103fb67a246e35416",
+      "sourceHash": "f2c444b00f9415b6da861a630652617b6295008153e92ab580047afb4cdba9d4"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/zhuang-zi-qiu-shui/seg-002-voice-young-voice.mp3",
+      "durationMs": 16128,
+      "checksum": "42156b911dadaa4321380833e94da7f44e6f518fef1f02e606465c478b34ad51",
+      "sourceHash": "11d009b67b17eceb617d6d70ff0dbfc832e574834c635449da33f10d4d68837b"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/zhuang-zi-qiu-shui/seg-003-voice-young-voice.mp3",
+      "durationMs": 13128,
+      "checksum": "7de188b7d35136ef2658ab1d892dac5749005c0cfb23c686ac4504622dfa0053",
+      "sourceHash": "b9fbe4c3fc2965057b3b76d0249c4c1eb0efc5ae8ee7164cc8918ea2b9f2d4fe"
+    }
+  ]
+}

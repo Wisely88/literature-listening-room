@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "workId": "lin-jue-min-yu-qi-shu",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-8%|pitch=-1Hz|voiceId=young-voice",
+  "voiceId": "young-voice",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T00:48:19.820Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/lin-jue-min-yu-qi-shu/seg-001-voice-young-voice.mp3",
+      "durationMs": 12336,
+      "checksum": "c0d8ec049943a6054f0c7cc3f314a99cda4e6eca8382fa227b47ced515bdf273",
+      "sourceHash": "02250393f81e0e5b7ad0372b14844742aa32355e5d8decbcf65fb5f8a74a234c"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/lin-jue-min-yu-qi-shu/seg-002-voice-young-voice.mp3",
+      "durationMs": 7920,
+      "checksum": "124789f632faba841e683f348013fae8253fdb9feca44f824f1e7d5c6f365439",
+      "sourceHash": "e5892482504ca340d32e686ca4e8c669fcd4e072f3e160b048b45e5e5a0df1e3"
+    }
+  ]
+}

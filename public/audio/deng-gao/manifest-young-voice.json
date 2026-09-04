@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "workId": "deng-gao",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-8%|pitch=-1Hz|voiceId=young-voice",
+  "voiceId": "young-voice",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T00:24:04.344Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/deng-gao/seg-001-voice-young-voice.mp3",
+      "durationMs": 4440,
+      "checksum": "58014f728a3ef9ef62f66004e6041ec16a4b36ddc748509b792248c49de71020",
+      "sourceHash": "ea20dda674d2bd3f07375b3d3e583646d49e5ec8e8956fae197b154b608adcbc"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/deng-gao/seg-002-voice-young-voice.mp3",
+      "durationMs": 5088,
+      "checksum": "7e2224b2933d6ec180605be4cb8f285024a83c77f32507866e52bfdb0b6ce637",
+      "sourceHash": "f4b426e611eb4739b5a8594f3100ade3a9b5ac53c9d7c831cd6dfba1f6889d43"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/deng-gao/seg-003-voice-young-voice.mp3",
+      "durationMs": 4920,
+      "checksum": "2be38280f987239d72dba6a007102202b78e0e005e4799b4fc9652ab078bbcd0",
+      "sourceHash": "a9d93adbf7a8352631174e428e205b9807267090bf231941967685236f995085"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/deng-gao/seg-004-voice-young-voice.mp3",
+      "durationMs": 4752,
+      "checksum": "b665bab26d7940cead4889bb0a10bbfa667e20a8d1e05387756f7bfb9334973f",
+      "sourceHash": "0108e528e8d3d1465177f121bbbbbdddb845517acf50a4d97e864a4ab54aa1a3"
+    }
+  ]
+}

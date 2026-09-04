@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "workId": "jing-ke-ci-qin",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-8%|pitch=-1Hz|voiceId=young-voice",
+  "voiceId": "young-voice",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T00:39:01.851Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/jing-ke-ci-qin/seg-001-voice-young-voice.mp3",
+      "durationMs": 8400,
+      "checksum": "3bf07cbbf9aa96b43868991eb87bd7d8b6b2724f518a95f7115163d148c6ad34",
+      "sourceHash": "17e6c28272ecd5187ab38b56b30d1749caa0f4c5f3fcb653cdbebc40ee8186d1"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/jing-ke-ci-qin/seg-002-voice-young-voice.mp3",
+      "durationMs": 21360,
+      "checksum": "e08d073ff3a5dd259aa723922813e4c6484c905b3b12d9b172c55a7d0c91cc53",
+      "sourceHash": "62ca866c38c15001698a2eb8407f4c35e26186854d21c09280a8935cbcf4fee7"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/jing-ke-ci-qin/seg-003-voice-young-voice.mp3",
+      "durationMs": 6960,
+      "checksum": "dd4884ea8d2a864fa839d9f8a08e1446bb8c8a2662f39fc469e6a0b6733e942a",
+      "sourceHash": "ce16e9a77cd38ccf0bf5d6a832682d89507ae3e6691128bfb03d5492fa1a9351"
+    }
+  ]
+}

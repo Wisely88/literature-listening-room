@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "workId": "lu-pan",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-8%|pitch=-1Hz|voiceId=young-voice",
+  "voiceId": "young-voice",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T00:52:24.232Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/lu-pan/seg-001-voice-young-voice.mp3",
+      "durationMs": 240336,
+      "checksum": "5620e1b2c998cf40ecb1c54b35084011bef7312d4dee9ff207dcbba6b9ff68d3",
+      "sourceHash": "6eaca697505866f0219548d1e5c9767c58b40032b509c2587dc7653777b69551"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/lu-pan/seg-002-voice-young-voice.mp3",
+      "durationMs": 216744,
+      "checksum": "825c83d1519092e557f6835072c7b98d5f1c8cbe1057b93e55b850b1bcb4e7d5",
+      "sourceHash": "4b90e88000391f48174f14284598616585dd92b97834f826a2c7afa428543e5b"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/lu-pan/seg-003-voice-young-voice.mp3",
+      "durationMs": 181896,
+      "checksum": "f08e0095edaf6ad8e5f17b2f46e302fa3941d1ca217ce194c9d98b0f4f5a27a8",
+      "sourceHash": "54a3d5f35efe7834a390fcba18d90e2c15663a0eb27b70165458b6e56fda32bb"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/lu-pan/seg-004-voice-young-voice.mp3",
+      "durationMs": 41256,
+      "checksum": "7a26c204659963229bc1724792f0fe5f8f6ec81826f86ddc2859d7f985de55cb",
+      "sourceHash": "240ad6e156b0e2badeec704a42822845a2e04da38cd22754b7bbcbf37353af0b"
+    }
+  ]
+}

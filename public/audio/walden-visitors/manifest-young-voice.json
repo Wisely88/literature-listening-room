@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "workId": "walden-visitors",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-8%|pitch=-1Hz|voiceId=young-voice",
+  "voiceId": "young-voice",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T01:44:55.392Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/walden-visitors/seg-001-voice-young-voice.mp3",
+      "durationMs": 71400,
+      "checksum": "76ac7d9ff58787db71cb22d8e88acb70e973653cdefb5060be4c824ec7f6ba76",
+      "sourceHash": "f96cb4feeeae7131330da8adba816961d58b6f43c7a15d681a8be0ba569fc3f9"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/walden-visitors/seg-002-voice-young-voice.mp3",
+      "durationMs": 117696,
+      "checksum": "df3f4c0913741b4b815440bdc6a72fe68484d79ee04be9a345ca03648aa09406",
+      "sourceHash": "bf7802cee7ad2788a62152edbbb4f5520f1dcb6c19fe81140e61185d21f76379"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/walden-visitors/seg-003-voice-young-voice.mp3",
+      "durationMs": 23952,
+      "checksum": "710d3e65786459ac90d17fc439a8e38ebacd39a71ee3a20707ff74c2210a5639",
+      "sourceHash": "7e8a2429a3a72d8215172f984224da594c2ec0de7c9875e5e1d8c117af8c48b5"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/walden-visitors/seg-004-voice-young-voice.mp3",
+      "durationMs": 80448,
+      "checksum": "284bb0b6e8d79506a3022fcb765647052dbad1c9ad88634a4bc1f06f490b6b4a",
+      "sourceHash": "e730d15fbbd065811c4ff7e1342653c6a0fc534160f04e4e6c3c3e9a0034b37b"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "workId": "ma-shuo",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-8%|pitch=-1Hz|voiceId=young-voice",
+  "voiceId": "young-voice",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T00:55:48.128Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/ma-shuo/seg-001-voice-young-voice.mp3",
+      "durationMs": 14256,
+      "checksum": "5484125c465b7098b793dfb6f3468dfd0c6872be091aaafb23252bc8e21671ce",
+      "sourceHash": "6d45f6a35f7f6c8c489a5c008f553a276d236146a6bd2d05b2683efa648c1b75"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/ma-shuo/seg-002-voice-young-voice.mp3",
+      "durationMs": 18096,
+      "checksum": "ef0440290ea509f8a1e8a234514697aba415631b43e17b8e771bf92b3ca97177",
+      "sourceHash": "6ce2e40a0ae7128091cd6fa0497ca0b9c4dd4efdc00c02620ccf81f95ce028e2"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/ma-shuo/seg-003-voice-young-voice.mp3",
+      "durationMs": 15384,
+      "checksum": "a0ce79006f3aacd7b0123a9faa660d8ccb2009686cb1617af98b057321398629",
+      "sourceHash": "997b8e0239221546d57ab10861fae6e11858f638e9361e4e3d47db102f919b47"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "version": 1,
+  "workId": "walden-solitude-2",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-8%|pitch=-1Hz|voiceId=young-voice",
+  "voiceId": "young-voice",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T01:42:39.529Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/walden-solitude-2/seg-001-voice-young-voice.mp3",
+      "durationMs": 82080,
+      "checksum": "8a6e5dcd1edbcb110e8a03ad9db93cd0735f93799a6abbe95475878fffc410aa",
+      "sourceHash": "fb24219b15bda0c2ed8343998de608407ce7fcbc37a361be61d58f4a646590dd"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/walden-solitude-2/seg-002-voice-young-voice.mp3",
+      "durationMs": 57864,
+      "checksum": "a1b0f1d81da2ff97b548182cbbe2cd4a69b7cdf422c1f4acd6e0db7dd20ebe5f",
+      "sourceHash": "5e199f5917b0935b2f5a1183554c326b78e202cd97aa5d2642d159476d72293e"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/walden-solitude-2/seg-003-voice-young-voice.mp3",
+      "durationMs": 26040,
+      "checksum": "ec9e61059922c41457d66f93c43e9232b2806d5ce7b5633c07e2596a8b2b47c2",
+      "sourceHash": "120c74f29c4189bcbcb0705034fb6ae9c671fc82ed06849d925d9394522bb417"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/walden-solitude-2/seg-004-voice-young-voice.mp3",
+      "durationMs": 62928,
+      "checksum": "546728e4e99711da1b340d39e4edc7d626225ffc02eaa1f38945fb24e02471e4",
+      "sourceHash": "3616d3e15ffbc682e5900fae84a91ca01cd96a438957be41dc46e0c4f1f30f5d"
+    },
+    {
+      "id": "seg-005",
+      "url": "/audio/walden-solitude-2/seg-005-voice-young-voice.mp3",
+      "durationMs": 72072,
+      "checksum": "94685cde9b44e600a3678533a7341bd2156e375830bd70ed9d847adcac374912",
+      "sourceHash": "73e6e690471e6cad6889f837abd5f8f742082a5aaa3dfded3326d207152b53cf"
+    }
+  ]
+}

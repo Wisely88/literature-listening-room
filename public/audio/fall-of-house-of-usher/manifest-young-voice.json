@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "workId": "fall-of-house-of-usher",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-8%|pitch=-1Hz|voiceId=young-voice",
+  "voiceId": "young-voice",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T00:25:17.116Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/fall-of-house-of-usher/seg-001-voice-young-voice.mp3",
+      "durationMs": 135888,
+      "checksum": "68eebed25a24a3c0106c08f562acb80ac413976e848561c16153588c80a848b3",
+      "sourceHash": "5d8dce2cd86cd811732d808c4b4edc6ea69be49e00c241479b9daa400ef21d4d"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/fall-of-house-of-usher/seg-002-voice-young-voice.mp3",
+      "durationMs": 50304,
+      "checksum": "fdf8474946f0a05e6d80471afddb7bbdbf2aa45cd0b43146c744c674d696b6bb",
+      "sourceHash": "5339c978021dd47c9afd1a5343a86cf5a581eb4a8e152476c86d6b7b4afd8a10"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/fall-of-house-of-usher/seg-003-voice-young-voice.mp3",
+      "durationMs": 82344,
+      "checksum": "a836543bc101a76f58619592bea9d3a1bd4eb413c08a34b7f06232203bfce954",
+      "sourceHash": "717d08fbab2d121a0e1034771a4414954293d7c4606b2e691166838e2e62af88"
+    }
+  ]
+}

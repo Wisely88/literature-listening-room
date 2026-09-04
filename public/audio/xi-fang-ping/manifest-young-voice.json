@@ -1,0 +1,67 @@
+{
+  "version": 1,
+  "workId": "xi-fang-ping",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-8%|pitch=-1Hz|voiceId=young-voice",
+  "voiceId": "young-voice",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T01:53:32.262Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/xi-fang-ping/seg-001-voice-young-voice.mp3",
+      "durationMs": 524112,
+      "checksum": "593672d9a6e7f724db228467caa0d3b98f3fed7279f8a70364ff097620f47656",
+      "sourceHash": "37e8f27d856e12f93486ccf23bff19cd5e18a9f424b07970e634e8e8897c6462"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/xi-fang-ping/seg-002-voice-young-voice.mp3",
+      "durationMs": 494880,
+      "checksum": "f55f6f89076295b5184086c35599d09d1b4acc434dc5212d03255d314f5b8890",
+      "sourceHash": "bc206a46e7c8e229bf08f2b0cdedec94b93470ab52ae58015dfa1436d993e9b6"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/xi-fang-ping/seg-003-voice-young-voice.mp3",
+      "durationMs": 485232,
+      "checksum": "64be8e181cfd79b05d71cc2a4d8194115dab91574d755af8f3f1482c9b9d6dd2",
+      "sourceHash": "1452b08ce3d4874340a1e244423485d2ea0354cbeb534bab1549865b01606d99"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/xi-fang-ping/seg-004-voice-young-voice.mp3",
+      "durationMs": 457032,
+      "checksum": "845c870d7ce127f2605802c928d1982281ad2f160e0a085733e932c9add9a193",
+      "sourceHash": "11734837a875b62c70cf383cecf3ab4af23a0e7918fb50717254a76d2b60dd6f"
+    },
+    {
+      "id": "seg-005",
+      "url": "/audio/xi-fang-ping/seg-005-voice-young-voice.mp3",
+      "durationMs": 430896,
+      "checksum": "cdaa9bbb7fba4f679d58341cc1baca3760134fa6a17e39097581c98168e3aa9c",
+      "sourceHash": "0481571d8c39b0fa53235d39c4a382ef196dc4f85bb57905dd29429a224c2321"
+    },
+    {
+      "id": "seg-006",
+      "url": "/audio/xi-fang-ping/seg-006-voice-young-voice.mp3",
+      "durationMs": 383520,
+      "checksum": "069114132747ee6c0942829396dbf051c0a25cc97fa560eaee819cecedbb2656",
+      "sourceHash": "04a0a3bd445dccd452043744918631f790c0694f31e14e70bea35d4ce9645dcd"
+    },
+    {
+      "id": "seg-007",
+      "url": "/audio/xi-fang-ping/seg-007-voice-young-voice.mp3",
+      "durationMs": 318768,
+      "checksum": "a49225a4bf59845cbdb76181fb355345a4cde97a54401440c806a5442a5d61ec",
+      "sourceHash": "4c46a07fa1312d418070f481843bc2603a1b34a8827800e4da2a0bfa47830e5b"
+    },
+    {
+      "id": "seg-008",
+      "url": "/audio/xi-fang-ping/seg-008-voice-young-voice.mp3",
+      "durationMs": 66024,
+      "checksum": "e52e3928c38de2fc51eb851898e94c3c42c0d415b5d75135310aa5150bbe4472",
+      "sourceHash": "ead56ea774c7f59467198fb84b78157135d971d46950b7749c5e4fd387e25f44"
+    }
+  ]
+}

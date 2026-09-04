@@ -1,0 +1,53 @@
+{
+  "version": 1,
+  "workId": "yue-yang-lou-ji",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-8%|pitch=-1Hz|voiceId=young-voice",
+  "voiceId": "young-voice",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T02:09:03.904Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/yue-yang-lou-ji/seg-001-voice-young-voice.mp3",
+      "durationMs": 16752,
+      "checksum": "b3008b8598bb68285a5c0668fa2ce60c24463ca0af8013f8f0cfb0816939e965",
+      "sourceHash": "ffeadc26a6875af26681f5a7022114ad5aa3af969f553e0b63770bb7ccce592b"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/yue-yang-lou-ji/seg-002-voice-young-voice.mp3",
+      "durationMs": 25416,
+      "checksum": "95eee3442ee2017fa7c3d5d397a4477fac6b055de75c94e5ab50b7ded6ac8ff4",
+      "sourceHash": "59d673739f7df07b633fa73cd1b5492595c58fa40198269f0a6c213ac9c5816b"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/yue-yang-lou-ji/seg-003-voice-young-voice.mp3",
+      "durationMs": 21000,
+      "checksum": "1b06c2a7f1cce2110cfaf15c02250ff592765224e4343f0df3535b61435fc819",
+      "sourceHash": "cf9d009da343931f7523b75593e35c4dc7393f2ff15ad5f5657803df8eacf14b"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/yue-yang-lou-ji/seg-004-voice-young-voice.mp3",
+      "durationMs": 26904,
+      "checksum": "f65ac8fee7253dbad4d2f92d21707efb4b793ef9b9ea19b2de14f15f74d74484",
+      "sourceHash": "7fcb811daf979857773a72ea3ee7aae22a08fb805baca239b36e14e13209d321"
+    },
+    {
+      "id": "seg-005",
+      "url": "/audio/yue-yang-lou-ji/seg-005-voice-young-voice.mp3",
+      "durationMs": 27984,
+      "checksum": "bc526cfe369ab0cf24b1a762c136f30fa6cc621c5b13074692e530b5dadb4aa0",
+      "sourceHash": "38686f5f710f78c6bbcbf90126497f2d6971f951758b8181146e4621605fd603"
+    },
+    {
+      "id": "seg-006",
+      "url": "/audio/yue-yang-lou-ji/seg-006-voice-young-voice.mp3",
+      "durationMs": 3000,
+      "checksum": "0d717884e5b811091d37fc4d1e5a9057c923781beee8e4a72de2b056e139d2e4",
+      "sourceHash": "e57745ca20488aaccbf96317606db6f86e81fab247ff104134a51a102ef09534"
+    }
+  ]
+}

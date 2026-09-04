@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "workId": "mao-sui-zi-jian",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-8%|pitch=-1Hz|voiceId=young-voice",
+  "voiceId": "young-voice",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T00:56:08.538Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/mao-sui-zi-jian/seg-001-voice-young-voice.mp3",
+      "durationMs": 9552,
+      "checksum": "f9f6c0434d59c5ffca9bd8e20611a6aad9ab270d447424c780a81cac76d2a75d",
+      "sourceHash": "d9ea1b38c2ccbc796ea7ad274fa7b4305cc239066f9669640eb3d0831fd41ed5"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/mao-sui-zi-jian/seg-002-voice-young-voice.mp3",
+      "durationMs": 13344,
+      "checksum": "1f75cc36fa4053172ae17fe33a253665fbbe0a290e04714346926c1082dd4b3e",
+      "sourceHash": "bece2095e4f9256d85938c9d86f7a50f115063e5b15effc4c468c1f05bce9fcb"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/mao-sui-zi-jian/seg-003-voice-young-voice.mp3",
+      "durationMs": 36000,
+      "checksum": "c11a4b6876050d8a3ae0070532314af99a6563676f2781f3936d0010ed5d86ac",
+      "sourceHash": "d587c0f0d9763c50440a734ca3344241266feb8bb89291b31c098880c273d0e6"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/mao-sui-zi-jian/seg-004-voice-young-voice.mp3",
+      "durationMs": 17640,
+      "checksum": "b4b53f13a6ab0f88e62fdfddc6f6a0965184cd094fa39a606d19742fca60b685",
+      "sourceHash": "308c0be1467639fda7c8fe35fa804230e48a6acb3111b11c2e1d98616ee310cc"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "workId": "meng-zi-jin-xin",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-8%|pitch=-1Hz|voiceId=young-voice",
+  "voiceId": "young-voice",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T00:57:01.044Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/meng-zi-jin-xin/seg-001-voice-young-voice.mp3",
+      "durationMs": 6312,
+      "checksum": "f478ba48ddaa315d5c2a00513626ddb4a4ac6471e468cf978aa11e808fe7a634",
+      "sourceHash": "ac1ca5c5fa28cc192af02aeb693237c403f58b5fdbc37bada9e9e5ebcdb9fdaf"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/meng-zi-jin-xin/seg-002-voice-young-voice.mp3",
+      "durationMs": 8880,
+      "checksum": "6a3f675508a112a910e016510609069e7e8c681c4cd60dbce3c3c41c25f19266",
+      "sourceHash": "7e7ec9fe65d5bf9a28ea6f5cdc55f6992708782f8b5b80ba75e75cb4181060dd"
+    }
+  ]
+}

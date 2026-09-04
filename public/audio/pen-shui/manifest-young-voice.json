@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "workId": "pen-shui",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-8%|pitch=-1Hz|voiceId=young-voice",
+  "voiceId": "young-voice",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T01:02:47.837Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/pen-shui/seg-001-voice-young-voice.mp3",
+      "durationMs": 71592,
+      "checksum": "bfe85c3ce5c6fed32baa8522e6524d2bd322453bdbc2d6a1b5d652e8fc2413dd",
+      "sourceHash": "cd3f2fc7b57c4a909085a75dba3a4293da8d779b963bd80ad5df88d3f349521a"
+    }
+  ]
+}

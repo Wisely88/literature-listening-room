@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "workId": "guan-yan-lie-zhuan",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-8%|pitch=-1Hz|voiceId=young-voice",
+  "voiceId": "young-voice",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T00:28:58.547Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/guan-yan-lie-zhuan/seg-001-voice-young-voice.mp3",
+      "durationMs": 321288,
+      "checksum": "22a67b6190d5cdbacf26c5b65743852d21e366b6d426b73db2efb05f333cb770",
+      "sourceHash": "ebf5b01746f7ecb23f7fbcc2439ddea3e049165371976b20d4bc4f4b69f73a77"
+    }
+  ]
+}

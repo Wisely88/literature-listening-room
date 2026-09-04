@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "workId": "hu-xin-ting-kan-xue",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-8%|pitch=-1Hz|voiceId=young-voice",
+  "voiceId": "young-voice",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T00:35:28.144Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/hu-xin-ting-kan-xue/seg-001-voice-young-voice.mp3",
+      "durationMs": 26376,
+      "checksum": "fd259e8a905573bf021b376c1846e6b1ee9d7f08dfbb0cb0765f916f5fae6249",
+      "sourceHash": "d9513e49d56d2248f32cdbc6404982deec8ce02e41a38ce08c7224b013597bc5"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/hu-xin-ting-kan-xue/seg-002-voice-young-voice.mp3",
+      "durationMs": 24768,
+      "checksum": "ab84d294c62812fe51e4d93d3c4b165a5c4d3e607caeaf128ab21c858a359f84",
+      "sourceHash": "02583be0d3a17334b36df455cb1f29bd86342fada00046edeaa187df1d9b5ead"
+    }
+  ]
+}

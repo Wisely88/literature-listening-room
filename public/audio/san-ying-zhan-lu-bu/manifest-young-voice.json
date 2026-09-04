@@ -1,0 +1,53 @@
+{
+  "version": 1,
+  "workId": "san-ying-zhan-lu-bu",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-8%|pitch=-1Hz|voiceId=young-voice",
+  "voiceId": "young-voice",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T01:16:27.325Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/san-ying-zhan-lu-bu/seg-001-voice-young-voice.mp3",
+      "durationMs": 327048,
+      "checksum": "415cc34d29783eb4d3ec96872e80e9e1668129f858443c1f9755371352c6d7fd",
+      "sourceHash": "77c62898a64f105e8acd03c78ec494b12a1922f21a372db7eff53f344bf6cb5e"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/san-ying-zhan-lu-bu/seg-002-voice-young-voice.mp3",
+      "durationMs": 307032,
+      "checksum": "2341836835b913d13f1091dbe09ad0c45fd0a18ba306018af6e11fb68e4934c6",
+      "sourceHash": "86f654feec4a1b66e3059ba9f02c586475dadb1b820bfa47f3671025effbb907"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/san-ying-zhan-lu-bu/seg-003-voice-young-voice.mp3",
+      "durationMs": 270696,
+      "checksum": "54999d6e40e3bc7ffaf4aca9c568d3766097c89a5569dff6dc3d827559ac5c4e",
+      "sourceHash": "ff363aa60422ff17af46faf37753ec03ba47b8c7a51431debfea55ab51746259"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/san-ying-zhan-lu-bu/seg-004-voice-young-voice.mp3",
+      "durationMs": 238752,
+      "checksum": "055359238022b90b8dc962b0e2e1c25907ab67b06663f5c602b4d5fbbccf99b7",
+      "sourceHash": "45b86467728ca994997a3981c80fa5450975daab14dafae0fdbb5c29f6ac7180"
+    },
+    {
+      "id": "seg-005",
+      "url": "/audio/san-ying-zhan-lu-bu/seg-005-voice-young-voice.mp3",
+      "durationMs": 100176,
+      "checksum": "fd5dbb9234131fc427ddab49608d79036a1bce66142497fe0e9571b1e21add71",
+      "sourceHash": "424f7b12b6bc7969b56f1807263e9f9bb84250928ba0d5083c336b3592434b3f"
+    },
+    {
+      "id": "seg-006",
+      "url": "/audio/san-ying-zhan-lu-bu/seg-006-voice-young-voice.mp3",
+      "durationMs": 6816,
+      "checksum": "08eccaeb2e10d032065627049c189cd792d25cb4eb9cbb4c16b4955d8f576bcd",
+      "sourceHash": "4c9bb5770833920d8d6d7e864e62bf258707cb6570c8203509d001cfcc7f1d0c"
+    }
+  ]
+}

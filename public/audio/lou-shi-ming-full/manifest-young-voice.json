@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "workId": "lou-shi-ming-full",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-8%|pitch=-1Hz|voiceId=young-voice",
+  "voiceId": "young-voice",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T00:51:34.154Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/lou-shi-ming-full/seg-001-voice-young-voice.mp3",
+      "durationMs": 9288,
+      "checksum": "fc3e9003154fc5d4c6f1130e413f3b1d44f87d3a4297f20ef4299170b291b536",
+      "sourceHash": "3fa7ff192ea0de2f0f214f1ebc73a63d4c6e18dabd77957cc4dd54e5dfa02b78"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/lou-shi-ming-full/seg-002-voice-young-voice.mp3",
+      "durationMs": 13800,
+      "checksum": "00fe683de43c17abe4c48e903e6cb058ed1e2ac6b754212db1822a1b49b71aee",
+      "sourceHash": "10660a73d5af9fa3e5151f8ddd8e5a480a03cf6410d3034233ddf990d931bb64"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/lou-shi-ming-full/seg-003-voice-young-voice.mp3",
+      "durationMs": 6912,
+      "checksum": "6151488bf434afc052592370f69e1092b0c9417502ade7b6de3b17b3ddb5fcfb",
+      "sourceHash": "a47d8e9017a0eec91d767a84714cb62bc12efc109c1d6890172c07fc80bfec35"
+    }
+  ]
+}

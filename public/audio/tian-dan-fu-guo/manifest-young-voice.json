@@ -1,0 +1,53 @@
+{
+  "version": 1,
+  "workId": "tian-dan-fu-guo",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-8%|pitch=-1Hz|voiceId=young-voice",
+  "voiceId": "young-voice",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T01:36:26.128Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/tian-dan-fu-guo/seg-001-voice-young-voice.mp3",
+      "durationMs": 16296,
+      "checksum": "e87fbf9267580982dbf002fd86a0e5169d5ab41f64fa742f9550fa3e04fe3309",
+      "sourceHash": "7cb738c7896791b674646fe6b49bbeb0f0d8ae5a7451f6b5c6cd37b3241fd489"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/tian-dan-fu-guo/seg-002-voice-young-voice.mp3",
+      "durationMs": 21432,
+      "checksum": "c49acfbe6a79332182c915dee18f62428970d3369433bae3dae9c4a379c4ccd8",
+      "sourceHash": "37805c5b58661c09b78d94dfbc0af64eaad0ee9b63af3d7340f291d9c86098f1"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/tian-dan-fu-guo/seg-003-voice-young-voice.mp3",
+      "durationMs": 25992,
+      "checksum": "5f2382ee638a89775c7b91bd00d309bbe85187be84f83049d5a08233b3193b3d",
+      "sourceHash": "a98944c5867fb3cc18f5a6b06e1e4a568e418cc39a9c3cde4f4b9d2231ee8145"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/tian-dan-fu-guo/seg-004-voice-young-voice.mp3",
+      "durationMs": 20592,
+      "checksum": "54ad3a3175982477d776882d8574ace0f707d6c6c84f11f8626870e4a14e2eb2",
+      "sourceHash": "ee1fd9204c87a3d5045c004728fbbae35855679c8baedd9a59a4b77dc1c84f08"
+    },
+    {
+      "id": "seg-005",
+      "url": "/audio/tian-dan-fu-guo/seg-005-voice-young-voice.mp3",
+      "durationMs": 17112,
+      "checksum": "55034e3143de41b3a1737948b95dd8b936d361b262b6c63926d42a4c3401d234",
+      "sourceHash": "5f0b3bd102dc64962d509e267c9326542bbff6ce0f3836de1bf996b58b95b6c5"
+    },
+    {
+      "id": "seg-006",
+      "url": "/audio/tian-dan-fu-guo/seg-006-voice-young-voice.mp3",
+      "durationMs": 18192,
+      "checksum": "2ac62fe6f8596ccf93d35de2dc38e72c09f7d6a5e500d5f771f4851c9f7d3395",
+      "sourceHash": "103c486d5d23f5e981557c12664f6bb363a9566220c958a85445a4fc4271039d"
+    }
+  ]
+}

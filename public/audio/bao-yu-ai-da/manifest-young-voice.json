@@ -1,0 +1,53 @@
+{
+  "version": 1,
+  "workId": "bao-yu-ai-da",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-8%|pitch=-1Hz|voiceId=young-voice",
+  "voiceId": "young-voice",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T00:16:39.526Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/bao-yu-ai-da/seg-001-voice-young-voice.mp3",
+      "durationMs": 260904,
+      "checksum": "95caf051b56767e8975eca365856821b7503e014a3e7f2699eb1aca2604a94ad",
+      "sourceHash": "edb08b3581234dbf86d23965ded8bdb5a17ddd8d36808dd7c581662bc606f912"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/bao-yu-ai-da/seg-002-voice-young-voice.mp3",
+      "durationMs": 237768,
+      "checksum": "27af0a4e24a440ec6b04a4ab2a0d636d77f03d5b593c2c1bf98e02f86034f0d2",
+      "sourceHash": "c88ca7f9b9d18cd21d304929e752fa96687035e8b34355e177667d48f6c01113"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/bao-yu-ai-da/seg-003-voice-young-voice.mp3",
+      "durationMs": 214272,
+      "checksum": "c6e5d484cef393dfaf6b72341fcb778248311c0fb0b37473621ddc9a6e9f4ce4",
+      "sourceHash": "a3ea45dff4e795c0034a51730ecdebcc2d30a9fdf1705fb5aef1046329786dfe"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/bao-yu-ai-da/seg-004-voice-young-voice.mp3",
+      "durationMs": 194232,
+      "checksum": "c440c2f37c987b41f229756acaa9290d0767da4d04e5e8786cf4f40a10259a64",
+      "sourceHash": "5b8697cfb66d715b20a42d9716c24f37cdf172069d90a60e9b6b7c039260c7c7"
+    },
+    {
+      "id": "seg-005",
+      "url": "/audio/bao-yu-ai-da/seg-005-voice-young-voice.mp3",
+      "durationMs": 146352,
+      "checksum": "fecbc1309410d9d4c69010df9b8c38a9e327b2c8fac3d3b70077acd8c77491c6",
+      "sourceHash": "aee95297103d262ea41feb338388108cbb9bfe6b1d786dc070823159c3cee7a1"
+    },
+    {
+      "id": "seg-006",
+      "url": "/audio/bao-yu-ai-da/seg-006-voice-young-voice.mp3",
+      "durationMs": 5136,
+      "checksum": "dddae8fa10b60729766368c44993d86d9590c4ea3ceb23b59df7de9c457129b2",
+      "sourceHash": "80b86e7eefdee274456e5de224de03f5dcb3159b8763783147f2d5221cbe0db6"
+    }
+  ]
+}

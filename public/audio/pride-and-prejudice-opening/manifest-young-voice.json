@@ -1,0 +1,249 @@
+{
+  "version": 1,
+  "workId": "pride-and-prejudice-opening",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-8%|pitch=-1Hz|voiceId=young-voice",
+  "voiceId": "young-voice",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T01:06:07.639Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/pride-and-prejudice-opening/seg-001-voice-young-voice.mp3",
+      "durationMs": 7896,
+      "checksum": "30310e2cdbe615201b3ee01280f42b200acfca3288c826ec186d2bae81a79572",
+      "sourceHash": "5514625b643a6a119e64ddcfe4390a56acad31f11a92fd7d4de995bb44cbfa20"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/pride-and-prejudice-opening/seg-002-voice-young-voice.mp3",
+      "durationMs": 15936,
+      "checksum": "3cad9a9d660271df81075ddd4e69e341714258730c91fe16739681c9d6a968e5",
+      "sourceHash": "3d68397a96da1796d587d42c28f7987f1f4985438a80b62da68de48abc83f035"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/pride-and-prejudice-opening/seg-003-voice-young-voice.mp3",
+      "durationMs": 9120,
+      "checksum": "786cd17195ff6103c78dab840507166e9ee65b4d27da7f92cc3194188a7fc03f",
+      "sourceHash": "aaeebef4eb7040532053d1ce55afbcc66da52c80a63f0c0454a240ad9beac527"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/pride-and-prejudice-opening/seg-004-voice-young-voice.mp3",
+      "durationMs": 3696,
+      "checksum": "0ba1515154cef0fcb05ff0f98caeb348887d1fedab36a278c72996df0da0e0b0",
+      "sourceHash": "58e3e59f2f76deec9e42e8f245507257d4f922f2d37909570d9b90de058bb6af"
+    },
+    {
+      "id": "seg-005",
+      "url": "/audio/pride-and-prejudice-opening/seg-005-voice-young-voice.mp3",
+      "durationMs": 7416,
+      "checksum": "dba82db5c294d11437eaea3fa2ec00ff76c4eb6d76121b2fb85bd3a77f8b738f",
+      "sourceHash": "b39a7be4e0fd53a2ebeed226e2ad61fed50564df9d370fc5244b3a97e423854e"
+    },
+    {
+      "id": "seg-006",
+      "url": "/audio/pride-and-prejudice-opening/seg-006-voice-young-voice.mp3",
+      "durationMs": 2664,
+      "checksum": "34e51267a6a3aa58edb169653faf12ee029460c6f7d2b09bee0078bb0e2c2eb2",
+      "sourceHash": "e07f1ddd8dbd8360eb0e847459dfd0b316bf257eb89631b54a9110df3354260d"
+    },
+    {
+      "id": "seg-007",
+      "url": "/audio/pride-and-prejudice-opening/seg-007-voice-young-voice.mp3",
+      "durationMs": 5472,
+      "checksum": "334c142e744bb4ae42e1f4f1121847477cc480c9326cedf94f6c1d41023aa3a0",
+      "sourceHash": "4da15fa70a539b1b55e6e5896d36d3eac9ae8a3d7bf525760a2e0865ceb4ae9b"
+    },
+    {
+      "id": "seg-008",
+      "url": "/audio/pride-and-prejudice-opening/seg-008-voice-young-voice.mp3",
+      "durationMs": 3840,
+      "checksum": "18f86a54690d1767d9fba9ce401458c32434d4d95cb8c4a1d3b8e2c69e7df8c0",
+      "sourceHash": "2204dba0b01febbba0e6b0ce6f1a91918a5c80aca543aaaa4201cbaa782cd6e8"
+    },
+    {
+      "id": "seg-009",
+      "url": "/audio/pride-and-prejudice-opening/seg-009-voice-young-voice.mp3",
+      "durationMs": 2760,
+      "checksum": "911cd5fa85ed8677951d601aaf12db7427e1bc07082e9b0a6c41add312203899",
+      "sourceHash": "6bb4cf5ccc119dc5e490f6564bb12ab05fb56cb36df69a97f7347b34697a945e"
+    },
+    {
+      "id": "seg-010",
+      "url": "/audio/pride-and-prejudice-opening/seg-010-voice-young-voice.mp3",
+      "durationMs": 22992,
+      "checksum": "f19f5dda3577c1ad825b0965135069f5838d571bd2c0ce61939a83a584d12868",
+      "sourceHash": "d25a48be85c3299e38b640351098272815f6137a08480902ed3973e71f0253be"
+    },
+    {
+      "id": "seg-011",
+      "url": "/audio/pride-and-prejudice-opening/seg-011-voice-young-voice.mp3",
+      "durationMs": 2352,
+      "checksum": "066549e848cdfb5579a16bf780a0ca5b018844f3fc559ef80a48d477b8106242",
+      "sourceHash": "e74797e702b77cf0fe83e39be67255932571f2b9e81d18ca9633fe6fbe83932f"
+    },
+    {
+      "id": "seg-012",
+      "url": "/audio/pride-and-prejudice-opening/seg-012-voice-young-voice.mp3",
+      "durationMs": 1536,
+      "checksum": "d1f21f49ccff9a2face65ddae5dc7aeadd1a85f251b9c1e81d6a32bec3eee7cd",
+      "sourceHash": "dfa18eec29f6f5fb9f66c32add71ddabee35e2c5521d3340817577e3287a7480"
+    },
+    {
+      "id": "seg-013",
+      "url": "/audio/pride-and-prejudice-opening/seg-013-voice-young-voice.mp3",
+      "durationMs": 2400,
+      "checksum": "3a3f601489776f6c95890c61f10b10efba35ee3291eda0bdafa1ea351881ec1c",
+      "sourceHash": "e900d5d5e7eb64ba2ebe5a699b399f8e558b9770dff3ecc7a00158c8608fbc43"
+    },
+    {
+      "id": "seg-014",
+      "url": "/audio/pride-and-prejudice-opening/seg-014-voice-young-voice.mp3",
+      "durationMs": 12864,
+      "checksum": "99afcbbf77258ac43bb6e8da9ec937d3a3bce94527c4901ce61604d869a70011",
+      "sourceHash": "af4cbbac23e2eff5cda7077f56240e23c6c0c4f2c0e40247781f81f56c03eeda"
+    },
+    {
+      "id": "seg-015",
+      "url": "/audio/pride-and-prejudice-opening/seg-015-voice-young-voice.mp3",
+      "durationMs": 3744,
+      "checksum": "cdd3380a4def28c962e1719ed5d9048660049e82b04c6a03c68c05de8755250f",
+      "sourceHash": "25737b7012211b117e6afc5a2fadb6aafe5d64f263facba185ea68e709cd2f97"
+    },
+    {
+      "id": "seg-016",
+      "url": "/audio/pride-and-prejudice-opening/seg-016-voice-young-voice.mp3",
+      "durationMs": 10416,
+      "checksum": "4008ff91b7f4922205b1bcf78749a0d6981600b3fe263cf6f4a8cd018a0db4c4",
+      "sourceHash": "3fe7bb0f45dee5038aeb0c3cede6323340cde5e86421c8d394b2752806fc64de"
+    },
+    {
+      "id": "seg-017",
+      "url": "/audio/pride-and-prejudice-opening/seg-017-voice-young-voice.mp3",
+      "durationMs": 2976,
+      "checksum": "4c0a349910d6f2090fd0d3bd577af28b9d303e99a2d15a1426c25e5c987781be",
+      "sourceHash": "b155c2291ee73513ffabd7465ba0ff265a71eb1793d8ad384edf86bd6a9e1bb4"
+    },
+    {
+      "id": "seg-018",
+      "url": "/audio/pride-and-prejudice-opening/seg-018-voice-young-voice.mp3",
+      "durationMs": 11160,
+      "checksum": "8b5de2beda4ac2c41872f440918dbc7175d791ad4ec9fb114950951ad511506c",
+      "sourceHash": "67d371710a6a0a0a3fb2e9381a60de3edd733d1ca85f265b78de18c77a22bad1"
+    },
+    {
+      "id": "seg-019",
+      "url": "/audio/pride-and-prejudice-opening/seg-019-voice-young-voice.mp3",
+      "durationMs": 13608,
+      "checksum": "adf880bb18c06237826306e7239fb2c1e060711c3a7d5a727d65e09a7f7c498b",
+      "sourceHash": "5f33c0ab6a9547df2437c9df9c15b4d29cb66534ed50ccf12a56f95ace2d7093"
+    },
+    {
+      "id": "seg-020",
+      "url": "/audio/pride-and-prejudice-opening/seg-020-voice-young-voice.mp3",
+      "durationMs": 14088,
+      "checksum": "4f8c24f3a98cf3ca65f282c56ccd859007c25a61c6ecd540764bfd4a4cf95c80",
+      "sourceHash": "caa65212be9057e46ba748d2d0fe49e65c7447b097f02e9992db8c20692f37ca"
+    },
+    {
+      "id": "seg-021",
+      "url": "/audio/pride-and-prejudice-opening/seg-021-voice-young-voice.mp3",
+      "durationMs": 5256,
+      "checksum": "70094b14ef11517aa0386a64bea51913686638ba1b59123d9eff69b06fb8f724",
+      "sourceHash": "8e6124668df9a4b08c15b9965b77bef00c70f19a6052ab05414e6798b5eed057"
+    },
+    {
+      "id": "seg-022",
+      "url": "/audio/pride-and-prejudice-opening/seg-022-voice-young-voice.mp3",
+      "durationMs": 6768,
+      "checksum": "b81046402cf4450d39f3eb771f32c29540357fbd95c150055f38f60d8405baa7",
+      "sourceHash": "0c78b23e018b83c3d9f2732ea313ac889cb49d7705238f25f7cc8067a705e0eb"
+    },
+    {
+      "id": "seg-023",
+      "url": "/audio/pride-and-prejudice-opening/seg-023-voice-young-voice.mp3",
+      "durationMs": 3816,
+      "checksum": "13335d3f3c42290b3eca4681ffade15015562a27a61cb8eadd972bbdfd57b98b",
+      "sourceHash": "aeb560bf72d0b6ed8ed4ccb3b29aa3434da1d85b3c2b69988964626ecf054f0d"
+    },
+    {
+      "id": "seg-024",
+      "url": "/audio/pride-and-prejudice-opening/seg-024-voice-young-voice.mp3",
+      "durationMs": 24288,
+      "checksum": "be3b0ff09a30316395f83909e020ff3a906e50f14b09c6bdec038451153a241d",
+      "sourceHash": "50a0627c92a07c8dfd2dc824f33519775ed5baa906d6f3560ac95ddf6c55d2d5"
+    },
+    {
+      "id": "seg-025",
+      "url": "/audio/pride-and-prejudice-opening/seg-025-voice-young-voice.mp3",
+      "durationMs": 17064,
+      "checksum": "bfeb1dacfdc87e2720fc4c718fa89eacc36e520fa6cae753e703bf0c5e5433e5",
+      "sourceHash": "341683df87461821e9de4eadae6bd6a7496346e0f4a1131958864414a0a9b6d4"
+    },
+    {
+      "id": "seg-026",
+      "url": "/audio/pride-and-prejudice-opening/seg-026-voice-young-voice.mp3",
+      "durationMs": 12288,
+      "checksum": "5662a0f8f2454ae69358d802820b9a40b53827ee1d5a39c643f468621f4c4b34",
+      "sourceHash": "cdd9e1bd53ce62ddbc4bf29c4b21afc17af9d07e7bcc93d464112b145a9df3c0"
+    },
+    {
+      "id": "seg-027",
+      "url": "/audio/pride-and-prejudice-opening/seg-027-voice-young-voice.mp3",
+      "durationMs": 10608,
+      "checksum": "7624dcab09ab098b124dac96e5359975ab2e50d80914fa8f63239104e81c28c6",
+      "sourceHash": "797239bb7b83253cb8c8554b88615f7294b6303f23156782322c67b6f838fb86"
+    },
+    {
+      "id": "seg-028",
+      "url": "/audio/pride-and-prejudice-opening/seg-028-voice-young-voice.mp3",
+      "durationMs": 9888,
+      "checksum": "eaecb127c1b738897df516b9e4998144fc97b0ece8f19951629a1016925e7b6b",
+      "sourceHash": "a72684a0ba42ff6afa564e58352f32808b2e588907c352019d4a9ce087539fee"
+    },
+    {
+      "id": "seg-029",
+      "url": "/audio/pride-and-prejudice-opening/seg-029-voice-young-voice.mp3",
+      "durationMs": 12312,
+      "checksum": "4b1d5182747e2de6e8ec7ea2a38493421e36c305583a2fd1eaa4b1ede160e51c",
+      "sourceHash": "78a0b260627c96926cad25fa53d5b89d2b255c13607a5ef767290123307db309"
+    },
+    {
+      "id": "seg-030",
+      "url": "/audio/pride-and-prejudice-opening/seg-030-voice-young-voice.mp3",
+      "durationMs": 3936,
+      "checksum": "e04792ae39e329bd3ce00d756d527f1b870e8b3470dac860391f83d01e0f6848",
+      "sourceHash": "14544e9a0341f1fac916cad9fb8fb530b88b75f8f96b0826179704c2f430d36a"
+    },
+    {
+      "id": "seg-031",
+      "url": "/audio/pride-and-prejudice-opening/seg-031-voice-young-voice.mp3",
+      "durationMs": 7416,
+      "checksum": "898dc2c50c095c0b462a47d0f270ac24fbbc30efb76b87b7738c94bd55685d20",
+      "sourceHash": "41002978f6218992f5a587941e6531fc08c052cd04a91996c12948f6772a81d5"
+    },
+    {
+      "id": "seg-032",
+      "url": "/audio/pride-and-prejudice-opening/seg-032-voice-young-voice.mp3",
+      "durationMs": 5352,
+      "checksum": "411920d87182460f12f30b5ff7cafb66d6723ded48821b0e4c74c5bee7e853f4",
+      "sourceHash": "d7974fcf8db3e1186dcd5344cb42f2d0e4e761ccef78e15036a5149ab86013b8"
+    },
+    {
+      "id": "seg-033",
+      "url": "/audio/pride-and-prejudice-opening/seg-033-voice-young-voice.mp3",
+      "durationMs": 6672,
+      "checksum": "54b9e20b034caf6c291bc1a1080bf752a6abdfa388caddf841aadf05c3ee1e69",
+      "sourceHash": "3141dd19578e2b985ad995d0ffb6bfcd9bf247fb1b7ff407454c8ae8f9e24426"
+    },
+    {
+      "id": "seg-034",
+      "url": "/audio/pride-and-prejudice-opening/seg-034-voice-young-voice.mp3",
+      "durationMs": 32544,
+      "checksum": "3736b3a6ed906834f3e7fd428982b61597e6faf930e8d4ac38947f9c3ada9e1f",
+      "sourceHash": "8bf8e8e6552f188306cce164d819f1ab4eaf08ba767735e14fc05cedba7be37e"
+    }
+  ]
+}

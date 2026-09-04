@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "workId": "walden-bean-field",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-8%|pitch=-1Hz|voiceId=young-voice",
+  "voiceId": "young-voice",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T01:39:25.542Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/walden-bean-field/seg-001-voice-young-voice.mp3",
+      "durationMs": 92448,
+      "checksum": "f62cff3a02cb5afecd38954766208a82f0435b521bb87278a87b12778c2d3b5d",
+      "sourceHash": "7b581ee2a624a974b009cf92b1ad6a61e2266c137708b3ec6f5a196acd7d2a70"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/walden-bean-field/seg-002-voice-young-voice.mp3",
+      "durationMs": 94728,
+      "checksum": "37ead52a70ccd3c4acce84cbb6c22500a51b39f9a70c14ed35fba5cf4b8e2d49",
+      "sourceHash": "ee68c75c942346fb00c9d16de701156a5325b78f12ad1c34241d4e88ba2ff1bd"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/walden-bean-field/seg-003-voice-young-voice.mp3",
+      "durationMs": 9552,
+      "checksum": "5fe59d9d8c884c60d4ed3c6de0fff5689fa5a7d9d9767d8460d0652d8bb7a5a8",
+      "sourceHash": "2fb00c65ec629a5c8b22ca90231beb182398cec6d070785eccca847d0e838db4"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/walden-bean-field/seg-004-voice-young-voice.mp3",
+      "durationMs": 30648,
+      "checksum": "7495abda54635f262ca1019071bac5be55b6ad988ba808b4a812c639e4acc28d",
+      "sourceHash": "88a84d30cf7a7539abe9dd336c92f7a09cfddf4bd985bc89021832d1e1cf720f"
+    },
+    {
+      "id": "seg-005",
+      "url": "/audio/walden-bean-field/seg-005-voice-young-voice.mp3",
+      "durationMs": 6144,
+      "checksum": "4d1a39348642121847f359436980d6fd8cfac835ae89798b7e41813b328849a1",
+      "sourceHash": "3dbf79cda437df77fafec620fc49e5c5f849d32bcd208101d18d9e52d1ac2765"
+    },
+    {
+      "id": "seg-006",
+      "url": "/audio/walden-bean-field/seg-006-voice-young-voice.mp3",
+      "durationMs": 25512,
+      "checksum": "da0755e45fadecc6a663ae63c58a81aa25df8c99793eed52887a4570da9321c1",
+      "sourceHash": "b20ac94c1842b112ae9d829d71fd1ead4de46b8ae5ef261f6c173a544b20a6f6"
+    },
+    {
+      "id": "seg-007",
+      "url": "/audio/walden-bean-field/seg-007-voice-young-voice.mp3",
+      "durationMs": 46728,
+      "checksum": "c60c205db4117d38c4bab9f0e72788be1b68cab48185212c011d47596df40119",
+      "sourceHash": "c96db7faa4d31d421c98b56a63f34002873a39aa58b9e821e3ec4c9a622529e7"
+    }
+  ]
+}

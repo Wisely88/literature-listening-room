@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "workId": "gao-zu-ben-ji",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-8%|pitch=-1Hz|voiceId=young-voice",
+  "voiceId": "young-voice",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T00:26:24.423Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/gao-zu-ben-ji/seg-001-voice-young-voice.mp3",
+      "durationMs": 14088,
+      "checksum": "f73f8ca1ad7fa1407bdee0831a21b884c1968bf0556c1a5d709d6a764aba6b9b",
+      "sourceHash": "1cc7289ea41c8a6443f750787872e20edc9491822c8c4b1eb1b5dfd9a8235c9f"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/gao-zu-ben-ji/seg-002-voice-young-voice.mp3",
+      "durationMs": 12816,
+      "checksum": "0d1671327d149265acf8828768c328ee621094321ac5b32bfa7687646a4fd41a",
+      "sourceHash": "1c3e7e55def5b907b9936ac9e93cfeb05580c2abba2d6b2202cbff3e2b74288d"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/gao-zu-ben-ji/seg-003-voice-young-voice.mp3",
+      "durationMs": 9240,
+      "checksum": "94a449c42ebcd3febad24d5c8dd371ee3e591256b8bafcfa0b26e36e0a1985bb",
+      "sourceHash": "57b59a62015978ee2d3a558d3faa121203e11b130987ce5c33a003f23068b890"
+    }
+  ]
+}

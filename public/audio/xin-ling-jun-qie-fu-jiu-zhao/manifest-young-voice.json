@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "workId": "xin-ling-jun-qie-fu-jiu-zhao",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-8%|pitch=-1Hz|voiceId=young-voice",
+  "voiceId": "young-voice",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T01:59:36.881Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/xin-ling-jun-qie-fu-jiu-zhao/seg-001-voice-young-voice.mp3",
+      "durationMs": 10512,
+      "checksum": "702cb84fc037ef8a9c47d448aae64d10ab572d420848048faea9630e8a345ef2",
+      "sourceHash": "a8e30984b5d099cc70522122168a4e834e31e0f6da63af19659f1b94f85cd2d4"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/xin-ling-jun-qie-fu-jiu-zhao/seg-002-voice-young-voice.mp3",
+      "durationMs": 14208,
+      "checksum": "382e1ffb721cb49fc52510895a7f15b0fa1f74837d7c9a991d36548bea116a9d",
+      "sourceHash": "f44004c235f5f36fe121d3579e7b8ff4c104284f388f66437f05ded624eaf9d9"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/xin-ling-jun-qie-fu-jiu-zhao/seg-003-voice-young-voice.mp3",
+      "durationMs": 21504,
+      "checksum": "c9b7f132c80defceea952b13d25bdaf3581bbbce3f37d85b31fd6300fedde711",
+      "sourceHash": "44188911aa27d09a1f7dae2fe844289f429369cc152715f4ce6859a82ee1fc0b"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/xin-ling-jun-qie-fu-jiu-zhao/seg-004-voice-young-voice.mp3",
+      "durationMs": 15360,
+      "checksum": "d4b7d7346420126f081068589f93d786c98e7606a0b9bcf2ef2ef33ad3b4b440",
+      "sourceHash": "e87cb224ed0b51e6828b84b041c0d927e7d875bee3e1f9caeff2093aad62ed80"
+    }
+  ]
+}

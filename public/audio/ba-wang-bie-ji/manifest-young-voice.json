@@ -1,0 +1,46 @@
+{
+  "version": 1,
+  "workId": "ba-wang-bie-ji",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-8%|pitch=-1Hz|voiceId=young-voice",
+  "voiceId": "young-voice",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T00:15:37.670Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/ba-wang-bie-ji/seg-001-voice-young-voice.mp3",
+      "durationMs": 15528,
+      "checksum": "082ab85c744e48d8767764f75e8e9f0d5a2362db9a98ec8e988823ca8a95d821",
+      "sourceHash": "9aa03114551a9798f0ea27d6e83d2301165ced80dd6efa37b94c0ae086798642"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/ba-wang-bie-ji/seg-002-voice-young-voice.mp3",
+      "durationMs": 28752,
+      "checksum": "a1bd546d63708dc4493e464e1d3d078e3111c6d3a41a268afd5fecf803b5602d",
+      "sourceHash": "a9d2a0fa399368fff2fe04897ba601d51af1f74d75eb024e3635048ca14c2bf3"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/ba-wang-bie-ji/seg-003-voice-young-voice.mp3",
+      "durationMs": 13848,
+      "checksum": "6f880d96eba899c3bb2337aefcf725a9defec17f5c41115dd72c569f2b68a2cf",
+      "sourceHash": "e996d2482fcfae86b9fa9b07a57620578e3f12108ebabf96b5b7e7e768fae0a7"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/ba-wang-bie-ji/seg-004-voice-young-voice.mp3",
+      "durationMs": 18456,
+      "checksum": "9034f6c52cc263f427e500d740373a05f80521dd2bcbeb8c0fb2e614cf74b5b4",
+      "sourceHash": "cb14a514ca8c298acdaf5896e1fb316495ab81a78c1435bc8bed9ca14ac943a1"
+    },
+    {
+      "id": "seg-005",
+      "url": "/audio/ba-wang-bie-ji/seg-005-voice-young-voice.mp3",
+      "durationMs": 29760,
+      "checksum": "61fa80e8bbd12fb772167b92a84f7ae0e4736a4bedeb7bbd3caad3c3674320ca",
+      "sourceHash": "df4001bbf65df11a3044b23de15609691fa79e48594c0f80610fef01d43ec93d"
+    }
+  ]
+}

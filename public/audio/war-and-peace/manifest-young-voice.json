@@ -1,0 +1,116 @@
+{
+  "version": 1,
+  "workId": "war-and-peace",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-8%|pitch=-1Hz|voiceId=young-voice",
+  "voiceId": "young-voice",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T01:48:29.815Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/war-and-peace/seg-001-voice-young-voice.mp3",
+      "durationMs": 31176,
+      "checksum": "10b2837f9c7672dae6f19ecb08a2bbf0342d118eaea5802d97c689f6d189d45b",
+      "sourceHash": "7d3bd3003db4f5591ca33efeb44efd7a48914b0bfd53fe186aa2d2260578c29d"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/war-and-peace/seg-002-voice-young-voice.mp3",
+      "durationMs": 30120,
+      "checksum": "d8b5db58b0c162262ef4ada958c4cb6cf6d81d4ed662e06fc5f233a10cc4be16",
+      "sourceHash": "5c8a10f7bceba306771ec6f36568325917abf0d7f69a60c9308b6b0574d9ead8"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/war-and-peace/seg-003-voice-young-voice.mp3",
+      "durationMs": 8976,
+      "checksum": "e530b4b497309cf2c3dc00a290d0fe620de12c2f24d6e94bc84766a32a884081",
+      "sourceHash": "539c1806920a27ed0b2f3915254ee32681c5fd4483d10c8e57875dba3b6bd455"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/war-and-peace/seg-004-voice-young-voice.mp3",
+      "durationMs": 15000,
+      "checksum": "1ac5264e13ab8fd0a533bb3027c93a9923a3ba10e0bca2d93decc73f368c1ec3",
+      "sourceHash": "24b8cd673d489568d0f8f01b2c7e06ecd744f19476662af2188c4c59f29d3ed9"
+    },
+    {
+      "id": "seg-005",
+      "url": "/audio/war-and-peace/seg-005-voice-young-voice.mp3",
+      "durationMs": 36912,
+      "checksum": "4412a4d994944a21d9dcaa0fe54fd455807e22dbf85403ef6b27c151b8fc5523",
+      "sourceHash": "be8def806e09b6473f0b31ce963461bd091d04dd4b38f2ee008e19f9dd2c5265"
+    },
+    {
+      "id": "seg-006",
+      "url": "/audio/war-and-peace/seg-006-voice-young-voice.mp3",
+      "durationMs": 13848,
+      "checksum": "e6bbb0b3ff683d42e644ce8f75d4cdcf75b14db65a757d795f584543a95bb05d",
+      "sourceHash": "c2afd756f2f611e0d17f6cd270e60a8e84a815c2bb3cf94a911f0a2b3d371ca2"
+    },
+    {
+      "id": "seg-007",
+      "url": "/audio/war-and-peace/seg-007-voice-young-voice.mp3",
+      "durationMs": 12984,
+      "checksum": "5eb1f0e6eaec2ccc8c0abf1d2448112c5878c367432ea2bc99a9fdebaf31a6ad",
+      "sourceHash": "2d6ea5ea5c0f930cf065ae0fc69a12c1ecf448c6efb8402c0e23a68210678bba"
+    },
+    {
+      "id": "seg-008",
+      "url": "/audio/war-and-peace/seg-008-voice-young-voice.mp3",
+      "durationMs": 9648,
+      "checksum": "956091e08754c43ec08134046998a2a3bfc103b04f71848acf5915b83d02b15e",
+      "sourceHash": "1c01e85ccbd7418502219ae1adffad79784389ecda005846d2f33c1f3ed8c17f"
+    },
+    {
+      "id": "seg-009",
+      "url": "/audio/war-and-peace/seg-009-voice-young-voice.mp3",
+      "durationMs": 7632,
+      "checksum": "d989cdac2377a33bc193de8d5c4c2eb6457848ebd2e56d88f1b7324099310ecd",
+      "sourceHash": "337fa6112d1f692134ef5d288df90f24eeacabda734d6796a6c8d91da0564ea7"
+    },
+    {
+      "id": "seg-010",
+      "url": "/audio/war-and-peace/seg-010-voice-young-voice.mp3",
+      "durationMs": 12504,
+      "checksum": "426574f741fbdc983f25c5ff6bec70542e61eb767c298aeb57abdd4c2852f98b",
+      "sourceHash": "1bcd0ac14346b740dd216867eb9a03398468a4843ca2a6a7fd83375f061dd64b"
+    },
+    {
+      "id": "seg-011",
+      "url": "/audio/war-and-peace/seg-011-voice-young-voice.mp3",
+      "durationMs": 8280,
+      "checksum": "7ceeb0f4cfdc5384c0742f60341cc267387bdcb33820569c49d1b659dadcb923",
+      "sourceHash": "0ae80910e5b9b01dfab99ab19d2f438b36218b6cec5fa64aa443ec54a8d0f18d"
+    },
+    {
+      "id": "seg-012",
+      "url": "/audio/war-and-peace/seg-012-voice-young-voice.mp3",
+      "durationMs": 13128,
+      "checksum": "bfc20c632bc725563bcef97daa6e9992ea9e63c599ff174ae464b4a99bf89c89",
+      "sourceHash": "97ed646010f7d97fcabfa121cf2c89bf87294561fe0a0491df2ace01740a189a"
+    },
+    {
+      "id": "seg-013",
+      "url": "/audio/war-and-peace/seg-013-voice-young-voice.mp3",
+      "durationMs": 40320,
+      "checksum": "33568a3e60b04c0a5858e064bb9e7c445234e10d588ffa506f44c60428df15ed",
+      "sourceHash": "c62078f71308a3927455a65a251374a93e184f7d7bdb49adde8ffd3803263501"
+    },
+    {
+      "id": "seg-014",
+      "url": "/audio/war-and-peace/seg-014-voice-young-voice.mp3",
+      "durationMs": 6072,
+      "checksum": "d246a788b27421335747c3aeba51dbd484d878cb6fbbc6593c5449576938f2ce",
+      "sourceHash": "2c436d2c07418bc9000baf9d76c5a8f919d36f0811dd34fcb6925c0a01c07df7"
+    },
+    {
+      "id": "seg-015",
+      "url": "/audio/war-and-peace/seg-015-voice-young-voice.mp3",
+      "durationMs": 29928,
+      "checksum": "e09253ea31843a380cac2c6b6d0a746e33e3fa537ba533321278228f088a24f1",
+      "sourceHash": "281d561a5c56dc680776731dfae636b94851782fde5fbe1c02f5a2918aae4d29"
+    }
+  ]
+}

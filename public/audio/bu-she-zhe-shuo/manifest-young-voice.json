@@ -1,0 +1,67 @@
+{
+  "version": 1,
+  "workId": "bu-she-zhe-shuo",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-8%|pitch=-1Hz|voiceId=young-voice",
+  "voiceId": "young-voice",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T00:17:25.114Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/bu-she-zhe-shuo/seg-001-voice-young-voice.mp3",
+      "durationMs": 16320,
+      "checksum": "36456a2a7886371a8c0294cb781f2b96843dc49c68ddc8cae4b78e478b69280d",
+      "sourceHash": "b4a4265d0d90a96ac8cf779bb838be76d343fe073f353cbec360e1fc912a2fa3"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/bu-she-zhe-shuo/seg-002-voice-young-voice.mp3",
+      "durationMs": 10344,
+      "checksum": "ca4a77be8a892e2ee0361ccd9cec1636adaf24a09d6dc00f4c76aa5091593c76",
+      "sourceHash": "8f3e804b7c0f31baa5b3f0d7ae625c1704b2484fc0918e1aaa12cc029a8d5405"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/bu-she-zhe-shuo/seg-003-voice-young-voice.mp3",
+      "durationMs": 15432,
+      "checksum": "832707141b3e3e70de84fbb956123238673f6429d0c0aa6b9df9cf3ef38e0efb",
+      "sourceHash": "14ea35f7c9d817fe5055d1d3da017033c145baa51ab0b0d094d2b48b6751fe19"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/bu-she-zhe-shuo/seg-004-voice-young-voice.mp3",
+      "durationMs": 19704,
+      "checksum": "58e60006844031f12a800656d929e31dbd7c223a0a7f2ec98affd98246944997",
+      "sourceHash": "db7bea6d55c1785772d8b5fa3034f677e8ec4dd79a40769d1d958f16069a821f"
+    },
+    {
+      "id": "seg-005",
+      "url": "/audio/bu-she-zhe-shuo/seg-005-voice-young-voice.mp3",
+      "durationMs": 35232,
+      "checksum": "4287792bbc08d60a94506f0fa7eeb21db67ecf2deccf119802cd5f00a493e22c",
+      "sourceHash": "159366d7ed7b9800b1d642c72b21c523472f19955679ccad5e9d7b8d38d450ac"
+    },
+    {
+      "id": "seg-006",
+      "url": "/audio/bu-she-zhe-shuo/seg-006-voice-young-voice.mp3",
+      "durationMs": 20592,
+      "checksum": "6d34608e42311bc6bc3ea2b5e64a90a995eb34ad50dd4c36a4536a2f4cf200a0",
+      "sourceHash": "e6803c927daebc5f06b7f52225c881505d31a9c133c6259d92b9bafb7608be45"
+    },
+    {
+      "id": "seg-007",
+      "url": "/audio/bu-she-zhe-shuo/seg-007-voice-young-voice.mp3",
+      "durationMs": 14112,
+      "checksum": "b848422d54ee576c444031ec38d120f63d49cdc11847bb19e4ee89962ae538a8",
+      "sourceHash": "745257664be2e5894cf7f44264c1f64a60473bf35574922357a6eee23e80728e"
+    },
+    {
+      "id": "seg-008",
+      "url": "/audio/bu-she-zhe-shuo/seg-008-voice-young-voice.mp3",
+      "durationMs": 18600,
+      "checksum": "342f29d6676c619b50ea45edca5dcb75d72fd5aa1777e2e43ffe3dc5f5250625",
+      "sourceHash": "c4d05c3f85d1efe51f1361d5a08218b496e384793303aabe6249b787a26b6d37"
+    }
+  ]
+}

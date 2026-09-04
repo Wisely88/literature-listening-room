@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "workId": "les-miserables",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-8%|pitch=-1Hz|voiceId=young-voice",
+  "voiceId": "young-voice",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T00:43:18.302Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/les-miserables/seg-001-voice-young-voice.mp3",
+      "durationMs": 13944,
+      "checksum": "27a04de4307ea2ec14545f4246f050c2b52720b882949179cd9c078e77869406",
+      "sourceHash": "c1e9ce70e1eb2de99f16e21d8a93f0fdc6bb779e6d4ecb6c81aeb1d2da5d4cef"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/les-miserables/seg-002-voice-young-voice.mp3",
+      "durationMs": 31632,
+      "checksum": "89b8ab30ebfbe434cda20a9f5149ae75d8a726c50e79a083f9658fa2efbb20f7",
+      "sourceHash": "33ea0a4e1cd9f9b21e56cd20f29aa9222d687a57c68f1e27a9d6baed0937855f"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/les-miserables/seg-003-voice-young-voice.mp3",
+      "durationMs": 31704,
+      "checksum": "b8b7aa15a0a8393f8cada8a4c2f493b1977f2037d6e73e2cdc641f5e6d46f36d",
+      "sourceHash": "9f929507b504e39fb170149180ba71157ff0c7ea63a6641163a2550911431e35"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/les-miserables/seg-004-voice-young-voice.mp3",
+      "durationMs": 64200,
+      "checksum": "40e5c18581444e4440010925fb106509cce6ea89805f357d1a8a9a6fbc39c807",
+      "sourceHash": "50c50eae97adc77069548575e5c56fdef2303403bee94fa58005fc339a9c83ac"
+    },
+    {
+      "id": "seg-005",
+      "url": "/audio/les-miserables/seg-005-voice-young-voice.mp3",
+      "durationMs": 8400,
+      "checksum": "e245b092dcc832c87149b4f5792d2b628be1b1c7925b6aae5cf168be888d63c2",
+      "sourceHash": "f63fdda951e23d9d32b8c8f2061fb33051fc5436cf0ab9d4aa976c86d8dca97f"
+    },
+    {
+      "id": "seg-006",
+      "url": "/audio/les-miserables/seg-006-voice-young-voice.mp3",
+      "durationMs": 33864,
+      "checksum": "9baf4cfaa3da3891a6f4a3f8c2313f73eace931238fd1a0362cecddd72370271",
+      "sourceHash": "93e1dbc7796d94c56c582016632b503445050d0e2230c580a8f537ea4acd2b15"
+    },
+    {
+      "id": "seg-007",
+      "url": "/audio/les-miserables/seg-007-voice-young-voice.mp3",
+      "durationMs": 3696,
+      "checksum": "f7b15b39dbe333bc7226a05eacea63738108da3238a426dbd8f5051dbe5dd6a9",
+      "sourceHash": "eb9ad07882c00e206a0e7fb50da336ce02a8524aa5d84022c1b0f515ae812c4e"
+    },
+    {
+      "id": "seg-008",
+      "url": "/audio/les-miserables/seg-008-voice-young-voice.mp3",
+      "durationMs": 11280,
+      "checksum": "93bf4b95e50da5368f389ba646529ebc7ebac9bcc4bb67b95c01d8f5f164a2d3",
+      "sourceHash": "ae0e02c83793a79c108293b330d493ab8ef14508dfc8f8bee57b930c6224b8ee"
+    },
+    {
+      "id": "seg-009",
+      "url": "/audio/les-miserables/seg-009-voice-young-voice.mp3",
+      "durationMs": 11088,
+      "checksum": "95ef6a92d0526412621ef8282ce247f3fb616c2d7f2185d04fa9c3e4dbe86a9d",
+      "sourceHash": "fa15bb7a0e5640e1f2a6972f01c7762a6e6f687f6b53bdbea6bf28d606ef13d0"
+    },
+    {
+      "id": "seg-010",
+      "url": "/audio/les-miserables/seg-010-voice-young-voice.mp3",
+      "durationMs": 12936,
+      "checksum": "edb890cd6e1c6df77fdf267a8c9a7695474fd023ff51e0663e063f7f9d3f19d6",
+      "sourceHash": "7dc21218f8981ee84e5825bca9c4fd48a139ba426eef401ce90eefae40b41e32"
+    },
+    {
+      "id": "seg-011",
+      "url": "/audio/les-miserables/seg-011-voice-young-voice.mp3",
+      "durationMs": 33624,
+      "checksum": "5b17dbe7376202eeca6335ffacaa25b72758dc2b4b91260281dfde26174ae9d9",
+      "sourceHash": "bc47ba7cb31312a2154f6f12ac27b4b933b466a2ac10a93d5325ab8be097324d"
+    }
+  ]
+}

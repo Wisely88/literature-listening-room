@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "workId": "hou-chi-bi-fu",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-8%|pitch=-1Hz|voiceId=young-voice",
+  "voiceId": "young-voice",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T00:35:18.212Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/hou-chi-bi-fu/seg-001-voice-young-voice.mp3",
+      "durationMs": 15528,
+      "checksum": "11f350b05391cf4b872309c137a53e1c272c1f6270e717804b33cd9ea65173a2",
+      "sourceHash": "08b5851b333128463271523f250c5a1939696fe1f6e02cfca33dedb9a8ea4179"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/hou-chi-bi-fu/seg-002-voice-young-voice.mp3",
+      "durationMs": 23736,
+      "checksum": "f435a263d72f03d93efd1d58e573119b279668077fd96e3807abf15916f25981",
+      "sourceHash": "4d3249634ff4dab62eb183222d7cccaffa5dd6fcf689da841f45736f922b0716"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/hou-chi-bi-fu/seg-003-voice-young-voice.mp3",
+      "durationMs": 14304,
+      "checksum": "2ad887ffcbfce3bbc7c17e3cef16a2d5140f372f92e9089704f020d05c5cb3c0",
+      "sourceHash": "3dd1fc94d4f2058bcefed860c475df47ee6ca5d66547e394785c05db7fa1c94f"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/hou-chi-bi-fu/seg-004-voice-young-voice.mp3",
+      "durationMs": 11664,
+      "checksum": "abc43e90439c9c36305ca51acd9d0ef169d37f01df26dfd22728ee7b31151478",
+      "sourceHash": "5d47cb318a29bf7d40bd9edd50a546a0a2ee1c1de556802045073d2fed9824bf"
+    },
+    {
+      "id": "seg-005",
+      "url": "/audio/hou-chi-bi-fu/seg-005-voice-young-voice.mp3",
+      "durationMs": 15816,
+      "checksum": "0934e3344771e21034a92a95c16e8b62e07d3b4aa453451d5d99023a8aa5e709",
+      "sourceHash": "6706f0c2282c6291e30d44cd40f574b9dd4a39b11c0b827168e774f30f1e7810"
+    },
+    {
+      "id": "seg-006",
+      "url": "/audio/hou-chi-bi-fu/seg-006-voice-young-voice.mp3",
+      "durationMs": 12024,
+      "checksum": "d7c20f9a6a6b35da65c04a272d0e8f8ed6d51aeca76409cc8f457eb4caabeff7",
+      "sourceHash": "49bb0be22e7e4ec441e949756134d95bc27df179487e98881678c1ba4f2277e5"
+    },
+    {
+      "id": "seg-007",
+      "url": "/audio/hou-chi-bi-fu/seg-007-voice-young-voice.mp3",
+      "durationMs": 28104,
+      "checksum": "519d199164e907e67f9506fe4aeb614157d336c8cb92518fc8907f2f1f779fc2",
+      "sourceHash": "1abbb75c1dc868579852bc1feabfd9624e32a728aa3db5d8b2bbaaa388e9441c"
+    }
+  ]
+}

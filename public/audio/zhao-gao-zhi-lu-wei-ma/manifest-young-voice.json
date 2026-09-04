@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "workId": "zhao-gao-zhi-lu-wei-ma",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-8%|pitch=-1Hz|voiceId=young-voice",
+  "voiceId": "young-voice",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T02:09:42.303Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/zhao-gao-zhi-lu-wei-ma/seg-001-voice-young-voice.mp3",
+      "durationMs": 8568,
+      "checksum": "ff2a082a3a2b7b98dc838fbe7b587a4ddf846d6407f41d85e44d137e448896bb",
+      "sourceHash": "7960df4faf247e379f043683987ccd3a6bd75b6ea87f21a0f7faec317cd80167"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/zhao-gao-zhi-lu-wei-ma/seg-002-voice-young-voice.mp3",
+      "durationMs": 10992,
+      "checksum": "e97acced9d57351c768eb15b2ec8646792eb66f172723527200ca0d522c3e886",
+      "sourceHash": "bab89f83c65b318a595793897ff24691527e08353721ee289416dd9a7c20fb24"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/zhao-gao-zhi-lu-wei-ma/seg-003-voice-young-voice.mp3",
+      "durationMs": 5328,
+      "checksum": "5980edbfaec222cf336204699b15c2c7de8b2211e3e4206011acc87c4d258756",
+      "sourceHash": "230c56c77618063eedfaccd6e7b80b76ae9214eca7192fab9f44d33108e785a8"
+    }
+  ]
+}

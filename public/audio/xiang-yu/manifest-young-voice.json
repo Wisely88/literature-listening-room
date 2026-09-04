@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "workId": "xiang-yu",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-8%|pitch=-1Hz|voiceId=young-voice",
+  "voiceId": "young-voice",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T01:57:14.592Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/xiang-yu/seg-001-voice-young-voice.mp3",
+      "durationMs": 636312,
+      "checksum": "d487a4113d84301d579d925116bf6db8121c2e1783b5d68374a9a85e776281bf",
+      "sourceHash": "a1e4d88db749302697d534574f5630e963376e0d39b59da21798107a89ceab0b"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/xiang-yu/seg-002-voice-young-voice.mp3",
+      "durationMs": 22608,
+      "checksum": "7a9fe2208b7fc80e8d37d42ad85cddecd7a8640e53662dc53991fc9030cd5218",
+      "sourceHash": "6c525679a2c5ed7dd268105b1b09d5159959238c90838d67304c4084ed22c778"
+    }
+  ]
+}

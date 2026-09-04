@@ -1,0 +1,53 @@
+{
+  "version": 1,
+  "workId": "lu-ti-xia-quan-da-zhen-guan-xi",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-8%|pitch=-1Hz|voiceId=young-voice",
+  "voiceId": "young-voice",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T00:54:42.220Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/lu-ti-xia-quan-da-zhen-guan-xi/seg-001-voice-young-voice.mp3",
+      "durationMs": 412536,
+      "checksum": "6ec015a681fb6308880d47180951fd65db416f350effe2a319acb270b3d921d0",
+      "sourceHash": "a8ea24a94772ce97465bb468a98cfa3777738114394fb19bb4920681b6906cbf"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/lu-ti-xia-quan-da-zhen-guan-xi/seg-002-voice-young-voice.mp3",
+      "durationMs": 386088,
+      "checksum": "5d56d117db003ce4b167ebbedf8e41dc9cd8f42582a0c455a3f6a39907aace1b",
+      "sourceHash": "5618eaee94e79b56275649d275af97091c220f0691c386fc6cb1771cbb49d651"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/lu-ti-xia-quan-da-zhen-guan-xi/seg-003-voice-young-voice.mp3",
+      "durationMs": 354312,
+      "checksum": "c25a46c2fb2757b98c800f1ceb09905613e7e6e0dd07376bcdeefc8da28dff84",
+      "sourceHash": "4add8614090aa322e49712e3237319eb53be6caedc31f578d6d98a0ffa952f9e"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/lu-ti-xia-quan-da-zhen-guan-xi/seg-004-voice-young-voice.mp3",
+      "durationMs": 317424,
+      "checksum": "1709a40bba00b03b8434a0b9f9f036c29188f839db781a8a1b14979515d8db34",
+      "sourceHash": "323b2c7dccbdfd4eb10e28c95369c46ce949a458b0eb31a78aba16c59f24a5f0"
+    },
+    {
+      "id": "seg-005",
+      "url": "/audio/lu-ti-xia-quan-da-zhen-guan-xi/seg-005-voice-young-voice.mp3",
+      "durationMs": 264648,
+      "checksum": "fd1ac630cb0af3f415af64b62f32ea5ace1dda884adff803d867c956847921d2",
+      "sourceHash": "c5426b4d4cad3dd26335b2cf45fe2f750c88d923190e02316e2fa9f19bb282f1"
+    },
+    {
+      "id": "seg-006",
+      "url": "/audio/lu-ti-xia-quan-da-zhen-guan-xi/seg-006-voice-young-voice.mp3",
+      "durationMs": 56880,
+      "checksum": "ab6624287132faf7444e2c3783966984fa00b30c209c21c95c9ad1e4ca4beb6a",
+      "sourceHash": "9145bdb0ad7fcf9ac4b1dc6dd8e81ba9cae9c6f7cb86a47d53ef884491e6cc65"
+    }
+  ]
+}

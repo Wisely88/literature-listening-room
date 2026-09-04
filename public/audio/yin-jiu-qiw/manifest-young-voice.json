@@ -1,0 +1,46 @@
+{
+  "version": 1,
+  "workId": "yin-jiu-qiw",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-8%|pitch=-1Hz|voiceId=young-voice",
+  "voiceId": "young-voice",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T02:06:00.532Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/yin-jiu-qiw/seg-001-voice-young-voice.mp3",
+      "durationMs": 4008,
+      "checksum": "555754888b587d1c6afc1a9df1a9168a727d6bdf07cc9b63d98b61c3862ac0f6",
+      "sourceHash": "f1bba072ae1cdedddabf70b0ce6407d35e2cb6d83d00feb86b9c857f9824a57b"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/yin-jiu-qiw/seg-002-voice-young-voice.mp3",
+      "durationMs": 4536,
+      "checksum": "9820ee658ad84962ec94bfb289237b98f27a4dc44361b855e56593cf42e25080",
+      "sourceHash": "a7f31f9315bdb508b7877f1a0a6f0cab0d3c8587c0c3857e3ddeb2968be59ed1"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/yin-jiu-qiw/seg-003-voice-young-voice.mp3",
+      "durationMs": 4224,
+      "checksum": "08525908d4a0c12f62237fb9891a4ff7e83bbaf954d181d120e7a22bfbba4302",
+      "sourceHash": "bee3ea7c7c33f6b14cf3ccfdf5e80360b8cab8f3c939bfadeb64d7a125c19842"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/yin-jiu-qiw/seg-004-voice-young-voice.mp3",
+      "durationMs": 3792,
+      "checksum": "2b13007ce23187252ba411121ce96cf8689ab4c9c364293fb9e5c18bf4f27590",
+      "sourceHash": "8e129d06b814e0792d09020888ced730bf39a2d0e6b061ceb79f635bddc0955a"
+    },
+    {
+      "id": "seg-005",
+      "url": "/audio/yin-jiu-qiw/seg-005-voice-young-voice.mp3",
+      "durationMs": 3984,
+      "checksum": "43adfd9aeda8fd097c58fc3a3ef6f3c7d1a9a7093571a965a64ab92096ca383a",
+      "sourceHash": "a62718635fb583a03de2e69440949722efa4d6b1abf5ce0209f106b916b39b65"
+    }
+  ]
+}

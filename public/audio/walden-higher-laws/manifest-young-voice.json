@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "workId": "walden-higher-laws",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-8%|pitch=-1Hz|voiceId=young-voice",
+  "voiceId": "young-voice",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T01:41:04.384Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/walden-higher-laws/seg-001-voice-young-voice.mp3",
+      "durationMs": 137640,
+      "checksum": "96f34e1c02cc64b6cc0c82063dc169dd65b75ed4b7e156bd1e45f7309e0a17c2",
+      "sourceHash": "faf526ed90325da0cbea4351074ce208cc266e103866ad5357917393b5af0e1a"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/walden-higher-laws/seg-002-voice-young-voice.mp3",
+      "durationMs": 49200,
+      "checksum": "a748372665e488e47dbeaa118c418a95d8a44a408de9db4f302e0231bd9f3da7",
+      "sourceHash": "90f0cc747005b8d72ced585e34b90867b22b33cbc3661257a449683a5e6c142b"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/walden-higher-laws/seg-003-voice-young-voice.mp3",
+      "durationMs": 100080,
+      "checksum": "ff068852175377afd299cba411a4e0f47c02952bbb4c3420f41b8ed4e72cc9fe",
+      "sourceHash": "19726e16e6153e4ed44bd9ce4bda7627cec7278211ee8a6de8ddcf367f0e57b2"
+    }
+  ]
+}

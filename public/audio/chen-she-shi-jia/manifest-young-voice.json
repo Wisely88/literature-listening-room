@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "workId": "chen-she-shi-jia",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-8%|pitch=-1Hz|voiceId=young-voice",
+  "voiceId": "young-voice",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T00:18:58.890Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/chen-she-shi-jia/seg-001-voice-young-voice.mp3",
+      "durationMs": 21840,
+      "checksum": "8177cb147434a00ba9f7830892614e80e80895cef1de371348e18a2919be52df",
+      "sourceHash": "d26f0a029f8f73d59ce598224d2106f2bc31039f2fed843702d01ee8f04021d7"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/chen-she-shi-jia/seg-002-voice-young-voice.mp3",
+      "durationMs": 34680,
+      "checksum": "40447ca4d94d84b6f90ca71813d05b7ba2ebdfac54bb137412084c5cac1a4212",
+      "sourceHash": "26f10ee4156281146fac042ad2b4774c2673531135bc0142e06516a321546333"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/chen-she-shi-jia/seg-003-voice-young-voice.mp3",
+      "durationMs": 16776,
+      "checksum": "85eb101ffefc701c8b9b857527eea9212df5ab98f59a52f861c0fcd4595c9c5c",
+      "sourceHash": "a0821280d24dcb2ea2c32a1317d214fa50ef19b6988e54c58b6e82c1d1e5cf1b"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/chen-she-shi-jia/seg-004-voice-young-voice.mp3",
+      "durationMs": 25104,
+      "checksum": "d3ea98402ea602088c3f5d3feb0e16fbaaa02f3c57e7b0670936c59b429fe54d",
+      "sourceHash": "272e20b206a612a1348290980e40d7c1fe7e2a0cac5834101f2d9ac31375a960"
+    },
+    {
+      "id": "seg-005",
+      "url": "/audio/chen-she-shi-jia/seg-005-voice-young-voice.mp3",
+      "durationMs": 14448,
+      "checksum": "589564f3683ef6b6017a3e999166938536700da6415b368e3f2c99664aa0d068",
+      "sourceHash": "69dc2cc6a547ea4cc36c236fdf82cdd96e0220179e4418da0ee96f3f9bc83172"
+    },
+    {
+      "id": "seg-006",
+      "url": "/audio/chen-she-shi-jia/seg-006-voice-young-voice.mp3",
+      "durationMs": 19056,
+      "checksum": "94ce1e2a2207b96a3296a755e3b9b68afdcaf0f7020e07ac37abdbc78bb1c610",
+      "sourceHash": "d629638af53a49fc14a1b7bf6225971dac83098be4f71869816e884ecf077f9b"
+    },
+    {
+      "id": "seg-007",
+      "url": "/audio/chen-she-shi-jia/seg-007-voice-young-voice.mp3",
+      "durationMs": 19440,
+      "checksum": "836f689e4038e204aa27c8a5926275ccefb7fef43f525e0ef6c1ca0d97713953",
+      "sourceHash": "2e8f28d819135919d0b93ba218489c2ffe0cc253bbb0d39ea36c01e818b0ee03"
+    }
+  ]
+}

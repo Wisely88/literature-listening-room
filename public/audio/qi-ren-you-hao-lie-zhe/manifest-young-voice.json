@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "workId": "qi-ren-you-hao-lie-zhe",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-8%|pitch=-1Hz|voiceId=young-voice",
+  "voiceId": "young-voice",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T01:06:13.878Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/qi-ren-you-hao-lie-zhe/seg-001-voice-young-voice.mp3",
+      "durationMs": 25872,
+      "checksum": "4afd69a0cc6cc9f531d313b936f403b1b21149b365ca60587228b3f9049f027d",
+      "sourceHash": "9922662cbc1cdd1c57047fddbfb2470a347a9965e019e02df171bfa2292c0550"
+    }
+  ]
+}

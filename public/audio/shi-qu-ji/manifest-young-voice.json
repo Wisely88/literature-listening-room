@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "workId": "shi-qu-ji",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-8%|pitch=-1Hz|voiceId=young-voice",
+  "voiceId": "young-voice",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T01:18:35.711Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/shi-qu-ji/seg-001-voice-young-voice.mp3",
+      "durationMs": 9120,
+      "checksum": "c0a0ce9d8f5eeddb80efd789057aa70e7dddc0afb4a43b5bb6a18c5c77bf7348",
+      "sourceHash": "ad5df24070e96ffe9df0701067269d72a0622b48b4bdb8a9d28b9828be563608"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/shi-qu-ji/seg-002-voice-young-voice.mp3",
+      "durationMs": 18816,
+      "checksum": "6c7825cf91f82dab086dd84f6dd9f72dd8cef3252766d332ae339df78acd9a8a",
+      "sourceHash": "d525fb7d27523e1c83ebbe4d4973d3eda0e7ec05a4704db95481eeb6706080d5"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/shi-qu-ji/seg-003-voice-young-voice.mp3",
+      "durationMs": 16968,
+      "checksum": "30c69f7c9653f36609a6d3725070ba2b614ef085b3e70bd08e86c04862343b55",
+      "sourceHash": "f1b43e16ba826a143060c96fdb149e8d895d8cc19da748fa8a69f84aac50453d"
+    }
+  ]
+}

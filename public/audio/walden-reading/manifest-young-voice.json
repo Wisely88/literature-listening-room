@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "workId": "walden-reading",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-8%|pitch=-1Hz|voiceId=young-voice",
+  "voiceId": "young-voice",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T01:42:06.125Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/walden-reading/seg-001-voice-young-voice.mp3",
+      "durationMs": 209040,
+      "checksum": "fd9472f1a54b69cd3079efdf769aea9dcbaecf25f0a200c187ce2d1c8e43b87e",
+      "sourceHash": "14b02969aee1e8da92458472683424820981cc097571c36517a5b237c6e28ea0"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/walden-reading/seg-002-voice-young-voice.mp3",
+      "durationMs": 49704,
+      "checksum": "df950ddf33f001f731a733506463a7a67f18ce78f5780a7108102d6bd95df4f9",
+      "sourceHash": "5fb7d5a2db85cc51165f677e0fc1b4426876462c77851811be6f328a8181275f"
+    }
+  ]
+}

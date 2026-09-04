@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "workId": "shi-shuo",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-8%|pitch=-1Hz|voiceId=young-voice",
+  "voiceId": "young-voice",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T01:19:08.550Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/shi-shuo/seg-001-voice-young-voice.mp3",
+      "durationMs": 14184,
+      "checksum": "4617baddff3257e9c8dc22f4966b95f865ae8925fd9b3f3e885c0466915e6cb3",
+      "sourceHash": "ebdbc0ac93a2a1e6f992208f3368e6c24445db3f1190a7a2b25d39a759398f57"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/shi-shuo/seg-002-voice-young-voice.mp3",
+      "durationMs": 21072,
+      "checksum": "dcfba0c8db83b747f2e9f5ff3f3e38a177cb00ab38804af61a0cd9c8b24ffdcb",
+      "sourceHash": "de9b0597a72e35d7ff844692e8e83700d294f4fa8eae3d3ff5b0ea0795b70217"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/shi-shuo/seg-003-voice-young-voice.mp3",
+      "durationMs": 25776,
+      "checksum": "cfddecd6838f98e800c20ceb614a1a80890fa3d33de84e2eea3898c57b909cf8",
+      "sourceHash": "b8b48f73a65204aa53d6ac84fe8081441f73d0e6864cc60f813ef1a41780b332"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/shi-shuo/seg-004-voice-young-voice.mp3",
+      "durationMs": 21912,
+      "checksum": "2bc8c783354d9860861cb54261090ae04a53bef02f65b3a102127facdec01435",
+      "sourceHash": "5a549a07fd2d24d01b35f6966fdd629dc9a0e8dd3b0850f8e756e1a7102c7c89"
+    },
+    {
+      "id": "seg-005",
+      "url": "/audio/shi-shuo/seg-005-voice-young-voice.mp3",
+      "durationMs": 29376,
+      "checksum": "a41853dd32a752fe838038c6d7a78b198d290157fb14f9980e2004c1a6bbf48b",
+      "sourceHash": "9ff9478160534984a2de75e0f84518d5670549bdd05b4a21baa64f0873840e28"
+    },
+    {
+      "id": "seg-006",
+      "url": "/audio/shi-shuo/seg-006-voice-young-voice.mp3",
+      "durationMs": 23280,
+      "checksum": "09e52d867eac012166c8c5795429795c0dd81d0c0db9e9a7477f80f4fdbc2445",
+      "sourceHash": "4be5d88f33d836a8d2adda716e00cdde0d72297960353832b928c40988747731"
+    },
+    {
+      "id": "seg-007",
+      "url": "/audio/shi-shuo/seg-007-voice-young-voice.mp3",
+      "durationMs": 13056,
+      "checksum": "151e4c0637a99c32ebdef30de603cd4c4f7064efd46b5d3e97f478eef6050334",
+      "sourceHash": "05fb4af330b68de1a947bf341b6e0169fe78500f03e91700a658b1ea6a319ffe"
+    }
+  ]
+}

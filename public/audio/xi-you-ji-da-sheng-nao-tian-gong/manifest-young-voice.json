@@ -1,0 +1,74 @@
+{
+  "version": 1,
+  "workId": "xi-you-ji-da-sheng-nao-tian-gong",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-8%|pitch=-1Hz|voiceId=young-voice",
+  "voiceId": "young-voice",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T01:55:45.020Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/xi-you-ji-da-sheng-nao-tian-gong/seg-001-voice-young-voice.mp3",
+      "durationMs": 182880,
+      "checksum": "9cbda06210900e7ca20de2398466b9d35d808a224561b39492da7c9d5a598ca4",
+      "sourceHash": "3f1e43d4b1bc20543fcdfefb00ad00b2f2064871bb7718dd87350f550050a3e0"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/xi-you-ji-da-sheng-nao-tian-gong/seg-002-voice-young-voice.mp3",
+      "durationMs": 279240,
+      "checksum": "e0ced4c0ef9e11ba8bc7569ff2d83ff04ccfee84199198e47dad467b1b5aae7a",
+      "sourceHash": "5df501d00a16f105aab2aee303397de4d594286f3e023cd0ed7e01f84a54409a"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/xi-you-ji-da-sheng-nao-tian-gong/seg-003-voice-young-voice.mp3",
+      "durationMs": 74496,
+      "checksum": "82dd8dd4167a8eb0efae7722fd3aa635bccda75e6cef0bf99fe4e0336f966bf6",
+      "sourceHash": "2e25ff89a95a41d3a8522ab1a836b4532e95ae53c3b5946af46793f3a6cd81bd"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/xi-you-ji-da-sheng-nao-tian-gong/seg-004-voice-young-voice.mp3",
+      "durationMs": 216576,
+      "checksum": "aa23aa509a8eec4df60f4465f28f0e599e90f009f316cf6f6ea65207a0dbc520",
+      "sourceHash": "08930be69b27fd279e0119371e17981fe99f6510a687e4428876745b8e2de24f"
+    },
+    {
+      "id": "seg-005",
+      "url": "/audio/xi-you-ji-da-sheng-nao-tian-gong/seg-005-voice-young-voice.mp3",
+      "durationMs": 233400,
+      "checksum": "3855e1135b29cf2fa50c17d9a04b36963e66849e131cb97a6f26c99fd143935f",
+      "sourceHash": "bda0bb528c125745ace33d3fce47fadcb47ff0db1d207f5808d93a6488f3d451"
+    },
+    {
+      "id": "seg-006",
+      "url": "/audio/xi-you-ji-da-sheng-nao-tian-gong/seg-006-voice-young-voice.mp3",
+      "durationMs": 150816,
+      "checksum": "020512abf85ca3bcd7874569545ea492b2ab6d61bcc1d4b39fc21a58e2f29704",
+      "sourceHash": "815e2da3a75ee6e2965d5cd5cde5783984790a71031176e9c9293918bd537f23"
+    },
+    {
+      "id": "seg-007",
+      "url": "/audio/xi-you-ji-da-sheng-nao-tian-gong/seg-007-voice-young-voice.mp3",
+      "durationMs": 147384,
+      "checksum": "f8f5704f0152f8eb534478a0b6615214c6effa5b8b51aba4c46311c035c3caf4",
+      "sourceHash": "b010a5a4ef534312f3ac3f054a2d70c78f5e142f551f549072b5ae00112f2ea2"
+    },
+    {
+      "id": "seg-008",
+      "url": "/audio/xi-you-ji-da-sheng-nao-tian-gong/seg-008-voice-young-voice.mp3",
+      "durationMs": 154224,
+      "checksum": "eaddbd1257e2b11e702e120a3e14bc72611ecf512f6af7d59cb5e239764f0e0f",
+      "sourceHash": "8fa3cec6d144ac80875fbb78780a83e6029281f3505d724a2985d29a84e8a659"
+    },
+    {
+      "id": "seg-009",
+      "url": "/audio/xi-you-ji-da-sheng-nao-tian-gong/seg-009-voice-young-voice.mp3",
+      "durationMs": 34608,
+      "checksum": "b26744efda0ae467d80544d1dbc5ba22f38536766c7129d02235e2a4a41e5a76",
+      "sourceHash": "086b1a22ff2399eb9b9557fe708b3b856c023208772b9169777857e4c93e17bd"
+    }
+  ]
+}

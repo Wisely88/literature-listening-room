@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "workId": "zhai-yao",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-8%|pitch=-1Hz|voiceId=young-voice",
+  "voiceId": "young-voice",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T02:09:30.605Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/zhai-yao/seg-001-voice-young-voice.mp3",
+      "durationMs": 30792,
+      "checksum": "efb39849d997c2e4cbb50f4ff3578c81c7f9dce2fd577d84055ec47c9b8afaad",
+      "sourceHash": "7d219089a51095b3833e772e02c3a0e296a51a3fb3b984ea95f21171d4d5dabf"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/zhai-yao/seg-002-voice-young-voice.mp3",
+      "durationMs": 47592,
+      "checksum": "b327fbb3cbb4fb9368d79bfaef737ee173d75c9fdc3810072219cbd61df6c680",
+      "sourceHash": "0694303cf0356423d439372b4c167dc2095dce62dd6603eb18de643ab35e7dec"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "workId": "si-ma-qian-bao-ren-an-shu",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-8%|pitch=-1Hz|voiceId=young-voice",
+  "voiceId": "young-voice",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T01:21:04.088Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/si-ma-qian-bao-ren-an-shu/seg-001-voice-young-voice.mp3",
+      "durationMs": 24264,
+      "checksum": "7724a43ef972115bc85c6dce8314b7f9ddc6b3746a1b360e1353ac972d2b3362",
+      "sourceHash": "df28cb04467a4dbd4765ac4dcf6c7d094117c2ef54a0f437224d3900cc7cc5be"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/si-ma-qian-bao-ren-an-shu/seg-002-voice-young-voice.mp3",
+      "durationMs": 5784,
+      "checksum": "19ef4ef028543708b8fdfcb32f808f9c5b2c8194823677f8a9255a435570d8f7",
+      "sourceHash": "d5cb325a696ff834621865f11f20d659b08cd5a31491d2655977c094060f6449"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/si-ma-qian-bao-ren-an-shu/seg-003-voice-young-voice.mp3",
+      "durationMs": 7032,
+      "checksum": "4f0fd1df9c116e923457b2d87bf3d5ccb6449097867088dd869c80618113f233",
+      "sourceHash": "dd4ecd91c553f0368cee55cd9058b08737bb87c0bd5696753e648c92bd295499"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/si-ma-qian-bao-ren-an-shu/seg-004-voice-young-voice.mp3",
+      "durationMs": 6792,
+      "checksum": "f24d9b0ce327a89e5418c8dff4fa18f327cfe8d58185a60f3e7a3f5be5bf48df",
+      "sourceHash": "c732290b1d3b6164f998238dbb28b41c17ead54582bcfaa269b0dc2b7056c378"
+    }
+  ]
+}

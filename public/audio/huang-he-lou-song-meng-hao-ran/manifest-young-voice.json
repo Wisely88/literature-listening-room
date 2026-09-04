@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "workId": "huang-he-lou-song-meng-hao-ran",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-8%|pitch=-1Hz|voiceId=young-voice",
+  "voiceId": "young-voice",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T00:36:23.929Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/huang-he-lou-song-meng-hao-ran/seg-001-voice-young-voice.mp3",
+      "durationMs": 4536,
+      "checksum": "19201935458ce68c9ebaca5256acab5ae5b4a148337351d7126e317b4611b152",
+      "sourceHash": "bf46522747c49cc0dd98a1217ae14fda15f31bf77d8ea330efd591bdd5d1f543"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/huang-he-lou-song-meng-hao-ran/seg-002-voice-young-voice.mp3",
+      "durationMs": 4848,
+      "checksum": "638de6c8f67074bce07cf04c4090bc2d75c9531bb821a65d9f1a8d654a7a4bb7",
+      "sourceHash": "89412a2c7f7734fb202c932c956e69b2023e28ffb7454d5af251aa15b713dd81"
+    }
+  ]
+}

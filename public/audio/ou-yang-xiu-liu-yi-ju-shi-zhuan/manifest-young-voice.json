@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "workId": "ou-yang-xiu-liu-yi-ju-shi-zhuan",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-8%|pitch=-1Hz|voiceId=young-voice",
+  "voiceId": "young-voice",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T01:02:42.241Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/ou-yang-xiu-liu-yi-ju-shi-zhuan/seg-001-voice-young-voice.mp3",
+      "durationMs": 19536,
+      "checksum": "a40b1d8280f8738046bff72312d41e9667abdad9d7d9e4ba4049854960e6c14e",
+      "sourceHash": "9a810faeff29e55d11db838021449d873579243628415e97f6a8ac4beaab75ea"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/ou-yang-xiu-liu-yi-ju-shi-zhuan/seg-002-voice-young-voice.mp3",
+      "durationMs": 10152,
+      "checksum": "2085632c840d80d3efd5df4280bc6c12b50463fc19e8f83fff3344be1cc90fbf",
+      "sourceHash": "c4b21e85a9744c4d246c046fe65d6f197d1b7bad08413125e2c48aa11f2b5a9c"
+    }
+  ]
+}

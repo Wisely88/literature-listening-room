@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "workId": "jane-eyre-red-room",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-8%|pitch=-1Hz|voiceId=young-voice",
+  "voiceId": "young-voice",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T00:37:35.798Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/jane-eyre-red-room/seg-001-voice-young-voice.mp3",
+      "durationMs": 21096,
+      "checksum": "c59aac82f416deea290072eb246a912f39cd1edcac0414bbc64a4e4ff093bc80",
+      "sourceHash": "4e8ac04a2ba19100ffb8194c842cd4dab51a32942ed9cd78c5329e8086f9beac"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/jane-eyre-red-room/seg-002-voice-young-voice.mp3",
+      "durationMs": 22416,
+      "checksum": "08e69cbfbca903c32fc67443036ad30c09d615a8c271a60c38a91d563cb43d12",
+      "sourceHash": "68afb4acb7893313e21a74085d76d1b05912136999ae05cf58873ac8892de5d3"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/jane-eyre-red-room/seg-003-voice-young-voice.mp3",
+      "durationMs": 43824,
+      "checksum": "7bbb442ec481baf5c6eb7f99b3e0d9cae1f3f69d44646c1229017dad795ac968",
+      "sourceHash": "c4a7a6894b1508c0c685e72c884255cbc2e46386998c692ecbc6c3a11629438c"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/jane-eyre-red-room/seg-004-voice-young-voice.mp3",
+      "durationMs": 4104,
+      "checksum": "4f0383290410a48cb6aafa79a79538284a890e6700878cfaf394780e5e9fc711",
+      "sourceHash": "5489d54299ddcc0a1cba77a252c5a058a987c8c33b25a350c1678427d17333f6"
+    },
+    {
+      "id": "seg-005",
+      "url": "/audio/jane-eyre-red-room/seg-005-voice-young-voice.mp3",
+      "durationMs": 15576,
+      "checksum": "1fd15a5fff886224789f13518c78bdaa5eb5ad61042a62485e5ba07dfb86caba",
+      "sourceHash": "4fa1fea52ee6b00bd29aebc3129ab60ccf1ab235251dbeda5bc8296a22dc63aa"
+    },
+    {
+      "id": "seg-006",
+      "url": "/audio/jane-eyre-red-room/seg-006-voice-young-voice.mp3",
+      "durationMs": 23448,
+      "checksum": "17d08b4faa98fc127ae6aa8f113a66b5c38d8f64c11fde18e4c1d1e10ee831c5",
+      "sourceHash": "5fa289b93f0ad2cc9b6590ec7edc72b722c438959f64af916ebe96e343c103d5"
+    },
+    {
+      "id": "seg-007",
+      "url": "/audio/jane-eyre-red-room/seg-007-voice-young-voice.mp3",
+      "durationMs": 28272,
+      "checksum": "d9da10f8e8d42b71e061029e13146b3cc17ad67cc3678538f88031548cdc4193",
+      "sourceHash": "577d2296a5af47224725bafab3f94ef14d5bffdf706c4c1a131477b212e37118"
+    },
+    {
+      "id": "seg-008",
+      "url": "/audio/jane-eyre-red-room/seg-008-voice-young-voice.mp3",
+      "durationMs": 26520,
+      "checksum": "3be7630f4e15d0f1ea40a5739dbb60065f083eb8606ec80a8d20b98700757b3f",
+      "sourceHash": "6e5bf977a7e54fa0233b826bd75fb574e55e3906650e12bb0b25271fbda593af"
+    },
+    {
+      "id": "seg-009",
+      "url": "/audio/jane-eyre-red-room/seg-009-voice-young-voice.mp3",
+      "durationMs": 12384,
+      "checksum": "f0ab518a87dc4209c1c6774c2688606c14efb4715f68acc940ad8a2c72c2b0af",
+      "sourceHash": "474891b52fb76ba709024700bf8c2ec82636e7c578368b19b7210e583e897c34"
+    },
+    {
+      "id": "seg-010",
+      "url": "/audio/jane-eyre-red-room/seg-010-voice-young-voice.mp3",
+      "durationMs": 28008,
+      "checksum": "1bf1ea5f51523d49a7134de10bef1ad035884648172b565bd4a713910eb3c1b6",
+      "sourceHash": "8ad5da34ce91b258979ce50b1afdc4f4e8bba75dca6c4bc540d77a0841c3e6f6"
+    },
+    {
+      "id": "seg-011",
+      "url": "/audio/jane-eyre-red-room/seg-011-voice-young-voice.mp3",
+      "durationMs": 48840,
+      "checksum": "0041a2be0abcc9815acb7affcf48cd5d972401bec9f38e0c27a54807119bfe44",
+      "sourceHash": "0374d5ce97a9699d78bae6886b3316de513cca33c0d12ccffd7e976725e84fd4"
+    }
+  ]
+}

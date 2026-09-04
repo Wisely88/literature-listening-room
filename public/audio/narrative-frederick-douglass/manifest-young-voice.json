@@ -1,0 +1,46 @@
+{
+  "version": 1,
+  "workId": "narrative-frederick-douglass",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-8%|pitch=-1Hz|voiceId=young-voice",
+  "voiceId": "young-voice",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T00:59:15.043Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/narrative-frederick-douglass/seg-001-voice-young-voice.mp3",
+      "durationMs": 74064,
+      "checksum": "17e9f793ff3b1b56ad23ecce327cb91c43e60f2d43324e91406d015f8f55b00a",
+      "sourceHash": "dbdf7b7d323472a21f80f2d0741d4556e81f82b5e6f49115a0f347359d136871"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/narrative-frederick-douglass/seg-002-voice-young-voice.mp3",
+      "durationMs": 13272,
+      "checksum": "bc3ff6b11c57fa6d2e1fe210efef5acf534b2222a762bf4b2fd2b616e9da5ab0",
+      "sourceHash": "6307d20a4de1a1f4415b15c451c342815df53dc5ae05224394a73bf01821eb65"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/narrative-frederick-douglass/seg-003-voice-young-voice.mp3",
+      "durationMs": 57072,
+      "checksum": "75193fde9194c87a8ea71c217c31ff8811b078ab5c52d89f3d8f00f7b3ba8a06",
+      "sourceHash": "0af19b3a22553c3df6c9b0446b09ac6c29022ad6252bfe7ed75fdfeecff07e37"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/narrative-frederick-douglass/seg-004-voice-young-voice.mp3",
+      "durationMs": 81984,
+      "checksum": "c2ed2e55650d93e08bf4edd21806b8142a0d9037ea8c43b1bf8ba08081b36583",
+      "sourceHash": "6bc6d3340134a3ec5759f6d047dc8f61d01d87ddf11c6526c678d27b8965f487"
+    },
+    {
+      "id": "seg-005",
+      "url": "/audio/narrative-frederick-douglass/seg-005-voice-young-voice.mp3",
+      "durationMs": 40152,
+      "checksum": "af3f1a7fd6eda5585c2fe2c015934f764451ae3b69dd315ee192266ec84d2525",
+      "sourceHash": "f3981024700242657ade37250967378d2133b6bcdc286e71f1e265bc9ffe5409"
+    }
+  ]
+}

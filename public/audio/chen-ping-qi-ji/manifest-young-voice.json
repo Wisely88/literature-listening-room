@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "workId": "chen-ping-qi-ji",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-8%|pitch=-1Hz|voiceId=young-voice",
+  "voiceId": "young-voice",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T00:18:17.474Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/chen-ping-qi-ji/seg-001-voice-young-voice.mp3",
+      "durationMs": 13152,
+      "checksum": "fd4572f9656395c227a26a58ec2060878c6e7f746d66058c200a80cd3084359b",
+      "sourceHash": "73692f12d4ecf19ce87da83f9b3f47703863cc4a5d56df4231450a73922f6c7e"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/chen-ping-qi-ji/seg-002-voice-young-voice.mp3",
+      "durationMs": 17088,
+      "checksum": "6b9dc2383ce4443a8336e223d33adb4a57032297e34e4a072a526765a9c2975d",
+      "sourceHash": "b6517dc92d26ffc863f18e29eec135751a04f2483413a2b4497850fdb1a71981"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/chen-ping-qi-ji/seg-003-voice-young-voice.mp3",
+      "durationMs": 23304,
+      "checksum": "3e6c3ce6abc7ada72276baae9a1fe85e4c5213aba637293dab3c57a834f13539",
+      "sourceHash": "1c9e9c81985ee8adae3f7a993f15012883fd98154f24f9a94eb2c3c99a197075"
+    }
+  ]
+}

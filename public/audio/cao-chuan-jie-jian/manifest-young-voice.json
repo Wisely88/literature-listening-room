@@ -1,0 +1,46 @@
+{
+  "version": 1,
+  "workId": "cao-chuan-jie-jian",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-8%|pitch=-1Hz|voiceId=young-voice",
+  "voiceId": "young-voice",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T00:17:45.774Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/cao-chuan-jie-jian/seg-001-voice-young-voice.mp3",
+      "durationMs": 19176,
+      "checksum": "66024e89613d5959df4028fcc7b2e152e8c3aed1bafdbc0b5ccaa849e60ae366",
+      "sourceHash": "70fca8b5992d1543bb70f1dd97530770b03b89df3abed4fed0527e15b5990233"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/cao-chuan-jie-jian/seg-002-voice-young-voice.mp3",
+      "durationMs": 20280,
+      "checksum": "785c25346bd4906d6cd32f7d8db3bdcda1680580a746015a9923573a039f259a",
+      "sourceHash": "ae351a50660ce0643521eace789a3cce33e66e5f2a127b02a8de201b9d507293"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/cao-chuan-jie-jian/seg-003-voice-young-voice.mp3",
+      "durationMs": 15936,
+      "checksum": "25c7e624220af69df2f57984d37b0f4533217867aaa9271c1fabd8b761355ea8",
+      "sourceHash": "e6fc6b68554d7d7fbc345cfcaf21b0eaaba449cde9439ead70e3cd2ec69a2b96"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/cao-chuan-jie-jian/seg-004-voice-young-voice.mp3",
+      "durationMs": 17880,
+      "checksum": "cb3c1bceb4017f6e1dcf2e7c0b52c0c64ac08db7d82373513e983444f2cd9919",
+      "sourceHash": "d3de340ba53001678bc6af4b793bea5f167787121e0f18158ed57f9a6f7bcbc9"
+    },
+    {
+      "id": "seg-005",
+      "url": "/audio/cao-chuan-jie-jian/seg-005-voice-young-voice.mp3",
+      "durationMs": 11304,
+      "checksum": "6fabfaee54f997ba463c31011bdbc34575c6d4ee7bee0b893754f7faa19bf5ee",
+      "sourceHash": "691e88f48e8b9d7e6c8a711154621f5439587f377bb41971a452d30bffbe2147"
+    }
+  ]
+}

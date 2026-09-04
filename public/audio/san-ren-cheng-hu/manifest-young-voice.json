@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "workId": "san-ren-cheng-hu",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-8%|pitch=-1Hz|voiceId=young-voice",
+  "voiceId": "young-voice",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T01:14:55.462Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/san-ren-cheng-hu/seg-001-voice-young-voice.mp3",
+      "durationMs": 9696,
+      "checksum": "686920a91f4d18cd2abb3fa5099e3c0dd682ca99f54268f9d0acdafacda694dc",
+      "sourceHash": "c6b00fb77315dce49273ada39eb1d1d02b4ea78fed0f2a915772562080d8e5bb"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/san-ren-cheng-hu/seg-002-voice-young-voice.mp3",
+      "durationMs": 12528,
+      "checksum": "7927fda15f5ccf435851fd0ed24a727efbba7827a2d467dcca07a70772b9bb06",
+      "sourceHash": "bed0850e204b20134a5a273b20195dd19e16fdbd7d6f753b359b25d3f9c85978"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/san-ren-cheng-hu/seg-003-voice-young-voice.mp3",
+      "durationMs": 14832,
+      "checksum": "a8ff41d4babf2fb23ec47eb2f45a45cc57f502aeca180a1b69aa741ada88d965",
+      "sourceHash": "d8830c4177dc350c6a05cfb6c9d29c2bd81594d61a60c6ba2a33c757482998b5"
+    }
+  ]
+}

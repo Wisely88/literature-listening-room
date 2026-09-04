@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "workId": "xun-zi-quan-xue",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-8%|pitch=-1Hz|voiceId=young-voice",
+  "voiceId": "young-voice",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T02:03:32.828Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/xun-zi-quan-xue/seg-001-voice-young-voice.mp3",
+      "durationMs": 10272,
+      "checksum": "63dd3b0cf3f4e2444e5865425669d7f7be415b26ae0611e690b80fa0f2c1877e",
+      "sourceHash": "883a144828ad86d70e7cbdfc24b1821e55c02435d89e3b3b292a46db0fec0088"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/xun-zi-quan-xue/seg-002-voice-young-voice.mp3",
+      "durationMs": 8688,
+      "checksum": "32b6404cbaa044b742e383ac60329c61b795a2b498f22d96d91d116b7145e3c3",
+      "sourceHash": "ec547073fbae50b891646fc16850a1d18db12a7f8f550896f9d6066e8c533b35"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/xun-zi-quan-xue/seg-003-voice-young-voice.mp3",
+      "durationMs": 17352,
+      "checksum": "ab4a7f368654a2dead07fd10999f76ed73a01988082dc187b13d0baed860e522",
+      "sourceHash": "59135fe7492b94875ecd6ebbc3b43e5e5e05d7a56ea481c8385c069e1a48b539"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/xun-zi-quan-xue/seg-004-voice-young-voice.mp3",
+      "durationMs": 10248,
+      "checksum": "e5aa09ad6bb72037a395d6e3ea0293bf98835363e51a6c73b4fe677a0f62dd65",
+      "sourceHash": "1be1e90351d40b222da9e139025e931ed4d370bc29e1392c563935268af485ef"
+    }
+  ]
+}

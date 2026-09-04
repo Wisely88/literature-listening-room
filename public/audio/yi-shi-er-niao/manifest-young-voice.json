@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "workId": "yi-shi-er-niao",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-8%|pitch=-1Hz|voiceId=young-voice",
+  "voiceId": "young-voice",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T02:05:41.862Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/yi-shi-er-niao/seg-001-voice-young-voice.mp3",
+      "durationMs": 9432,
+      "checksum": "267d6bec0714a2984f13a54255b206bfc83089bea1131368cc650995a437af1a",
+      "sourceHash": "e7506fc194052a5a21c967387745613129c80fa0b6a25d3777fe0891a1a382ef"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/yi-shi-er-niao/seg-002-voice-young-voice.mp3",
+      "durationMs": 12552,
+      "checksum": "1c10d4a2bff8d72beeb76081975c2b35444b6ff0a7e8da4015c4b2978e63d9bf",
+      "sourceHash": "d378e93ed3325dbb12591f19cbc3e644fb2bc128ae7ac7a74263cd86fca7c084"
+    }
+  ]
+}

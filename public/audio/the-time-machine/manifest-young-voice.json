@@ -1,0 +1,123 @@
+{
+  "version": 1,
+  "workId": "the-time-machine",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-8%|pitch=-1Hz|voiceId=young-voice",
+  "voiceId": "young-voice",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T01:34:15.536Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/the-time-machine/seg-001-voice-young-voice.mp3",
+      "durationMs": 50448,
+      "checksum": "764931a3141bd8b2671fe5d013b10b0bdc34f4f116370b4831efe3e88323373d",
+      "sourceHash": "4ea19171696b589f34503f165344a3b6ee045b2bd3f2267c1bdb046b539a87b3"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/the-time-machine/seg-002-voice-young-voice.mp3",
+      "durationMs": 11928,
+      "checksum": "51ff6abc1457f96ccbc28d7bdf1d0363c1ba2ff7dbfb66401697f2d2ebd8186b",
+      "sourceHash": "40a99ae6947477c6abc1468b085c13bce2eea7ff555a07ad32154a59053ee80d"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/the-time-machine/seg-003-voice-young-voice.mp3",
+      "durationMs": 7680,
+      "checksum": "4adc14143e6efc2d72e1e2f7bad21528f33e74c6c53770d44eee1e617028fee9",
+      "sourceHash": "adccb958d21aeb418d1a08959e5faaded7d06952f5aad912d474c4b8a43ac55a"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/the-time-machine/seg-004-voice-young-voice.mp3",
+      "durationMs": 23520,
+      "checksum": "14fbe6846e9ce7d982f74757cde75ffb0d799d6105c22b9e13ddf877b45f52cb",
+      "sourceHash": "c5bb6a4e050552dbf52603cb05e914397234caddfea6a1e39974e9113673b156"
+    },
+    {
+      "id": "seg-005",
+      "url": "/audio/the-time-machine/seg-005-voice-young-voice.mp3",
+      "durationMs": 3840,
+      "checksum": "ee6e976472d77f738961ad601574bae074e98e2a44f3ae4966187a011cfa4a1d",
+      "sourceHash": "e7dd8f6e3d2a9c7d4cb2a005044e42bd78b83a00f46e8bb0ba983c5aa6cac2f9"
+    },
+    {
+      "id": "seg-006",
+      "url": "/audio/the-time-machine/seg-006-voice-young-voice.mp3",
+      "durationMs": 8952,
+      "checksum": "48fd0b58f98f7e8ced4b9ad3e28cd356086e61c7d1808123720ba62de2defd1d",
+      "sourceHash": "2cad4aef340310b7cbc16644afee261c162661bab43052af7473c5bc7b373cae"
+    },
+    {
+      "id": "seg-007",
+      "url": "/audio/the-time-machine/seg-007-voice-young-voice.mp3",
+      "durationMs": 7824,
+      "checksum": "d1a82785f25d6b516e18bc75f37bea77f8604b626dc8d9eb8fc5a2b8660f006d",
+      "sourceHash": "dd5b008de7a00096fff9b946df1ad6ceb87da72efa790ecfbf1f6a952540597f"
+    },
+    {
+      "id": "seg-008",
+      "url": "/audio/the-time-machine/seg-008-voice-young-voice.mp3",
+      "durationMs": 9000,
+      "checksum": "95d38ed0314ab01e1df2987601198b7060f1b59a2c4257c8cf01a8a15c5492b6",
+      "sourceHash": "25b969ec4bcfa97e7f19b8df4479a9ca584dd13a86af4595f3c04658fa8401aa"
+    },
+    {
+      "id": "seg-009",
+      "url": "/audio/the-time-machine/seg-009-voice-young-voice.mp3",
+      "durationMs": 3552,
+      "checksum": "ba0f774b335e5a2390c2eeed5dbc91715655b7fb63f3b0d207b5610c36fde36c",
+      "sourceHash": "d296026d6d447a3706f26f17675023ecba9acbcc587bb600ddee25138fd8a28d"
+    },
+    {
+      "id": "seg-010",
+      "url": "/audio/the-time-machine/seg-010-voice-young-voice.mp3",
+      "durationMs": 5280,
+      "checksum": "15d52df7629f0f26cf077d5158449c0ab78ebeb3dc0e2d7980b8630d19dbcdba",
+      "sourceHash": "99ac0caf628eb834bc471bf2d8ca0ddeddf8442be49bafde8ecb85f5bcd75b3a"
+    },
+    {
+      "id": "seg-011",
+      "url": "/audio/the-time-machine/seg-011-voice-young-voice.mp3",
+      "durationMs": 43680,
+      "checksum": "c69826d75d58699206eb2e978e1dc82fc50d8384ff355404d832400f9d75bbd3",
+      "sourceHash": "afe0e8e26b6f8e38486d31b8799e88a0e58e2dc94044f2b6493f235e71c78d5d"
+    },
+    {
+      "id": "seg-012",
+      "url": "/audio/the-time-machine/seg-012-voice-young-voice.mp3",
+      "durationMs": 9048,
+      "checksum": "9d70c3f70f81072fcea9758f75332b3528639f4e101664ca2430a1b694e85211",
+      "sourceHash": "dde6367f3c5cda8d96dbfd8b0cdcf0fc536a61e6a0f392e4ecc939ecbbb8c7d5"
+    },
+    {
+      "id": "seg-013",
+      "url": "/audio/the-time-machine/seg-013-voice-young-voice.mp3",
+      "durationMs": 35088,
+      "checksum": "9f65b69d0ae957d6a2f64487dcaa3e99868d49c114142345718c925c6d30dd9d",
+      "sourceHash": "caad66f4a795e8fc92803e4613886304585bc4780e60edd0bd15c9d4196d18ba"
+    },
+    {
+      "id": "seg-014",
+      "url": "/audio/the-time-machine/seg-014-voice-young-voice.mp3",
+      "durationMs": 3000,
+      "checksum": "235f4e50f2fd9be9d2837d80843d50e7d4131b4f095d5852c1b7dabac400323e",
+      "sourceHash": "668b230edbe666fc93b8668981c90842969bc23979a5ed7653285b3e584db31a"
+    },
+    {
+      "id": "seg-015",
+      "url": "/audio/the-time-machine/seg-015-voice-young-voice.mp3",
+      "durationMs": 48816,
+      "checksum": "e0bff4f3ded3ca011e4b1042c19929b2e72554eefaa575cdca1ed7c02ad27624",
+      "sourceHash": "e9828fde16f3e2cc881ede174dcb1b9b851c2f20d65fe52f53c20e54e03cc358"
+    },
+    {
+      "id": "seg-016",
+      "url": "/audio/the-time-machine/seg-016-voice-young-voice.mp3",
+      "durationMs": 18000,
+      "checksum": "00225dd5ed3dd09ad0ff881f10100d8a8ebd3e5191490680eeffdf1b7d8cc96e",
+      "sourceHash": "40191feee9406517793663015664f6e81687e71b15d88cd36d63d58eb0080df0"
+    }
+  ]
+}

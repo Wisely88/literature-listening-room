@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "workId": "tian-qi-lang",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-8%|pitch=-1Hz|voiceId=young-voice",
+  "voiceId": "young-voice",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T01:37:30.749Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/tian-qi-lang/seg-001-voice-young-voice.mp3",
+      "durationMs": 89856,
+      "checksum": "7ecd36005a020cad207e643e584d660fed9ed9ec9c47717b7b6fc5d78a75a8db",
+      "sourceHash": "bc63cf6d1cd2546d750903f02065ee1750d2f3b920e7f23a3da32475c30a7a6a"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/tian-qi-lang/seg-002-voice-young-voice.mp3",
+      "durationMs": 151872,
+      "checksum": "71296f8284e0e794284dcb798190c2a65602a4faca8a409d0d0504a4f0f3d6ef",
+      "sourceHash": "74b52be2930e0c50874d9c000a8f31fabb7a0cbabfd6c244fbcefae54bb86c28"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/tian-qi-lang/seg-003-voice-young-voice.mp3",
+      "durationMs": 67704,
+      "checksum": "c73504b8ae7f62a4fa4d397834cecb04bab8562098852653984e0357016e683e",
+      "sourceHash": "fb777bb841166087e1d9ad06961d4fdbb3ad58408a3c69024e8984322a4354ea"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/tian-qi-lang/seg-004-voice-young-voice.mp3",
+      "durationMs": 87624,
+      "checksum": "7fae239c8179b4ef5a0818feee79da21baab8af4f6c3606c119e1517ce2a6128",
+      "sourceHash": "a5ae16b4758da2f02fc7842f6f6f812ebb8709852d2de246b0552626c65be2d6"
+    },
+    {
+      "id": "seg-005",
+      "url": "/audio/tian-qi-lang/seg-005-voice-young-voice.mp3",
+      "durationMs": 157032,
+      "checksum": "fc3eccfdc8979c662436f5a0ac3769c82bf6d3031890e2c8fd120c169e5fef33",
+      "sourceHash": "89364c16a2dd010088abb9b4710e7d72695539b3f1171c9d9a842543a7d95519"
+    },
+    {
+      "id": "seg-006",
+      "url": "/audio/tian-qi-lang/seg-006-voice-young-voice.mp3",
+      "durationMs": 73128,
+      "checksum": "553d1ff9ba4cc4dbf734d630bde8877dcdb30d120c6b434aad937d67e0170c5c",
+      "sourceHash": "796936191b00d07ed7cda4a4fdb7b2c673490af15e6741d9e395aa15ce80d0eb"
+    },
+    {
+      "id": "seg-007",
+      "url": "/audio/tian-qi-lang/seg-007-voice-young-voice.mp3",
+      "durationMs": 23808,
+      "checksum": "504f2cb531a3f3315482e536f711c8e3334544e4238bfe00e12e486f06065db2",
+      "sourceHash": "0429ce333d1074de79d129537d379add60e3667541a95d93617433d01a06f163"
+    }
+  ]
+}

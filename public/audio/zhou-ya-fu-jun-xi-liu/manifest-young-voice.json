@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "workId": "zhou-ya-fu-jun-xi-liu",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-8%|pitch=-1Hz|voiceId=young-voice",
+  "voiceId": "young-voice",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T02:13:05.582Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/zhou-ya-fu-jun-xi-liu/seg-001-voice-young-voice.mp3",
+      "durationMs": 14424,
+      "checksum": "0a8876f5b338273287ba4a15bba7e4d502312d5fae7e5e9cc31a78b42c242cc1",
+      "sourceHash": "580561ab485b24e2c9c26d74b08e3d462052ab7044a7fbd6326921bc5a7d1478"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/zhou-ya-fu-jun-xi-liu/seg-002-voice-young-voice.mp3",
+      "durationMs": 30288,
+      "checksum": "7ddf0d2ff8e38438afee879fd9d1f0ba78876f95d9bbcfdd237f9fc990d807eb",
+      "sourceHash": "c0c9d0879b658ab6b3c87b4a32802748d9bb9830991fb616d3d667fdef218bc8"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/zhou-ya-fu-jun-xi-liu/seg-003-voice-young-voice.mp3",
+      "durationMs": 26832,
+      "checksum": "0feaac5f806ac0d3a5771fb30a144c957147c41797782af08a8d6159e559c7a5",
+      "sourceHash": "05f4385b0bd8a3a9f094e45f2cef5bf7064937d5e26495638f9af8a72c5b005c"
+    }
+  ]
+}

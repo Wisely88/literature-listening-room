@@ -1,0 +1,116 @@
+{
+  "version": 1,
+  "workId": "gift-of-the-magi",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-8%|pitch=-1Hz|voiceId=young-voice",
+  "voiceId": "young-voice",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T00:27:35.031Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/gift-of-the-magi/seg-001-voice-young-voice.mp3",
+      "durationMs": 27432,
+      "checksum": "39afd1c5129e8ce10b3ca73f8f0fb78fb501ddfc55877a2ee8101d3840f29344",
+      "sourceHash": "306b4bf3ba4aa9d7926669929a789da21b69a810635671ab6389721a0523208b"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/gift-of-the-magi/seg-002-voice-young-voice.mp3",
+      "durationMs": 15960,
+      "checksum": "dfbfa8bbafa3766bb4af5e920b7391388cf2b9049ed779f32387ee69cf09eb79",
+      "sourceHash": "d78a0fa8f7fe8eeae5424e81bb05db7eb9be8d54fbf4139ec92f4f0e57b0208f"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/gift-of-the-magi/seg-003-voice-young-voice.mp3",
+      "durationMs": 17280,
+      "checksum": "644bdce4e7c791ef2aded9f2ac8e2a2952ab1989a188abe5cc94f68be28e8f63",
+      "sourceHash": "0e7f1add5809f6e566e682dc871a60e34c7d303feb52750cdb90d8f79ee642da"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/gift-of-the-magi/seg-004-voice-young-voice.mp3",
+      "durationMs": 15408,
+      "checksum": "e50b1c13e2c4921f881e9fafcd2f6878ba9e0cece3207f64ce0ec7a0e256c494",
+      "sourceHash": "b0b58c9f0c95eef8eeece4f76bd2c3f86b3b3b366ca30b7fd2ebfb61693b47ed"
+    },
+    {
+      "id": "seg-005",
+      "url": "/audio/gift-of-the-magi/seg-005-voice-young-voice.mp3",
+      "durationMs": 31464,
+      "checksum": "48205e606a180b88376db6ab2e84410090b10c482196dea9e6dab8b1abb72df3",
+      "sourceHash": "8466a2e59f97c00d949a716e7a15982ef9de8af1fc39e9c4a9ba9677e9d7e03c"
+    },
+    {
+      "id": "seg-006",
+      "url": "/audio/gift-of-the-magi/seg-006-voice-young-voice.mp3",
+      "durationMs": 46464,
+      "checksum": "fdd23870ed1506bc092c0b2ad446433e2b7bd8d8a92115213bf16e5107bb28c6",
+      "sourceHash": "26225a32caa03c2676465b7b70fc57e9c89c1fde3fe3f24afaaf4cf0fe2d6b0a"
+    },
+    {
+      "id": "seg-007",
+      "url": "/audio/gift-of-the-magi/seg-007-voice-young-voice.mp3",
+      "durationMs": 20208,
+      "checksum": "06964232efcb5dabf04381b8aa482a986e4824e798fadc18da6052f9c9206d0c",
+      "sourceHash": "9032b7cc106fce16282dfe7626f99b470c3624562fb7d89ba431f67d8cd3a9fb"
+    },
+    {
+      "id": "seg-008",
+      "url": "/audio/gift-of-the-magi/seg-008-voice-young-voice.mp3",
+      "durationMs": 14496,
+      "checksum": "e60a5b4d31e91044357b7f1b5412f9b7bc7e76721a9245f3de0599a2b2165869",
+      "sourceHash": "f94612eb0b5c2f9972c207d37dca2d8a7454657e3d294826da7e3f753c3c5aae"
+    },
+    {
+      "id": "seg-009",
+      "url": "/audio/gift-of-the-magi/seg-009-voice-young-voice.mp3",
+      "durationMs": 36624,
+      "checksum": "72f183a0529d67a83d179b7c1c5229c64b3cbe964f95c541456157413741680e",
+      "sourceHash": "7773f8d119b9310a05c774f7c0841164c5b2229443e66dcbcaae988913bb179a"
+    },
+    {
+      "id": "seg-010",
+      "url": "/audio/gift-of-the-magi/seg-010-voice-young-voice.mp3",
+      "durationMs": 22872,
+      "checksum": "bc5d164e0d3f0665d386f9cdfa6e98f3022ff2d051785b436d0933794aa51767",
+      "sourceHash": "32680a0a5a6f66ffbf1e7be4be51d36e4b9575426840adf4574228db1c1eb8d6"
+    },
+    {
+      "id": "seg-011",
+      "url": "/audio/gift-of-the-magi/seg-011-voice-young-voice.mp3",
+      "durationMs": 11640,
+      "checksum": "7a2790cac9263c9563a7d3eadd698d9862518c256d1430f550653f0a6de0d428",
+      "sourceHash": "0fb27babf516358069a0a6d368adf77592bc37b416d4989685fa046536d536b2"
+    },
+    {
+      "id": "seg-012",
+      "url": "/audio/gift-of-the-magi/seg-012-voice-young-voice.mp3",
+      "durationMs": 20088,
+      "checksum": "3f20d0b35fdda047801cd4cf380547570b2a8d587180f94b8c2521aa1c560382",
+      "sourceHash": "31b55ec400f93fe9ce8e9fb2607e4f44461c35fa1b031fedb9c64a50729b5af1"
+    },
+    {
+      "id": "seg-013",
+      "url": "/audio/gift-of-the-magi/seg-013-voice-young-voice.mp3",
+      "durationMs": 4368,
+      "checksum": "31d708fa04145bf910d424e96a81ea1dd2aaa3f6645672393c4af0257aefafed",
+      "sourceHash": "1fc9e2dae4edafe5da7d2bac5fe4e07c3fb08e54d5c67f206b35e07f67c6d01d"
+    },
+    {
+      "id": "seg-014",
+      "url": "/audio/gift-of-the-magi/seg-014-voice-young-voice.mp3",
+      "durationMs": 6480,
+      "checksum": "cb01c053d69be1887449c29b2243a5fb22ececf0abfa8bed74a9f710c40e2847",
+      "sourceHash": "fc05fbb7b90b3be73bb767e4c2bc1f6d136f90791a00602f58fd959f12871921"
+    },
+    {
+      "id": "seg-015",
+      "url": "/audio/gift-of-the-magi/seg-015-voice-young-voice.mp3",
+      "durationMs": 3264,
+      "checksum": "2072d96c01ecf4a4ee7dc8d3bbee91eaca225330451b7c0ff37427e7d0254e74",
+      "sourceHash": "5eb1f8bdeb9b7c746ddc8333f7e9f2a3d8aaef9d650bb64e308a3e16668a3d35"
+    }
+  ]
+}

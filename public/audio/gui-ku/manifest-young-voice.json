@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "workId": "gui-ku",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-8%|pitch=-1Hz|voiceId=young-voice",
+  "voiceId": "young-voice",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T00:29:06.248Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/gui-ku/seg-001-voice-young-voice.mp3",
+      "durationMs": 99240,
+      "checksum": "14609408d848b8e07e1b556d65ae27621e36b6819cdd38991d5f6293d22ae4d3",
+      "sourceHash": "ed980018ea8a7d7fc8d92e4bcb36976ddb89820a97809f05138d7152e6ea2bfd"
+    }
+  ]
+}

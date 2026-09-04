@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "workId": "an-ling-jun-shou-di",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-8%|pitch=-1Hz|voiceId=young-voice",
+  "voiceId": "young-voice",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T00:14:34.005Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/an-ling-jun-shou-di/seg-001-voice-young-voice.mp3",
+      "durationMs": 21600,
+      "checksum": "08ff9f78ef8a86fbbde4c7cbb784f2694bbf6709413221a1bcf4a824abfde452",
+      "sourceHash": "c6dda0769b19851b91f45c8316775f3d3e4f6037bad40ea4d4ca144f00eb03cd"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/an-ling-jun-shou-di/seg-002-voice-young-voice.mp3",
+      "durationMs": 31848,
+      "checksum": "87d2c32f12bb7e195c0300a56d8962f6ef6afb525fda0874dd867daa110ab94b",
+      "sourceHash": "010ca934cdb188ee4fc48f82fd3d431d69bf2e47d9dd8b40c2bef75a82efe022"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/an-ling-jun-shou-di/seg-003-voice-young-voice.mp3",
+      "durationMs": 54840,
+      "checksum": "6ffac2109f644d4b3f208cb799e1efc79728486b765e5937710e3e6335ff7693",
+      "sourceHash": "da19a6917d50d47f96e65516a4e47a143471b4f9214a8d5bf662b3532e26cdd1"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/an-ling-jun-shou-di/seg-004-voice-young-voice.mp3",
+      "durationMs": 14424,
+      "checksum": "0cbc01241f10921faf795624a7ef0f0853055b9514920c4484040fcc4fae0003",
+      "sourceHash": "f2e10f799d6be76c2a676a06746df66dcf03c24154ce34b76d3141644f965a75"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "version": 1,
+  "workId": "walden-baker-farm",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-8%|pitch=-1Hz|voiceId=young-voice",
+  "voiceId": "young-voice",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T01:38:43.261Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/walden-baker-farm/seg-001-voice-young-voice.mp3",
+      "durationMs": 91056,
+      "checksum": "43e043ac8f500d65bcff1582a23ee21e3bd4f5c0fb4227d657890ace9f0a9c01",
+      "sourceHash": "345e3b6fc30bce3bf1e8fc93baed179cdc94d1f4ab1a641c7255577a7e753a3a"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/walden-baker-farm/seg-002-voice-young-voice.mp3",
+      "durationMs": 14208,
+      "checksum": "c7fe8a260d3bd4f767f6c90ba17a16dc3e3a2916dc6c963cb279e970f56c5d58",
+      "sourceHash": "cad5f1cd6133e8a6acf0e3431c835f2427eda3caecf713b6911e0967e4b23ad7"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/walden-baker-farm/seg-003-voice-young-voice.mp3",
+      "durationMs": 12888,
+      "checksum": "c6ff83afc3bd7c25d08d1a9fe355e8a1d7e36b0f91b439fb4fb4179b24d89d9f",
+      "sourceHash": "724bafa3bbedfd09408d4530df96439cc572b6a618ed956b87451add2633e6b8"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/walden-baker-farm/seg-004-voice-young-voice.mp3",
+      "durationMs": 58488,
+      "checksum": "6e824a0c658bc672e33f6b4bfcbe4dc20458c1b8da81005d4b80b17a9be8ed1b",
+      "sourceHash": "696ae73fd875279b8f643bc21391a8cacac9bf61eaababd7edee7601ed043c1d"
+    },
+    {
+      "id": "seg-005",
+      "url": "/audio/walden-baker-farm/seg-005-voice-young-voice.mp3",
+      "durationMs": 8280,
+      "checksum": "0d45a7ffe3727d4188d2a31959c7f860ee07063cfb47f52690127d5fea7f4e22",
+      "sourceHash": "ff6775720f2ed63271ab95be2002490d898a60c0404099f2dc3f447d257cc923"
+    },
+    {
+      "id": "seg-006",
+      "url": "/audio/walden-baker-farm/seg-006-voice-young-voice.mp3",
+      "durationMs": 81024,
+      "checksum": "a33bb361154bde2cdfebeb231f3533cfe7f04499efc2724d8853116b18426088",
+      "sourceHash": "433aaf2e5cca7d87b5aa1c24dccb1d63f3947ee876a16c18b61b3f0c51c4f90e"
+    }
+  ]
+}

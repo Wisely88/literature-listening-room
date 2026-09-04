@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "workId": "jing-gong-hao-yi-zhe",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-8%|pitch=-1Hz|voiceId=young-voice",
+  "voiceId": "young-voice",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T00:38:50.699Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/jing-gong-hao-yi-zhe/seg-001-voice-young-voice.mp3",
+      "durationMs": 7344,
+      "checksum": "b1b83fdd99f60bb4c2d36e37b0e6c748adc9a599c94553176e7a58b0b1f975c5",
+      "sourceHash": "d7b88a375959ee7a3ed9b64befddbee92453f4125cf4fcda53e8b74acece78dc"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/jing-gong-hao-yi-zhe/seg-002-voice-young-voice.mp3",
+      "durationMs": 31560,
+      "checksum": "30093c67f2df96524a1a1f510995cde776afafae98c9d887285b1e9da14b5039",
+      "sourceHash": "01e45bc182e2b299c92195065c6d359762069b357f62ce932f016643f0eba817"
+    }
+  ]
+}

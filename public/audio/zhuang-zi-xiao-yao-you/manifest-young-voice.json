@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "workId": "zhuang-zi-xiao-yao-you",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-8%|pitch=-1Hz|voiceId=young-voice",
+  "voiceId": "young-voice",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T02:13:35.037Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/zhuang-zi-xiao-yao-you/seg-001-voice-young-voice.mp3",
+      "durationMs": 15816,
+      "checksum": "45a525f729e9c9ea15bfc5cf4b05af6b8c92b9bd5693053e2b46f57c262c811e",
+      "sourceHash": "34c2a142e1e25f053d8176f13ba7c5a02420e3f4040f81e74acf9b5c7b56665f"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/zhuang-zi-xiao-yao-you/seg-002-voice-young-voice.mp3",
+      "durationMs": 18744,
+      "checksum": "b468f976ade17e0ae1e286b50eebaa0e4c76a2f94c7908b2990c20fbc8282317",
+      "sourceHash": "8d8907e66361d85bf9eead1da332e0f2a36f2ff9120226090bcd0f18ae3efdc7"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/zhuang-zi-xiao-yao-you/seg-003-voice-young-voice.mp3",
+      "durationMs": 8448,
+      "checksum": "8428f1801559ca6b391b7602163bca5699a26075fbc128958e4afd84c615809e",
+      "sourceHash": "fd4db2d6298f2185e2c88a6fd972abd1b957a978a1d511cb977c5cba059b5501"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/zhuang-zi-xiao-yao-you/seg-004-voice-young-voice.mp3",
+      "durationMs": 22152,
+      "checksum": "32214c9bfe89364b40a96222034e7135d4ea1539422608594ac72a837e5cf91e",
+      "sourceHash": "955c88339499c5aa0c59bd6b2932394fa720d5073bf26684ea4156da55ed54ae"
+    }
+  ]
+}

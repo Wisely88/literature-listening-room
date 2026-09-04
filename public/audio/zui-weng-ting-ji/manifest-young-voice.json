@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "workId": "zui-weng-ting-ji",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-8%|pitch=-1Hz|voiceId=young-voice",
+  "voiceId": "young-voice",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T02:14:13.721Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/zui-weng-ting-ji/seg-001-voice-young-voice.mp3",
+      "durationMs": 44568,
+      "checksum": "db50308025c4b8116360bbc898fcd87190489cbb14360d71290b2401e4f61119",
+      "sourceHash": "d0f31de4d02f41f6cd705a489759a418b56b899168e858c49c04b7316f867f4f"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/zui-weng-ting-ji/seg-002-voice-young-voice.mp3",
+      "durationMs": 21144,
+      "checksum": "28e1801ad38e428deb055671acd96dea532c457183d4099370257e3f85cc694d",
+      "sourceHash": "f91394eb59fb3d8339de70693dad018be425021115b8bfaa18d6c30725e238fd"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/zui-weng-ting-ji/seg-003-voice-young-voice.mp3",
+      "durationMs": 35112,
+      "checksum": "4eb02f61f065298323a3248402363cb6dd8d9f3866c4df57b3a1c4d02f83a07e",
+      "sourceHash": "84cffe8a401277a663ee8bb2d24861a851791bacc0f81469718794daf5779b1b"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/zui-weng-ting-ji/seg-004-voice-young-voice.mp3",
+      "durationMs": 28752,
+      "checksum": "1e7cf31aa5a34ac59cc3735058794f0bb30304f1f16b9dde57b0b162e0069827",
+      "sourceHash": "48e745774101e91c6e36ff3c408d978d086820adb063e5a84462c217933aec4a"
+    }
+  ]
+}

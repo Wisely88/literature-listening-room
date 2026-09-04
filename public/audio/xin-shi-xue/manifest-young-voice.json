@@ -1,0 +1,102 @@
+{
+  "version": 1,
+  "workId": "xin-shi-xue",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-8%|pitch=-1Hz|voiceId=young-voice",
+  "voiceId": "young-voice",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T02:01:20.880Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/xin-shi-xue/seg-001-voice-young-voice.mp3",
+      "durationMs": 35640,
+      "checksum": "503f2e2fa87ab777b4734a812ab8c8f2a7cd900e702d3757b8390076c952b489",
+      "sourceHash": "18ec1f12597cb32f3dbc0f6890bd470d87acb82238ee56528d3c1c92dcacc6ef"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/xin-shi-xue/seg-002-voice-young-voice.mp3",
+      "durationMs": 5184,
+      "checksum": "fa62ed72f522214fc2703c7fe2c4efa8d5c9cb50371857b241e70b461f2a552e",
+      "sourceHash": "8ec462d800a30fe1360dd4517174d7cfbb3bf98f004aac9e1e40afd15ccb786d"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/xin-shi-xue/seg-003-voice-young-voice.mp3",
+      "durationMs": 134064,
+      "checksum": "f147b9f124cec7094c02582565686aa4fadec73322129658d25777980490231b",
+      "sourceHash": "663d8487a056726bf98ca18e14e28837876e144b48ba279e3c31a53118c2398b"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/xin-shi-xue/seg-004-voice-young-voice.mp3",
+      "durationMs": 32664,
+      "checksum": "cd41cdbb42738519ac20117ccb1bee708b19561ba00709b4d9d9b7f20892c802",
+      "sourceHash": "c608e31c2133f48fe4548a1fc1f587006e1c906c3aa5f312ada02dd5e42a3335"
+    },
+    {
+      "id": "seg-005",
+      "url": "/audio/xin-shi-xue/seg-005-voice-young-voice.mp3",
+      "durationMs": 93264,
+      "checksum": "c9bda4334194937374084598f356a063c5611ef95135c2b2d42cf53cb67b8d6e",
+      "sourceHash": "e66028b575f3065321ef515a763b156f8edf78a6e973d639045c2cece329f659"
+    },
+    {
+      "id": "seg-006",
+      "url": "/audio/xin-shi-xue/seg-006-voice-young-voice.mp3",
+      "durationMs": 62688,
+      "checksum": "32a20a22404d1ae8c64ed723a24b0c90b2ba3429f8b0e8bfcba10c005e34b2a6",
+      "sourceHash": "edc2c636bcff5a2778d96439d4c09acddf7579264cb255be98e1c5f0b3a3d0b2"
+    },
+    {
+      "id": "seg-007",
+      "url": "/audio/xin-shi-xue/seg-007-voice-young-voice.mp3",
+      "durationMs": 114888,
+      "checksum": "76a0893800aae880750729f4d786be34d3f5c7439f01c2f5edd087619adc9218",
+      "sourceHash": "d6a0578e8ea24388a42c6e6ea530f49e541ba0d11f85e49a28c29ddcd2132250"
+    },
+    {
+      "id": "seg-008",
+      "url": "/audio/xin-shi-xue/seg-008-voice-young-voice.mp3",
+      "durationMs": 85824,
+      "checksum": "1581d6b7b2d98e6014587eb8dc53ae11a7647ef6f54c395b696fe401514d452f",
+      "sourceHash": "5195a46efd2b847c4f172ee644e0ab928e4383b98e85c47431b31455cedba79d"
+    },
+    {
+      "id": "seg-009",
+      "url": "/audio/xin-shi-xue/seg-009-voice-young-voice.mp3",
+      "durationMs": 8424,
+      "checksum": "70cb54e5fd6882a4ba8c8c91bc4c02e277701e2a357457c260ac6a56bb981128",
+      "sourceHash": "8865073607afb45d25b679c122eabd723efce2f65031d7cb1b3f3c242f26bcc2"
+    },
+    {
+      "id": "seg-010",
+      "url": "/audio/xin-shi-xue/seg-010-voice-young-voice.mp3",
+      "durationMs": 126048,
+      "checksum": "15f38f9e13ee0ddf7864393ec00c0fcbc48e3915f4a38f620edeea5452a16775",
+      "sourceHash": "eb1cfc5b830ec7ae2b86d6f32592b35a5c80f879bee8e0871684dca34c1a3cb1"
+    },
+    {
+      "id": "seg-011",
+      "url": "/audio/xin-shi-xue/seg-011-voice-young-voice.mp3",
+      "durationMs": 206376,
+      "checksum": "ac8a4e0baf2a8b34d9fe4816c5b4e66040a4fa0762e8a60f8120ff5543473734",
+      "sourceHash": "049fee075773be2370641cf3dfe213854ab88f6d3a73bdc25a2a9d7dbabd3bab"
+    },
+    {
+      "id": "seg-012",
+      "url": "/audio/xin-shi-xue/seg-012-voice-young-voice.mp3",
+      "durationMs": 46272,
+      "checksum": "7160d7ac2dedffa0cc9cc6f71868fa9256d3205c027622988679f232ff8d70fc",
+      "sourceHash": "2cc8f50c668608d91858aef0f1114424fe651a88e1facdcd5d5d75bcb738efca"
+    },
+    {
+      "id": "seg-013",
+      "url": "/audio/xin-shi-xue/seg-013-voice-young-voice.mp3",
+      "durationMs": 41040,
+      "checksum": "629825c31183c15924b747d9ca1d7badd949c17105f060a53ef2bd2474a174a7",
+      "sourceHash": "aec74c319578e813e57893946b78568a2bfd975a7dd3b4899e2c950ac61a16f5"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "workId": "lun-yu-yong-ye",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-8%|pitch=-1Hz|voiceId=young-voice",
+  "voiceId": "young-voice",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T00:55:11.458Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/lun-yu-yong-ye/seg-001-voice-young-voice.mp3",
+      "durationMs": 4968,
+      "checksum": "97baf825f191c906ec2ff92c89720e25e91db8da43b2af0335ad3908ad466623",
+      "sourceHash": "ed1188df18e26b298bf15b68640bb18205d91aed12810ee672750d97b58b0056"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/lun-yu-yong-ye/seg-002-voice-young-voice.mp3",
+      "durationMs": 9144,
+      "checksum": "f452528ac77778fd1d827efd55ec21f3d4ab9112e089b906bad81ced76754a3a",
+      "sourceHash": "ae9eddc755eb7589db297fddf9dda055725d839fd1cd5972d55355566b20fd3d"
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "version": 1,
+  "workId": "alice-down-rabbit-hole",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-8%|pitch=-1Hz|voiceId=young-voice",
+  "voiceId": "young-voice",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T00:14:19.407Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/alice-down-rabbit-hole/seg-001-voice-young-voice.mp3",
+      "durationMs": 23664,
+      "checksum": "f0dc9115aba955b6b1b69db911ec16535ed0a320ed2fb7766dfc2ddb6b831942",
+      "sourceHash": "bfd135a8b8821c2936ee45e84d092af5dc208a95e1f6e10bc360469a2f5339f0"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/alice-down-rabbit-hole/seg-002-voice-young-voice.mp3",
+      "durationMs": 17880,
+      "checksum": "beb6f2542e997925efb872b262a7bb22367a4a996f320197295b258463a88712",
+      "sourceHash": "de7b99d05c703d8ff97e46be18f7520ccba27e15e0c4703556f81ce71f1b6bf2"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/alice-down-rabbit-hole/seg-003-voice-young-voice.mp3",
+      "durationMs": 44232,
+      "checksum": "9738d543126006373f63daa420c0addfd439c981ed607cf6c5a432b423441b22",
+      "sourceHash": "4ca7839c96831e85201da4c7100b15bf4c8ba0c34be774b84de62d0ab7c1a6af"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/alice-down-rabbit-hole/seg-004-voice-young-voice.mp3",
+      "durationMs": 7152,
+      "checksum": "fd419500875287ad0e9e79dd68358704f91d2fe37bb388c6098c8c4750cf036a",
+      "sourceHash": "71f92d416bd1c42dfc3c34f3788c95811b860b7bff9bc0f8184dc4d21036730b"
+    },
+    {
+      "id": "seg-005",
+      "url": "/audio/alice-down-rabbit-hole/seg-005-voice-young-voice.mp3",
+      "durationMs": 13968,
+      "checksum": "a87ac73674a011f34b3573d7034f5d32920c47d5e400506547dba3ebb9a94492",
+      "sourceHash": "765bb2a57a6a02926f1a2e2fbd31a9c693443783bc2786cfdcbd6ac32ca8eccc"
+    },
+    {
+      "id": "seg-006",
+      "url": "/audio/alice-down-rabbit-hole/seg-006-voice-young-voice.mp3",
+      "durationMs": 43296,
+      "checksum": "68f1acbcb904455bae42ec58fd6cb1dd1a281314b2bd1f60ed55d13877dbf191",
+      "sourceHash": "03ffa4f730e829abbed74e2e18e4a6a095d54ae2b90d39645d3e79b700a261d1"
+    },
+    {
+      "id": "seg-007",
+      "url": "/audio/alice-down-rabbit-hole/seg-007-voice-young-voice.mp3",
+      "durationMs": 20760,
+      "checksum": "7a609fa4c5e84ba21491409b28893816ab9fce008367ab3e0047a6fdd81c2374",
+      "sourceHash": "4e1ee81e711a997d468b7bc85ff7170842b3a811eab0845c9d6143cc48aa43ec"
+    },
+    {
+      "id": "seg-008",
+      "url": "/audio/alice-down-rabbit-hole/seg-008-voice-young-voice.mp3",
+      "durationMs": 43224,
+      "checksum": "e405505d7af4056a44e14a8250903fa26a53bee386aaba8782d2a929345d6744",
+      "sourceHash": "aa30841f45ba02b0c9cd6c56fc512158670bc1bc67251ec6082a91b2178a7d9f"
+    },
+    {
+      "id": "seg-009",
+      "url": "/audio/alice-down-rabbit-hole/seg-009-voice-young-voice.mp3",
+      "durationMs": 50496,
+      "checksum": "87830fc2877ad387431004d6de88ce19ffea23331a7733baa3c0a6714de2cd19",
+      "sourceHash": "de914ffa802abb41a296ca8490bfaacf8acb3c639dfbe092d32e93436c0ae327"
+    },
+    {
+      "id": "seg-010",
+      "url": "/audio/alice-down-rabbit-hole/seg-010-voice-young-voice.mp3",
+      "durationMs": 70584,
+      "checksum": "4396973d8f8985d1e6a3583a2f5780b9ec5de2d8da30bc0f5f2018e0bad3fd95",
+      "sourceHash": "4ef72f71ebbafd56e75578520d15948c42c338223fa9d2967c342e963c2729cf"
+    }
+  ]
+}

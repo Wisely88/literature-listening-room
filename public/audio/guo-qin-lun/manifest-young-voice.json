@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "workId": "guo-qin-lun",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-8%|pitch=-1Hz|voiceId=young-voice",
+  "voiceId": "young-voice",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T00:30:30.860Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/guo-qin-lun/seg-001-voice-young-voice.mp3",
+      "durationMs": 23376,
+      "checksum": "d5b29f975bf470bc4b58edc780005e0dfc1bb63a8116cea8a10288a6d12cc8e3",
+      "sourceHash": "0f4dd32b49640424bb527b33038a122326121ae9fac339b0446fb29af12f6dbf"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/guo-qin-lun/seg-002-voice-young-voice.mp3",
+      "durationMs": 21600,
+      "checksum": "4abecfc73e93abceb51272066e4cfcce48c882c8364470b539876789c30218b7",
+      "sourceHash": "c22230f3a512b9003b15d38def08368c76c0447784e107a010b1800f3fd85603"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/guo-qin-lun/seg-003-voice-young-voice.mp3",
+      "durationMs": 9960,
+      "checksum": "18ea0d97d5d4873a3b944828364a3848ca184eab6058236c8507cedeba7e0d6a",
+      "sourceHash": "982d78f0b367d86b05ce06176cc57493969c6fe91d2e3d9c321aba721c12b7aa"
+    }
+  ]
+}

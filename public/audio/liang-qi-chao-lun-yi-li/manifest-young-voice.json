@@ -1,0 +1,46 @@
+{
+  "version": 1,
+  "workId": "liang-qi-chao-lun-yi-li",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-8%|pitch=-1Hz|voiceId=young-voice",
+  "voiceId": "young-voice",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T00:48:03.526Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/liang-qi-chao-lun-yi-li/seg-001-voice-young-voice.mp3",
+      "durationMs": 354120,
+      "checksum": "1d5ae7a10abd46e63a9a9a6d4f923b34139149594d0d132bfc98a218ce3bf9a5",
+      "sourceHash": "64dc4538a0486107df234597f719a4b121d0b7d570744f02c4329a88957ce8dd"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/liang-qi-chao-lun-yi-li/seg-002-voice-young-voice.mp3",
+      "durationMs": 341592,
+      "checksum": "84d5cec01609a0c0d39c735bbbc5cfbe5ec6a723bd8a5bf6e3c2890849430311",
+      "sourceHash": "754f8fe342e848d84cb4b5d103eaeec50ae6a96c39950dec492316e2387c2a1d"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/liang-qi-chao-lun-yi-li/seg-003-voice-young-voice.mp3",
+      "durationMs": 306336,
+      "checksum": "2f580cb5602d919f37bc2197efac220cd20609c56833a45b618dcfad3b94d72c",
+      "sourceHash": "be63e35fb0ab7d6d23f2e679d8ccf4851ada531668284748c8c067d27767b979"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/liang-qi-chao-lun-yi-li/seg-004-voice-young-voice.mp3",
+      "durationMs": 261336,
+      "checksum": "bf286f9f34987bba663cda657d614f89274949d07ba1675100f9415b464eb007",
+      "sourceHash": "df2570036ed02a1e18e5101e5289a60fba39961c82165784cce74113ef5ce7c5"
+    },
+    {
+      "id": "seg-005",
+      "url": "/audio/liang-qi-chao-lun-yi-li/seg-005-voice-young-voice.mp3",
+      "durationMs": 161664,
+      "checksum": "a85204c70e77d756520088b7e916a5dab394adcee61a2d7a3bec63da88cf785f",
+      "sourceHash": "0e4fc25ffcd9223cede1a5e0ec8be5c051cf5b759a11ae4636e29f69c9accd75"
+    }
+  ]
+}

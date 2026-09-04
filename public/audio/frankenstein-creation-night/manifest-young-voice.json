@@ -1,0 +1,53 @@
+{
+  "version": 1,
+  "workId": "frankenstein-creation-night",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-8%|pitch=-1Hz|voiceId=young-voice",
+  "voiceId": "young-voice",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T00:26:14.266Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/frankenstein-creation-night/seg-001-voice-young-voice.mp3",
+      "durationMs": 34008,
+      "checksum": "5ff4d76e55d2604174904fcea5abd34e42fb2981d1cbb6f0d3fc8a445b93d2a2",
+      "sourceHash": "406f060aff672955e0a3314a385ecb66fae34aa135cb2ee1a0371f782933a915"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/frankenstein-creation-night/seg-002-voice-young-voice.mp3",
+      "durationMs": 40608,
+      "checksum": "cfd7de332a90aab9aac67ad320ff17553276de365c4be112659d97665b1fc7ad",
+      "sourceHash": "3862c5d9d9523c6b71bb72d298323766c4872db52b79a3dd0fce0de5de8a9f5e"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/frankenstein-creation-night/seg-003-voice-young-voice.mp3",
+      "durationMs": 120552,
+      "checksum": "12e2939c19a409721f750324a0cc1802c5f33584f62224ba124e1a98d8a3abd2",
+      "sourceHash": "778cbee51aa159a527fcebf9d49cef4978e796f0eacf58302a32b83f46fac92c"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/frankenstein-creation-night/seg-004-voice-young-voice.mp3",
+      "durationMs": 21144,
+      "checksum": "5fb17f4d9c213505d8cd7c6e8f311b3bf32784483322a2f7e138977d709b058d",
+      "sourceHash": "9c8c83f7fad2212cd9a26664aec45339d18e51bdcd0a9f9f9c06e3bff0f07a99"
+    },
+    {
+      "id": "seg-005",
+      "url": "/audio/frankenstein-creation-night/seg-005-voice-young-voice.mp3",
+      "durationMs": 26808,
+      "checksum": "8a90bf76cca93076a7b746a0bea4593e488e80b3ac83d878d3497665adefe252",
+      "sourceHash": "a8f8fbb9d831bf27f9e17de26bcc40e72ec9e99e9653a8cc5f1a4492086c6020"
+    },
+    {
+      "id": "seg-006",
+      "url": "/audio/frankenstein-creation-night/seg-006-voice-young-voice.mp3",
+      "durationMs": 32328,
+      "checksum": "37a6e24a03ad57211ef750b19a51198a3e3bf4cf0cfabc0c5287c876952ad2ac",
+      "sourceHash": "dee067e6b3a3eeb5ac2494326e34060d084c6c6cf990fea0046c128fc072424f"
+    }
+  ]
+}

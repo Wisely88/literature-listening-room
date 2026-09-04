@@ -1,0 +1,53 @@
+{
+  "version": 1,
+  "workId": "hua-pi",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-8%|pitch=-1Hz|voiceId=young-voice",
+  "voiceId": "young-voice",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T00:36:13.073Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/hua-pi/seg-001-voice-young-voice.mp3",
+      "durationMs": 70752,
+      "checksum": "932d4d915cb8c9b7a1b586eb5a9d840306e603d2e9d1723d64cebafa3e70bd42",
+      "sourceHash": "692ef9dd161a16e8aa5dfd5b0e0666d86899fca99828b273bebe45e3ef79472e"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/hua-pi/seg-002-voice-young-voice.mp3",
+      "durationMs": 8064,
+      "checksum": "a48b93c2c6c584863a68a831dcb83dcaf33835c839ad349beb4d0966cf5ee6d2",
+      "sourceHash": "b209413d274e09553c517548db31bc9f04c4341af62f412e545a067a4aa47c54"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/hua-pi/seg-003-voice-young-voice.mp3",
+      "durationMs": 79824,
+      "checksum": "f1fed83902038458a3790775b15bab40ef743daf3f171962519bba5f7329dd7c",
+      "sourceHash": "54d7133581e60a89fc8cbc8b092db928625c14a5bfce9e07e1d04b449ffeddbe"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/hua-pi/seg-004-voice-young-voice.mp3",
+      "durationMs": 132696,
+      "checksum": "2fbcc68d681c102ace254c63cc7083b87cddbedfa0685ec6c8a927eeaf309c25",
+      "sourceHash": "7b50156590777aaa80b4a066d096f1829836ddd596a41fa3fbd41f8baabe6bd3"
+    },
+    {
+      "id": "seg-005",
+      "url": "/audio/hua-pi/seg-005-voice-young-voice.mp3",
+      "durationMs": 151848,
+      "checksum": "d44af550e5db4316a1b42b769b5ea51925b264d0bb05a8c2aa7d9e94c16e97c6",
+      "sourceHash": "a53ca4f5dececc5b1d82de7f2f3e0e31d20123fa50f57c5dd4227a35e4802d52"
+    },
+    {
+      "id": "seg-006",
+      "url": "/audio/hua-pi/seg-006-voice-young-voice.mp3",
+      "durationMs": 21120,
+      "checksum": "06c77cd81b096115d998cb883d1a7c787d6f5a26ecebee60c196d5fb58d0de13",
+      "sourceHash": "4fb3e8a4330103a86d64bf36c92ce10c479bcd05c027344f1cdea9aa4e2abc3c"
+    }
+  ]
+}

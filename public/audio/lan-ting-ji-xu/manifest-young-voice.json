@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "workId": "lan-ting-ji-xu",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-8%|pitch=-1Hz|voiceId=young-voice",
+  "voiceId": "young-voice",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T00:41:08.069Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/lan-ting-ji-xu/seg-001-voice-young-voice.mp3",
+      "durationMs": 27240,
+      "checksum": "c1b0b3ee77f317763f26b5b9cb506d44b65b42eb46d4dbf1ba66d5efb8d5bb82",
+      "sourceHash": "3930999263740b77fd1363ef7b9221dc3d50e12e3dd7f9e7a224aaffce95b0ec"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/lan-ting-ji-xu/seg-002-voice-young-voice.mp3",
+      "durationMs": 12888,
+      "checksum": "b43091bc15df3b31e3831b8ac862e29e71c24e4c69997c582aa8b13dee6e6e5d",
+      "sourceHash": "d73f20d597f3bac6c594d78c83552997f5626270d4262b2c60dad8139b87e757"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/lan-ting-ji-xu/seg-003-voice-young-voice.mp3",
+      "durationMs": 37872,
+      "checksum": "412f57db41d205c905492caf074d7c7759a74449d8eae82c1952ae8906023d0e",
+      "sourceHash": "328e1824ecf6656dd5b65f8d8c2e80acfe40486849430bf5b6cb1db8827cda10"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/lan-ting-ji-xu/seg-004-voice-young-voice.mp3",
+      "durationMs": 25752,
+      "checksum": "4438445a77e9858970de2bf7b6dc89b974d136647e3fddbba86471a25e430718",
+      "sourceHash": "fc14f1cd9cffc25cc2e8581cdd19b4b5beffd4b7887ca8fa132181e2f4c55f55"
+    }
+  ]
+}

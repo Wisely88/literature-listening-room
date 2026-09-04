@@ -1,0 +1,95 @@
+{
+  "version": 1,
+  "workId": "wuthering-heights-arrival",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-8%|pitch=-1Hz|voiceId=young-voice",
+  "voiceId": "young-voice",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T01:49:40.284Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/wuthering-heights-arrival/seg-001-voice-young-voice.mp3",
+      "durationMs": 38616,
+      "checksum": "d67fc24c85e1f8d32abd1e0ddd7da0dc42a115d68e35589f3b21f242611f67eb",
+      "sourceHash": "e5fde48c50eb47d0a106ea2fe4205668b00438d0973bb0f236d4fec88c9feadc"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/wuthering-heights-arrival/seg-002-voice-young-voice.mp3",
+      "durationMs": 3840,
+      "checksum": "66af8bc51bf6c78311561c23d9654aacad62f5462b2925287426a4d990c411f5",
+      "sourceHash": "7f73128c6d0b6306273d835c1d8cf0e6e9b2db51748695049051874ce22640e6"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/wuthering-heights-arrival/seg-003-voice-young-voice.mp3",
+      "durationMs": 2304,
+      "checksum": "ae11c7b2838205c04b320d0037e069fc905441b149b1fef91cbdb2b9848ebd72",
+      "sourceHash": "361ea190df96e8e49b8b8e016dc65b07d100b84e32df32cb8660363392c257d7"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/wuthering-heights-arrival/seg-004-voice-young-voice.mp3",
+      "durationMs": 15792,
+      "checksum": "3a1c8dcb4bc17a1fc595d609dd43d62e5898b313e6fae2c28010987adbc8d3c2",
+      "sourceHash": "d9fe4f0b3118f8fa732706cadaab32dd34c9b405ef149d6b4bd7efc4a2acc0c9"
+    },
+    {
+      "id": "seg-005",
+      "url": "/audio/wuthering-heights-arrival/seg-005-voice-young-voice.mp3",
+      "durationMs": 11424,
+      "checksum": "859ce872863b74cf11037c1c76e7be2f57f2f1e9f59bb186ff6d3dfc0a1bff73",
+      "sourceHash": "2257eb60475d14f9bf3b39e89eae7111a2878088f9887f568276acd70434de73"
+    },
+    {
+      "id": "seg-006",
+      "url": "/audio/wuthering-heights-arrival/seg-006-voice-young-voice.mp3",
+      "durationMs": 18072,
+      "checksum": "3ce831612c71a3e475c0905c1670501a813776b51c4e056f731b814751a45450",
+      "sourceHash": "a411eedbb8e3db8a422ebd6ea1a2a85e4f6dda4c4881cded06fa08dfaf9e9b37"
+    },
+    {
+      "id": "seg-007",
+      "url": "/audio/wuthering-heights-arrival/seg-007-voice-young-voice.mp3",
+      "durationMs": 16704,
+      "checksum": "d8490b08aac6a10fbe51f4dd241b7a4fcae9e84df4429e7fd58d2014991e4d0d",
+      "sourceHash": "b5bb6d32156d69746edbf032e18fb341f7cc5c82f343a8816836426262164df9"
+    },
+    {
+      "id": "seg-008",
+      "url": "/audio/wuthering-heights-arrival/seg-008-voice-young-voice.mp3",
+      "durationMs": 13656,
+      "checksum": "c52dfa38ad6f619fd77a36bde157ee365a5e8eaa6886523d2f10741b16ba9604",
+      "sourceHash": "647f36f3ac730f79a115daf041eedf543e41f0b3500d9fa076f8f8414ad55b73"
+    },
+    {
+      "id": "seg-009",
+      "url": "/audio/wuthering-heights-arrival/seg-009-voice-young-voice.mp3",
+      "durationMs": 26736,
+      "checksum": "473b8a5deed3737598489512166b94f406724feee4bb781a7574f4cbb700fa79",
+      "sourceHash": "caa35b33ecadd15359cf378cb2ac70226837dbae13288d7e2599564dbd991c28"
+    },
+    {
+      "id": "seg-010",
+      "url": "/audio/wuthering-heights-arrival/seg-010-voice-young-voice.mp3",
+      "durationMs": 43536,
+      "checksum": "0194adad606df1cfed6479cecd9dd04080d883845b6258f0ae10bc268881be0b",
+      "sourceHash": "8b8b3e5f7870eba8aff8c93736fdaf623fc9dac14a6d82a40494d341e74fe3b3"
+    },
+    {
+      "id": "seg-011",
+      "url": "/audio/wuthering-heights-arrival/seg-011-voice-young-voice.mp3",
+      "durationMs": 33144,
+      "checksum": "07d410e3d6e89f2d9fb1605dc00f8366d8b96fc7eaf0a02b568e7646c41d3256",
+      "sourceHash": "f6087a3cd9337880aa4dc7eb5b567d31f98751bb5e52ac94752c61458fb13c18"
+    },
+    {
+      "id": "seg-012",
+      "url": "/audio/wuthering-heights-arrival/seg-012-voice-young-voice.mp3",
+      "durationMs": 89160,
+      "checksum": "983f1dffe18e497cc77d3c6f5a61775e74e89534dadd03112a1cf4ce1de8700b",
+      "sourceHash": "546cdaaa72e3e3df0c84fde64debd7aace1a1c9f9dca6e7697e1955614160d32"
+    }
+  ]
+}

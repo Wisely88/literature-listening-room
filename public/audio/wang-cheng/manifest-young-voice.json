@@ -1,0 +1,46 @@
+{
+  "version": 1,
+  "workId": "wang-cheng",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-8%|pitch=-1Hz|voiceId=young-voice",
+  "voiceId": "young-voice",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T01:47:06.278Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/wang-cheng/seg-001-voice-young-voice.mp3",
+      "durationMs": 131808,
+      "checksum": "50d6065d1a10e6c9c6bc6fbbab7af7b1ddbbd46117391836c5a5c1cf4652d11b",
+      "sourceHash": "75046c97a9ddd5f5aaa2d015a8dcf6a3444c12372c6fe04c9bac62ae03db73f7"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/wang-cheng/seg-002-voice-young-voice.mp3",
+      "durationMs": 133464,
+      "checksum": "95760531f52d30bc1f5f75e92f9c94ec41d9ed171d316eb4cf433aff0921a29f",
+      "sourceHash": "7e586840871e57f0246f98710481551e39cc1184f6c29a54704ef2d210cda4b1"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/wang-cheng/seg-003-voice-young-voice.mp3",
+      "durationMs": 319968,
+      "checksum": "b94bfbe031a01a945bd32f209eeb32b6580125dc98c22ec182752dc4d38457ae",
+      "sourceHash": "b4f039031db2d8a7b2d47ced4af2393e96c9d4cd2a56ae0986b662d82639604b"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/wang-cheng/seg-004-voice-young-voice.mp3",
+      "durationMs": 31200,
+      "checksum": "fc142c4dc39756f6f24108526c85ea45c1b23d6203335bd9c33c00caf23d8c45",
+      "sourceHash": "71516610fb746c9fd606df006b9777fd71105bd3c650ae1ad93c441dc4d44f9a"
+    },
+    {
+      "id": "seg-005",
+      "url": "/audio/wang-cheng/seg-005-voice-young-voice.mp3",
+      "durationMs": 15552,
+      "checksum": "ea63cf9fa8f4f4ec9ec330437ad343b8d47b0e36ef5e38e55731b43ea7b81e56",
+      "sourceHash": "6d4c234f7ddd7336d3b023a61e34b15bb4c01af5b301f6c01ee50ed0d58a8286"
+    }
+  ]
+}

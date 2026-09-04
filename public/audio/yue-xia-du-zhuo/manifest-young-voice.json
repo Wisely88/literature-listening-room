@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "workId": "yue-xia-du-zhuo",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-8%|pitch=-1Hz|voiceId=young-voice",
+  "voiceId": "young-voice",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T02:08:33.643Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/yue-xia-du-zhuo/seg-001-voice-young-voice.mp3",
+      "durationMs": 6984,
+      "checksum": "7ebe5c01f242f5ec3bec280cd09c0da63dd136b4612091bed398b5cba85b06f6",
+      "sourceHash": "609eab05c2b38c1354e6af2c54116f0a343cd47eaa3a6d0475d0a30fa805ca0d"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/yue-xia-du-zhuo/seg-002-voice-young-voice.mp3",
+      "durationMs": 7776,
+      "checksum": "92343311341732984d9f1fc87b0d43fd43f08b29fd63c14d27cf49322407da27",
+      "sourceHash": "53d24211110642586a4effeb2d05363b25713362662d21a74f1748e23dc57547"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/yue-xia-du-zhuo/seg-003-voice-young-voice.mp3",
+      "durationMs": 6720,
+      "checksum": "1a82e3e04333149df0e2b110b866b0e4029b06d31bcefef70f36723769ebe3c6",
+      "sourceHash": "c1d56e2be423e339f70191f7bd54aa1e6c0619c2b6779446343fd5a240bc92a3"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/yue-xia-du-zhuo/seg-004-voice-young-voice.mp3",
+      "durationMs": 3912,
+      "checksum": "6e30489cedf56ba6e7eab666e23291709c58cc65ea7383c8071cdf06b10f8486",
+      "sourceHash": "6b079884c18104e79805bf3e819c2e86c255be5e314e2aa027ea297fec798534"
+    }
+  ]
+}

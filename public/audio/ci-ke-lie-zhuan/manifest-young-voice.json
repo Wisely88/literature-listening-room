@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "workId": "ci-ke-lie-zhuan",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-8%|pitch=-1Hz|voiceId=young-voice",
+  "voiceId": "young-voice",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T00:21:26.520Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/ci-ke-lie-zhuan/seg-001-voice-young-voice.mp3",
+      "durationMs": 24576,
+      "checksum": "eed95e84b3af2dd82ed4da9368853295d3f7425663567d6eb6d18dfdd6a99aa3",
+      "sourceHash": "a75f82c0f8bf907232f36eba7bce7f67d4604fe37c411d4566d81ecf4f71d2ed"
+    }
+  ]
+}

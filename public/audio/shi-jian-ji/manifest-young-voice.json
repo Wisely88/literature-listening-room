@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "workId": "shi-jian-ji",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-8%|pitch=-1Hz|voiceId=young-voice",
+  "voiceId": "young-voice",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T01:18:22.654Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/shi-jian-ji/seg-001-voice-young-voice.mp3",
+      "durationMs": 62256,
+      "checksum": "8c2e2f546b2c2eb907e10f16a3880b82c18187101e9d958d31e44293495cc008",
+      "sourceHash": "42fe75e0de7fe2797a1aada750fefee987bce660f99b0466526788062250d4e1"
+    }
+  ]
+}

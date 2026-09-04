@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "workId": "you-xia-lie-zhuan",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-8%|pitch=-1Hz|voiceId=young-voice",
+  "voiceId": "young-voice",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T02:07:47.292Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/you-xia-lie-zhuan/seg-001-voice-young-voice.mp3",
+      "durationMs": 229608,
+      "checksum": "cf6f6d99896be596a2cd6d0708e73f6d4cef206b39a8daedc0a2cd73b48ec993",
+      "sourceHash": "f1307a44cd9c9bcfe4e55208ccf08bf7de9f31b71b18cc5b2f921124dd00b59f"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/you-xia-lie-zhuan/seg-002-voice-young-voice.mp3",
+      "durationMs": 212184,
+      "checksum": "30d76d485cb3721999ba0e9a1b39a78b2d350a7833cbf569b080aa749c40288c",
+      "sourceHash": "1125868a7ce37b5bb1f932c60289c3d39a127a2e40066a3bc708ea52b56895ed"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/you-xia-lie-zhuan/seg-003-voice-young-voice.mp3",
+      "durationMs": 176376,
+      "checksum": "1996a7ceb89c2ba7118589e6cffa969f40c61ac37af494e48ddce417972543d6",
+      "sourceHash": "bc8e55e6a1bd2220cdd98d22d5e1921238b3fb1c096d19a199e29d9c50ca6d57"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/you-xia-lie-zhuan/seg-004-voice-young-voice.mp3",
+      "durationMs": 29160,
+      "checksum": "8f199702340274f864cd6253bdcee0cc1783327b223c079d209f61f89bca0b49",
+      "sourceHash": "80694e87b1a961bfaa1dd9caefcb12116270f41a9abceef7362f6efa13f3cc50"
+    }
+  ]
+}

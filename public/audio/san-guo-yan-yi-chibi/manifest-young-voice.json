@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "workId": "san-guo-yan-yi-chibi",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-8%|pitch=-1Hz|voiceId=young-voice",
+  "voiceId": "young-voice",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T01:12:19.289Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/san-guo-yan-yi-chibi/seg-001-voice-young-voice.mp3",
+      "durationMs": 13944,
+      "checksum": "c396cbe0f3d4752e9826d06855f95f62d6bd6e03fcb0dcf3f06afd094a800a21",
+      "sourceHash": "350fa085a67b6a219b2be849c621ef4e01bf1069d14e72a1cb20abac2da3c26c"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/san-guo-yan-yi-chibi/seg-002-voice-young-voice.mp3",
+      "durationMs": 26976,
+      "checksum": "aa2d4d28f01033fefd7dd378de2ad1a5b3dfafa016196534b169a4c1bdaf100d",
+      "sourceHash": "d5aa183170033a19fbaa66b28726d0be3905aa818737c8a4c8fa156412c8b212"
+    }
+  ]
+}

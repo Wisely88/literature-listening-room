@@ -1,0 +1,46 @@
+{
+  "version": 1,
+  "workId": "hong-men-yan",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-8%|pitch=-1Hz|voiceId=young-voice",
+  "voiceId": "young-voice",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T00:33:43.528Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/hong-men-yan/seg-001-voice-young-voice.mp3",
+      "durationMs": 18384,
+      "checksum": "529446e82ddf55974908cce052cb251838e2164d750844f116ceca47a4a37efc",
+      "sourceHash": "e6bfc00266a642d81065eecc6bb234fb8f262f6bfdea32556aa1fa50f63b104a"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/hong-men-yan/seg-002-voice-young-voice.mp3",
+      "durationMs": 19488,
+      "checksum": "88e868cf2664e5155fd62c3566c81e497de3079ad41a573aa040668f562d83d4",
+      "sourceHash": "ca86b1aeb3424bb336aa41b0f0e2258b893bd7532db28b9de80570281e74a85e"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/hong-men-yan/seg-003-voice-young-voice.mp3",
+      "durationMs": 18312,
+      "checksum": "f9bb99f186832c69cad4a28bfdb92652b1fa6658ba73f916aeec01958bcbf63c",
+      "sourceHash": "dda9f44745df6cec3561168e4bf75fb15f46c3dbf19814bbadb4e181dcffed02"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/hong-men-yan/seg-004-voice-young-voice.mp3",
+      "durationMs": 42648,
+      "checksum": "a977b11695e2ac9ff6e84363284c6a5d43b0d17979a003d4c5e8bb56e5b26528",
+      "sourceHash": "41db7a16dd7c8fb2887b7ec2cd8375fae0afd5a1ab258016fa08ab10404b4787"
+    },
+    {
+      "id": "seg-005",
+      "url": "/audio/hong-men-yan/seg-005-voice-young-voice.mp3",
+      "durationMs": 10680,
+      "checksum": "a41a76604eeadeeff21eafe3ff6c67dec216865ef8ed7936e8a9d796ece8174f",
+      "sourceHash": "1ff1bcbcc66d1cadefab957bfa992417d415dff7c45a109ae50841298fb54bbe"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "workId": "chun-wang",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-8%|pitch=-1Hz|voiceId=young-voice",
+  "voiceId": "young-voice",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T00:21:22.414Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/chun-wang/seg-001-voice-young-voice.mp3",
+      "durationMs": 4104,
+      "checksum": "624b6fea0faf52d26b933d86ddebd30e68339c436e0366874ab0df86c1d08a8d",
+      "sourceHash": "4bc8dcba81039de20757ba0ef736f6d1eec0f11c32300bf46c8354b0d8dc3595"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/chun-wang/seg-002-voice-young-voice.mp3",
+      "durationMs": 3816,
+      "checksum": "3afca4e52e695c068df90325b2d169027a8597467f27d8fa17122e46f5366477",
+      "sourceHash": "e4a87a834951547e5de2cfb3bb19e333a4f88bc98c3a15e3198e390708e7a265"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/chun-wang/seg-003-voice-young-voice.mp3",
+      "durationMs": 3840,
+      "checksum": "e8dc0dd16140784be88d72b8735dc118b044ec231a608b6907d0c1a3666319ae",
+      "sourceHash": "dbfaeda25965ea0babf9eb1b509986f926ef86811af8101bc7085a8475bedbe6"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/chun-wang/seg-004-voice-young-voice.mp3",
+      "durationMs": 4008,
+      "checksum": "fa8d2fe253ef45e5fa29b7cb0a79464ea12fe9934cde5fa0438b6a435ace1815",
+      "sourceHash": "da805fddb202fdca2076fdc01f63ff35fa4bd4cb50d1f1bc662a9977d7ef6681"
+    }
+  ]
+}

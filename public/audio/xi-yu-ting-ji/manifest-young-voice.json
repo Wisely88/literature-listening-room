@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "workId": "xi-yu-ting-ji",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-8%|pitch=-1Hz|voiceId=young-voice",
+  "voiceId": "young-voice",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T01:56:02.611Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/xi-yu-ting-ji/seg-001-voice-young-voice.mp3",
+      "durationMs": 7488,
+      "checksum": "18b71deaa4fe4a7ff566e39dc51e58d9e06d40690f97bc7f5cf9cd4a8916312a",
+      "sourceHash": "c72758bcc4980f56531a3ae5d07e4e071146b1542feb57a54873f4a7cb644bbd"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/xi-yu-ting-ji/seg-002-voice-young-voice.mp3",
+      "durationMs": 11016,
+      "checksum": "343b0332b0da5cdb776998e32cfc43beb91a36f20dd4ff2f12813cb0a8d8228b",
+      "sourceHash": "2b26982d56424a53291829cfd6c7500bded510661e8e73ece8cbdb6ffa01a7c2"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/xi-yu-ting-ji/seg-003-voice-young-voice.mp3",
+      "durationMs": 27168,
+      "checksum": "d0979df8fd3ea62d968e3ebf4a8b62dc8df7baecb9131f452279609a52bbecb0",
+      "sourceHash": "f9c500e44da06cd619f61e4ca28c6aad76b585b152408e825484852cb5f38662"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/xi-yu-ting-ji/seg-004-voice-young-voice.mp3",
+      "durationMs": 26064,
+      "checksum": "2e70e3488b461fd8664fe11d41dfcd0ba2629ffa7cabe7345cbc6774fb8e493e",
+      "sourceHash": "be157904c142e1ea53d417c25bea5ef88055565334e1c100b9b01556e70f57a2"
+    }
+  ]
+}

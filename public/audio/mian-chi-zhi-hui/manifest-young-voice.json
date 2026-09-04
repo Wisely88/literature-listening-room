@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "workId": "mian-chi-zhi-hui",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-8%|pitch=-1Hz|voiceId=young-voice",
+  "voiceId": "young-voice",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T00:58:08.904Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/mian-chi-zhi-hui/seg-001-voice-young-voice.mp3",
+      "durationMs": 16656,
+      "checksum": "18a5e07e0d7e8233399f8d0e28b3cf15a1639c1bd9aef55a7bb2dccae6e37bef",
+      "sourceHash": "8fe6ad0c5d7f310e99f8d35427694a2a34f5248937fa4dc3cea61a57e42ea8c9"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/mian-chi-zhi-hui/seg-002-voice-young-voice.mp3",
+      "durationMs": 13800,
+      "checksum": "3d45cb5fa41e8fc485082939d695d2ffc813a50c5e093fc31afe8296fe8c87ee",
+      "sourceHash": "4b3b041fec353066e0e0d04a94b07d57690a4a8609c7bd061478f6d22fa1b2df"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/mian-chi-zhi-hui/seg-003-voice-young-voice.mp3",
+      "durationMs": 34176,
+      "checksum": "f6cd8d136fb871579c04d4ba9b5073823ed5ba21a0e625145834db85c81ca2b9",
+      "sourceHash": "56b03607379c32f9aca3c01cb0abaa09b2ef42ce9c645d2e9d84f52009a95411"
+    }
+  ]
+}

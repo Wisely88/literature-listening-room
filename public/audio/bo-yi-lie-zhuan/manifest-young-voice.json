@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "workId": "bo-yi-lie-zhuan",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-8%|pitch=-1Hz|voiceId=young-voice",
+  "voiceId": "young-voice",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T00:16:50.350Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/bo-yi-lie-zhuan/seg-001-voice-young-voice.mp3",
+      "durationMs": 16152,
+      "checksum": "0ca4134374023dfa4755fc7e1bd7dce4451bc96bf9af0fed13bf9288261d3e20",
+      "sourceHash": "8b8b0b3d0576dfa0a11ea1f5b8a2e7a94d9f55e78ea335bac8dccef2ca7f8f99"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/bo-yi-lie-zhuan/seg-002-voice-young-voice.mp3",
+      "durationMs": 10608,
+      "checksum": "43c9885bbf282ca52043a62add3e15cac55fb223bcc8b4d251ba2ac1105b2711",
+      "sourceHash": "c77daf90255f060533c9367dacd53e41b52366490ef064275edd37e3ad48184e"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/bo-yi-lie-zhuan/seg-003-voice-young-voice.mp3",
+      "durationMs": 20544,
+      "checksum": "14fffc538c8cabcf1678a34317180696d219383e128bcc6a38f19c605e87c738",
+      "sourceHash": "690ac351a33469e8314f5bd7588a6457740fb19cc7a15473ecb1092d6175cbf1"
+    }
+  ]
+}

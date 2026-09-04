@@ -1,0 +1,53 @@
+{
+  "version": 1,
+  "workId": "lian-po-lin-xiang-ru-lie-zhuan",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-8%|pitch=-1Hz|voiceId=young-voice",
+  "voiceId": "young-voice",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T00:45:04.349Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/lian-po-lin-xiang-ru-lie-zhuan/seg-001-voice-young-voice.mp3",
+      "durationMs": 27432,
+      "checksum": "962f1212947bfdfcf65a2a1e668cf9222bc4472deaa211c1664196c72f31e6cb",
+      "sourceHash": "e41a7ffa51452add26f73c596e1edaf859bf28eec5e01095492997ccdc1ea8bb"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/lian-po-lin-xiang-ru-lie-zhuan/seg-002-voice-young-voice.mp3",
+      "durationMs": 44304,
+      "checksum": "a08ba207653daba1b9d8bbb09704c6fe4654ddc28ad8fa6a0fcff76281111396",
+      "sourceHash": "905ab5d06016fbb4b5cf812c0ffd5776d2c3b6ecd93adb7a58c3d9ddd1630e69"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/lian-po-lin-xiang-ru-lie-zhuan/seg-003-voice-young-voice.mp3",
+      "durationMs": 71952,
+      "checksum": "c3b59ed68a41e1c88dfc5078694bef2f78e42f7f2785b6dbfe502b178768523f",
+      "sourceHash": "b34e61930e165ad8007413694ebf7e63dd89d81ea41c96578131b0626078cf81"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/lian-po-lin-xiang-ru-lie-zhuan/seg-004-voice-young-voice.mp3",
+      "durationMs": 90696,
+      "checksum": "c9f819d5f490bfb6c5b80d876902068a37d189b185ad8eeeae12313a79ec6d59",
+      "sourceHash": "f2e6492b5b3f3b3f93b0d6cd4e66d0cba2f3124a134ed9fd2d0027f14af0db05"
+    },
+    {
+      "id": "seg-005",
+      "url": "/audio/lian-po-lin-xiang-ru-lie-zhuan/seg-005-voice-young-voice.mp3",
+      "durationMs": 84168,
+      "checksum": "73da4064dd2eae34d249166fcbad137ffdd5a76a5b932ced74d8fbcae5ba3cc1",
+      "sourceHash": "417e64a1678382fcb59d29f2cf75ca6fa25a534faa3c62c59bb289b3fccce0d6"
+    },
+    {
+      "id": "seg-006",
+      "url": "/audio/lian-po-lin-xiang-ru-lie-zhuan/seg-006-voice-young-voice.mp3",
+      "durationMs": 95088,
+      "checksum": "d58d59f574111ae7cebb563276a6a0ff1d6cf08b4de6de5e1b73427219c5cc17",
+      "sourceHash": "d7431331f846eace831d5d88bbdabf4d57a3d2ffe67392cbe51e43504c2f7ed5"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "workId": "xin-min-shuo",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-8%|pitch=-1Hz|voiceId=young-voice",
+  "voiceId": "young-voice",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T01:59:49.336Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/xin-min-shuo/seg-001-voice-young-voice.mp3",
+      "durationMs": 97128,
+      "checksum": "a6b759bda90c01e5d4ed3d81f3d2b715a1482579f7bdd5b12ea2a4c589360092",
+      "sourceHash": "46b902da8da938c27828446efbae6371244034b73dc077bac84990a339c7c64a"
+    }
+  ]
+}

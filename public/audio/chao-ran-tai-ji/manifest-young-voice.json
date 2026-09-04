@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "workId": "chao-ran-tai-ji",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-8%|pitch=-1Hz|voiceId=young-voice",
+  "voiceId": "young-voice",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T00:18:02.418Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/chao-ran-tai-ji/seg-001-voice-young-voice.mp3",
+      "durationMs": 16464,
+      "checksum": "e871a78172483997d2e2454c8a996ca546af2e14111966c2d29ce152c71a4bac",
+      "sourceHash": "14040903d0f69e350c91b6726605a2eeb1f18fcc9ca9345befed1f95d0ed0a49"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/chao-ran-tai-ji/seg-002-voice-young-voice.mp3",
+      "durationMs": 24432,
+      "checksum": "764b9ff5d7d77704a3b62edce6382022ad3097c54b1599e80a27d3d792e9b63e",
+      "sourceHash": "a107e7a1af5a4087f631afa1892eda9b97ef88c449c1002715c8b0b389e13e76"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/chao-ran-tai-ji/seg-003-voice-young-voice.mp3",
+      "durationMs": 23136,
+      "checksum": "1e7d88dfb0793216f72a497bd614ce10d30594923bcf22ffa8b29b73d268b3dd",
+      "sourceHash": "da000d7c44f1ce118ec8b66d70691287b1b6cf1ee427ed9c85394ac4fba68c0e"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/chao-ran-tai-ji/seg-004-voice-young-voice.mp3",
+      "durationMs": 30288,
+      "checksum": "7df4aa15be6038ab0f2c91372b25b14e0a513897785ebb861640e4e8373ec5fb",
+      "sourceHash": "e5dc71ab537a814150e7abe3985920f00e4f657985208041d25b47ecfc7b18bb"
+    }
+  ]
+}

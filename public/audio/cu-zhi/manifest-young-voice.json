@@ -1,0 +1,67 @@
+{
+  "version": 1,
+  "workId": "cu-zhi",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-8%|pitch=-1Hz|voiceId=young-voice",
+  "voiceId": "young-voice",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T00:23:20.906Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/cu-zhi/seg-001-voice-young-voice.mp3",
+      "durationMs": 27216,
+      "checksum": "e8e5172db94dab4925df2fe1067f685fdfd378d495c02649c3fa571095dc1bf5",
+      "sourceHash": "bfb1c628b1a00b2aa8f7949b37f10edc4f7f5cc00f9afa51c7b0eb9a6ebe5912"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/cu-zhi/seg-002-voice-young-voice.mp3",
+      "durationMs": 49200,
+      "checksum": "5dac715f4b5ee68a63cc1474985e12779dec9c2d5c94d49bb401271287af3801",
+      "sourceHash": "ca8f6908f56782342b7862afff9a2ecc059bd878a0e504eed8f15c2fa71d71f0"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/cu-zhi/seg-003-voice-young-voice.mp3",
+      "durationMs": 56472,
+      "checksum": "ef03588f94b599c65645b3cb1ca33d2128e10b953be4200c212fec51a1b2a855",
+      "sourceHash": "fb1312910701dc481a2dd57315f300f85cb305a9da2c46cd59a9d873c0bc3ac7"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/cu-zhi/seg-004-voice-young-voice.mp3",
+      "durationMs": 61512,
+      "checksum": "3c7ae5ae9fe453909c87b6538a06506ebbafb3075316c12dc41dcef78d372674",
+      "sourceHash": "83162bfb636c18a9b49f1e4142705799e39c7aa4939ac1870f4625fc92aa0fc7"
+    },
+    {
+      "id": "seg-005",
+      "url": "/audio/cu-zhi/seg-005-voice-young-voice.mp3",
+      "durationMs": 116184,
+      "checksum": "8bd64262d1816e506de38cee8d334b98dfd3d7adbfbb7cf8600d2eca87816015",
+      "sourceHash": "65e83d4e30099d501666390f5f2ac9d23c3da6e4adc1e885cee209a0036c76df"
+    },
+    {
+      "id": "seg-006",
+      "url": "/audio/cu-zhi/seg-006-voice-young-voice.mp3",
+      "durationMs": 85944,
+      "checksum": "0579bffb3e25fbfc3e9c38d8da920f6740252ec526a9c82332695e08b8aeb3d7",
+      "sourceHash": "829cf12878cc7c6f9927acec542d12ddd8c7151ef7361b526804dfb82cac2117"
+    },
+    {
+      "id": "seg-007",
+      "url": "/audio/cu-zhi/seg-007-voice-young-voice.mp3",
+      "durationMs": 65856,
+      "checksum": "54731a75620d51ce295bf8cb599aefe83f3f300eb1565e528b0a76a2cba86538",
+      "sourceHash": "a91e7f82a3025d8dcb0bd3a6160f043679c277bbca923164778595fdc6c571d0"
+    },
+    {
+      "id": "seg-008",
+      "url": "/audio/cu-zhi/seg-008-voice-young-voice.mp3",
+      "durationMs": 37704,
+      "checksum": "28fa277dc0070102c597063d1c544a3afee7648519d2d7e563b8c1ba95583bcd",
+      "sourceHash": "fb9c815a1c7a5a29da1017b3af12bdd450b30ce3b788d8b73d4d8921ecc273f3"
+    }
+  ]
+}

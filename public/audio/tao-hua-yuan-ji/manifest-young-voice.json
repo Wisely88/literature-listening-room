@@ -1,0 +1,46 @@
+{
+  "version": 1,
+  "workId": "tao-hua-yuan-ji",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-8%|pitch=-1Hz|voiceId=young-voice",
+  "voiceId": "young-voice",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T01:25:13.237Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/tao-hua-yuan-ji/seg-001-voice-young-voice.mp3",
+      "durationMs": 18168,
+      "checksum": "525857a08de3da3d27105a9cd2728a3387ebf9e80a6bebf8f2796172fae6c5c9",
+      "sourceHash": "3ef913cab74d3cc05afa3815188a570c92d8e86ff278356a805c5758ed58e831"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/tao-hua-yuan-ji/seg-002-voice-young-voice.mp3",
+      "durationMs": 32016,
+      "checksum": "7902e33744919410b729f3ba8050c1e6909d2d044909c7ca125a0194d2a78810",
+      "sourceHash": "590b68fc118eb439568dde888bccfdcd4b387e78e9922ace976b6f7efa4be8c3"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/tao-hua-yuan-ji/seg-003-voice-young-voice.mp3",
+      "durationMs": 38448,
+      "checksum": "d60326f6da42d587aa0d6a85f81d68bc708be08943f801744cbd08dd823cd38d",
+      "sourceHash": "9ead7e89c8c07e55849b2decff57021b18bc9fb8edda8640d188e5de6fa4aee7"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/tao-hua-yuan-ji/seg-004-voice-young-voice.mp3",
+      "durationMs": 15000,
+      "checksum": "4f38a333dc7b701ff32417f745a792c5295caf353fe3a50dd6d6b75987ae2762",
+      "sourceHash": "4d9425f0dd7e5df05a4e9b38f1b5122947766468f87e387662c2c70911526676"
+    },
+    {
+      "id": "seg-005",
+      "url": "/audio/tao-hua-yuan-ji/seg-005-voice-young-voice.mp3",
+      "durationMs": 10584,
+      "checksum": "c7410bce244957728f867a16e0bd34215bee244b7e4c76f9e0a11a81adb5ddcb",
+      "sourceHash": "4deaf488bd5a5e9cea01cd2e82faa8da77664f79544309908486c9d6b4daf001"
+    }
+  ]
+}

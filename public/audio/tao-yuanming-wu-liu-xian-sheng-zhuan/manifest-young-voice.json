@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "workId": "tao-yuanming-wu-liu-xian-sheng-zhuan",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-8%|pitch=-1Hz|voiceId=young-voice",
+  "voiceId": "young-voice",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T01:25:33.742Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/tao-yuanming-wu-liu-xian-sheng-zhuan/seg-001-voice-young-voice.mp3",
+      "durationMs": 10536,
+      "checksum": "e52b4961fee119c5e83a74747b6ce51f9f74eb4bbae944bbc2b099dc96fbea60",
+      "sourceHash": "e9e2793307711dcfe936f88c2a380cbde5ed2bf8fab5baf1a577b722de0270dc"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/tao-yuanming-wu-liu-xian-sheng-zhuan/seg-002-voice-young-voice.mp3",
+      "durationMs": 18264,
+      "checksum": "e4f47e3339e28ae5bebd584197de9911822ab9abac08651f84b4299210492a76",
+      "sourceHash": "cec878be4c9e398676f5f9d129fc29e57fc696fce3f7853891d2ff914bd269ca"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/tao-yuanming-wu-liu-xian-sheng-zhuan/seg-003-voice-young-voice.mp3",
+      "durationMs": 13488,
+      "checksum": "9088e098d622c1913138a41f1aab9467c81f65a7672cdef2d24353c8a25660b9",
+      "sourceHash": "51cadc166200d8c1e036f14714081506a4df61d32ab9bede3dde81d54296bb1f"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/tao-yuanming-wu-liu-xian-sheng-zhuan/seg-004-voice-young-voice.mp3",
+      "durationMs": 15912,
+      "checksum": "db84770c697ab086461d7a1b03dfa21a733875cb4036575ffbc0a175c42559b1",
+      "sourceHash": "2720090c2fd309b3b8c5674e0fc5a7aeb55df9fdcdd518ab4054d362e3ff8dcb"
+    }
+  ]
+}

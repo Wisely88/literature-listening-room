@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "workId": "xi-hu-qi-yue-ban",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-8%|pitch=-1Hz|voiceId=young-voice",
+  "voiceId": "young-voice",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T01:53:45.684Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/xi-hu-qi-yue-ban/seg-001-voice-young-voice.mp3",
+      "durationMs": 5592,
+      "checksum": "5689f6bf0302c09ca34361bb7677df726e5549cc91c271fa576b02642be2192a",
+      "sourceHash": "b83b70513b7952cb985d9dc6b377a016d668a355a8c54e1e08ff16b76add48ed"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/xi-hu-qi-yue-ban/seg-002-voice-young-voice.mp3",
+      "durationMs": 30000,
+      "checksum": "fa7360008cacade744c2e81e09d415da87b229538bd5da7dc9062ebc3b2e4862",
+      "sourceHash": "c18b9573a60d1637ebfc25a08d38c76f0044653b34fecf6aa24cb0c27b96d0d0"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/xi-hu-qi-yue-ban/seg-003-voice-young-voice.mp3",
+      "durationMs": 15624,
+      "checksum": "f8e85c983a27e410ffed1a774c263a910b1610b8bd059d42c230c50193c95e0e",
+      "sourceHash": "5aeeadcc92be12c5a36d478d094a5c29dc58153925a1969f78529aec4e6f0975"
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "version": 1,
+  "workId": "ru-lin-wai-shi-fan-jin-zhong-ju-yan",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-8%|pitch=-1Hz|voiceId=young-voice",
+  "voiceId": "young-voice",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T01:10:34.987Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/ru-lin-wai-shi-fan-jin-zhong-ju-yan/seg-001-voice-young-voice.mp3",
+      "durationMs": 221088,
+      "checksum": "0031f47b825df02a9f0a9966e5635d5eada1f61a0c5e2bb07cabb8c7ae37a798",
+      "sourceHash": "ba65c3b7d861263c783352ea6cddc9019f57638dad06477d75247dc1477a4477"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/ru-lin-wai-shi-fan-jin-zhong-ju-yan/seg-002-voice-young-voice.mp3",
+      "durationMs": 95928,
+      "checksum": "8666f4dcb08ef31de09e9c88985697746fbf89f37419e558857ff66f31bf4848",
+      "sourceHash": "443eb1c3d0948dd01349c8aca14c8deeccef7ff7eea3361ac2f4c8f64faaba78"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/ru-lin-wai-shi-fan-jin-zhong-ju-yan/seg-003-voice-young-voice.mp3",
+      "durationMs": 110208,
+      "checksum": "3cbff13667455b12aecef1a4caf7a99d5ffc8d30579a6f89249e4224b9ada720",
+      "sourceHash": "d4a4d5f9d26dd82f11e8faf270ce43c4c6935c75c6baa6c03506f4700db88ebd"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/ru-lin-wai-shi-fan-jin-zhong-ju-yan/seg-004-voice-young-voice.mp3",
+      "durationMs": 84984,
+      "checksum": "07cc4f20db014d12e7bb47b6bc5ddc8f7bbe26b39b9ce2e5640fa932e9faf3cf",
+      "sourceHash": "83545445789dfdb022c4a50c2548bbc9b67c56f6ed384db73f171d2399bc5a6b"
+    },
+    {
+      "id": "seg-005",
+      "url": "/audio/ru-lin-wai-shi-fan-jin-zhong-ju-yan/seg-005-voice-young-voice.mp3",
+      "durationMs": 62040,
+      "checksum": "cc14240d030094ed27237b5fe836d6f7143af816af4d04a9c159a4c139ca95ca",
+      "sourceHash": "1ee942bfc5a974d911f895c0f27f559bb6fb712168cdf07d0108a97631ffa902"
+    },
+    {
+      "id": "seg-006",
+      "url": "/audio/ru-lin-wai-shi-fan-jin-zhong-ju-yan/seg-006-voice-young-voice.mp3",
+      "durationMs": 50160,
+      "checksum": "2df9cdebefc94dde25793c53ce12d06a88ee638b8a9ce3b76c37e4584f515e53",
+      "sourceHash": "924549c0e501eb0c30e5abf7bdf36e5a750c87849cbbedbb731dcc4e0820c6f1"
+    },
+    {
+      "id": "seg-007",
+      "url": "/audio/ru-lin-wai-shi-fan-jin-zhong-ju-yan/seg-007-voice-young-voice.mp3",
+      "durationMs": 102696,
+      "checksum": "eb5cf6ec40d473f4555dbd1ca322f86c20cbe7b8d8cb78171864865f6f73c18d",
+      "sourceHash": "05911c4eabcf1a06ec08b8be8c930e045deadd66626fd8a7b4cae8c8afb09d01"
+    },
+    {
+      "id": "seg-008",
+      "url": "/audio/ru-lin-wai-shi-fan-jin-zhong-ju-yan/seg-008-voice-young-voice.mp3",
+      "durationMs": 101424,
+      "checksum": "7c294a04e822eabd75b688d78b6282e75199234aaffb57943e9aa7840969d731",
+      "sourceHash": "84af823885b67f9b6b7b02c5f872cce95a9fcac8f770bb9dd2009b44d48f1574"
+    },
+    {
+      "id": "seg-009",
+      "url": "/audio/ru-lin-wai-shi-fan-jin-zhong-ju-yan/seg-009-voice-young-voice.mp3",
+      "durationMs": 58512,
+      "checksum": "a01c55327c2846fdb39087cc3bc45ef4215bb8b98f82d815477f822f11ee5b05",
+      "sourceHash": "f992f3ba5e5be09c0ae4dea2ba93aeab128cd7ae8c16b72efa80787160897643"
+    },
+    {
+      "id": "seg-010",
+      "url": "/audio/ru-lin-wai-shi-fan-jin-zhong-ju-yan/seg-010-voice-young-voice.mp3",
+      "durationMs": 73800,
+      "checksum": "a7c6176eec2c1b261ef92ba83de0c2c9b5c15e75dcb0db284fd5aad6926d7898",
+      "sourceHash": "e95e033304e817e2117db4d7ac552fa0b28130ae64623f0b4e213c2c01e12f14"
+    },
+    {
+      "id": "seg-011",
+      "url": "/audio/ru-lin-wai-shi-fan-jin-zhong-ju-yan/seg-011-voice-young-voice.mp3",
+      "durationMs": 81648,
+      "checksum": "6cb5ab405179dcbd1af29f1b4f0566afff39c88f7a98f3dff4233f511d96d334",
+      "sourceHash": "70f5c87ff55e007976b71148cb3346ffda664fc150be6165532df4fb94752c67"
+    },
+    {
+      "id": "seg-012",
+      "url": "/audio/ru-lin-wai-shi-fan-jin-zhong-ju-yan/seg-012-voice-young-voice.mp3",
+      "durationMs": 71280,
+      "checksum": "13cde626f3fe113b82495443331c10133f06037edf983ca667178418cdfeed1f",
+      "sourceHash": "fc26f402854ad82067022dbf1b16b87fc32ce43cfae4f835509ff7f51eca7990"
+    },
+    {
+      "id": "seg-013",
+      "url": "/audio/ru-lin-wai-shi-fan-jin-zhong-ju-yan/seg-013-voice-young-voice.mp3",
+      "durationMs": 113304,
+      "checksum": "c586fda73141a40d5e338107a0977f84b6ebe0a91c16f3c1be19347c28dd72e7",
+      "sourceHash": "900cc3ce4b3a236a34baa6db1cb6621c0babee2d420b5a74658c3fbe0711f963"
+    },
+    {
+      "id": "seg-014",
+      "url": "/audio/ru-lin-wai-shi-fan-jin-zhong-ju-yan/seg-014-voice-young-voice.mp3",
+      "durationMs": 71832,
+      "checksum": "375664e8710d57cb2680382ded47b7d0d7a59367e888ee7fd3aa2a213e8abed1",
+      "sourceHash": "ccd4f41be1708b9cea2c33bd88a987b877ad1ab971c6fb55db3bf3faef131de3"
+    },
+    {
+      "id": "seg-015",
+      "url": "/audio/ru-lin-wai-shi-fan-jin-zhong-ju-yan/seg-015-voice-young-voice.mp3",
+      "durationMs": 154920,
+      "checksum": "1e70b72c9abc78dd540a1625ef6e2a4623fa3abb6d46e8db67109ca9da26333f",
+      "sourceHash": "afa49bbe42980e7d2d5e716dc5958d7f887f579cf5611a78a41ec8408ab0f76d"
+    },
+    {
+      "id": "seg-016",
+      "url": "/audio/ru-lin-wai-shi-fan-jin-zhong-ju-yan/seg-016-voice-young-voice.mp3",
+      "durationMs": 97272,
+      "checksum": "2440dc912f5fd7194408f39cfbe1412cb21be1c0d5ff988d3671bead56cdd56a",
+      "sourceHash": "4bbdb97cc85034d1f401bda9871583b98db85dbd59840ef65527c24d61f97220"
+    },
+    {
+      "id": "seg-017",
+      "url": "/audio/ru-lin-wai-shi-fan-jin-zhong-ju-yan/seg-017-voice-young-voice.mp3",
+      "durationMs": 79296,
+      "checksum": "6b1a65001fdbf01d8bf7aeb320b8c8fe0089da77591ad82e40c3e8af89048e97",
+      "sourceHash": "02ec4ff10f96eee17d17cde6ff400ce1f09f52fd328a37467969dc836456ed04"
+    },
+    {
+      "id": "seg-018",
+      "url": "/audio/ru-lin-wai-shi-fan-jin-zhong-ju-yan/seg-018-voice-young-voice.mp3",
+      "durationMs": 96600,
+      "checksum": "20fa4cd9605bb04bc2d759b0ac7110d0655c3909f062e04899f72d30f052c26b",
+      "sourceHash": "5c7ca54c9ad9b455ee10d62613b3dcc1981d9d94ade38ba2544f62f4a04e15bf"
+    }
+  ]
+}

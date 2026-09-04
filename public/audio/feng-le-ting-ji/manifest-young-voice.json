@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "workId": "feng-le-ting-ji",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-8%|pitch=-1Hz|voiceId=young-voice",
+  "voiceId": "young-voice",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T00:25:41.112Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/feng-le-ting-ji/seg-001-voice-young-voice.mp3",
+      "durationMs": 20784,
+      "checksum": "9653291967256ad895fe38e6feb2e40037a0432d827f4e8839e38b6bf34a58b0",
+      "sourceHash": "904afa00e68c65a8917322b6ff0c1098c19d11e3852dac65449c0852e5f030a8"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/feng-le-ting-ji/seg-002-voice-young-voice.mp3",
+      "durationMs": 19608,
+      "checksum": "048f7ca8f8da96089ce71eafae14ec4c35a8ecd317989a29ce6ad0d6758cfcf6",
+      "sourceHash": "e7bc58a0567adb9ab0793acb6e6ad7967f8066c13d05b1e1f9a891198c73e2f1"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/feng-le-ting-ji/seg-003-voice-young-voice.mp3",
+      "durationMs": 18408,
+      "checksum": "9f9699c89b33d9debe15bf8a638086bbb13961ebf1c526e5209b5257143c138b",
+      "sourceHash": "c5e29656117323f56a9501e5df7538a523ee8fb05fdf6210484fa2728ca91a56"
+    }
+  ]
+}

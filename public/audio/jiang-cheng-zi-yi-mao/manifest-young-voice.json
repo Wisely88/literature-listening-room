@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "workId": "jiang-cheng-zi-yi-mao",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-8%|pitch=-1Hz|voiceId=young-voice",
+  "voiceId": "young-voice",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T00:38:40.106Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/jiang-cheng-zi-yi-mao/seg-001-voice-young-voice.mp3",
+      "durationMs": 8088,
+      "checksum": "a9208898a277d57352f5deed672fb685ce5e1743d2d2c2d378e295815acf934d",
+      "sourceHash": "c00ff88ae5062a22cb36a9f1353475c9ec1125d7662c5bd85a168b1a55a92d1b"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/jiang-cheng-zi-yi-mao/seg-002-voice-young-voice.mp3",
+      "durationMs": 4920,
+      "checksum": "57753c386e3a8159abb7bc1600d527920f03f8aaec11bc5c10ea9482586fa78b",
+      "sourceHash": "95e79959e6cd4c28a548afaf48a1cd3ff4ea0df7d3d69383edfcfe4531b94955"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/jiang-cheng-zi-yi-mao/seg-003-voice-young-voice.mp3",
+      "durationMs": 8016,
+      "checksum": "534bb84402927a3999f4f02192821efa2575db4495b19e6919add25d25911ede",
+      "sourceHash": "6258ed4f6c778b320a54902866d123cc16016ce20cb411082b4a35242dae34fb"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/jiang-cheng-zi-yi-mao/seg-004-voice-young-voice.mp3",
+      "durationMs": 5040,
+      "checksum": "02aad268d16726f5919359afbcf5088701e443df416f54d8b799b7a6d31d3f22",
+      "sourceHash": "85e7bd1f7db95e7255bd2414122c516b1385c4382137068af7b1b8d6e9d22dda"
+    }
+  ]
+}

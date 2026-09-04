@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "workId": "du-lu-liu-fa",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-8%|pitch=-1Hz|voiceId=young-voice",
+  "voiceId": "young-voice",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T00:24:49.823Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/du-lu-liu-fa/seg-001-voice-young-voice.mp3",
+      "durationMs": 8520,
+      "checksum": "e35deac023911398185b8574e624fb0cc3685cd3de0aa1b6cac11a9382842347",
+      "sourceHash": "867dee1595de5ec084bedb93c0309d8956f12552076912d88d6ddc8e456806f6"
+    }
+  ]
+}

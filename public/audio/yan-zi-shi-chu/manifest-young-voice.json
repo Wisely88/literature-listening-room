@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "workId": "yan-zi-shi-chu",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-8%|pitch=-1Hz|voiceId=young-voice",
+  "voiceId": "young-voice",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T02:05:25.654Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/yan-zi-shi-chu/seg-001-voice-young-voice.mp3",
+      "durationMs": 24144,
+      "checksum": "639780428a7d553767d6dd828a699ab917b1e5056aa97f31fcbd010866e22f50",
+      "sourceHash": "37c26acce15cd0b70243b667bbe77b6aaa32ac915eb5872e581eb608fc3b31b0"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/yan-zi-shi-chu/seg-002-voice-young-voice.mp3",
+      "durationMs": 36624,
+      "checksum": "31d4910284c284f04b56af44bb3ee90b8b3ea77082ba2fe7d6f1cf9c82f09b46",
+      "sourceHash": "fb299d78085499a31b243f98ae7a9bb1bff82825007421edc0b074619ded92d4"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/yan-zi-shi-chu/seg-003-voice-young-voice.mp3",
+      "durationMs": 5592,
+      "checksum": "6b38ef0dc8a9477ae6a0885218f4eccb95838bafff9242ec02c5c596876210a7",
+      "sourceHash": "4ee099b69471d5233772d34626d11eb9a81b6be71983e8b9f4d0ae071a0e2c27"
+    }
+  ]
+}

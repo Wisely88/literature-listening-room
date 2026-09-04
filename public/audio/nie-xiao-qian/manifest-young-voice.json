@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "workId": "nie-xiao-qian",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-8%|pitch=-1Hz|voiceId=young-voice",
+  "voiceId": "young-voice",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T01:00:51.386Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/nie-xiao-qian/seg-001-voice-young-voice.mp3",
+      "durationMs": 80640,
+      "checksum": "c66beb5c8f0f88f21491519772ed4d76d82382a5cc648442b43b0142bcc65cca",
+      "sourceHash": "44449802f8486af51c0de44f73ea93cd8e0f34deae3197133b59fe8a0eaded12"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/nie-xiao-qian/seg-002-voice-young-voice.mp3",
+      "durationMs": 114120,
+      "checksum": "7f081683f86db70f5df8867a9bf4fccfc9fe0978b595af1ce15946d8afce1b07",
+      "sourceHash": "d5f7344ae4b1d415d16d2b1259abb21a07fabda7e1aaf318992f5f84d0b49943"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/nie-xiao-qian/seg-003-voice-young-voice.mp3",
+      "durationMs": 105144,
+      "checksum": "351947153d6c8b500cd2f3c0cdbe2861a7f2f65b35fbc3f477048c2d8cbd5727",
+      "sourceHash": "93ed0d59f09056dad2b83b7a6d9681efd4ac9a8a99688d84e2604497f48df72d"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/nie-xiao-qian/seg-004-voice-young-voice.mp3",
+      "durationMs": 325728,
+      "checksum": "4b574418f99255a801d9eaf791c720bf2eda55de34de7b6a3f63f2cb49cf0fe2",
+      "sourceHash": "cef73a9f2ad75ba83722ad8473853133e6eb1499b2c867a6991c1f563203b487"
+    },
+    {
+      "id": "seg-005",
+      "url": "/audio/nie-xiao-qian/seg-005-voice-young-voice.mp3",
+      "durationMs": 84672,
+      "checksum": "8873990cd5da492f752835c7ec544b9a015191a860cc444cad86807417e68351",
+      "sourceHash": "0b49120bdd4a85db4a86cb91774aeff3f0587c160c8c5610976951ef90ee4aff"
+    },
+    {
+      "id": "seg-006",
+      "url": "/audio/nie-xiao-qian/seg-006-voice-young-voice.mp3",
+      "durationMs": 82680,
+      "checksum": "04e030494ab4b43c5c735c4c8529495fda31b599c10abfe19db9f0fb9be47c97",
+      "sourceHash": "1f4b1b9f3fc0edf363bc0c7ecd4b5f74929b9c9bcb175366dfc911139b464e71"
+    },
+    {
+      "id": "seg-007",
+      "url": "/audio/nie-xiao-qian/seg-007-voice-young-voice.mp3",
+      "durationMs": 9168,
+      "checksum": "6ef3741eedde41057e38abc67a6bef135f19d1bc9d72e55613e58d67dc4ed2a7",
+      "sourceHash": "054e1235dcb523f924e2dba96ca28fc2b01a9e2d8d472d7e016d0bb1a4f16778"
+    }
+  ]
+}

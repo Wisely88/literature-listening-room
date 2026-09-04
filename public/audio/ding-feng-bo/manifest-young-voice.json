@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "workId": "ding-feng-bo",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-8%|pitch=-1Hz|voiceId=young-voice",
+  "voiceId": "young-voice",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T00:24:14.332Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/ding-feng-bo/seg-001-voice-young-voice.mp3",
+      "durationMs": 10512,
+      "checksum": "c27207119bcd2ab017b717253578de3d7c83bd4d371d637942eb275befad35a1",
+      "sourceHash": "4724641253f1971a650830eb0d48c907327693d8ea8f72fe04d319669dfe8f86"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/ding-feng-bo/seg-002-voice-young-voice.mp3",
+      "durationMs": 6024,
+      "checksum": "9048d99666f0e4e90f41d559af1e12c68a9d08d28b2270a4b987cde980035108",
+      "sourceHash": "badbfb3e2e53381d15ef139ec290fcbf504c53f79b3d521532f841b028c69ed6"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/ding-feng-bo/seg-003-voice-young-voice.mp3",
+      "durationMs": 5544,
+      "checksum": "c891b31879e155719ea8a993a450c478dd0f3f99e7f5b7c18db0b2559d9a6397",
+      "sourceHash": "0c52db9cc3410ed065b125106227bcaf0b08face17ee0f6057eecc951b650b27"
+    }
+  ]
+}

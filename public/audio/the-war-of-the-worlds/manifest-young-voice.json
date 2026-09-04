@@ -1,0 +1,53 @@
+{
+  "version": 1,
+  "workId": "the-war-of-the-worlds",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-8%|pitch=-1Hz|voiceId=young-voice",
+  "voiceId": "young-voice",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T01:34:57.584Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/the-war-of-the-worlds/seg-001-voice-young-voice.mp3",
+      "durationMs": 47016,
+      "checksum": "db4eeb6d8dba5b27b58c002c083ca11576bc4daf08458052ef599f7109825afa",
+      "sourceHash": "9eaf4bec893b3fa8d7368d722b14dcc38c5f7e6927113e53a4becd43c978e530"
+    },
+    {
+      "id": "seg-002",
+      "url": "/audio/the-war-of-the-worlds/seg-002-voice-young-voice.mp3",
+      "durationMs": 35040,
+      "checksum": "084cd4a06d832d7c9c3d53982fd3f04b162441022b7a50694e7ad1272cfe514c",
+      "sourceHash": "e04c52fc84b579eb19556156ad681b804f105a5ce12706966eaece537f0808e5"
+    },
+    {
+      "id": "seg-003",
+      "url": "/audio/the-war-of-the-worlds/seg-003-voice-young-voice.mp3",
+      "durationMs": 35904,
+      "checksum": "cd1a6b31b8c831bacd3cf4812e63d0b0cf14224fe5409707afdbbf4020a69e4f",
+      "sourceHash": "992b6b9bf715d879e941a5ae2839cd1ccac05c12e6b3cbaeacf6176c5190da7c"
+    },
+    {
+      "id": "seg-004",
+      "url": "/audio/the-war-of-the-worlds/seg-004-voice-young-voice.mp3",
+      "durationMs": 25968,
+      "checksum": "f7d7bf2f07c57ec5dd9d7ebba1037d41777b80e970dd4a9194e69b5d81b857a2",
+      "sourceHash": "312973835c3220f0d99ea4380d7a85e26878c56deb72f1e5d99f5d5d2e58f5a5"
+    },
+    {
+      "id": "seg-005",
+      "url": "/audio/the-war-of-the-worlds/seg-005-voice-young-voice.mp3",
+      "durationMs": 69984,
+      "checksum": "e3e9b0bbe9e23396a4615e4a9589534ad83923c388b1cf4e9fa60e4740bf6810",
+      "sourceHash": "f374914cd565aac847a2e431f30e42d252418a7b9c097ba2dcb592564c2dd3ba"
+    },
+    {
+      "id": "seg-006",
+      "url": "/audio/the-war-of-the-worlds/seg-006-voice-young-voice.mp3",
+      "durationMs": 67752,
+      "checksum": "c218b3548bce777c816a1ee3d0c4243d111313c2d8fb7b4870575b993105c38d",
+      "sourceHash": "ccab6db6dfeda3603affb127fc153a585d96866225def99a256680fc937a78cb"
+    }
+  ]
+}
