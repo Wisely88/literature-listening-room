@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "workId": "chang-qing-seng",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-8%|pitch=-1Hz|voiceId=young-voice",
+  "voiceId": "young-voice",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T02:19:47.440Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/chang-qing-seng/seg-001-voice-young-voice.mp3",
+      "durationMs": 26328,
+      "checksum": "71223e796495a6a3f053bdbeba35b7b72b62fd9c9093f2ebb118c30c28a73c45",
+      "sourceHash": "9b926ee22e621560d84b68e1d019a47d4fe75928297bdf44d42ad73ad9afc58c"
+    }
+  ]
+}

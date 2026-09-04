@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "workId": "cao-gui-lun-zhan",
+  "provider": "edge-neural",
+  "voice": "zh-CN-YunxiNeural|rate=-8%|pitch=-1Hz|voiceId=young-voice",
+  "voiceId": "young-voice",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T02:19:42.407Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/cao-gui-lun-zhan/seg-001-voice-young-voice.mp3",
+      "durationMs": 77808,
+      "checksum": "0e04782f4c2d7afa139080b713b6d6de42c01b2beceec051638a6f68a55c2444",
+      "sourceHash": "a05ee79283783157c5879a59ef5e3e7999b02642cf165f28c36f7d48903bcf7e"
+    }
+  ]
+}
